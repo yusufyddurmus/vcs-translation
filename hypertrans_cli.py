@@ -40,8 +40,10 @@ except ImportError:
 
 # ── Constants ────────────────────────────────────────────────────────────────
 ITERATION_COUNTS = [3, 5, 20, 50, 100]
-SEPARATOR        = "\n"
+SEPARATOR = "\n"
 CANDIDATES_VERSION = 2
+
+MAX_RUNTIME_SECONDS = 60 * 60 * 5.5  # 5.5 hours
 
 ALL_LANG_CODES = list(GoogleTranslator().get_supported_languages(as_dict=True).values())
 
@@ -338,6 +340,21 @@ def cmd_translate(args):
 
     try:
         for b_idx, batch in enumerate(batches):
+            # Graceful runtime cutoff for GitHub Actions
+            elapsed = time.time() - t0
+            if elapsed >= MAX_RUNTIME_SECONDS:
+                print(f"\n\n  {YELLOW('Runtime limit reached.')} Saving progress and exiting safely…")
+
+                existing_data["entries"] = results
+                save_candidates(output_path, existing_data)
+
+                mins, secs = divmod(int(elapsed), 60)
+
+                print(f"\n  {GREEN('✓ Progress saved')} after {mins}m {secs}s")
+                print(f"  Saved to   : {CYAN(output_path)}\n")
+
+                return
+            
             batch_keys = [k for k, _ in batch]
             for it in iterations:
                 label = (f"batch {b_idx+1}/{total_batches}  "
