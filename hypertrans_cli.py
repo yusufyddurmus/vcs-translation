@@ -149,6 +149,8 @@ def translate_text(text: str, iterations: int) -> str:
     # Final bounce back to English
     current = _translate_with_retry(current_lang, 'en', current)
     
+    print(f"[DONE {iterations}-HOP] {current}", flush=True)
+    
     return current
 
 
