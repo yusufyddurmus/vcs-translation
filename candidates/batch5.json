@@ -1,0 +1,48 @@
+{
+  "version": 2,
+  "source": "D:\\llm-test\\VCS\\repo\\vcs-translation\\source\\ENGLISH.TXT",
+  "iterations": [
+    3,
+    5,
+    20,
+    50,
+    100
+  ],
+  "entries": {
+    "[SLNCCAB]": {
+      "3": "What empire? I have several businesses - is this an empire now? And what does \"our\" empire mean?",
+      "5": "Which empire? I have many companies - is it an empire now? And what do you mean \"our\" empire?",
+      "20": "How many companies are there in the country? Now the country? And what does \"our\" state mean?",
+      "50": "Are you happy? Am I holding back too much? How about our government?",
+      "100": "What is the Kingdom? If you are a member of parliament, do you have a girlfriend?"
+    },
+    "[SLNCCAC]": {
+      "3": "Say what you want",
+      "5": "Shout all you want",
+      "20": "Be specific about what you want.",
+      "50": "Say what you want.",
+      "100": "Why?"
+    },
+    "[SLNCCAD]": {
+      "3": "but when the Mendez brothers finally decided we cut them off,",
+      "5": "But when the Mendez brothers finally realize we're stealing from them,",
+      "20": "But when they met the Mendes brothers, they met.",
+      "50": "The Mendez brothers knew they had been robbed.",
+      "100": "He saw the danger."
+    },
+    "[SLNCCAE]": {
+      "3": "you will need all the money you can get.",
+      "5": "You need all the money you can get.",
+      "20": "I need all the money.",
+      "50": "I want to make money.",
+      "100": "One day his shoe broke."
+    },
+    "[SLNCCAF]": {
+      "3": "what are you sitting here?",
+      "5": "What? And will you sit here?",
+      "20": "Why are you here?",
+      "50": "What are you doing here?",
+      "100": "Here's a raffle"
+    }
+  }
+}
