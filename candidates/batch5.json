@@ -43,6 +43,2176 @@
       "20": "Why are you here?",
       "50": "What are you doing here?",
       "100": "Here's a raffle"
+    },
+    "[SLNCCAG]": {
+      "3": "Hi guys. This is \"your\" empire.",
+      "5": "Hey friend, this is your \"kingdom\".",
+      "20": "Friends, this is your secret",
+      "50": "Yes, that's your job.",
+      "100": "Because he is a brother of this community."
+    },
+    "[SLNCDAA]": {
+      "3": "what are you doing here? We are at war.",
+      "5": "What are you doing? We are the drummer in the war",
+      "20": "What are you doing there? I'm fine with you",
+      "50": "I don't know what we are doing here.",
+      "100": "We are ready for any chaos."
+    },
+    "[SLNCDAB]": {
+      "3": "Yes. You are a soldier, be a soldier.",
+      "5": "Yes, you are a soldier - go be a soldier",
+      "20": "I know you're in the army, so join the army.",
+      "50": "Yes, soldier, soldier",
+      "100": "Soldiers are good soldiers."
+    },
+    "[SLNCDAC]": {
+      "3": "What are you doing too?",
+      "5": "So what are you going to do?",
+      "20": "once again;",
+      "50": "what are you doing",
+      "100": "What are you doing?"
+    },
+    "[SLNCDAD]": {
+      "3": "I Am The Man Behind: Introduction; intelligence; Logistics; you know what I mean?",
+      "5": "I'm the Man Behind the Scenes: Infiltration Intelligence Logistics Do you know what I'm talking about?",
+      "20": "I am the man behind the curtain: experience; Do you know the meaning of the phrase?",
+      "50": "Student: This letter assumes you know what I mean.",
+      "100": "Write an essay yourself and see what I mean."
+    },
+    "[SLNCDAE]": {
+      "3": "I'll tell you: Why aren't you here while I do everything?",
+      "5": "I'll tell you something: Why don't you stay here?",
+      "20": "I tell you, when you did all this why weren't you here?",
+      "50": "I wonder why he left after everything he did?",
+      "100": "I will tell you the impossible. Now we do it right."
+    },
+    "[SLNCDAF]": {
+      "3": "Can I write in writing?",
+      "5": "Can I get this in writing?",
+      "20": "Can I ask you a written question?",
+      "50": "You have a ticket.",
+      "100": "Can you do it in your native language?"
+    },
+    "[SVCEXAA]": {
+      "3": "Thanks for taking care of me, Jerry. You are a good helper...",
+      "5": "Jerry, thanks for finding me. You have been very helpful...",
+      "20": "Thanks for stopping by Jerry, it helped me a lot…",
+      "50": "Thanks for saving Jerry…",
+      "100": "Thank you for your question. Very helpful."
+    },
+    "[SVCEXAB]": {
+      "3": "Lizard!",
+      "5": "Lisa!",
+      "20": "Brother!",
+      "50": "That is the purpose of war.",
+      "100": "Tell me!"
+    },
+    "[SVCEXAC]": {
+      "3": "Forbes!",
+      "5": "Forbes!",
+      "20": "Forbes is calling!",
+      "50": "Forbes magazine.",
+      "100": "Good man!"
+    },
+    "[SVCEXAD]": {
+      "3": "Phil!",
+      "5": "Phil !",
+      "20": "until death",
+      "50": "job done.",
+      "100": "Click here to download."
+    },
+    "[SVCEXAE]": {
+      "3": "Barry!",
+      "5": "rival !",
+      "20": "It's Barry!",
+      "50": "it hurts.",
+      "100": "May!"
+    },
+    "[SVCEXAF]": {
+      "3": "Louis!",
+      "5": "Louise's !",
+      "20": "I'm Louise!",
+      "50": "Louis!",
+      "100": "Enter it here."
+    },
+    "[SVCEXAG]": {
+      "3": "Marty!",
+      "5": "Marty !",
+      "20": "It's Marty!",
+      "50": "Anila Chi",
+      "100": "Fit now!"
+    },
+    "[SVCEXAH]": {
+      "3": "Martinez!",
+      "5": "Martinez gave it!",
+      "20": "It's Martinez!",
+      "50": "said Martin.",
+      "100": "That's what Martinez said."
+    },
+    "[SVCEXAI]": {
+      "3": "Umberto!",
+      "5": "Umberto!",
+      "20": "It was Umberto!",
+      "50": "This is Umberto.",
+      "100": "We live here."
+    },
+    "[SVCEXAJ]": {
+      "3": "John!",
+      "5": "John!",
+      "20": "So: I'm waiting!",
+      "50": "John wrote:",
+      "100": "I'm John"
+    },
+    "[SVCEXAK]": {
+      "3": "Gonzalez!",
+      "5": "González!",
+      "20": "Gonzalez works!",
+      "50": "It's Gonzalez.",
+      "100": "His name is Gonzalez."
+    },
+    "[SVCEXAL]": {
+      "3": "Mendez!",
+      "5": "Mendes!",
+      "20": "It happened to me!",
+      "50": "Oh! , by Mendes!",
+      "100": "Mendes!"
+    },
+    "[SVCEXAM]": {
+      "3": "Renee!",
+      "5": "Renee!",
+      "20": "Renee is here!",
+      "50": "the frog",
+      "100": "Who inspired Lenin?"
+    },
+    "[SVCEXAN]": {
+      "3": "Hey!",
+      "5": "Hello!",
+      "20": "Information to listen",
+      "50": "Then I came along!",
+      "100": "Taj El Qaddafa X"
+    },
+    "[SVCEXAO]": {
+      "3": "come here!",
+      "5": "Come here!",
+      "20": "Come here!",
+      "50": "Here you are!",
+      "100": "Thanks for the reply!"
+    },
+    "[SVCEXAP]": {
+      "3": "I'll take it.",
+      "5": "I'll agree",
+      "20": "understand it",
+      "50": "We work with emotions.",
+      "100": "I stick to X."
+    },
+    "[SVCEXAQ]": {
+      "3": "Hey you!",
+      "5": "you are welcome!",
+      "20": "hello you",
+      "50": "How are things going?",
+      "100": "Hi, thanks!"
+    },
+    "[SVCEXAR]": {
+      "3": "stop!",
+      "5": "Stop!",
+      "20": "Wait a moment!",
+      "50": "everyone!",
+      "100": "Equal"
+    },
+    "[SVCEXAS]": {
+      "3": "Come back here!",
+      "5": "san bra ha!",
+      "20": "please come here",
+      "50": "Come back here.",
+      "100": "I will be back!"
+    },
+    "[SVCEXAT]": {
+      "3": "Where are you going?",
+      "5": "Where are you going to go?",
+      "20": "where are you going",
+      "50": "Where do you want to go?",
+      "100": "where are you going"
+    },
+    "[SVCEXAU]": {
+      "3": "Come here!",
+      "5": "Come here!",
+      "20": "please come here",
+      "50": "Let's go",
+      "100": "how are you"
+    },
+    "[SVCEXAV]": {
+      "3": "What are you doing?",
+      "5": "What are you doing?",
+      "20": "what are you doing",
+      "50": "Hi what are you doing",
+      "100": "what are you doing"
+    },
+    "[SVCEXAW]": {
+      "3": "The baby of the sword!",
+      "5": "Sin!",
+      "20": "Bad!",
+      "50": "Parent company.",
+      "100": "My eyes are so cold!"
+    },
+    "[SVCEXAX]": {
+      "3": "damn it!",
+      "5": "Hell!",
+      "20": "Friends!",
+      "50": "This or that",
+      "100": "It fights anxiety"
+    },
+    "[SVCEXAY]": {
+      "3": "Oh!",
+      "5": "Oh, that's something!",
+      "20": "Oh!",
+      "50": "He's not dead yet.",
+      "100": "Make sure to be sure!"
+    },
+    "[SVCEXAZ]": {
+      "3": "Ooooooooo shieeeeit!",
+      "5": "Ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!",
+      "20": "Oh!",
+      "50": "From his side",
+      "100": "There are many things to do."
+    },
+    "[SVCEXBA]": {
+      "3": "Find things.",
+      "5": "what is happening",
+      "20": "Please find something.",
+      "50": "Will buy it next time.",
+      "100": "Start the device"
+    },
+    "[SVCEXBB]": {
+      "3": "Let's have a chance.",
+      "5": "Let's move on.",
+      "20": "Let's start.",
+      "50": "In various ways",
+      "100": "several times"
+    },
+    "[SVCEXBC]": {
+      "3": "don't worry about me",
+      "5": "don't worry about me.",
+      "20": "Don't worry about me",
+      "50": "Don't worry about me",
+      "100": "So don't worry about me"
+    },
+    "[SVCEXBD]": {
+      "3": "I don't know why I bother.",
+      "5": "I don't know why you are suffering.",
+      "20": "I don't know why I'm angry.",
+      "50": "I don't know why",
+      "100": "i don't know"
+    },
+    "[SVCEXBE]": {
+      "3": "negligence...",
+      "5": "Remember...",
+      "20": "It doesn't matter.",
+      "50": "Calm down",
+      "100": "There is no danger."
+    },
+    "[SVCEXBF]": {
+      "3": "It's quite nice.",
+      "5": "It is very beautiful.",
+      "20": "very good",
+      "50": "This is a good thing",
+      "100": "It is dangerous."
+    },
+    "[SVCEXBG]": {
+      "3": "Funny, really funny.",
+      "5": "It's fun, really fun.",
+      "20": "very cute",
+      "50": "Well, that's cool",
+      "100": "Love is good."
+    },
+    "[SVCEXBH]": {
+      "3": "Not if I were you.",
+      "5": "I wouldn't do that if I were you.",
+      "20": "I would not do this if I were you.",
+      "50": "I'm with you, not with you.",
+      "100": "I am not you"
+    },
+    "[SVCEXBI]": {
+      "3": "No problem.",
+      "5": "No problem",
+      "20": "All is well.",
+      "50": "It didn't happen.",
+      "100": "You are right"
+    },
+    "[SVCEXBJ]": {
+      "3": "Don't worry about it.",
+      "5": "Don't worry about it.",
+      "20": "Do not worry",
+      "50": "don't worry",
+      "100": "You don't have to think about the future."
+    },
+    "[SVCEXBK]": {
+      "3": "stop crying",
+      "5": "Stop yelling.",
+      "20": "Please approach the door.",
+      "50": "I don't want to cry anymore.",
+      "100": "This is true."
+    },
+    "[SVCEXBL]": {
+      "3": "Don't be a child.",
+      "5": "Don't be a child.",
+      "20": "Do not be a slave.",
+      "50": "Don't be a slave",
+      "100": "Deceased Brothers;"
+    },
+    "[SVCEXBM]": {
+      "3": "So this - this makes me angry.",
+      "5": "Now this - this is driving me crazy.",
+      "20": "Now it's this: I'm bored.",
+      "50": "I'm very angry now",
+      "100": "I am very glad"
+    },
+    "[SVCEXBN]": {
+      "3": "Shit is what it is.",
+      "5": "mother",
+      "20": "Mom was very surprised.",
+      "50": "Mom smiled.",
+      "100": "Yes, that is true."
+    },
+    "[SVCEXBO]": {
+      "3": "Hell.",
+      "5": "Damn that.",
+      "20": "Here it is",
+      "50": "They also insulted me.",
+      "100": "Yes, that is true."
+    },
+    "[SVCEXBP]": {
+      "3": "Hell.",
+      "5": "Wow the people.",
+      "20": "Oh, you never know.",
+      "50": "In R.K.",
+      "100": "i live in"
+    },
+    "[SVCEXBQ]": {
+      "3": "it's shit.",
+      "5": "This is gross.",
+      "20": "This is the story.",
+      "50": "it doesn't make sense",
+      "100": "on the other hand."
+    },
+    "[SVCEXBR]": {
+      "3": "Oh man",
+      "5": "Damn boy!",
+      "20": "O my friend!",
+      "50": "be ready",
+      "100": "it's different"
+    },
+    "[SVCEXBS]": {
+      "3": "curse",
+      "5": "hell",
+      "20": "It is something terrible",
+      "50": "take the sword",
+      "100": "That's the main thing"
+    },
+    "[SVCEXBT]": {
+      "3": "mother",
+      "5": "bastard",
+      "20": "faith",
+      "50": "not now",
+      "100": "My mother is evil"
+    },
+    "[SVCEXBU]": {
+      "3": "Ha ha ha!",
+      "5": "ha ha ha",
+      "20": "Hahaha!",
+      "50": "Hahaha!",
+      "100": "Yes, that's true!"
+    },
+    "[SVCEXBV]": {
+      "3": "Ha ha ha!",
+      "5": "ha ha ha",
+      "20": "Hahaha!",
+      "50": "Hahaha!",
+      "100": "Share with your friends"
+    },
+    "[SVCEXBW]": {
+      "3": "Haha!",
+      "5": "Hahahaha!",
+      "20": "Meaning: haha!",
+      "50": "Haha yes!",
+      "100": "Yes Yes Yes."
+    },
+    "[SVCEXBX]": {
+      "3": "shit",
+      "5": "nonsense",
+      "20": "piping system",
+      "50": "No, it isn’t",
+      "100": "It is the name of Satan."
+    },
+    "[SVCEXBY]": {
+      "3": "fake",
+      "5": "stupid",
+      "20": "They make it worth it.",
+      "50": "They danced together.",
+      "100": "They want to go to hell with you."
+    },
+    "[SVCEXBZ]": {
+      "3": "good",
+      "5": "Damn it.",
+      "20": "God bless you",
+      "50": "God is so powerful.",
+      "100": "They want to go to hell with you."
+    },
+    "[SVCEXCA]": {
+      "3": "Oh man.",
+      "5": "my god",
+      "20": "but I don't know",
+      "50": "I ate my friends",
+      "100": "May God bless you and grant you health."
+    },
+    "[NEGNUM]": {
+      "3": "-",
+      "5": "-.",
+      "20": "-.",
+      "50": "-",
+      "100": "This is the answer"
+    },
+    "[CARPARK]": {
+      "3": "the floor",
+      "5": "sorry",
+      "20": "NDA status",
+      "50": "This is the world.",
+      "100": "First he goes home"
+    },
+    "[HELIC]": {
+      "3": "Helicopter.",
+      "5": "The helicopter is as follows:",
+      "20": "helicopter:",
+      "50": "My helicopter",
+      "100": "This is a journey."
+    },
+    "[MRL_B0]": {
+      "3": "Take out the guards in the towers.",
+      "5": "Eliminate the guards in the towers.",
+      "20": "They kill the guards in the tower.",
+      "50": "Take out the guards from the tower.",
+      "100": "in the summer"
+    },
+    "[MRL_B1]": {
+      "3": "Land on the base and find the militia leader",
+      "5": "Go down to the base and find the militia leader",
+      "20": "Go down to the camp and find the leader.",
+      "50": "Go down and you'll find a guard.",
+      "100": "Go to the station and call the police."
+    },
+    "[DBRIOT0]": {
+      "3": "() is in danger",
+      "5": "() There is a threat",
+      "20": "(c) Crisis.",
+      "50": "(3) Compensation",
+      "100": "3)"
+    },
+    "[DBRIOT1]": {
+      "3": "() Find danger",
+      "5": "() Search for danger",
+      "20": "() Check for threats.",
+      "50": "He wants to have fun",
+      "100": "(3) According to circumstances."
+    },
+    "[DBGFAIL]": {
+      "3": "misfortune",
+      "5": "Bad failure",
+      "20": "But not on purpose.",
+      "50": "They were corrupt",
+      "100": "It was a good time for me."
+    },
+    "[OCDLTES]": {
+      "3": "Ocean Drive Lighting Test",
+      "5": "Ocean Drive Light Test",
+      "20": "Light boat racing",
+      "50": "If the driver shows C .",
+      "100": "Witness of water and fire."
+    },
+    "[DBGHELP]": {
+      "3": "DEBUG MENU Select an item with a left button and a right button. Press X to activate.",
+      "5": "Select an item using the left and right buttons of the debug menu. Press the X key to get started.",
+      "20": "Use the left and right arrow keys to select items. Press the X button to continue.",
+      "50": "Use the left and right arrow keys to select any item from the list. Press X to get started.",
+      "100": "Click here to download."
+    },
+    "[DBGQUIT]": {
+      "3": "Press TRIANGLE to exit the menu.",
+      "5": "Press TRIANGLE to exit the menu.",
+      "20": "Click BACK to exit.",
+      "50": "Press Triangle to exit the menu.",
+      "100": "Triple click to exit the list."
+    },
+    "[DBGSEL]": {
+      "3": "Press CROSS to select.",
+      "5": "Press CROSS to select.",
+      "20": "Press the cross button.",
+      "50": "Press D to select.",
+      "100": "Click on the circle to select it."
+    },
+    "[DBGSEL1]": {
+      "3": "Level skip menu",
+      "5": "Exit the level menu",
+      "20": "It's on the menu.",
+      "50": "List of known SDUs",
+      "100": "you are here"
+    },
+    "[DBGSEL2]": {
+      "3": "Car viewer",
+      "5": "The appearance of the car",
+      "20": "Damage to the vehicle",
+      "50": "There were no police cars.",
+      "100": "I want to see the car"
+    },
+    "[DBGSEL3]": {
+      "3": "Character viewer",
+      "5": "character design",
+      "20": "Look at the signs.",
+      "50": "Do not harm the environment",
+      "100": "Please see the following steps."
+    },
+    "[DBGSEL4]": {
+      "3": "Building Inspector",
+      "5": "Building alloys",
+      "20": "Create an audience",
+      "50": "Construction instructions",
+      "100": "Reception of guests at the hotel"
+    },
+    "[DBGSEL5]": {
+      "3": "manipulation of weapons;",
+      "5": "Weapon Movement: 1.1.",
+      "20": "Deception Weapons;",
+      "50": "The moon speaks to the doctor;",
+      "100": "Prerequisites:"
+    },
+    "[DBGSEL6]": {
+      "3": "A tricky player",
+      "5": "The player cheated",
+      "20": "A player is a player.",
+      "50": "He was confused.",
+      "100": "This player is fake"
+    },
+    "[DBGSEL7]": {
+      "3": "Weather and times change",
+      "5": "It changes from time to time",
+      "20": "It changes from time to time.",
+      "50": "Climate change and the environment",
+      "100": "adaptation and climate change"
+    },
+    "[DBGSEL8]": {
+      "3": "Camera Marketing",
+      "5": "Chamber of Marketing",
+      "20": "Camera icon",
+      "50": "This is a safe place",
+      "100": "Ministry of Commerce"
+    },
+    "[DBGSEL9]": {
+      "3": "MoCap menu",
+      "5": "List of mockups",
+      "20": "List of MoCaps",
+      "50": "List of activities",
+      "100": "That's it in short"
+    },
+    "[DBGSE10]": {
+      "3": "Publisher USJ",
+      "5": "USJ Ed",
+      "20": "Faculty of USJ.",
+      "50": "We’re interested in it.",
+      "100": "American Academy of Sciences"
+    },
+    "[DBGSE11]": {
+      "3": "Change Player Coordinates",
+      "5": "Answer the player",
+      "20": "Change the player.",
+      "50": "We change the weight of the players.",
+      "100": "This is done in different places."
+    },
+    "[DBGSE12]": {
+      "3": "Character Observer",
+      "5": "The one who sees the nature",
+      "20": "Behavioral control",
+      "50": "And it happened to be",
+      "100": "Security number:"
+    },
+    "[DBGSE13]": {
+      "3": "Royal Country",
+      "5": "national government",
+      "20": "empire",
+      "50": "The fall of the Ottoman Empire",
+      "100": "It is an institution"
+    },
+    "[DBGSE14]": {
+      "3": "Exit current task",
+      "5": "Complete the mission now",
+      "20": "Mission accomplished now.",
+      "50": "Stop doing this.",
+      "100": "Write a letter"
+    },
+    "[DBGFIL0]": {
+      "3": "Pedagogy selector",
+      "5": "Select Ped",
+      "20": "Choose a board.",
+      "50": "Recruitment of youth is ongoing",
+      "100": "Select one of the options."
+    },
+    "[DBGFIL1]": {
+      "3": "Vehicle selector",
+      "5": "select cars",
+      "20": "Think of a car.",
+      "50": "Frequently Asked Questions",
+      "100": "The objectives are:"
+    },
+    "[TEMP3]": {
+      "3": "ABC",
+      "5": "A B C",
+      "20": "A.F.F etc.",
+      "50": "In the European Union",
+      "100": "This is called ABC"
+    },
+    "[TEMP2]": {
+      "3": "A B",
+      "5": "A B",
+      "20": "and a bachelor's degree.",
+      "50": "European Union",
+      "100": "Now."
+    },
+    "[TEMP1]": {
+      "3": "Quantity:",
+      "5": "number:",
+      "20": "Size:",
+      "50": "Price: 1.1",
+      "100": "Price: UAH"
+    },
+    "[LS2_H1]": {
+      "3": "Use the same up and down keys to select the character stream. Use the left and right analog sticks to select missions. Use the L button and R button to select the game stage. Press the X button to start the mission. Press the triangle button to exit.",
+      "5": "Use the up and down analog keys to select a character stream. Use the left and right thumbsticks to select a mission. Use the L and R buttons to select a game level. Press the X button to start the mission. Press the TRIANGLE button to exit.",
+      "20": "Use the up and down arrow keys to select the format. Use the left and right analog keys to select targets. Use L and R to select the game. Press X to start the action. Press triangle to exit.",
+      "50": "Select a line of text using the up and down arrow keys. Use the left and right arrow keys to select items. Use the L and R buttons to select the version you want to play. Press X to continue. Click \"Activate\" to finish.",
+      "100": "A small dog with a number. Swipe left and right to select items. Press L and R to select player. Press X to start the game. Click on this link."
+    },
+    "[LS2_H2]": {
+      "3": "You cannot use Levelskip while on a mission.",
+      "5": "You cannot use Levelskip during a mission.",
+      "20": "Drop size is not used during missions.",
+      "50": "The level guard function is not used.",
+      "100": "I don't know it."
+    },
+    "[LS2_H3]": {
+      "3": "Do you want to leave your current assignment? (cross validation)",
+      "5": "Do you want to stop the current mission? (Confirm with tick)",
+      "20": "Do you want to quit your current job? (Evidence to the contrary).",
+      "50": "Do you want to stop now? (Look).",
+      "100": "Do you want to go (lots of questions)."
+    },
+    "[LS2_ST]": {
+      "3": "Stage:",
+      "5": "Level:",
+      "20": "That's the story.",
+      "50": "Basic data: 1.1.",
+      "100": "he has"
+    },
+    "[LS2_B4]": {
+      "3": "Pre-Empire",
+      "5": "before the empire",
+      "20": "The Ottoman Empire",
+      "50": "They fight for control",
+      "100": "Everyone has power."
+    },
+    "[LS2_LO]": {
+      "3": "The Lesser Empire",
+      "5": "maximum control",
+      "20": "It is a small house",
+      "50": "good management",
+      "100": "small government"
+    },
+    "[LS2_HI]": {
+      "3": "High Empire",
+      "5": "The Roman Empire",
+      "20": "From the Holy Spirit",
+      "50": "big government",
+      "100": "in the sky"
+    },
+    "[LS2_CHA]": {
+      "3": "role:",
+      "5": "Features include:",
+      "20": "Employees:",
+      "50": "transportation;",
+      "100": "Conditions:"
+    },
+    "[LS2_LEV]": {
+      "3": "Status:-",
+      "5": "Herenius: -M.",
+      "20": "Imagination:-.",
+      "50": "It is clear:-.",
+      "100": "A few questions:"
+    },
+    "[FREEON]": {
+      "3": "Time is frozen",
+      "5": "After cooling down",
+      "20": "The weather is very cold.",
+      "50": "The weather is good",
+      "100": "It's time to get up."
+    },
+    "[FREEOFF]": {
+      "3": "Thawed time",
+      "5": "When it’s cold",
+      "20": "clear.",
+      "50": "It can be opened at any time",
+      "100": "It is hot today."
+    },
+    "[WTC_INS]": {
+      "3": "Use the up and down analog buttons to change the weather. Use the left and right analog keys to change the time. Press the TRIANGLE button to exit. Press the SQUARE button to freeze time.",
+      "5": "Use the analog stick up and down to change the wind. Turn the analog clock left and right. Press TRIANGLE to exit. Press SQUARE to stop time.",
+      "20": "Use the up and down arrows to adjust the time. Use the left and right analog sticks to set the time. Press the square button to exit. Press the large button to release the timer.",
+      "50": "Use the arrow keys to scroll up and down to set the clock, and the left and right arrow keys to set the time.",
+      "100": "Use the up and down keys to change. You can change the time with the left arrow. Press triangle to exit."
+    },
+    "[WTC_TIM]": {
+      "3": "TIME. 00:00",
+      "5": "TIME: :0",
+      "20": "Time ::0",
+      "50": "Sometimes:",
+      "100": "Spirit"
+    },
+    "[WTC_WE0]": {
+      "3": "WEATHER: cloudy",
+      "5": "WEATHER: cloudy",
+      "20": "Weather: Cloudy",
+      "50": "Time: So",
+      "100": "In the electronic world"
+    },
+    "[WTC_WE1]": {
+      "3": "Weather: Additional colors",
+      "5": "Weather: Many colors.",
+      "20": "Season: Many colors",
+      "50": "The necklace is also available in other colors",
+      "100": "Group: Ancient History"
+    },
+    "[WTC_WE2]": {
+      "3": "Weather: very sunny",
+      "5": "Weather: There are many views.",
+      "20": "the weather is sunny",
+      "50": "Weather: very sunny",
+      "100": "Duration: English"
+    },
+    "[WTC_WE3]": {
+      "3": "Weather: fog",
+      "5": "Weather: Misty.",
+      "20": "Weather: cloudy",
+      "50": "Date: November",
+      "100": "Red sky"
+    },
+    "[WTC_WE4]": {
+      "3": "Weather: cyclone",
+      "5": "Weather: Storms.",
+      "20": "Weather: windy",
+      "50": "Weather: thunderstorms",
+      "100": "Time: 1 minute."
+    },
+    "[WTC_WE5]": {
+      "3": "Weather: rain",
+      "5": "Weather: Raining.",
+      "20": "Weather: rain",
+      "50": "Garzo: Weather",
+      "100": "He is a politician."
+    },
+    "[WTC_WE6]": {
+      "3": "WEATHER: ULTRA LIGHT",
+      "5": "Weather: very sunny",
+      "20": "Above: bright sun",
+      "50": "Weather: Sunny",
+      "100": "This is your education."
+    },
+    "[WTC_WE7]": {
+      "3": "WEATHER: SUNNY",
+      "5": "Weather: sunny",
+      "20": "Weather: sunny",
+      "50": "Weather: Sunny",
+      "100": "Pancha: Defender of the Taj Titans"
+    },
+    "[MODWOR]": {
+      "3": "Change the pace of the world",
+      "5": "how fast the world is changing",
+      "20": "Change the speed",
+      "50": "How the world is changing",
+      "100": "We are changing the way the world works."
+    },
+    "[MODTIT]": {
+      "3": "Change the pace of the world",
+      "5": "The speed of change in the world",
+      "20": "Change the world change",
+      "50": "How the world is changing",
+      "100": "We are changing the way the world works."
+    },
+    "[MMFILT]": {
+      "3": "<Dpad-Left> - Car filter",
+      "5": "<Dpad-Lft> - Lock",
+      "20": "<Path left> - Filter",
+      "50": "<Add Left> - Rock",
+      "100": "<left not right>. Higher version of the software:"
+    },
+    "[MMFILT2]": {
+      "3": "<Dpad-Left> - Filter Pad",
+      "5": "<Dpad-Left> - Filter",
+      "20": "<DPad-left> is the pad.",
+      "50": "<Dpad-left> is the filter area",
+      "100": "<Sirgay Boy> I'll be a piece of paper"
+    },
+    "[MMFILT3]": {
+      "3": "<Dpad-Left> - Filter Obj",
+      "5": "<Dpad-Left> - Filter objects",
+      "20": "<Dpad-left> - filter items.",
+      "50": "<dpad-left> filter",
+      "100": "<dpad-left>: Filter description"
+    },
+    "[MMHUD]": {
+      "3": "<Dpad-Up> - Toggle HUD on/off",
+      "5": "<Dpad-Up> - Turn HUD on/off",
+      "20": "<Dpad-Up>: Turn HUD on or off.",
+      "50": "<Dpad-Up> - Head down.",
+      "100": "<dpad-up>. Clean the screen frequently."
+    },
+    "[MMSNTOG]": {
+      "3": "<Dpad-Down> - Toggle Snap Down",
+      "5": "<Dpad-Down> - Snap to change scenery",
+      "20": "<pillow> is a pillow.",
+      "50": "<DPad-down> does not work",
+      "100": "<dpad-down> is the down key."
+    },
+    "[MMDEL]": {
+      "3": "<Dpad-Right> - Delete an item",
+      "5": "<Dpad-Right> - Delete the item",
+      "20": "<Dpad-Right>: Delete an item.",
+      "50": "<dpad-right>: Delete an item.",
+      "100": "<dpad-right>. The file has been deleted"
+    },
+    "[MMDRAG]": {
+      "3": "<Left Shoulder> - Drag an item",
+      "5": "<Left Shoulder> - Drawn object",
+      "20": "<Left Shoulder> - Drawing numbers",
+      "50": "<Left Sky>: Take one.",
+      "100": "<Left> - Hello"
+    },
+    "[MMROT]": {
+      "3": "<Tri/Cir> - rotate object",
+      "5": "<Tri/Cir> - element return",
+      "20": "<Tri/Master> - Custom",
+      "50": "<test/delete> Edit the database",
+      "100": "<hep/info> - fixed changes"
+    },
+    "[MMSNAP]": {
+      "3": "click on:",
+      "5": "Picture:",
+      "20": "Display:",
+      "50": "Image type:",
+      "100": "Change of scenery"
+    },
+    "[MMSNAP2]": {
+      "3": "click on:",
+      "5": "Picture:",
+      "20": "Display:",
+      "50": "Image type:",
+      "100": "Download the app"
+    },
+    "[MMXYZ]": {
+      "3": "XYZ:",
+      "5": "XYZ:",
+      "20": "Shez: 1. Who.",
+      "50": "XYZ: 1.1.",
+      "100": "Meaning: 1.1."
+    },
+    "[MMYROT]": {
+      "3": "Moule:",
+      "5": "Moss:",
+      "20": "According to:",
+      "50": "References: 1.1.",
+      "100": "confusion"
+    },
+    "[MMON]": {
+      "3": "run away",
+      "5": "Done",
+      "20": "It works",
+      "50": "He has two names",
+      "100": "Everyone will be happy."
+    },
+    "[MMOFF]": {
+      "3": "Off",
+      "5": "It's cool, it's closed",
+      "20": "it is forbidden",
+      "50": "He is not strong enough",
+      "100": "*and*."
+    },
+    "[RAMPNUM]": {
+      "3": "Services:/",
+      "5": "Location: /10",
+      "20": "Organization:/1999",
+      "50": "Company: / 1.1.",
+      "100": "After this"
+    },
+    "[PLYWANT]": {
+      "3": "Level training required",
+      "5": "The circle should be flat",
+      "20": "Time is the key.",
+      "50": "Immediate payment",
+      "100": "Environmental issues."
+    },
+    "[PLYINV]": {
+      "3": "Unbeatable player:",
+      "5": "Undefeated Players:",
+      "20": "Players don’t fail.",
+      "50": "Special games include:",
+      "100": "The meat is perfectly prepared."
+    },
+    "[PLYMON]": {
+      "3": "Increase the player’s income",
+      "5": "More player money",
+      "20": "Players' income has increased",
+      "50": "Increased value of players",
+      "100": "The value of athletes is increasing."
+    },
+    "[PLYARM]": {
+      "3": "Add player shields",
+      "5": "Add player tools",
+      "20": "Better tools of the player",
+      "50": "There are other weapons in the game.",
+      "100": "After the event"
+    },
+    "[PLYSAVE]": {
+      "3": "Save the game",
+      "5": "Save the game",
+      "20": "Save the game",
+      "50": "Prepare your game.",
+      "100": "Expand your game with the game"
+    },
+    "[PLYOUT]": {
+      "3": "Open all the worlds",
+      "5": "Unlock all suits",
+      "20": "Remove all signs.",
+      "50": "destroy everything",
+      "100": "I took off all my clothes."
+    },
+    "[PLYOUC]": {
+      "3": "Go to the next outfit",
+      "5": "Fold the next dress",
+      "20": "Wear different clothes.",
+      "50": "Go to another program",
+      "100": "And clothes and so on."
+    },
+    "[DUMMY]": {
+      "3": "empty",
+      "5": "empty",
+      "20": "There is nothing",
+      "50": "Knowledge at your fingertips",
+      "100": "There is nothing"
+    },
+    "[PHSC]": {
+      "3": "Placeholder script",
+      "5": "TO THE SCENE BY THE SCRIPT END",
+      "20": "Here he is talking about the cross.",
+      "50": "Website for online newspapers",
+      "100": "Improve communication"
+    },
+    "[PHMC]": {
+      "3": "MOCAP scene placeholder",
+      "5": "CUTSCENE MOCAP PLACEHOLDER",
+      "20": "This post belongs to MOCAP",
+      "50": "functional testing",
+      "100": "to continue"
+    },
+    "[CHMODEL]": {
+      "3": "Model:",
+      "5": "example:",
+      "20": "Category:",
+      "50": "For example;",
+      "100": "In fact."
+    },
+    "[CHANIMT]": {
+      "3": "Congratulations:",
+      "5": "Animated Images:",
+      "20": "mouth:",
+      "50": "this car is incredible",
+      "100": "Just for fun;"
+    },
+    "[CHANIM]": {
+      "3": "Anim.000",
+      "5": "ANIM0",
+      "20": "I like shopping.",
+      "50": "Average: 1000.",
+      "100": "There are 000 of them."
+    },
+    "[CANIMNO]": {
+      "3": "None of them",
+      "5": "There is no NO",
+      "20": "there is nothing.",
+      "50": "there is nothing left",
+      "100": "I am with you."
+    },
+    "[CWNONE]": {
+      "3": "Weapons: None.",
+      "5": "Matlhari: No, I don't",
+      "20": "Fifth: No.",
+      "50": "He didn't have a gun in his hand.",
+      "100": "Annie: Interesting."
+    },
+    "[CWPIST]": {
+      "3": "Weapon: Pistol.",
+      "5": "Weapon: A weapon",
+      "20": "Weapons: Weapons",
+      "50": "Weapons: Firearms",
+      "100": "Army, army"
+    },
+    "[CWRIFLE]": {
+      "3": "Weapon: Gun",
+      "5": "Weapon: Rifle",
+      "20": "Aponarag: Musical instrument",
+      "50": "Judge: Pilot",
+      "100": "Place: Bhumnamin."
+    },
+    "[CWCCOL]": {
+      "3": "Color:",
+      "5": "Color:",
+      "20": "personality:",
+      "50": "Email sent",
+      "100": "Status for you"
+    },
+    "[ANIM001]": {
+      "3": "ANIM_STD_GO",
+      "5": "ANIM_STD_leg",
+      "20": "anime_stad_valch",
+      "50": "anime stud_",
+      "100": "Learn to read"
+    },
+    "[ANIM002]": {
+      "3": "ANIM_STD_RUN",
+      "5": "ANIM_STD_RUN",
+      "20": "anime_std_walk",
+      "50": "animation_tutorial",
+      "100": "ENAM_STD_RUN is required."
+    },
+    "[ANIM003]": {
+      "3": "ANIM_STD_RUNFAST",
+      "5": "ANIM_STD_RUNFAST",
+      "20": "anime_std_run",
+      "50": "example anime_std_",
+      "100": "Image_image"
+    },
+    "[ANIM004]": {
+      "3": "ANIM_STD_IDLE",
+      "5": "ANIM_STD_IDLE",
+      "20": "ANIM_STD_IDLE",
+      "50": "SIM_STD_DLE",
+      "100": "He is an educational leader."
+    },
+    "[ANIM005]": {
+      "3": "ANIM_STD_START Walk",
+      "5": "ANIM_STD_START in progress",
+      "20": "Run ANIM_STD_START",
+      "50": "In the ANIM_STD_START section",
+      "100": "SEI_STD_RESULTS"
+    },
+    "[ANIM006]": {
+      "3": "ANIM_STD_RUNSTOP1",
+      "5": "ANIM_STD_RUNSTOP1",
+      "20": "Improved level 1 animation",
+      "50": "Sex_std_run stop1. Bamako, Mali",
+      "100": "sei_std_defined1"
+    },
+    "[ANIM007]": {
+      "3": "ANIM_STD_RUNSTOP2",
+      "5": "ANIM_STD_RUNSTOP2",
+      "20": "Fixed level 2 animation",
+      "50": "sei_stud_run stop 2",
+      "100": "ONO_STD_DEFAULT2"
+    },
+    "[ANIM008]": {
+      "3": "ANIM_STD_IDLE_CAM",
+      "5": "ANIM_STD_IDLE_CAM",
+      "20": "ANIM_STD_IDLE_CAM function",
+      "50": "remember",
+      "100": "Sita_std_chemistry"
+    },
+    "[ANIM009]": {
+      "3": "ANIM_STD_IDLE_HBHB",
+      "5": "ANIM_STD_IDLE_HBHB",
+      "20": "front_std_idl_hbhb",
+      "50": "number_std_idl_hbb.",
+      "100": "nav_std_idlhbb"
+    },
+    "[ANIM010]": {
+      "3": "ANIM_STD_IDLE_TIRED",
+      "5": "ANIM_STD_IDLE_FLYING",
+      "20": "SIX_STD_FAILURE",
+      "50": "EXAMPLE_STD_IDLE_Tired",
+      "100": "FRONT_STD_SACK Description: ."
+    },
+    "[ANIM011]": {
+      "3": "ANIM_STD_IDLE_BIGGUN",
+      "5": "ANIM_STD_IDLE_BIGGUN",
+      "20": "ANIM_STD_BIGGUN has failed.",
+      "50": "SIX_STD_IDLE_HIGH",
+      "100": "return_std_idl: 1.1."
+    },
+    "[ANIM012]": {
+      "3": "ANIM_STD_CHAT",
+      "5": "ANIM_STD_CHAT",
+      "20": "First animated interview",
+      "50": "cat_std_any is:",
+      "100": "DEFAULT_STD : ."
+    },
+    "[ANIM013]": {
+      "3": "ANIM_STD_HAILTAXI",
+      "5": "ANIM_STD_HAILTAXI",
+      "20": "carne_std_taxi",
+      "50": "Biological STD hero.",
+      "100": "FRONT_STD_HAILTAXI Optional."
+    },
+    "[ANIM014]": {
+      "3": "ANIM_STD_KO_FRONT",
+      "5": "FRONT_STD_Common Performance",
+      "20": "ANIM_STD_ONLY_next",
+      "50": "standard or branch name",
+      "100": "_St_Co_ ::."
+    },
+    "[ANIM015]": {
+      "3": "ANIM_STD_KO_LEFT",
+      "5": "FRONT_STD_CONT_RIGHT.",
+      "20": "only ANIM_STD_",
+      "50": "front_std_or_left",
+      "100": "rec_std_co_left:."
+    },
+    "[ANIM016]": {
+      "3": "ANIM_STD_KO_BACK",
+      "5": "FRONT_STD_IS_BACK",
+      "20": "ANIM_STD_CHAN_LIBRATORS",
+      "50": "FIRST_STD_OR_BACK: .",
+      "100": "History of this search."
+    },
+    "[ANIM017]": {
+      "3": "ANIM_STD_KO_RIGHT",
+      "5": "MY_FACE_STD_It's true",
+      "20": "KA_STD_IT",
+      "50": "First rule: 1.1.",
+      "100": "enter_std_invalid ::"
+    },
+    "[ANIM018]": {
+      "3": "ANIM_STD_KO_SHOT_FACE",
+      "5": "ANIM_STD_KO_Shot Page",
+      "20": "your class_",
+      "50": "std_or_house_face:.",
+      "100": "Moy_Krivalja_On_Big_Guitar :."
+    },
+    "[ANIM019]": {
+      "3": "anime_std_co_shot_stomach",
+      "5": "ANIM_STD_ONLY_BUILD GROUP",
+      "20": "WHAT IS_MEIN_STD_AUF_HER_Bauch",
+      "50": "anime_std_shots_general",
+      "100": "I sent them."
+    },
+    "[ANIM020]": {
+      "3": "anime_std_co_shot_arm_l",
+      "5": "ANIM_STD_ONLY_BUILD_HOME_L",
+      "20": "FRONT_STD_MY_SHOT_HEAD_L",
+      "50": "FRONT_STD_NO_STUPID_BALLY_L.",
+      "100": "FRONT_STD_WITCH: Witchcraft"
+    },
+    "[ANIM021]": {
+      "3": "anime_std_co_shot_arm_r",
+      "5": "ANIM_STD_ONLY_BUILDING_R",
+      "20": "SEO_STD_THOT_TAXI_R",
+      "50": "page_std_fire_double_r",
+      "100": "IN_STD_RUNS_TAXI_R"
+    },
+    "[ANIM022]": {
+      "3": "anime_std_co_shot_leg_l",
+      "5": "FRONT_STD_CONTROLLING_Foot_L",
+      "20": "SEO_STD_SHOT_MY_L",
+      "50": "This is my opinion",
+      "100": "WET_STD_ENGLISH :: Man ::"
+    },
+    "[ANIM023]": {
+      "3": "anime_std_co_shot_leg_r",
+      "5": "FRONT_STD_CONTROLLING_R",
+      "20": "ANIM_STD_SHOT_R_IN_IN",
+      "50": "How did it happen?",
+      "100": "OU_STD_TO_FOUR"
+    },
+    "[ANIM024]": {
+      "3": "ANIM_STD_SPINFORWARD_LEFT",
+      "5": "ANIM_STD_SPINFORWARD_LEFT",
+      "20": "ANIM_STD_SPINFOREVARD_TO_RIGHT",
+      "50": "six_std_water_beach",
+      "100": "vs_std_spin at end of line"
+    },
+    "[ANIM025]": {
+      "3": "ANIM_STD_SPINFORWARD_RIGHT",
+      "5": "ANIM_STD_SPINFORWARD_RIGHT",
+      "20": "FORWARD_STD_SPINFORWARD_RIGHT",
+      "50": "ONO_STD_SPINFORO attribute",
+      "100": "New Student: Transfer:"
+    },
+    "[ANIM026]": {
+      "3": "ANIM_STD_HIGHIMPACT_FRONT",
+      "5": "ANIM_STD_HIGHIMPACT_FRONT",
+      "20": "ANIM_STD_HIGHIMPACT_IN |",
+      "50": "Because of SIX_STD_HIGH_HIGH_HIGH",
+      "100": "Create first_std_content."
+    },
+    "[ANIM027]": {
+      "3": "ANIM_STD_HIGHIMPACT_LEFT",
+      "5": "ANIM_STD_HIGHIMPACT_LEFT",
+      "20": "ANIM_STD_HIGHMPACT",
+      "50": "six_std_top_left",
+      "100": "See self_std function."
+    },
+    "[ANIM028]": {
+      "3": "ANIM_STD_HIGHIMPACT_BACK",
+      "5": "ANIM_STD_HIGHIMPACT_BACK",
+      "20": "ANIM_STD_HIGHIMPACT_once",
+      "50": "SIX_STD_DIFFERENTIAL",
+      "100": "page _E_"
+    },
+    "[ANIM029]": {
+      "3": "ANIM_STD_HIGHIMPACT_RIGHT",
+      "5": "anim_std_hympact_write",
+      "20": "FRONT_STD_System Difference",
+      "50": "pre_std_number",
+      "100": "FRONT_STD_STROKE: stroke:1."
+    },
+    "[ANIM030]": {
+      "3": "ANIM_STD_HITBYGUN_FRONT",
+      "5": "anim_std_hitbegin_front",
+      "20": "ANIM_STD_HITBIGUN_DESCRIPTION",
+      "50": "History FRONT_STD_HITPOINT",
+      "100": "Anime_stud_first_game:"
+    },
+    "[ANIM031]": {
+      "3": "ANIM_STD_HITBYGUN_LEFT",
+      "5": "Anim_std_hitbygon_left",
+      "20": "ANIM_STD_HITBIGUN_ False",
+      "50": "Information about _PRONT_STD_HITPPOINT",
+      "100": "anime_studio_first_error:"
+    },
+    "[ANIM032]": {
+      "3": "ANIM_STD_HITBYGUN_BACK",
+      "5": "Anim_std_hitbegan_back",
+      "20": "ANIM_STD_HITBIGUN_EXECUTE",
+      "50": "BE_STD_HIBITU_DEF",
+      "100": "anime_std_star : 1.1 . The employees."
+    },
+    "[ANIM033]": {
+      "3": "ANIM_STD_HITBYGUN_RIGHT",
+      "5": "Anim_std_hitbygon_write",
+      "20": "ANIM_STD_HITBIGUN_DESCRIPTION",
+      "50": "ANIM_STD_HITBIT Description:",
+      "100": "Anime_stud_first_game:"
+    },
+    "[ANIM034]": {
+      "3": "ANIM_STD_HIT_FRONT",
+      "5": "ANIM_STD_HIT_FORWARD",
+      "20": "anime_std_beat_forward",
+      "50": "stack_cold_star",
+      "100": "DESCRIPTION_STD_BIT: DESCRIPTION_STD_BIT"
+    },
+    "[ANIM035]": {
+      "3": "ANIM_STD_HIT_LEFT",
+      "5": "ANIM_STD_HIT_LEFT",
+      "20": "anime_std_beat_or",
+      "50": "set next_std_print_print",
+      "100": "FRONT_STD_HITS_REGISTER"
+    },
+    "[ANIM036]": {
+      "3": "ANIM_STD_HIT_BACK",
+      "5": "ANIM_STD_Background",
+      "20": "anime_std_drawer",
+      "50": "The first art",
+      "100": "the state;"
+    },
+    "[ANIM037]": {
+      "3": "ANIM_STD_HIT_RIGHT",
+      "5": "ANIM_STD_RIGHT_BEAT",
+      "20": "anime_std_beat_office",
+      "50": "stack_cold_star",
+      "100": "STRING_STD_ uses: 1.1."
+    },
+    "[ANIM038]": {
+      "3": "ANIM_STD_HIT_FLOOR",
+      "5": "ANIM_STD_HIT_GROUND",
+      "20": "anime_std_hit_seed",
+      "50": "FRONT_STD_HIT_FLOOR",
+      "100": "EX_STD_ added."
+    },
+    "[ANIM039]": {
+      "3": "ANIM_STD_CALL_GROUP",
+      "5": "ANIM_STD_HIT_WALL",
+      "20": "ANIM_STD_HIT_WALL",
+      "50": "face_std_print_wall .",
+      "100": "Six teams compete."
+    },
+    "[ANIM040]": {
+      "3": "ANIM_STD_HIT_LOW_FRONT",
+      "5": "ANIM_STD_HIT_FLOOR_FRONT",
+      "20": "ANIM_STD_HIT_FLOOR_FRONT",
+      "50": "anime_std_hit_stage_life.",
+      "100": "anime_my_studio_answer;"
+    },
+    "[ANIM041]": {
+      "3": "ANIM_STD_BEAT_BACK",
+      "5": "ANIM_STD_HIT_BACK",
+      "20": "ANIM_STD_HIT_BHIND",
+      "50": "Animation_STD instance",
+      "100": "ANIM_STD_CASE attribute"
+    },
+    "[ANIM042]": {
+      "3": "ANIM_STD_CONTROLLING_BATOR",
+      "5": "ANIM_STD_FIGHT_IDLE",
+      "20": "ANIM_STD_FIGHT_IDLE",
+      "50": "ANIM_STD_FIRE_DESCRIPTION .",
+      "100": "Do not use ANIM_STD_Controlling_."
+    },
+    "[ANIM043]": {
+      "3": "ANIM_STD_CONTROL_2IDLE",
+      "5": "ANIM_STD_FIGHT_2IDLE",
+      "20": "ANIM_STD_FIGHT_2IDLE",
+      "50": "anime_stdExpression_2idl",
+      "100": "FRONT_STD_CONTROL_2 only."
+    },
+    "[ANIM044]": {
+      "3": "ANIM_STD_CONTROLLING_F",
+      "5": "ANIM_STD_FIGHT_SHUFFLE_F",
+      "20": "FRONT_STD_EXCHANGE_FIRE_F",
+      "50": "anime_stud_schiffle_new_m. Bamako gardener",
+      "100": "End of the song."
+    },
+    "[ANIM045]": {
+      "3": "ANIM_STD_PROBLEM",
+      "5": "ANIM_STD_partial_punch",
+      "20": "STRUCTURE_FRONT_STD",
+      "50": "this_std_state:",
+      "100": "SIX_STD_PUNCH."
+    },
+    "[ANIM046]": {
+      "3": "ANIM_FIGHT_Attack_A1",
+      "5": "FRONT_FIGHT_ATTACK_A1",
+      "20": "I_ARC_CURRENCY_A1",
+      "50": "Attacker_A1",
+      "100": "hand_soldado_a1:"
+    },
+    "[ANIM047]": {
+      "3": "ANIM_FIGHT_Attack_A2",
+      "5": "FRONT_FIGHT_ATTACK_A2",
+      "20": "I_LOVE_ARC_A2",
+      "50": "gun_music_A2:",
+      "100": "I have 2 images."
+    },
+    "[ANIM048]": {
+      "3": "ANIM_FIGHT_Attack_A3",
+      "5": "FRONT_FIGHT_ATTACK_A3",
+      "20": "I_AM_DOING_VISA_A3",
+      "50": "How To_Gun_A3:",
+      "100": "attack_no_hello_anime_a3:"
+    },
+    "[ANIM049]": {
+      "3": "ANIM_FIGHT_ATTACK_B1",
+      "5": "ANIM_FIGHT_ATTACK_B1",
+      "20": "AGAINST_TIME_B1",
+      "50": "Link_Ryan_Dance_B1",
+      "100": "use data_b1"
+    },
+    "[ANIM050]": {
+      "3": "ANIM_FIGHT_ATTACK_B2",
+      "5": "ANIM_FIGHT_ATTACK_B2",
+      "20": "MOMENT_COMBAT_B2",
+      "50": "battle_campaign_level_b2",
+      "100": "bata_dada_b2"
+    },
+    "[ANIM051]": {
+      "3": "ANIM_FIGHT_ATTACK_B3",
+      "5": "ANIM_FIGHT_ATTACK_B3",
+      "20": "AGAINST_TIME_B3",
+      "50": "Battle_B3",
+      "100": "Yesterday_SUNDAY_B3"
+    },
+    "[ANIM052]": {
+      "3": "ANIM_FIGHT_HIT_A1",
+      "5": "ANIM_FIGHT_HIT_A1",
+      "20": "FACE_FIGHT_BEATING_A1",
+      "50": "first_little_a1 |",
+      "100": "A. Ch"
+    },
+    "[ANIM053]": {
+      "3": "ANIM_FIGHT_HIT_A2",
+      "5": "ANIM_FIGHT_HIT_A2",
+      "20": "FACE_FIGHT_BEATING_A2",
+      "50": "A2 war",
+      "100": "Anime_Main Issue Issue_A2"
+    },
+    "[ANIM054]": {
+      "3": "ANIM_FIGHT_PLAY_A3",
+      "5": "ANIM_CONFIRM_CALL_A3",
+      "20": "Six_Battles of Halda_A3",
+      "50": "Foreword FACE_FIGHT_IEAR_A3.",
+      "100": "You can use Macro_A3"
+    },
+    "[ANIM055]": {
+      "3": "ANIM_FIGHT_FIGHT_B1",
+      "5": "PROMOTE_CONFIRM_HITS_B1",
+      "20": "Six_Hit_B1",
+      "50": "Foreword FACE_FIGHT_IEAR_B1.",
+      "100": "Bilge_HaivanB1"
+    },
+    "[ANIM056]": {
+      "3": "ANIM_FIGHT_EXPERIENCE_B2",
+      "5": "PROMOTE_CONFIRM_HITS_B2",
+      "20": "Six_Hit_B2",
+      "50": "stage_battle_IER_B2.",
+      "100": "Water Var_B2"
+    },
+    "[ANIM057]": {
+      "3": "ANIM_FIGHT_FIGHT_B3",
+      "5": "PROMOTE_CONFIRM_HITS_B3",
+      "20": "Six_Hit_B3",
+      "50": "Foreword FACE_FIGHT_IEAR_B3.",
+      "100": "War_F_B3"
+    },
+    "[ANIM058]": {
+      "3": "ANIM_STD_BURN",
+      "5": "ANIM_STD_CORRECTION",
+      "20": "Explosion place_six_big_six",
+      "50": "front_std_explode",
+      "100": "search for:"
+    },
+    "[ANIM059]": {
+      "3": "ANIM_STD_PUNCH",
+      "5": "ANIM_STD_PUNCH",
+      "20": "SIX_STD_PUNCH",
+      "50": "FRONT_STD_PUNCH",
+      "100": "Number of animations:"
+    },
+    "[ANIM060]": {
+      "3": "ANIM_STD_PARTIALPUNCH",
+      "5": "ANIM_STD_PARCIALPUNCH",
+      "20": "SIX_STD_PARTIALPUNCCH",
+      "50": "FRONT_STD_COMMAND_ROUTE",
+      "100": "The parameter is main_animation"
+    },
+    "[ANIM061]": {
+      "3": "ANIM_STD_KICKGROUND",
+      "5": "ANIM_STD_DEFINITION",
+      "20": "SIX_STD_KICKGROUND",
+      "50": "FRONT_STD_STATE",
+      "100": "The parameter is main_animation"
+    },
+    "[ANIM062]": {
+      "3": "ANIM_STD_THROV_UNDER",
+      "5": "ANIM_STD_START_FROM",
+      "20": "SIX_STD_THROW_UNDER",
+      "50": "START_STD_TOW_PASS",
+      "100": "Getting up is easy"
+    },
+    "[ANIM063]": {
+      "3": "ANIM_STD_FIGHT_SHUFFLE_B",
+      "5": "ANIM_STD_FIGHTING_B",
+      "20": "SIX_STD_NEW_HOUSE_B",
+      "50": "PRIME_STD_SHOFFEL_B",
+      "100": "animation_std_p. Click here to view the speech"
+    },
+    "[ANIM064]": {
+      "3": "ANIM_STD_JACKEDKAR_RHS",
+      "5": "anim_std_jacdkar_rhs",
+      "20": "ANIM_STD_JACKEDCAR_RHS",
+      "50": "CALL_STD_JACKEDCAR_RHS",
+      "100": "ANIMAL_STD_JKDKR_RHS"
+    },
+    "[ANIM065]": {
+      "3": "ANIM_STD_JACKED_NOT_RHS",
+      "5": "ANIM_STD_JACKEDCAR_LO_RHS",
+      "20": "ANIM_STD_JACKEDCAR_LO_RHS",
+      "50": "STD_JACKDKAR_RHS",
+      "100": "February 19, 2013 at 10:00 p.m"
+    },
+    "[ANIM066]": {
+      "3": "ANIM_STD_JACKED_LHS",
+      "5": "anim_std_jackdkar_lhs",
+      "20": "ANIM_STD_JACKEDCAR_LHS",
+      "50": "ANIM_STD_JACKEDCAR_LHS is disabled",
+      "100": "home_std_jackdock_lhs;"
+    },
+    "[ANIM067]": {
+      "3": "ANIM_STD_JACKED_NOT_LHS",
+      "5": "ANIM_STD_JACKEDCAR_LO_LHS",
+      "20": "ANIM_STD_JACKEDCAR_LO_LHS",
+      "50": "Enter GET_STD_JACKEDCAR_NO_LHS",
+      "100": "February 19, 2013 at 10:00 p.m"
+    },
+    "[ANIM068]": {
+      "3": "ANIM_STD_FAST Jack",
+      "5": "Anim_std_quickjack",
+      "20": "ANIM_STD_FAST language",
+      "50": "animu_std_rare",
+      "100": "A quick view of the studio."
+    },
+    "[ANIM069]": {
+      "3": "ANIM_STD_QUICKJACKED",
+      "5": "ANIM_STD_QUICKJACKED",
+      "20": "ONO_STD_QUICKJACKED",
+      "50": "FRONT_STD_STATE",
+      "100": "Face_std_meal is ready to use."
+    },
+    "[ANIM070]": {
+      "3": "ANIM_STD_CAR_ALIGN_DOOR_LHS",
+      "5": "ANIM_STD_CAR_ALIGN_DOOR_LHS",
+      "20": "ono_std_auto_align_door_lhs",
+      "50": "last_std_staff_day at phone_lhs",
+      "100": "PM_STD_VEHICLE_LHS General: 1.1."
+    },
+    "[ANIM071]": {
+      "3": "ANIM_STD_CAR_ALIGNHI_DOOR_LHS",
+      "5": "ANIM_STD_CAR_ALIGNHI_DOOR_LHS",
+      "20": "ONO_STD_MOTIKA_ALIGNHI_KUTU_LHS",
+      "50": "last_std_staff_day at phone_lhs",
+      "100": "game_6 against V_NO_LHS."
+    },
+    "[ANIM072]": {
+      "3": "ANIM_STD_CAR_OPEN_DOOR_LHS",
+      "5": "ANIM_STD_CAR_OPEN_DOOR_LHS",
+      "20": "ONO_STD_MOTIKA_WAKAMATA_KAHA_LHS",
+      "50": "home_std_open_spítal_lhs",
+      "100": "stream_std.ir.phone_lhs:."
+    },
+    "[ANIM073]": {
+      "3": "ANIM_STD_CARDOOR_LOCKED_LHS",
+      "5": "ANIM_STD_CARDOOR_LOCKED_LHS",
+      "20": "ONO_STD_CARDOR_LOCK_LHS",
+      "50": "Sør_std_for_lhs",
+      "100": "Unlike Anton_Lich_Education"
+    },
+    "[ANIM074]": {
+      "3": "ANIM_STD_CAR_PULL_OUT_PED_LHS",
+      "5": "ANIM_STD_CAR_PULL_OUT_PED_LHS",
+      "20": "anime_std_car_pull_PED_LHS",
+      "50": "FIRST_STD_NAN_PED_LHS",
+      "100": "STD_BULA_TOV_FI_PED_LHS;"
+    },
+    "[ANIM075]": {
+      "3": "ANIM_STD_CAR_PULL_OUT_PED_LO_LHS",
+      "5": "ANIM_STD_CAR_PULL_OUT_PED_LO_LHS",
+      "20": "anime_std_car_pull_PED_LO_LHS",
+      "50": "ANIMSTD_IOURMI_JANIW_LHS.",
+      "100": "Prerequisite: DRAFT_FI_PED_LO_LHS"
+    },
+    "[ANIM076]": {
+      "3": "ANIM_STD_CAR_LHS in_THAT",
+      "5": "ANIM_STD_CAR_GET_IN_LHS",
+      "20": "ANIM_STD_CAR_GET_IN_LHS",
+      "50": "animals_stdat_lhs",
+      "100": "internal_std_car_actual"
+    },
+    "[ANIM077]": {
+      "3": "ANIM_STD_CAR_THAT_LO_LHS",
+      "5": "ANIM_STD_CAR_GET_IN_LO_LHS",
+      "20": "Animu_STD_CAR_LO_LHS",
+      "50": "ANIM_STD_WORD Janiu_LHS",
+      "100": "FRONT_STD_OPEN_JET_LO_LHS"
+    },
+    "[ANIM078]": {
+      "3": "ANIM_STD_CAR_CLOSED_BLOOD_LHS",
+      "5": "ANIM_STD_CAR_CLOSE_DOOR_LHS",
+      "20": "anime_std_car_dar_lock_lhs",
+      "50": "DOWN_STD_DOVN_LOCK_LHS.",
+      "100": "LHS_STD_OPEN_Dyer_Open"
+    },
+    "[ANIM079]": {
+      "3": "ANIM_STD_CAR_CLOSE_DOOR_LO_LHS",
+      "5": "ANIM_STD_VEHICLE_CLOSE_DOOR_LO_LHS",
+      "20": "ANIM_STD_CAR_CLOSE_DOOR_LHS",
+      "50": "ANIM_STD_CAR_CLOSE_PUT_TE_LHS has been changed.",
+      "100": "Dedicated Gateway Mobile Host lhs"
+    },
+    "[ANIM080]": {
+      "3": "ANIM_STD_CAR_CLOSE_DOOR_ROLLING_LHS",
+      "5": "ANIM_STD_VEHICLE_DOOR_CLOSES_FOR_POSSIBLE_LHS",
+      "20": "ANIM_STD_CAR_CLOSE_DOOR_ROLLING_LHS .",
+      "50": "FRONT_STD_VEHICLE_SECTION_ENGLISH_DESCRIPTION_VEHICLE.",
+      "100": "MOBILE_STD_AGUDI_DAI_AT_LHS"
+    },
+    "[ANIM081]": {
+      "3": "ANIM_STD_CAR_CLOSE_DOOR_ROLLING_LO_LHS",
+      "5": "ANIM_STD_VEHICLE_DOOR_CLOSE_CAN_LO_LHS",
+      "20": "ANIM_STD_CAR_CLOSE_ROLLING_DOOR_LO_LHS",
+      "50": "ANIM_STD_CAR_DOOR_LOCK lower left",
+      "100": "Ques_Moke_Peo_Tau_Lahs"
+    },
+    "[ANIM082]": {
+      "3": "ANIM_STD_CAR_JUMP_IN_LO_LHS",
+      "5": "ANIM_STD_VEHICLE_JUMP_IN_LO_LHS",
+      "20": "ANIM_STD_VEHICLE_JUMP_LO_LHS",
+      "50": "FRONT_STD_VEHICLE_JUMP_IN_Control_LHS",
+      "100": "Face_std_jump_car_LO_LHS is great."
+    },
+    "[ANIM083]": {
+      "3": "ANIM_STD_GETOUT_LHS",
+      "5": "ANIM_STD_GETOUT_LHS",
+      "20": "ANIM_STD_GETOUT_LHS .",
+      "50": "ANIM_STD_GETOUT_LHS is used.",
+      "100": "Write to std_lhs"
+    },
+    "[ANIM084]": {
+      "3": "ANIM_STD_GETOUT_LO_LHS",
+      "5": "ANIM_STD_GETOUT_LO_LHS",
+      "20": "ANIM_STD_TRANSMITTED_LO_LHS",
+      "50": "Click on animation_std_common_source.",
+      "100": "It's a news fest."
+    },
+    "[ANIM085]": {
+      "3": "ANIM_STD_CAR_CLOSE_LHS",
+      "5": "ANIM_STD_CAR_CLOSE_LHS",
+      "20": "anime_std_weeks_off_lhs",
+      "50": "animation_std_shield_hole_lhs",
+      "100": "set to YI_STD_WLHS."
+    },
+    "[ANIM086]": {
+      "3": "ANIM_STD_CAR_ALIGN_DOOR_RHS",
+      "5": "ANIM_STD_CAR_ALIGN_DOOR_RHS",
+      "20": "ANIM_STD_VEHICLE_ALGN_FUNCTION_RHS",
+      "50": "ANIM_STD_MOBILE_ONE_ON_RHS",
+      "100": "BU_STD_ALGN_MACHINE_C_RHS"
+    },
+    "[ANIM087]": {
+      "3": "ANIM_STD_CAR_ALIGNHI_DOOR_RHS",
+      "5": "ANIM_STD_CAR_ALIGNHI_DOOR_RHS",
+      "20": "anime_std_vehicle_aligni_roll_rhs",
+      "50": "ANIM_STD_MOBILE_ONE_ON_RHS",
+      "100": "The engine compartment is located at the front."
+    },
+    "[ANIM088]": {
+      "3": "ANIM_STD_CAR_OPEN_DOOR_RHS",
+      "5": "ANIM_STD_CAR_OPEN_DOOR_RHS",
+      "20": "face_std_car_division_open_rhs",
+      "50": "pet_studdollar_rhs",
+      "100": "bu_std_wheel_chalmtata_box_rhs ."
+    },
+    "[ANIM089]": {
+      "3": "ANIM_STD_CARDOOR_LOCKED_RHS",
+      "5": "anime_std_cardor_lock_rhs",
+      "20": "anime_std_cardor_lock_rhs",
+      "50": "animal_std_map_off_rhs:",
+      "100": "Diseases of Riolu"
+    },
+    "[ANIM090]": {
+      "3": "ANIM_STD_CAR_PULL_OUT_PED_RHS",
+      "5": "Anime_STD_Car_Pull_Out_PED_RHS:",
+      "20": "anime_std_car_pooled_from_ped_rhs",
+      "50": "anime_std_drive_fi_pad_rhs;",
+      "100": "Anime_std_auto_translate_PED_rhs Your mother is out of town."
+    },
+    "[ANIM091]": {
+      "3": "ANIM_STD_CAR_PULL_OUT_PED_LO_RHS",
+      "5": "anime_std_car_pull_out_PED_LO_RHS",
+      "20": "Draw_from_anime_std_car_PED_LO_RHS",
+      "50": "anime_std_car_and_PED_LO_RHS",
+      "100": "ONO_STD_OUTPUT_NOT_VEHICLE_PED_RHS"
+    },
+    "[ANIM092]": {
+      "3": "ANIM_STD_CAR_GET_IN_RHS",
+      "5": "anime_std_car_get_in_rhs:",
+      "20": "FRONT_STD_CAR_RHS AT_ESO",
+      "50": "anime_steed_car_external_rhs:",
+      "100": "animation_std_enable_rhs:"
+    },
+    "[ANIM093]": {
+      "3": "ANIM_STD_CAR_GET_IN_LO_RHS",
+      "5": "anime_std_car_get_in_lo_rhs:",
+      "20": "FRONT_STD_CAR_NOT_LOW_RHS",
+      "50": "sub anime_std_auto_import_rhs;",
+      "100": "and animation_stud_auto_be_rk"
+    },
+    "[ANIM094]": {
+      "3": "ANIM_STD_CAR_CLOSE_DOOR_RHS",
+      "5": "ANIM_STD_CAR_STOP_DOOR_RHS",
+      "20": "anime_std_blocking_mode_rhs",
+      "50": "FRONT_STD_CAR_CLOSE_DOOR_RHS is possible.",
+      "100": "hit_stud_hammer_rhs"
+    },
+    "[ANIM095]": {
+      "3": "ANIM_STD_CAR_LOCK_DOOR_LO_RHS",
+      "5": "ANIM_STD_AUTO_ENTER_DATE_LO_RHS",
+      "20": "anime_std_car_door_LO_RHS",
+      "50": "FRONT_STD_CAR_CLOSE_DOOR_LOV_RHS failed.",
+      "100": "anime_std_kai_create_rh"
+    },
+    "[ANIM096]": {
+      "3": "ANIM_STD_CAR_SHUFFLE_RHS",
+      "5": "ANIM_STD_AUTO_BARRAGE_RHS",
+      "20": "anime_std_connect_drive_rhs",
+      "50": "News_Car_Show_Rhs",
+      "100": "anime_std_auto_rotate_rhs: 1"
+    },
+    "[ANIM097]": {
+      "3": "ANIM_STD_CAR_SHUFFLE_LO_RHS",
+      "5": "ANIM_STD_AUTO_LOWER_LO_RHS",
+      "20": "Bottom right anime_std_connect_car_",
+      "50": "The first week of the corresponding week.",
+      "100": "Check out the \"Student_Animation_\" section."
+    },
+    "[ANIM098]": {
+      "3": "ANIM_STD_CAR_SIT",
+      "5": "ANIM_STD_CAR_SIT",
+      "20": "anime_std_delay",
+      "50": "cover_playlist.",
+      "100": "Look for the place in the car."
+    },
+    "[ANIM099]": {
+      "3": "ANIM_STD_CAR_SIT_LO",
+      "5": "ANIM_STD_CAR_SIT_LO",
+      "20": "Anima_std_car_sit_love",
+      "50": "Laughing children in the car",
+      "100": "Description of ANIM_STD_MOBILE:"
+    },
+    "[ANIM100]": {
+      "3": "ANIM_STD_CAR_SIT_P",
+      "5": "ANIM_STD_CAR_SIT_P",
+      "20": "front_std_car_sit_p",
+      "50": "Carseat_anime_review_page",
+      "100": "animated_std_property_mobile_p: 1.1."
+    },
+    "[ANIM101]": {
+      "3": "ANIM_STD_CAR_SIT_P_LO",
+      "5": "ANIM_STD_CAR_SIT_P_LO",
+      "20": "front_std_car_sit_p_lo",
+      "50": "auto_animation_check_muscle_motab",
+      "100": "anime_stud_mobile_dev_seker_pi_lo:"
+    },
+    "[ANIM102]": {
+      "3": "ANIM_STD_CAR_DRIVE_LEFT",
+      "5": "ANIM_STD_CAR_DRIVE_LEFT",
+      "20": "Anima_std_car_drive_left",
+      "50": "anime_eche_class",
+      "100": "Driver: ANIM_STD: 1.1."
+    },
+    "[ANIM103]": {
+      "3": "ANIM_STD_CAR_DRIVE_RIGHT",
+      "5": "ANIM_STD_CAR_DRIVE_RIGHT",
+      "20": "Anima_std_car_drive_right",
+      "50": "auto_language_check_anime_std",
+      "100": "Driver: ANIM_STD: 1.1."
+    },
+    "[ANIM104]": {
+      "3": "ANIM_STD_VEHICLE_DOOR_LO",
+      "5": "ANIM_STD_VEHICLE_DOOR_LO.",
+      "20": "ANIM_STD_MOVEHICLE_DOOR_LO.",
+      "50": "ANIM_STD_PITA_EXERCISES",
+      "100": "There are 6 cars in the park."
+    },
+    "[ANIM105]": {
+      "3": "ANIM_STD_VEHICLE_DESCRIPTION_LO",
+      "5": "ANIM_STD_VEHICLE_DESCRIPTION_LO.",
+      "20": "ANIM_STD_VEHICLE_DESCRIPTION.",
+      "50": "ANIM_STD_LORI_A",
+      "100": "6 This book is not easy to read"
+    },
+    "[ANIM106]": {
+      "3": "ANIM_STD_VEHICLE_REMOVAL",
+      "5": "ANIM_STD_VEHICLE_REMOVAL.",
+      "20": "For ANIM_STD_CAR_DRIVEBY_LEFT.",
+      "50": "Run ANIM_STD_.",
+      "100": "Use the auto_search function"
+    },
+    "[ANIM107]": {
+      "3": "ANIM_STD_VEHICLE",
+      "5": "ANIM_STD_VEHICLE.",
+      "20": "anime_std_car.",
+      "50": "ANIM_STD_STATE_MODE.",
+      "100": "Current owner"
+    },
+    "[ANIM108]": {
+      "3": "ANIM_STD_VEHICLE_OUTPUT_LO",
+      "5": "ANIM_STD_VEHICLE_EXIT_LO.",
+      "20": "Enemy_STD_Retire Car_Law.",
+      "50": "ANIM_STD_PITA_EXERCISES",
+      "100": "Come back every day"
+    },
+    "[ANIM109]": {
+      "3": "ANIM_STD_VEHICLE_OUTPUT_LO",
+      "5": "Anim_std_car_driveby_right_low",
+      "20": "ANIM_STD_DRIVE_CARTHROGURE_Product",
+      "50": "anime_std_car_drive.",
+      "100": "anime_std_color_base:"
+    },
+    "[ANIM110]": {
+      "3": "IN ANIM_STD_VEHICLE",
+      "5": "Anim_stud_car_looks_behind",
+      "20": "ANIM_STD_KOTS_TIME",
+      "50": "see ANIM_STD_Car",
+      "100": "machine FRONT_STD;"
+    },
+    "[ANIM111]": {
+      "3": "ANIM_STD_NEW_SONGS",
+      "5": "anim_std_boat_drive",
+      "20": "ANIM_STD_SHIP_SHIP",
+      "50": "first_std_container",
+      "100": "and cupcakes with cartoon labels"
+    },
+    "[ANIM112]": {
+      "3": "ANIM_STD_BOAT_DRIVE_LEFT",
+      "5": "anim_std_boat_drive_left",
+      "20": "Returns ANIM_STD_BOAT_DRIVE_LEFT",
+      "50": "anim_std_ch_object",
+      "100": "storage of material"
+    },
+    "[ANIM113]": {
+      "3": "ANIM_STD_NEW_ENTER_DESCRIPTION",
+      "5": "anim_std_boat_drive_write",
+      "20": "Use ANIM_STD_BOAT",
+      "50": "ANIM_STD_BOATS_CONDUR_RIGHT",
+      "100": "average_of_change"
+    },
+    "[ANIM114]": {
+      "3": "ANIM_STD_BOAT_PRICE NEXT",
+      "5": "ANIM_STD_BOAT_LOOKBAHIND",
+      "20": "FACE_STD_SHIP_VIEW.",
+      "50": "See animation_std_ship_return.",
+      "100": "Read_first_bot_report."
+    },
+    "[ANIM115]": {
+      "3": "ANIM_STD_PICKUP_LHS",
+      "5": "ANIM_STD_BIKE_PICKUP_LHS",
+      "20": "ANIM_STD_BICLE_CALL_LHS.",
+      "50": "make_std_cake_make_lhs: 1.1.",
+      "100": "the animal"
+    },
+    "[ANIM116]": {
+      "3": "ANIM_STD_BIKE_PICKUP_RHS",
+      "5": "ANIM_STD_BIKE_PICKUP_RHS",
+      "20": "ANIM_STD_BICLE_CALL_RHS.",
+      "50": "First_Tee_Quick:",
+      "100": "6 lines"
+    },
+    "[ANIM117]": {
+      "3": "ANIM_STD_VEIL_PULLUP_LHS",
+      "5": "ANIM_STD_BIKE_PULLUP_LHS",
+      "20": "ANIM_STD_ENGLISH_LITE_LHS",
+      "50": "animation_std_pulp_on_lhs",
+      "100": "Anime_Masi_Park."
+    },
+    "[ANIM118]": {
+      "3": "ANIM_STD_BIKE_PULLUP_RHS",
+      "5": "ANIM_STD_BIKE_PULLUP_RHS",
+      "20": "ANIM_STD_STATE_RHS",
+      "50": "animation_std_bullet_in_rhs: .",
+      "100": "6 lines"
+    },
+    "[ANIM119]": {
+      "3": "ANIM_STD_BIKE_SCHOOL_LHS",
+      "5": "ANIM_STD_BIC_SIDE_LHS",
+      "20": "Start at STD_Line_Bike_LHS",
+      "50": "Use ANIM_STD_BIKE_ELBOV_LHS.",
+      "100": "std_velock_lhs_code"
+    },
+    "[ANIM120]": {
+      "3": "ANIM_STD_BIKE_METHOD_RHS",
+      "5": "FRONT_STD_BIKE_NOW_RHS",
+      "20": "first_row_bike_lane_rhs",
+      "50": "Use ANIM_STD_BIKE_ELBOV_RHS.",
+      "100": "Chetan_std_velock_rhs_description_code"
+    },
+    "[ANIM121]": {
+      "3": "ANIM_STD_BIKE_FAILURE",
+      "5": "ANIM_STD_BICYCLE",
+      "20": "FRONT_STD_BIKE_OVER",
+      "50": "Enter ANIM_STD_BIKE.",
+      "100": "Biography Shash_st. He gave her a smile"
+    },
+    "[ANIM122]": {
+      "3": "ANIM_STD_BIKE_BROTHERS",
+      "5": "ANIM_STD_BIKE_FALLBACK",
+      "20": "FRONT_STD_BIC_LINE",
+      "50": "page FRONT_STD_BIKE_FALLBACK.",
+      "100": "The values are ANIM_STD_BYCLE"
+    },
+    "[ANIM123]": {
+      "3": "ANIM_STD_GETOUT_RHS",
+      "5": "ANIM_STD_GETOUT_RHS function",
+      "20": "anime_std_output_rhs",
+      "50": "Use ANIM_STD_GETOUT_RHS.",
+      "100": "ses_std_hn_ ."
+    },
+    "[ANIM124]": {
+      "3": "ANIM_STD_GETOUT_LO_RHS",
+      "5": "ANIM_STD_GETOUT_LO_RHS function",
+      "20": "ANIM_STD_GETOUT_LO_RHS",
+      "50": "Anime_std_by_rhs:.",
+      "100": "anti_std_trace_pattern."
+    },
+    "[ANIM125]": {
+      "3": "ANIM_STD_CAR_CLOSE_RHS",
+      "5": "ANIM_STD_WEEK_END_RHS",
+      "20": "ANIM_STD_VEHICLE_OFF_OFF_RHS",
+      "50": "Anime_std_run_is_rhs:.",
+      "100": "pre_std_post_end ."
+    },
+    "[ANIM126]": {
+      "3": "ANIM_STD_CAR_HOOKERTALK",
+      "5": "ANIM_STD_OPEN_HOOKERTALK;",
+      "20": "ANIM_STD_VEHICLE_HOOKERTALK",
+      "50": "Anime_tub_std_hokertalk.",
+      "100": "picture_std_open_hookertalk;"
+    },
+    "[ANIM127]": {
+      "3": "ANIM_STD_TRAIN_GETIN:",
+      "5": "FRONT_STD_TRAINING_ROOM",
+      "20": "ANIM_STD_TRAIN_GET",
+      "50": "Anime_std_rel_location: .",
+      "100": "DIM_STD_CURRENT : ."
+    },
+    "[ANIM128]": {
+      "3": "ANIM_STD_TRAIN_GETOUT:",
+      "5": "FRONT_STD_TRAINING_ROOM",
+      "20": "ANIM_STD_TRAIN_GATOUT",
+      "50": "Read anime_std_",
+      "100": "train_call_animation:."
+    },
+    "[ANIM129]": {
+      "3": "ANIM_STD_CRAWLOUT_LHS",
+      "5": "ANIM_STD_CRAWLOUT_LHS",
+      "20": "Use ANIM_STD_CRAWLOUT_LHS.",
+      "50": "anime_std_crolot_lhs",
+      "100": "Use ANIM_STD_CAVLOUT_LHS"
+    },
+    "[ANIM130]": {
+      "3": "ANIM_STD_CRAWLOUT_RHS",
+      "5": "ANIM_STD_CRAWLOUT_RHS",
+      "20": "ANIM_STD_CRAWLOUT_RHS.",
+      "50": "anime_std rhs_production",
+      "100": "first_perimeter_col_rhs"
+    },
+    "[ANIM131]": {
+      "3": "ANIM_STD_ROLLOUT_LHS",
+      "5": "ANIM_STD_ROLLOUT_LHS",
+      "20": "ANIM_STD_BEGINNING_LHS.",
+      "50": "anime_std_set.lhs",
+      "100": "anime_std_receive_lahs."
+    },
+    "[ANIM132]": {
+      "3": "ANIM_STD_ROLLOUT_RHS",
+      "5": "ANIM_STD_ROLLOUT_RHS",
+      "20": "ANIM_STD_BEGINNING_RHS.",
+      "50": "anime_std_set.rhs",
+      "100": "anime_stud_receive_secret."
+    },
+    "[ANIM133]": {
+      "3": "ANIM_STD_GET_UP",
+      "5": "ANIM_STD_GET_UP",
+      "20": "Remove anime_std_on",
+      "50": "create_anime_stdstart",
+      "100": "On the other hand."
+    },
+    "[ANIM134]": {
+      "3": "ANIM_STD_GET_UP_LEFT",
+      "5": "ANIM_STD_GET_UP_LEFT",
+      "20": "ANIM_STD_GET_GORE_LEFT",
+      "50": "previous stock_state_.",
+      "100": "and animation_std_j.et"
+    },
+    "[ANIM135]": {
+      "3": "ANIM_STD_GET_UP_RIGHT",
+      "5": "ANIM_STD_GET_UP_RIGHT",
+      "20": "Do ANIM_STD_GET_UP_RIGHT",
+      "50": "Enter first_request",
+      "100": "That's all I mean."
+    },
+    "[ANIM136]": {
+      "3": "ANIM_STD_GET_UP_FRONT",
+      "5": "ANIM_STD_GET_UP_FRONT",
+      "20": "ANIM_STD_GET_UP_FRONT",
+      "50": "anime_std_a must be created first",
+      "100": "Ducky_White_V. This is a very good thing."
+    },
+    "[ANIM137]": {
+      "3": "ANIM_STD_JUMP_LAUNCH",
+      "5": "ANIM_STD_JUMP_LAUNCH",
+      "20": "ANIM_STD_JUMP_LAUNCH",
+      "50": "First fire",
+      "100": "It is not easy to break old habits."
+    },
+    "[ANIM138]": {
+      "3": "ANIM_STD_JUMP_GLIDE",
+      "5": "ANIM_STD_JUMP_GLIDE",
+      "20": "ANIM_STD_JUMP_SLIDE",
+      "50": "ANIM_STD_JUMP_GLIDE occurs.",
+      "100": "Standing animals:"
+    },
+    "[ANIM139]": {
+      "3": "ANIM_STD_JUMP_LAND",
+      "5": "anime_std_land_jump",
+      "20": "ANIM_STD_JUMP_DOWN",
+      "50": "first_prefix_county_code",
+      "100": "last_city"
+    },
+    "[ANIM140]": {
+      "3": "ANIM_STD_FALL",
+      "5": "anim_std_fall",
+      "20": "ANIM_STD_SPELLING",
+      "50": "Ks_STD_STAD None",
+      "100": "Continued by FRONT_STD_"
+    },
+    "[ANIM141]": {
+      "3": "ANIM_STD_FALL_GLIDE",
+      "5": "anime_std_fall_slide",
+      "20": "FORWARD_STD_CONTINUED",
+      "50": "next_std_glide_command_note",
+      "100": "anime_std_gales Japan:."
+    },
+    "[ANIM142]": {
+      "3": "ANIM_STD_FALL_LAND",
+      "5": "Anim_std_fall_land",
+      "20": "ANIM_STD_GROUND_LOW",
+      "50": "_std_ Result limit",
+      "100": "What is ANIM_STD_FAIL?"
+    },
+    "[ANIM143]": {
+      "3": "ANIM_STD_FALL_COLLAPSE",
+      "5": "anime_std_fall_fall",
+      "20": "FACE_STD_NOT_DROPPING",
+      "50": "Ks_STD_STAD None",
+      "100": "Continued by FRONT_STD_"
+    },
+    "[ANIM144]": {
+      "3": "ANIM_STD_FALL_ONBACK",
+      "5": "ANIM_STD_BURN_CLOCK",
+      "20": "ANIM_STD_FALL_Writer.",
+      "50": "ENTER_FIRST_STD_CONTACT",
+      "100": "FRONT_STD_EXTERNAL is external."
+    },
+    "[ANIM145]": {
+      "3": "ANIM_STD_FALL_OFRONT",
+      "5": "ANIM_STD_DESCRIPTION",
+      "20": "ANIM_STD_LOTE",
+      "50": "SIX_STD_Fall_.",
+      "100": "Open anime_std."
+    },
+    "[ANIM146]": {
+      "3": "ANIM_STD_EVADE_STEP",
+      "5": "FRONT_STD_EVADE_WRITE",
+      "20": "SYMBOL_STD_EVADE_BURST.",
+      "50": "Returns ANIM_STD_EVADE_STEP.",
+      "100": "There is anime_STD."
+    },
+    "[ANIM147]": {
+      "3": "ANIM_STD_EVADE_DIVE",
+      "5": "ANIM_STD_EVADE_NOTE",
+      "20": "ANIM_STD_EVADE_DIVE (message).",
+      "50": "SIX_STD_EVADE_DIVE:.",
+      "100": "ANIM_STD_Escape Hello Hello!"
+    },
+    "[ANIM148]": {
+      "3": "ANIM_STD_COMMANDO_ROLL",
+      "5": "ANIM_STD_GOOD_TIME",
+      "20": "ANIM_STD_ROLE",
+      "50": "face_std_cocktail :.",
+      "100": "SIKS_STD_MAIN Function"
+    },
+    "[ANIM149]": {
+      "3": "ANIM_STD_XPRESS_PRESS",
+      "5": "ANIM_STD_XPRESS",
+      "20": "ANIM_STD_XPRESS Name.",
+      "50": "ONOSTD_XPRS",
+      "100": "FRONT_STD_XPRESS is very good."
+    },
+    "[ANIM150]": {
+      "3": "ANIM_STD_ROUTE",
+      "5": "ANIM_STD_TAPE DEFINITION",
+      "20": "FRONT_STD_METHOD.",
+      "50": "Face painting.",
+      "100": "Supports normal display."
+    },
+    "[ANIM151]": {
+      "3": "ANIM_STD_CONSTRUCTION180",
+      "5": "FRONT_STD_TURN180",
+      "20": "Anime_Stad_Turning180",
+      "50": "180 items",
+      "100": "class_std 180 variable"
+    },
+    "[ANIM152]": {
+      "3": "ANIM_STD_HOLDING",
+      "5": "ANIM_STD_DEFINITION",
+      "20": "ANIM_STD_CLOSE.",
+      "50": "SITA_STD_CONTROL",
+      "100": "Supports normal display."
+    },
+    "[ANIM153]": {
+      "3": "ANIM_STD_SINKING",
+      "5": "ANIM_STD_DELIVERY",
+      "20": "anime_STDDROVN",
+      "50": "Error_LA_STD",
+      "100": "The family structure is different."
+    },
+    "[ANIM154]": {
+      "3": "ANIM_STD_DUCK_DOWN",
+      "5": "ANIM_STD_WAIT_DOWN",
+      "20": "anime_stud_dove_down",
+      "50": "Five_std_pigeon_IOU",
+      "100": "returns std_dock_land"
+    },
+    "[ANIM155]": {
+      "3": "ANIM_STD_DUCK_LOW",
+      "5": "ANIM_STD_WAITING_HUNT",
+      "20": "anime_std_duck_low:",
+      "50": "FRONT_STD_End",
+      "100": "Description Std_Dark_World"
+    },
+    "[ANIM156]": {
+      "3": "ANIM_STD_DUCK_WEAPON",
+      "5": "ANIM_STD_WAIT_WEAPON",
+      "20": "anime_std_duck_weapon",
+      "50": "FRONT_STD_DAY_DEF",
+      "100": "directory_stdport_."
+    },
+    "[ANIM157]": {
+      "3": "ANIM_STD_RBLOCK_SHOOT",
+      "5": "ANIM_STD_RBLOCK_TRAINING",
+      "20": "anime_study_arblock_shooting",
+      "50": "FRONT_STD_RBLOCK is enabled.",
+      "100": "skip_std_rblock_true-1.skip_std_rblock_true."
+    },
+    "[ANIM158]": {
+      "3": "ANIM_STD_HANDSUP",
+      "5": "ANIM_STD_MANUAL INSTALLATION",
+      "20": "anime_std_start",
+      "50": "and FRONT_STD_FRONT",
+      "100": "Handshake: Handshake: Handshake:"
+    },
+    "[ANIM159]": {
+      "3": "ANIM_STD_ARM GROUP",
+      "5": "SIX_STD_COMMUNITY HANDS",
+      "20": "BEFORE_STD_HANDS",
+      "50": "animation_std_arm.",
+      "100": "Connection_STD_A-1.1."
+    },
+    "[ANIM160]": {
+      "3": "ANIM_STD_CHAREL_FUCKU",
+      "5": "SIX_STD_PARTIAL_FUCKU",
+      "20": "FRONT_STD_STATE_FUCKU",
+      "50": "anime_std_fakku_part.",
+      "100": "PROBLEM_STD_Fukku_ predicted:"
+    },
+    "[ANIM161]": {
+      "3": "ANIM_STD_PHONE_IN_LOG",
+      "5": "SIX_STD_PHONE",
+      "20": "FRONT_STD_PHONE_IN",
+      "50": "End call.",
+      "100": "FRONT_STD_FRONT_STD"
+    },
+    "[ANIM162]": {
+      "3": "ANIM_STD_PHONE_OUT",
+      "5": "SIX_STD_PHONE_OUT",
+      "20": "FRONT_STD_PHONE",
+      "50": "e_std_external_phone.",
+      "100": "first_STD_CALL_START"
+    },
+    "[ANIM163]": {
+      "3": "ANIM_STD_PHONE_LANGUAGE",
+      "5": "SIX_STD_PHONE_LANGUAGE",
+      "20": "FRONT_STD_PHONE",
+      "50": "uniform_stdphone_language.",
+      "100": "This is FRONT_STD_PHONE"
     }
   }
 }
