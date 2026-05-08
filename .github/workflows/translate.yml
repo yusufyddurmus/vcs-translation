@@ -35,7 +35,7 @@ jobs:
 
       - name: Run HyperTranslator
         run: |
-          python hypertrans_cli.py translate source/ENGLISH.TXT --output canditates/batch5.json \
+          python hypertrans_cli.py translate source/ENGLISH.TXT --output candidates/batch5.json \
             --batch 5 \
             --resume
 
