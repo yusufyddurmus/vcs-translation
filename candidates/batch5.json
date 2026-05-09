@@ -6063,6 +6063,2071 @@
       "20": "In the past",
       "50": "Maybe on local TV",
       "100": "Watch TV at home"
+    },
+    "[CHASE11]": {
+      "3": "UFA Today p",
+      "5": "DIE TODAY p",
+      "20": "Today, UEFA has 12 seats",
+      "50": "UEFA starts today.",
+      "100": "uefa today time 14.14.14.14.14"
+    },
+    "[CHASE12]": {
+      "3": "Page 4 of UFA Today",
+      "5": "DIE Today page",
+      "20": "UEFA today at 16:0",
+      "50": "UEFA starts today.",
+      "100": "uefa today"
+    },
+    "[CHASE13]": {
+      "3": "Pictured at UFA Today",
+      "5": "Photo from UFA Today",
+      "20": "Today’s UEFA photo",
+      "50": "Photos from today's UEFA match",
+      "100": "uefa photo"
+    },
+    "[CHASE14]": {
+      "3": "National TV has 4",
+      "5": "National TV at 4pm",
+      "20": "on national television at 4 p.m",
+      "50": "4 hours of public television",
+      "100": "4:00 PM TV program commentary, encyclopedia"
+    },
+    "[CHASE15]": {
+      "3": "national television news",
+      "5": "A national television news station",
+      "20": "It is broadcast on national television",
+      "50": "Alvirado newspaper",
+      "100": "power"
+    },
+    "[CHASE16]": {
+      "3": "National TV live coverage",
+      "5": "It is broadcast live on national television.",
+      "20": "It will be broadcast on the television channels of the Republic.",
+      "50": "on National TV",
+      "100": "news tv"
+    },
+    "[CHASE17]": {
+      "3": "International news",
+      "5": "International news",
+      "20": "World news",
+      "50": "world affairs",
+      "100": "Global news."
+    },
+    "[CHASE18]": {
+      "3": "A national emergency",
+      "5": "A national crisis",
+      "20": "I am very fast",
+      "50": "world affairs",
+      "100": "as needed"
+    },
+    "[CHASE19]": {
+      "3": "international crisis",
+      "5": "An international crisis",
+      "20": "Global problem",
+      "50": "Global problems",
+      "100": "This is a global problem."
+    },
+    "[CHASE20]": {
+      "3": "World events",
+      "5": "A global phenomenon",
+      "20": "Worldview",
+      "50": "Available worldwide",
+      "100": "It is an international organization."
+    },
+    "[CHASE21]": {
+      "3": "Narrative stuff",
+      "5": "Story products",
+      "20": "The old story",
+      "50": "This is a big problem",
+      "100": "Bu taryh."
+    },
+    "[OUTFITS]": {
+      "3": "Clothes are ready",
+      "5": "Cheap clothes",
+      "20": "There is still time",
+      "50": "You can use it to cover",
+      "100": "Munuň manysy şu"
+    },
+    "[FEST_OO]": {
+      "3": "from",
+      "5": "Outside the box",
+      "20": "It is not so",
+      "50": "It's inside me",
+      "100": "Bu ýerde näme bolýar?"
+    },
+    "[FEST_LS]": {
+      "3": "The patient was saved",
+      "5": "Patients survive",
+      "20": "The patient was cured.",
+      "50": "He takes care of patients.",
+      "100": "Näsag bejerildi."
+    },
+    "[FEST_HA]": {
+      "3": "Advanced 'Amedik'",
+      "5": "\"paramedics\" at the highest level.",
+      "20": "The \"other\" number.",
+      "50": "The first line is \"help\".",
+      "100": "Now"
+    },
+    "[FEST_CC]": {
+      "3": "Absolute alertness judges",
+      "5": "Perfect careful judgment is served",
+      "20": "This decision is wise.",
+      "50": "They are all waiting to be hanged.",
+      "100": "Thank you for all your work."
+    },
+    "[FEST_HV]": {
+      "3": "'vigilante' of the highest order.",
+      "5": "\"Guardian\" of the highest level.",
+      "20": "The highest level of thought is \"thought.\"",
+      "50": "\"mind\".",
+      "100": "He was in pain."
+    },
+    "[FEST_FE]": {
+      "3": "All the fires are extinguished",
+      "5": "Сите пожари се изгаснати",
+      "20": "All fires burn.",
+      "50": "Turn on all appliances",
+      "100": "Close the bar."
+    },
+    "[FIRELVL]": {
+      "3": "'Firefighters' of the highest order.",
+      "5": "Highest firefighter level",
+      "20": "\"Great fire resistance.\"",
+      "50": "\"Storytelling\" is better.",
+      "100": "Firefighters need more equipment."
+    },
+    "[PASDRO]": {
+      "3": "Overall, prices have gone down",
+      "5": "Overall price reduction",
+      "20": "Total amounts may be reduced.",
+      "50": "Cheap price",
+      "100": "Service tax is deductible."
+    },
+    "[MONTAX]": {
+      "3": "Earn money as a taxi driver",
+      "5": "Being paid as a taxi driver",
+      "20": "Like a taxi driver.",
+      "50": "Have a go.",
+      "100": "I worked as a taxi driver"
+    },
+    "[FEC_LFA]": {
+      "3": "See / Good aim",
+      "5": "Look / aim well",
+      "20": "Good looks/design.",
+      "50": "I am happy / happy.",
+      "100": "Banks issue fake money"
+    },
+    "[FEC_SMT]": {
+      "3": "This is a special mission",
+      "5": "special message",
+      "20": "Great news.",
+      "50": "Goals are important",
+      "100": "I am very excited"
+    },
+    "[FEC_CWT]": {
+      "3": "Cycle weapon/target",
+      "5": "Round weapon/target",
+      "20": "con/character.",
+      "50": "Armor / Armour",
+      "100": "The matter is very serious"
+    },
+    "[FEC_FRA]": {
+      "3": "This is a free target",
+      "5": "Independent goal",
+      "20": "Shot from a free kick.",
+      "50": "Gift Box |",
+      "100": "Freedom of thought"
+    },
+    "[FEC_MOV]": {
+      "3": "movement",
+      "5": "Sports equipment.",
+      "20": "Work to accomplish something",
+      "50": "Let’s go for a walk",
+      "100": "what are you doing?"
+    },
+    "[FEC_CAM]": {
+      "3": "Camera modes",
+      "5": "Photo mode.",
+      "20": "Camera type",
+      "50": "The camera system is activated",
+      "100": "It’s a beautiful sight."
+    },
+    "[FEC_TAR]": {
+      "3": "a goal",
+      "5": "Set goals.",
+      "20": "why is that",
+      "50": "in political matters",
+      "100": "He stands on his feet"
+    },
+    "[FEC_ENV]": {
+      "3": "Get in the car",
+      "5": "Get in the car.",
+      "20": "It's right there",
+      "50": "sleeping in the car",
+      "100": "I'll wake up."
+    },
+    "[FEC_ATT]": {
+      "3": "Assault/firearm",
+      "5": "Assault/Firearms.",
+      "20": "Assault / Military",
+      "50": "Add/source",
+      "100": "about heat/fire"
+    },
+    "[FEC_RUN]": {
+      "3": "Run",
+      "5": "Kach",
+      "20": "fight",
+      "50": "Implement the solution",
+      "100": "We left the city"
+    },
+    "[FEC_JUM]": {
+      "3": "Jump up",
+      "5": "Jump on it",
+      "20": "Oh friend",
+      "50": "I like that.",
+      "100": "think well"
+    },
+    "[FEC_PAU]": {
+      "3": "Wait",
+      "5": "take a break",
+      "20": "Holiday",
+      "50": "It's a movement",
+      "100": "my father works"
+    },
+    "[FEC_CW]": {
+      "3": "A round weapon",
+      "5": "It’s a tool cycle",
+      "20": "I need a bicycle",
+      "50": "Weapons were sold.",
+      "100": "technology"
+    },
+    "[FEC_LOF]": {
+      "3": "Look",
+      "5": "It's black",
+      "20": "I see",
+      "50": "Let's look at this first.",
+      "100": "Try this recipe!"
+    },
+    "[FEC_RSC]": {
+      "3": "Radio cycle",
+      "5": "Tamilo Araleo Letio",
+      "20": "listen to the radio",
+      "50": "This is the radio",
+      "100": "Like the highway."
+    },
+    "[FEC_HOR]": {
+      "3": "horn",
+      "5": "wow",
+      "20": "Complete the survey.",
+      "50": "Human teeth",
+      "100": "This is what it does"
+    },
+    "[FEC_VES]": {
+      "3": "Vehicle control",
+      "5": "Vehicle test",
+      "20": "State transport.",
+      "50": "Program preparation.",
+      "100": "he asked with a smile"
+    },
+    "[FEC_HAB]": {
+      "3": "handbrake",
+      "5": "hold your hands",
+      "20": "His arm is broken.",
+      "50": "Protect it with your own hands.",
+      "100": "He is not and never will be."
+    },
+    "[FEC_EXV]": {
+      "3": "Launch vehicle",
+      "5": "parking",
+      "20": "it was enough",
+      "50": "Get out of the car.",
+      "100": "going"
+    },
+    "[FEC_ACC]": {
+      "3": "Ti chak rawh",
+      "5": "High speed",
+      "20": "They are scattered.",
+      "50": "Act quickly",
+      "100": "Duda Akshana: Yes"
+    },
+    "[FEC_BRA]": {
+      "3": "Brake or reverse",
+      "5": "Brake or reverse",
+      "20": "of rejection or otherwise",
+      "50": "Buy or trade",
+      "100": "Can't you come back?"
+    },
+    "[FEC_LL]": {
+      "3": "Look to the left",
+      "5": "Look to your left",
+      "20": "Look to the left.",
+      "50": "look to the left",
+      "100": "See the link"
+    },
+    "[FEC_LR]": {
+      "3": "Look at it honestly",
+      "5": "Look to the right",
+      "20": "Look to the right",
+      "50": "Check here",
+      "100": "Dakshinaparaswami Pashyanthu"
+    },
+    "[FEC_HBB]": {
+      "3": "Handbrake is available",
+      "5": "And the handbrake",
+      "20": "with your mobile phone",
+      "50": "this is the name",
+      "100": "work"
+    },
+    "[SS_DEC]": {
+      "3": "Do you want to save this screenshot to your Memory Stick™? Click to save or click to return to the game.",
+      "5": "Do you want to save this screenshot in memory? Click to save or return to the game.",
+      "20": "So you want to make a memory card? Tap to save or rewind a song.",
+      "50": "Do you want to save this image to a Memory Stick™? Click here to save and return to the game.",
+      "100": "Do you want to make this picture interesting? Save your game and return to the game."
+    },
+    "[SS_NOM]": {
+      "3": "There is no Memory Stick™ on the PSP. If you want to save this screenshot, place it on a Memory Stick™ and click to save or click to return to the game.",
+      "5": "There is no memory in the PSP. If you want to save this screenshot, tap Memory Stick and then press or hold Save to return to the game.",
+      "20": "The PSP does not have a Memory Stick™. To save the image, insert a Memory Stick™ card and click Save or click to return to the game.",
+      "50": "The PSP does not have a memory card. Type Memorial™ to save the image and press save to return to the game.",
+      "100": "PSP Memory™ game console."
+    },
+    "[SS_NOS]": {
+      "3": "The Memory Stick™ is not a disk. If you want to save the screenshot, insert enough space on the Memory Stick™ on your disk, then click save or click to return to the game.",
+      "5": "Memory st Insufficient disk space. If you want to save this screenshot, insert a memory stick with enough disk space, then click Save or return to the game.",
+      "20": "There is not enough disk space in the Notes™ folder. To save the image, insert a memory card with enough disk space and click Save or Return to Game.",
+      "50": "If there is not enough space on your Memory Stick™, insert a Memory Stick™ to record video. Then press the button to save the game and return to the game.",
+      "100": "Go to Screen and press Hold."
+    },
+    "[SS_WAI]": {
+      "3": "Wait... Save... Do not remove the Memory Stick™ or go to suspend mode until the storage is complete.",
+      "5": "Wait... Save... Do not delete memory or enter suspend until the save is complete.",
+      "20": "Please... Recovery... Do not remove the Memory Stick™ or enter sleep mode until recovery is complete.",
+      "50": "Wait a moment... Caution... Do not remove the Memory Stick™ or put it to sleep until the program is complete.",
+      "100": "Amon is twelve"
+    },
+    "[SS_SUC]": {
+      "3": "It's worth saving! Images of the Memory Stick™ card in the PSP/SAVEDATA/ULUX80212_SCREENSHOTS folder. Click to return to the game.",
+      "5": "Save successfully! Screenshots are saved in the PSP/SAVEDATA/ULX80212_SCREENSHOTS Memory™ folder. Click to return to the game.",
+      "20": "Earn money! Save Screenshots to Memory Stick™ in PSP/SAVEDATA/ULUX80212_SCREENSHOTS Click to return to game",
+      "50": "The file will be saved in the folder. PSP/SAVEDATA/ULUX80212_SCREENSHOTS on Memory Stick™ for backup purposes. Click here to return to the game.",
+      "100": "Save this image to your memory card in the PSP/SAVEDATA/ULUKS80212_SCREENSHOTS folder."
+    },
+    "[SS_ERR]": {
+      "3": "Error while saving. Have you removed the Memory Stick™ or entered sleep mode? If you want to try again, press to save and press to return to the game.",
+      "5": "An error occurred while recording. Have you removed your Memory Stick™ or entered suspend mode? If you want to try again, press save or return to the game.",
+      "20": "It is difficult to maintain. Have you removed the Memory Stick™ or entered sleep mode? Click save and try to return to the game.",
+      "50": "An error occurred during registration. Are you thinking about guilt or sleep? Click Save or Restart Game to try again.",
+      "100": "Having trouble saving and returning to the game."
+    },
+    "[LOADING]": {
+      "3": "Loading... Please wait",
+      "5": "Loading... so please wait.",
+      "20": "Loading... stop.",
+      "50": "It works...wait.",
+      "100": "Hello... good night"
+    },
+    "[AUTOLD]": {
+      "3": "Do not remove or turn off the Memory Stick™ when downloading from the Memory Stick™.",
+      "5": "Do not remove the Memory Stick™ or turn off the power while the Memory Stick™ is being charged.",
+      "20": "Do not remove the memory card or turn off the power when replacing the memory stick.",
+      "50": "To edit the contents of the Memory Stick™, remove and destroy the Memory Stick.",
+      "100": "Do not unplug or unplug the device after inserting the card."
+    },
+    "[LDFAIL]": {
+      "3": "Upload failed. Save data corruption.",
+      "5": "Loading is not complete. Bad data storage.",
+      "20": "The company is missing. The database is corrupted.",
+      "50": "This is not an easy question. Privacy breached",
+      "100": "Bad words are not good words."
+    },
+    "[LDWAIT]": {
+      "3": "Press to continue.",
+      "5": "Click to continue.",
+      "20": "Click to continue.",
+      "50": "Click here to continue.",
+      "100": "Then press the button."
+    },
+    "[MEMCHKA]": {
+      "3": "Memory Stick™ not found. Diagnosis",
+      "5": "Memory Stick™ not found. At least",
+      "20": "Memory™ is not available. It doesn't happen to everyone",
+      "50": "Memory conflict. Two days",
+      "100": "The system does not support memory card software"
+    },
+    "[MEMCHKB]": {
+      "3": "The data of this game should be saved.",
+      "5": "This is required to save this game data.",
+      "20": "This game requires saving data.",
+      "50": "Saving your game data should support it.",
+      "100": "Purchase information"
+    },
+    "[MEMCHKC]": {
+      "3": "Not enough space on the Memory Stick™. Diagnosis",
+      "5": "There is not enough space on the Memory Stick™. At least",
+      "20": "Insufficient memory space. It doesn't happen to everyone",
+      "50": "There is not enough space on the memory card™. Two days",
+      "100": "The memories remain intact. Thank you for you"
+    },
+    "[MEMCHKD]": {
+      "3": "The data of this game should be saved.",
+      "5": "This is required to save this game data.",
+      "20": "This game requires saving data.",
+      "50": "Saving your game data should support it.",
+      "100": "Purchase information"
+    },
+    "[LDCHK1]": {
+      "3": "Any unsaved progress in your current game will be lost. Continue loading?",
+      "5": "All unsaved courses in your current game will be lost. carry on?",
+      "20": "Any unsaved progress in the current game will be lost. Do you want to continue writing?",
+      "50": "Any progress saved in the game will now be lost. Write more",
+      "100": "This is not a secret. Want to move?"
+    },
+    "[LDCHK2]": {
+      "3": "Do you want to continue downloading?",
+      "5": "Honesty and openness?",
+      "20": "Still charging?",
+      "50": "Is there no need to drink?",
+      "100": "Are they still under warranty?"
+    },
+    "[SVREST]": {
+      "3": "FIXED GAMES",
+      "5": "Back to games",
+      "20": "Let’s get back to the game.",
+      "50": "Playing the game",
+      "100": "Go to the store."
+    },
+    "[SVGAME]": {
+      "3": "SALVATION POPE",
+      "5": "Save the game",
+      "20": "They should play the game.",
+      "50": "Enjoy the joy",
+      "100": "Open the game."
+    },
+    "[NEWCHK1]": {
+      "3": "Are you sure you want to start a new game? All progress since the last save is lost. To continue?",
+      "5": "Are you sure you want to start a new game? All game progress will be lost on the last save. Should I continue?",
+      "20": "Want to start a new game? All previously saved games will be lost. Are we going to continue?",
+      "50": "Want to start a new game? All previous saves will be lost. Let’s go",
+      "100": "Want to start a new hobby? Then they all leave. I will give it to you."
+    },
+    "[SAVD_SH]": {
+      "3": "safe house.",
+      "5": "Security",
+      "20": "It is a safe place.",
+      "50": "In the patient’s home",
+      "100": "This is your family."
+    },
+    "[SAVD_ES]": {
+      "3": "Empire State Building.",
+      "5": "Place of government.",
+      "20": "Royal city",
+      "50": "part of the middle",
+      "100": "Anywhere in the world"
+    },
+    "[SAVD_BE]": {
+      "3": "the beach",
+      "5": "the beach",
+      "20": "the sea",
+      "50": "on the beach",
+      "100": "It is in the sea"
+    },
+    "[SAVD_ML]": {
+      "3": "The countryside.",
+      "5": "the continent",
+      "20": "In the African climate",
+      "50": "on the island",
+      "100": "I am a big man"
+    },
+    "[SAVD_DY]": {
+      "3": "the sun",
+      "5": "days",
+      "20": "to work",
+      "50": "Andrei's name",
+      "100": "a robot"
+    },
+    "[SAVD_CO]": {
+      "3": "It's finished.",
+      "5": "perfection",
+      "20": "This is absolutely true",
+      "50": "how is it going to be",
+      "100": "from heaven"
+    },
+    "[SAVD_AL]": {
+      "3": "Beach. Rich place, Vicepoint. $57,640 at 71 days. 17% completed.",
+      "5": "beach Empire website, Deputy. 71 days, $57,640. 17% was produced.",
+      "20": "Coastal Empire Post, Postmaster. Day 71: $57,640. 17% developed the disease.",
+      "50": "Empire Station Beach View price increased by 57,640.17% in 71 days.",
+      "100": "Headquarters, Central, 71 days, $57,640, 17% capacity."
+    },
+    "[SAV_SLT]": {
+      "3": "This is a new save",
+      "5": "Save new",
+      "20": "Another answer",
+      "50": "New ideas",
+      "100": "Select your device"
+    },
+    "[FEST_SH]": {
+      "3": "All shoplifters arrested",
+      "5": "All the sellers were arrested",
+      "20": "All the thieves were caught",
+      "50": "Fight against theft.",
+      "100": "This is understandable."
+    },
+    "[FEA_UT]": {
+      "3": "Unknown track",
+      "5": "unknown path",
+      "20": "A song they don't know",
+      "50": "unknown music",
+      "100": "Curtain making tutorial"
+    },
+    "[FLINST]": {
+      "3": "Crazy and flamboyant waterfall",
+      "5": "Crazy and amazing waterfall",
+      "20": "Turn off the fire",
+      "50": "Breathing fire is crazy.",
+      "100": "This is the month"
+    },
+    "[DBFINS]": {
+      "3": "Doubly wonderful events",
+      "5": "Crazy double drops",
+      "20": "This is a stupidity",
+      "50": "The fire was too strong for two people.",
+      "100": "Both sides"
+    },
+    "[FLTRST]": {
+      "3": "A triply wonderful event",
+      "5": "Triple crazy seed",
+      "20": "Three tips for Black Fire",
+      "50": "Three steps crazy",
+      "100": "The third answer."
+    },
+    "[FQUINS]": {
+      "3": "The events of Four Burning Things",
+      "5": "Heat Melting Square is crazy.",
+      "20": "Wired quads are crazy.",
+      "50": "Magic is always awake.",
+      "100": "There are 4 letters."
+    },
+    "[ST_BSDR]": {
+      "3": "Excellent score in distance",
+      "5": "The best point in the driving range",
+      "20": "They can have a better driving experience",
+      "50": "Classroom repair",
+      "100": "Then drink it."
+    },
+    "[ST_HDDR]": {
+      "3": "Maximum range (m)",
+      "5": "Longest distance traveled (m)",
+      "20": "Maximum distance (m) .",
+      "50": "Distance (m)",
+      "100": "From last night"
+    },
+    "[ST_GNG2]": {
+      "3": "cholo",
+      "5": "Koro",
+      "20": "let's go",
+      "50": "Light the fire.",
+      "100": "Comedian actor"
+    },
+    "[ST_GNG3]": {
+      "3": "Sharks",
+      "5": "Mango",
+      "20": "It is a big fish",
+      "50": "It's a shark.",
+      "100": "This is called evidence."
+    },
+    "[ST_GNG4]": {
+      "3": "the army",
+      "5": "army",
+      "20": "Army of honor",
+      "50": "Several soldiers",
+      "100": "El Armata is a Thai design."
+    },
+    "[ST_GNG5]": {
+      "3": "Security",
+      "5": "security",
+      "20": "Peace be with you",
+      "50": "There are security issues",
+      "100": "I left the group."
+    },
+    "[ST_GNG6]": {
+      "3": "Cyclists",
+      "5": "Bicycle",
+      "20": "He was riding a bicycle",
+      "50": "I'm driving a car",
+      "100": "I'm a human being."
+    },
+    "[ST_GNG7]": {
+      "3": "Vic's henchman",
+      "5": "Lady Vic",
+      "20": "Vic henchman",
+      "50": "Deputy Minister V.S.",
+      "100": "and Wicca"
+    },
+    "[ST_GNG8]": {
+      "3": "Golfer",
+      "5": "Golfers",
+      "20": "The golf ball",
+      "50": "used butter",
+      "100": "Some people like football players."
+    },
+    "[ST_GNG9]": {
+      "3": "Vic's henchman",
+      "5": "Lady Vic",
+      "20": "Vic henchman",
+      "50": "Deputy Minister V.S.",
+      "100": "and Wicca"
+    },
+    "[LG_46]": {
+      "3": "Stonewall J",
+      "5": "Stonewall J",
+      "20": "stone wall c",
+      "50": "Kiyoki G (1999).",
+      "100": "Steinmer , J. ( 1999 )."
+    },
+    "[MO_USJ]": {
+      "3": "Unique action",
+      "5": "It was a unique journey",
+      "20": "It is a special ceremony",
+      "50": "Various services",
+      "100": "Different file types vary."
+    },
+    "[MO_HP]": {
+      "3": "Red balloons",
+      "5": "Red balls",
+      "20": "red ball",
+      "50": "Seoul",
+      "100": "I need a blood test."
+    },
+    "[MO_EMP]": {
+      "3": "Show empire sites",
+      "5": "Show areas of the empire",
+      "20": "Check the official website.",
+      "50": "Go to the website",
+      "100": "This is a national problem."
+    },
+    "[MO_RAMP]": {
+      "3": "Ramps",
+      "5": "The name is Rampags",
+      "20": "an accident",
+      "50": "Oral response",
+      "100": "They got a gun."
+    },
+    "[MO_SH_C]": {
+      "3": "Show the discovered extras",
+      "5": "Show discovery apps",
+      "20": "He showed some results.",
+      "50": "big",
+      "100": "Test your skills."
+    },
+    "[LG_54]": {
+      "3": "Empire of damage",
+      "5": "Damned Empire",
+      "20": "The ground fell",
+      "50": "More than that",
+      "100": "Good people die."
+    },
+    "[LG_55]": {
+      "3": "Royal House",
+      "5": "The Building of the Empire",
+      "20": "On the creation of the Ottoman Empire",
+      "50": "in Sri Lanka.",
+      "100": "This is the meaning"
+    },
+    "[FEM_MAR]": {
+      "3": "mark the place",
+      "5": "Where is the symbol",
+      "20": "and housing",
+      "50": "give it to someone",
+      "100": "This is a regular box."
+    },
+    "[NOTRAK]": {
+      "3": "There is no dedicated soundtrack available at this time",
+      "5": "There is no traditional way",
+      "20": "There are no rules in music.",
+      "50": "There is no real sound.",
+      "100": "It's not a secret."
+    },
+    "[ST_PHOT]": {
+      "3": "Photo taken",
+      "5": "He took a photo",
+      "20": "it was revealed that the memory had been",
+      "50": "I am a figurehead.",
+      "100": "Take pictures"
+    },
+    "[CARSEXP]": {
+      "3": "Vehicles confiscated due to local economic deprivation",
+      "5": "Vehicles seized from public property",
+      "20": "Undercover vehicles are public property.",
+      "50": "The car stopped for a moment",
+      "100": "Delivery every day."
+    },
+    "[FEM_LEG]": {
+      "3": "A legend",
+      "5": "The legend of the universe",
+      "20": "This is an old story",
+      "50": "That's what happened",
+      "100": "It's part of the study."
+    },
+    "[ST_CRA]": {
+      "3": "Maximum loss due to \"accident\"",
+      "5": "Most losses through \"Cash\".",
+      "20": "Vasnali's car is the worst.",
+      "50": "\"The accident\" is the biggest accident that happened in the cinema.",
+      "100": "Money is a common problem."
+    },
+    "[BMX_MAL]": {
+      "3": "The fastest Machin time to price",
+      "5": "Fast time \"Mashin\" in the Mall",
+      "20": "It's time to quickly \"drive\" to the store.",
+      "50": "It is difficult to put a \"joke\" in its place.",
+      "100": "Close to the market"
+    },
+    "[ST_HOVA]": {
+      "3": "Fastest time in the harbor skill race",
+      "5": "Fastest time in the \"Horbor Hover Race\".",
+      "20": "The fastest time was the Harbor Hover race.",
+      "50": "Time to fly",
+      "100": "This method is quick and easy."
+    },
+    "[ST_HOVB]": {
+      "3": "Fastest time in the HAITI PERFLUO Race",
+      "5": "Haiti Hover is the fastest race",
+      "20": "Fastest race time in Haiti.",
+      "50": "The match against Haiti",
+      "100": "Now it's Heidi."
+    },
+    "[ST_SLGS]": {
+      "3": "The largest value of goods registered on the \"Crimewave\" list",
+      "5": "Save on high value products at Crimewave.",
+      "20": "The price is higher than the CrimeView account",
+      "50": "There are many things to do in the world.",
+      "100": "Grimwave is free."
+    },
+    "[ST_SLHL]": {
+      "3": "The highest level \"Crime Wave\".",
+      "5": "Advanced \"Crime Station\"",
+      "20": "The ultimate weapon of crime.",
+      "50": "The first series \"Criminal life\".",
+      "100": "- There is no doubt."
+    },
+    "[ST_ARHL]": {
+      "3": "The highest level \"Air Rescue\".",
+      "5": "The highest degree of \"soul saving\".",
+      "20": "High level of \"wind resistance\".",
+      "50": "The hunter is good.",
+      "100": "Scope of the original project."
+    },
+    "[ST_HTHL]": {
+      "3": "Highest level \"Bad Reviews\".",
+      "5": "The highest level of vice sites",
+      "20": "\"advanced search\".",
+      "50": "Updated \"Help\".",
+      "100": "\"dangerous\"."
+    },
+    "[ST_HTSW]": {
+      "3": "Sights in the \"Vice Sights\" category.",
+      "5": "Sites in vice sites",
+      "20": "Vicesop makes an opinion.",
+      "50": "This approach is based on an intelligent philosophy.",
+      "100": "We stayed put."
+    },
+    "[ST_FHHL]": {
+      "3": "'Fire Copter' of the highest level",
+      "5": "The highest level of \"Fire Helicopter\".",
+      "20": "\"Fireman\" above",
+      "50": "Today is the \"small plane\".",
+      "100": "Order from “Where the Treasure Was Found.”"
+    },
+    "[ST_BPHL]": {
+      "3": "The highest level \"Beach Patrol\"",
+      "5": "The highest level of \"Coast Patrol\".",
+      "20": "High Water Power",
+      "50": "\"The brave guards\".",
+      "100": "It's a triangle."
+    },
+    "[ST_ARFT]": {
+      "3": "Fastest time on 'Crims On Wings'",
+      "5": "The first time of \"Crime Ball\".",
+      "20": "The fastest time is \"cream\".",
+      "50": "Chickens do it",
+      "100": "This is a critical time."
+    },
+    "[ST_PCJ1]": {
+      "3": "Fastest time on 'Playground On The Town'",
+      "5": "Fasting in city sports",
+      "20": "It's time for \"Playground City.\"",
+      "50": "It works for a while",
+      "100": "It is the best stadium in the country."
+    },
+    "[ST_PCJ2]": {
+      "3": "Fastest time on 'Playground On The Point'",
+      "5": "Fastest time on the \"playground on the spot\".",
+      "20": "Time on the field is very fast.",
+      "50": "Play as fast as you can",
+      "100": "Now it's time to go to school."
+    },
+    "[ST_FTIM]": {
+      "3": "Fastest time",
+      "5": "Fast time",
+      "20": "From the first hour",
+      "50": "I have time for that",
+      "100": "This is the first sexual experience."
+    },
+    "[ST_FLAP]": {
+      "3": "Fastest lap",
+      "5": "Fast",
+      "20": "Look for Gerthog",
+      "50": "This is a tough game.",
+      "100": "He took a step back"
+    },
+    "[ST_BPOS]": {
+      "3": "Excellent location",
+      "5": "Nice condition",
+      "20": "A branch of mathematics",
+      "50": "It tastes good",
+      "100": "Amazing place"
+    },
+    "[DBIKEHE]": {
+      "3": "Dirt bike",
+      "5": "a bicycle",
+      "20": "Books and tutorials on motorcycles",
+      "50": "There was a man there",
+      "100": "Marines on board"
+    },
+    "[ST_C_01]": {
+      "3": "Period 1",
+      "5": "Application of 1st",
+      "20": "1.1 Study",
+      "50": "These are;",
+      "100": "This is a good book"
+    },
+    "[ST_C_02]": {
+      "3": "Course 2",
+      "5": "Lesson 2.1",
+      "20": "Another use",
+      "50": "Information gathering",
+      "100": "Like a child"
+    },
+    "[ST_C_03]": {
+      "3": "Course 3",
+      "5": "Lesson 3.1",
+      "20": "external device",
+      "50": "From the third round",
+      "100": "Like a child"
+    },
+    "[ST_C_04]": {
+      "3": "Course 4",
+      "5": "Lesson 4.1",
+      "20": "This is a lesson",
+      "50": "There are 4 stages",
+      "100": "Like a child"
+    },
+    "[ST_C_05]": {
+      "3": "Course 5",
+      "5": "Exercise 5.1",
+      "20": "Five requests",
+      "50": "General books",
+      "100": "Training is ongoing."
+    },
+    "[ST_C_06]": {
+      "3": "Course 6",
+      "5": "Exercise 6.1",
+      "20": "The sixth appeal",
+      "50": "11 What",
+      "100": "Like a child"
+    },
+    "[ST_C_07]": {
+      "3": "Lesson 7",
+      "5": "Course 7",
+      "20": "Curriculum",
+      "50": "There are seven types.",
+      "100": "you will see it"
+    },
+    "[ST_C_08]": {
+      "3": "Lesson 8",
+      "5": "Course 8",
+      "20": "Curriculum",
+      "50": "Eight students were accepted.",
+      "100": "you will see it"
+    },
+    "[ST_C_09]": {
+      "3": "Lesson 9",
+      "5": "Course 9",
+      "20": "Curriculum",
+      "50": "Exercise b",
+      "100": "Read and explain."
+    },
+    "[ST_C_10]": {
+      "3": "Lesson 10",
+      "5": "Course 10",
+      "20": "Curriculum",
+      "50": "10 participants received certificates.",
+      "100": "Methodology: 1.1."
+    },
+    "[ST_C_11]": {
+      "3": "Lesson 11",
+      "5": "Course 11",
+      "20": "Curriculum",
+      "50": "11 selected.",
+      "100": "Read and explain."
+    },
+    "[ST_C_12]": {
+      "3": "12th std",
+      "5": "The course",
+      "20": "Class XII",
+      "50": "On the board",
+      "100": "Actually, it is"
+    },
+    "[ST_R_01]": {
+      "3": "Escobar's escape route",
+      "5": "Track Escobar",
+      "20": "a journey",
+      "50": "The City of Escobar",
+      "100": "You have to choose."
+    },
+    "[ST_R_02]": {
+      "3": "Downtown Show",
+      "5": "Game in the city",
+      "20": "See you in town.",
+      "50": "Their meeting continued.",
+      "100": "But this is a movie."
+    },
+    "[ST_R_03]": {
+      "3": "Port Sports",
+      "5": "Sports port",
+      "20": "kill the monkey",
+      "50": "He is red",
+      "100": "Water sports are also available."
+    },
+    "[ST_R_04]": {
+      "3": "Rum and salsa",
+      "5": "Rum and salsa",
+      "20": "Brass and SS Special:",
+      "50": "salmon and perch",
+      "100": "It was cold inside the house."
+    },
+    "[ST_R_05]": {
+      "3": "Cuba Willi",
+      "5": "Cuban tires",
+      "20": "will block",
+      "50": "Roland wrote",
+      "100": "A piece of chocolate"
+    },
+    "[ST_R_06]": {
+      "3": "Stupid fool",
+      "5": "Fools' Run",
+      "20": "crazy speed",
+      "50": "They are so stupid",
+      "100": "A great smile"
+    },
+    "[ST_R_07]": {
+      "3": "The highest road",
+      "5": "It's a dangerous highway",
+      "20": "dangerous road",
+      "50": "There are several houses.",
+      "100": "Traffic accident records"
+    },
+    "[ST_R_08]": {
+      "3": "Mixed attack",
+      "5": "Attack on asphalt",
+      "20": "Hit the asphalt",
+      "50": "A little cool.",
+      "100": "In other places"
+    },
+    "[ST_R_09]": {
+      "3": "Supercharged circuit",
+      "5": "supply circuit",
+      "20": "First class.",
+      "50": "This is a series.",
+      "100": "good king"
+    },
+    "[ST_M_FT]": {
+      "3": "Fastest time in \"Ace of Land, Sea and Air\"",
+      "5": "Faster time by land, sea and air",
+      "20": "\"Far, Sea and Wind\" is fast",
+      "50": "Time flows through land, sea and wind.",
+      "100": "Climate: warm and humid"
+    },
+    "[ST_H_FT]": {
+      "3": "Fastest time in 'Skywolf'",
+      "5": "Time flies faster on Skywolf",
+      "20": "\"Skywolf\" is fast time",
+      "50": "Sirius's best moments.",
+      "100": "The wolf is faster than the wind."
+    },
+    "[ST_MAIR]": {
+      "3": "Maximum wind (m)",
+      "5": "Maximum Ya (m)",
+      "20": "maximum wind speed (m)",
+      "50": "Maximum speed (m).",
+      "100": "Length (meters)."
+    },
+    "[ST_SATT]": {
+      "3": "Sanchez time trial",
+      "5": "Sanchez test time",
+      "20": "Sanchez for the second time",
+      "50": "Time to meet Sanchez",
+      "100": "Sánchez's power"
+    },
+    "[ST_BMXT]": {
+      "3": "BMX time trial",
+      "5": "BMX time trial",
+      "20": "BMKS Test Time",
+      "50": "Ends at BMKS",
+      "100": "BMKS system"
+    },
+    "[ST_QBTT]": {
+      "3": "Quad bike time trial",
+      "5": "Chronology and quad bike",
+      "20": "Changes in the environment over time",
+      "50": "Example 4.",
+      "100": "The cows went to the father's house."
+    },
+    "[FES_RES]": {
+      "3": "Reset the game settings",
+      "5": "Reset game settings",
+      "20": "Change the gameplay",
+      "50": "Reset game settings.",
+      "100": "Latest sports news."
+    },
+    "[RESCHK1]": {
+      "3": "Are you sure you want to reset all controls, audio and display settings? keep?",
+      "5": "Are you sure you want to restore all control, audio and display settings? Continue?",
+      "20": "Do you need to reset the power, volume and settings? it is no longer there",
+      "50": "Want to hear and see the full story? Do you want to continue?",
+      "100": "Professional services. Want to see all the action? Something happened to him."
+    },
+    "[ST_BSSR]": {
+      "3": "The best spot in the 'filming range'.",
+      "5": "Best score by Filstrier",
+      "20": "Phil's top tips",
+      "50": "Feels so good.",
+      "100": "Measure the distance"
+    },
+    "[ST_BSST]": {
+      "3": "Best time on the 'filming range'.",
+      "5": "Phil of better times these days",
+      "20": "Good times for Phil shooting",
+      "50": "wait",
+      "100": "I'm excited"
+    },
+    "[ST_BSSA]": {
+      "3": "Perfect marksman on Phil's shooting team",
+      "5": "Best accuracy at \"Phil's Shooting Range\"",
+      "20": "The Philadelphia Rifle is highly recommended.",
+      "50": "This is completely true.",
+      "100": "This is hard to do"
+    },
+    "[ST_GNG1]": {
+      "3": "First is Humberto",
+      "5": "Umberto's son",
+      "20": "Brother Umberto",
+      "50": "Umberto's children",
+      "100": "Umberto's family."
+    },
+    "[MAP_OMM]": {
+      "3": "Hold to display menu options.",
+      "5": "This will allow you to view the map settings.",
+      "20": "Click and hold to see the options",
+      "50": "Click the button to view the text settings.",
+      "100": "There are maps and tables."
+    },
+    "[JOBS_CP]": {
+      "3": "work has been completed",
+      "5": "The work is done",
+      "20": "The work has been done.",
+      "50": "He finished his work.",
+      "100": "Regional project development."
+    },
+    "[ST_E_CD]": {
+      "3": "Large sums of money were spent on the development of the Empire",
+      "5": "All this money was used for the development of the Empire",
+      "20": "All the money is used to expand the kingdom.",
+      "50": "All resources for community development",
+      "100": "All the money will be used to develop national infrastructure."
+    },
+    "[ST_E_CR]": {
+      "3": "Total money spent on repairing the empire",
+      "5": "All the money was spent on improving the empire",
+      "20": "Everything in the direction of government reform.",
+      "50": "As a farmer, he lives off his family's money.",
+      "100": "All facilities are available."
+    },
+    "[ST_E_BP]": {
+      "3": "maximum pay day",
+      "5": "High salary",
+      "20": "But the salary is high.",
+      "50": "He came back strong.",
+      "100": "Costs are high."
+    },
+    "[ST_E_TE]": {
+      "3": "of the entire revenue of the empire",
+      "5": "Total profits of the empire",
+      "20": "All profits go to the government.",
+      "50": "For the good of people",
+      "100": "Positive results."
+    },
+    "[ST_E_OW]": {
+      "3": "Number of Imperial Relics in Vance's possession",
+      "5": "Vance's royal seat number",
+      "20": "Vance's common asset is money.",
+      "50": "Vance Emerald Book Tour.",
+      "100": "where he lives"
+    },
+    "[ST_E_OV]": {
+      "3": "Vance owns a percentage of the remnants of the empire",
+      "5": "The foundation proportion of the empire was owned by Venice",
+      "20": "Some of the empire's assets belong to Vance.",
+      "50": "Venus covers about one percent of Earth's surface.",
+      "100": "is 1000/1"
+    },
+    "[ST_E_OC]": {
+      "3": "Part of the kingdom's land belongs to the Cholos.",
+      "5": "Percentage of land in Cholo country",
+      "20": "Chola family demands",
+      "50": "Not 100% of the time.",
+      "100": "Speak loudly and softly"
+    },
+    "[ST_E_OS]": {
+      "3": "Percentage of royal territories owned by popes",
+      "5": "Percentage of national sites owned by sharks",
+      "20": "100 percent original destination",
+      "50": "On the other side of the coin.",
+      "100": "Classification of large animals in nature"
+    },
+    "[ST_E_OB]": {
+      "3": "Percentage of royal sites owned by cyclists",
+      "5": "Percentage of national event sites owned by cyclists",
+      "20": "Percentage of cycling areas in Sri Lanka",
+      "50": "The government is 100% friendly.",
+      "100": "It was part of the Napoleonic Empire"
+    },
+    "[FE_UNAV]": {
+      "3": "is available",
+      "5": "No",
+      "20": "They don't see that.",
+      "50": "Oh, come, come.",
+      "100": "No, no, no"
+    },
+    "[ST_CRA2]": {
+      "3": "The biggest loss was due to 'Rush'.",
+      "5": "The most destructive \"Sprint\"",
+      "20": "\"Rush\" was a huge hit.",
+      "50": "Most car accidents are caused by errors in judgment.",
+      "100": "It is often known"
+    },
+    "[ST_ARF2]": {
+      "3": "The fastest time in \"Crims On Water Wings.\"",
+      "5": "A very quick time for Sins on the Waters.",
+      "20": "Feel free to go to \"Crime on the Waterfront\".",
+      "50": "\"with water\"",
+      "100": "Water is charged"
+    },
+    "[ST_PCJ3]": {
+      "3": "Faster time at Playground On The Dock",
+      "5": "Fastest Slots Game Time.",
+      "20": "First appearance in the film \"Joy of the Children of Kiztina\".",
+      "50": "Small in \"Dasan Square\".",
+      "100": "I came early in the morning"
+    },
+    "[ST_PCJ4]": {
+      "3": "Faster time at Playground On The Park",
+      "5": "Very quick time \"in the playground in the park\".",
+      "20": "Top theater in the park.",
+      "50": "Time to go to the nightclub",
+      "100": "It's time to leave the park."
+    },
+    "[ST_M_F2]": {
+      "3": "The fastest time \"Hyman Memorial O.D.T.\"",
+      "5": "Time flies on the 'Hyman Memorial O.D.T.'",
+      "20": "Hyman Memorial ODT long.",
+      "50": "- Memoirs of Gaiman",
+      "100": "“This is Sam’s first surprise."
+    },
+    "[FEA_STE]": {
+      "3": "stereo equipment",
+      "5": "Stereo (Stereo).",
+      "20": "Stereo (rear).",
+      "50": "It's the same",
+      "100": "ここをクリックして確認してください"
+    },
+    "[FEA_SPS]": {
+      "3": "TRAINING MENTIONS:",
+      "5": "Speaker Configuration:",
+      "20": "Presentation practice:",
+      "50": "Date: As follows.",
+      "100": "Description: ."
+    },
+    "[SEAGULL]": {
+      "3": "The crow broke",
+      "5": "Seagull hunting",
+      "20": "They kill marine life",
+      "50": "He has a dog.",
+      "100": "For more than a month"
+    },
+    "[FED_TRA]": {
+      "3": "Street:",
+      "5": "Source:",
+      "20": "Here's how to do it:",
+      "50": "Procedure: 1.1.",
+      "100": "No, it's not like that."
+    },
+    "[DEAD]": {
+      "3": "BAD!",
+      "5": "Solution!",
+      "20": "Trash!",
+      "50": "He is very ugly.",
+      "100": "I am one of them"
+    },
+    "[BUSTED]": {
+      "3": "BUSTED!",
+      "5": "pause",
+      "20": "Eli is here!",
+      "50": "I answered him",
+      "100": "We will help you!"
+    },
+    "[GOODBOY]": {
+      "3": "$ 50 Good Citizen Bonus!",
+      "5": "$50 Good Samaritan Bonus!",
+      "20": "$50 for a good burger.",
+      "50": "$50 Best Home Builder!",
+      "100": "He gave the Samaritans a thousand dollars."
+    },
+    "[M_FAIL]": {
+      "3": "Mission failed.",
+      "5": "Mission added!",
+      "20": "I believe, I believe.",
+      "50": "Everything is free.",
+      "100": "This is not happening."
+    },
+    "[M_OVER]": {
+      "3": "Mission accomplished.",
+      "5": "Mission accomplished!",
+      "20": "The news is great.",
+      "50": "Mission accomplished!",
+      "100": "The answer is yes."
+    },
+    "[M_PASS]": {
+      "3": "Mission accomplished. $",
+      "5": "Mission accomplished! $",
+      "20": "Good luck! $: 1.",
+      "50": "Mission accomplished! $ of resources",
+      "100": "Do it, good money."
+    },
+    "[M_PASSN]": {
+      "3": "Mission accomplished.",
+      "5": "Mission accomplished!",
+      "20": "Hi everyone!",
+      "50": "Mission accomplished!",
+      "100": "McThano Brothers"
+    },
+    "[REWARD]": {
+      "3": "Prize: $",
+      "5": "Reward: $",
+      "20": "Price: $",
+      "50": "Currency: US Dollar",
+      "100": "Availability: $"
+    },
+    "[FEU_YES]": {
+      "3": "Yes, that's right",
+      "5": "YES",
+      "20": "That's right.",
+      "50": "These are facts of life.",
+      "100": "Yes, forever"
+    },
+    "[FEU_NO]": {
+      "3": "No, it isn’t",
+      "5": "I CAN",
+      "20": "Oh boy",
+      "50": "No, it is not",
+      "100": "No, no, no."
+    },
+    "[FEM_ON]": {
+      "3": "On the On",
+      "5": "ON",
+      "20": "I understand.",
+      "50": "At the end of the year",
+      "100": "In the park"
+    },
+    "[FEM_OFF]": {
+      "3": "Off",
+      "5": "DISABLED",
+      "20": "Get ready to go out of the box",
+      "50": "Created by",
+      "100": "Lebanese roots"
+    },
+    "[BEACH1]": {
+      "3": "Ocean Beach",
+      "5": "On the beaches of the sea",
+      "20": "The sea is there",
+      "50": "It is sea salt",
+      "100": "It's on the beach."
+    },
+    "[BEACH2]": {
+      "3": "In Washington Beach",
+      "5": "She lives in Washington Beach",
+      "20": "The Port of Washington",
+      "50": "He lives in Washington Bay",
+      "100": "He lives in Washington"
+    },
+    "[BEACH3]": {
+      "3": "Deputy point",
+      "5": "It's a sub point",
+      "20": "before the fish",
+      "50": "This is the last one.",
+      "100": "For other reasons."
+    },
+    "[GOLFC]": {
+      "3": "Page Contacts",
+      "5": "Bunch of leaves",
+      "20": "There is a link in the title",
+      "50": "The fifth lawyer",
+      "100": "For more information about us visit our contact page"
+    },
+    "[STARI]": {
+      "3": "Star Island",
+      "5": "Starfish island",
+      "20": "The stars are chu",
+      "50": "There is Star Island",
+      "100": "Star Wars is a great example of this."
+    },
+    "[DOCKS]": {
+      "3": "Lieutenant",
+      "5": "assigned port",
+      "20": "Harbor Wizard:",
+      "50": "He lives in Westport, USA.",
+      "100": "They are from Costa Rica."
+    },
+    "[HAVANA]": {
+      "3": "Little Havana",
+      "5": "Little Havana.",
+      "20": "Greater Havana.",
+      "50": "This is no small thing.",
+      "100": "Here is the solution."
+    },
+    "[HAITI]": {
+      "3": "Little Haiti",
+      "5": "Little Haiti",
+      "20": "Little Haiti",
+      "50": "Like Haiti.",
+      "100": "she is a woman"
+    },
+    "[PORNI]": {
+      "3": "Crab Island",
+      "5": "Shrimp Island",
+      "20": "Isle of Wight",
+      "50": "Laughter Island",
+      "100": "Snow and wire."
+    },
+    "[DTOWN]": {
+      "3": "the center of the city",
+      "5": "city center",
+      "20": "central city",
+      "50": "It is in the middle",
+      "100": "Here's what you can do."
+    },
+    "[VICE_C]": {
+      "3": "The city of peace.",
+      "5": "It's a bad city",
+      "20": "Local President Md",
+      "50": "Vice is a great place.",
+      "100": "Web hosting"
+    },
+    "[A_PORT]": {
+      "3": "Escobar International",
+      "5": "Escobar International",
+      "20": "Escobar International",
+      "50": "Joan and Escobar",
+      "100": "It seems far away."
+    },
+    "[JUNKY]": {
+      "3": "It’s a dirty place.",
+      "5": "This is rubbish",
+      "20": "in the basket",
+      "50": "Pay taxes.",
+      "100": "Plants and History."
+    },
+    "[SH_AM01]": {
+      "3": "'Ammu-Sizwe'.",
+      "5": "Its name is \"Mumu-hanum\".",
+      "20": "They are our people",
+      "50": "Your city is a big country.",
+      "100": "- I'm sorry"
+    },
+    "[SH_AM02]": {
+      "3": "‘Stonewall J’s.",
+      "5": "\"At Stonewall,\" he said.",
+      "20": "\"Stone Wall C.\"",
+      "50": "\"Walton,\" he wrote.",
+      "100": "golden hair"
+    },
+    "[SH_DE01]": {
+      "3": "“A Bad Wind”",
+      "5": "\"bad air\"",
+      "20": "\"Crazy Ghost\".",
+      "50": "- To be sick",
+      "100": "It was a bad day."
+    },
+    "[SH_DE02]": {
+      "3": "“Gorilla Salad.”",
+      "5": "Gorilla Salad",
+      "20": "\"Gorilla Salad\".",
+      "50": "— It depends on you.",
+      "100": "\"Three Songs\""
+    },
+    "[SH_EL01]": {
+      "3": "'Curve'",
+      "5": "\"curve\"",
+      "20": "'. who is",
+      "50": "- Do you like it?",
+      "100": "- What about the children?"
+    },
+    "[SH_EL02]": {
+      "3": "“Electric Boulevard”.",
+      "5": "\"Electric Boulevard\"",
+      "20": "\"Electric Train\".",
+      "50": "\"hot\"",
+      "100": "including the electrical system"
+    },
+    "[SH_CL01]": {
+      "3": "'Hermit'",
+      "5": "a hermit",
+      "20": "\"soul\"",
+      "50": "\"Thank you,\" he says with a smile.",
+      "100": "\"name\""
+    },
+    "[SH_CL02]": {
+      "3": "\"Maha Nagas\"",
+      "5": "\"Nalgas Grandes\"",
+      "20": "\"Tainite for Налгус Great\".",
+      "50": "“We are very good people.",
+      "100": "\"Rose of Glory.\""
+    },
+    "[SH_SU01]": {
+      "3": "'Fidel'",
+      "5": "'enigma'",
+      "20": "It is \"chigulkata\".",
+      "50": "\"I think\" yes.",
+      "100": "- What does this mean? Program number"
+    },
+    "[SH_SU02]": {
+      "3": "\"Verdi grocery store\"",
+      "5": "\"Verdi's Food\"",
+      "20": "\"Uniform Grocery Store\".",
+      "50": "This is a \"cemetery\".",
+      "100": "\"character map\"."
+    },
+    "[SH_PA01]": {
+      "3": "\"Hardcore Pawn Shop\"",
+      "5": "\"tough pawn\"",
+      "20": "\"It's true\".",
+      "50": "\"twelve\"",
+      "100": "\"It's a good life."
+    },
+    "[SH_PA02]": {
+      "3": "\"Reservoir 2\"",
+      "5": "\"The Pawn Shop 2\"",
+      "20": "\"2 piano players\".",
+      "50": "“A clothing store.",
+      "100": "\"He's asking questions."
+    },
+    "[SH_MALL]": {
+      "3": "\"Vice Point Shopping Center\"",
+      "5": "'Vice Point Mall'.",
+      "20": "At Art Point Mall",
+      "50": "Mechanic in the city",
+      "100": "white goods"
+    },
+    "[SH_SH00]": {
+      "3": "\"shop\"",
+      "5": "'bar'",
+      "20": "You are the one.",
+      "50": "\"\" \"",
+      "100": "The word \"house\" means"
+    },
+    "[SH_SH01]": {
+      "3": "\"Bayshore Avenue 101\"",
+      "5": "'101 Bayshore Road'.",
+      "20": "\"101 Harbor Road.\"",
+      "50": "“101 breathtaking images”.",
+      "100": "\"I'm Ryo 101.\""
+    },
+    "[SH_SH02]": {
+      "3": "\"Composite\"",
+      "5": "'No'.",
+      "20": "Is \"strong\".",
+      "50": "Answer: “The machine.”",
+      "100": "This is called a symptom."
+    },
+    "[SH_SH03]": {
+      "3": "\"Clymenus Suite\"",
+      "5": "'Climeno's suite'.",
+      "20": "Clemenes suits",
+      "50": "“Pray, Clement.”",
+      "100": "The Kleiman House is a good example."
+    },
+    "[SH_RANG]": {
+      "3": "\"Phil's Shooting Range\"",
+      "5": "\"Philly's Shooting Range\".",
+      "20": "\"The tree shot the horse.\"",
+      "50": "msgstr \"End of changes.",
+      "100": "- Damage"
+    },
+    "[BULLDOZ]": {
+      "3": "bulldozer",
+      "5": "Used for bulldozing.",
+      "20": "Play the bugle.",
+      "50": "His name is Gun Thug.",
+      "100": "Birds are flying"
+    },
+    "[BMX]": {
+      "3": "BMX",
+      "5": "BMX",
+      "20": "BMX is BMX.",
+      "50": "it's called bmx",
+      "100": "and BMKS*."
+    },
+    "[BMXG]": {
+      "3": "BMX",
+      "5": "BMX",
+      "20": "BMX is BMX.",
+      "50": "This is bmx",
+      "100": "and BMKS*."
+    },
+    "[QUADBIK]": {
+      "3": "Four",
+      "5": "Rectangle.",
+      "20": "in the room",
+      "50": "This is a class act.",
+      "100": "No"
+    },
+    "[AIRAMB]": {
+      "3": "air ambulance",
+      "5": "Air ambulance",
+      "20": "Air medical assistance",
+      "50": "growth",
+      "100": "He was taken to hospital."
+    },
+    "[AMBASS]": {
+      "3": "ambassador",
+      "5": "ambassador",
+      "20": "representative",
+      "50": "United States of America",
+      "100": "I am a teacher"
+    },
+    "[HUEY]": {
+      "3": "armadillo",
+      "5": "Armadillo",
+      "20": "Parasite larvae",
+      "50": "This is called an armadillo",
+      "100": "The war continues."
+    },
+    "[MOPED]": {
+      "3": "Bentoso",
+      "5": "a lot of wind",
+      "20": "a person",
+      "50": "a heavy rain",
+      "100": "Vince smiled at him."
+    },
+    "[JETSKI]": {
+      "3": "jet ski",
+      "5": "JetSki",
+      "20": "Seven pairs of skis",
+      "50": "who fled",
+      "100": "ok honey"
+    },
+    "[AUTOGYR]": {
+      "3": "Little Willie",
+      "5": "Little Willy",
+      "20": "A little desire",
+      "50": "Willem was a good man.",
+      "100": "There is no God."
+    },
+    "[6WEELAT]": {
+      "3": "ATV Splitz-6",
+      "5": "Split-6 ATV",
+      "20": "ATV Split-6 continues",
+      "50": "It was called the ATV-6.",
+      "100": "He has six quatrains."
+    },
+    "[CHOLO]": {
+      "3": "Name Cholo Saber",
+      "5": "Let's be patient",
+      "20": "Be patient",
+      "50": "This is a very powerful sword.",
+      "100": "The old man left."
+    },
+    "[PIMP]": {
+      "3": "Polaris V8 transmission",
+      "5": "Polaris V8",
+      "20": "Polaris V8",
+      "50": "The Polaris V8.",
+      "100": "From Polaris V8."
+    },
+    "[ANGEL]": {
+      "3": "Biker's Angel",
+      "5": "Biker Angel",
+      "20": "Angel Car:",
+      "50": "I ride a bicycle.",
+      "100": "The film is directed by Angelo Barcelona."
+    },
+    "[ELECTRA]": {
+      "3": "It's called WinterGreen",
+      "5": "Many cold winds",
+      "20": "summer yellow",
+      "50": "The fifth is snow",
+      "100": "Fire is the source of life."
+    },
+    "[ELECTRP]": {
+      "3": "VCPD winter Green man",
+      "5": "VCPD MarihaGreen",
+      "20": "vcpd winter green price",
+      "50": "VCPD is red and green",
+      "100": "Government of VKPD"
+    },
+    "[STREETF]": {
+      "3": "He is a street killer",
+      "5": "The Street Fighter.",
+      "20": "from street fighter",
+      "50": "They fight in the street",
+      "100": "The connection is very good."
+    },
+    "[HOVER]": {
+      "3": "Bover'64",
+      "5": "Bovver'64",
+      "20": "His age is more than 64 years.",
+      "50": "Author: Child '64",
+      "100": "There are 64 groups."
+    },
+    "[BIPLANE]": {
+      "3": "It is a two-decker",
+      "5": "Two planes",
+      "20": "it is called a biplane",
+      "50": "Two planes.",
+      "100": "But there is no doubt about it."
+    },
+    "[FORKLIF]": {
+      "3": "Forklift",
+      "5": "এটা কাঁটাচামুচ",
+      "20": "Tracking system",
+      "50": "It's dark now.",
+      "100": "He grabbed her hair."
+    },
+    "[YOLA]": {
+      "3": "Yola",
+      "5": "Yola",
+      "20": "with me",
+      "50": "Division of labor",
+      "100": "This is not true."
+    },
+    "[SCARAB]": {
+      "3": "Violators",
+      "5": "এজন অপৰাধী",
+      "20": "illegal",
+      "50": "He is against that.",
+      "100": "The rules have changed."
+    },
+    "[SANDKIN]": {
+      "3": "Grilled",
+      "5": "বালিৰ ৰজা",
+      "20": "It's called the sand king.",
+      "50": "I was released",
+      "100": "there is no house"
+    },
+    "[BOXVIL]": {
+      "3": "Boxville",
+      "5": "boxesville",
+      "20": "Boxville Rock",
+      "50": "Lives in Boxville.",
+      "100": "Lives in Boxville."
+    },
+    "[SABRETB]": {
+      "3": "Saber Turbo",
+      "5": "Saber Turbo",
+      "20": "Get up early",
+      "50": "The turbine is still running",
+      "100": "His sword is called Turbo."
+    },
+    "[VICECHE]": {
+      "3": "VCPD Cheetah",
+      "5": "VCPD Cheetah",
+      "20": "VCPD Cheetah",
+      "50": "The dog is named VCPD",
+      "100": "VKPD Box"
+    },
+    "[VOODOO]": {
+      "3": "Voodoo",
+      "5": "Voodoo",
+      "20": "Voodoo was slow",
+      "50": "A witch is a type of magic",
+      "100": "They are called bots."
+    },
+    "[JETMAX]": {
+      "3": "Jetmax",
+      "5": "jet max",
+      "20": "Many answers",
+      "50": "character name",
+      "100": "It’s called Jetmax."
+    },
+    "[BENSON]": {
+      "3": "Benson",
+      "5": "Benson",
+      "20": "Benson Architects: 3 million fans are waiting for you on Webtalk!",
+      "50": "Benson's book.",
+      "100": "and Benson, B. (1999)."
+    },
+    "[CHOPPER]": {
+      "3": "VCPD Maverick",
+      "5": "VCPD Maverick",
+      "20": "VCPD Expert Maverick",
+      "50": "From VCPD Mavericks",
+      "100": "Download VKPD."
+    },
+    "[POLMAV]": {
+      "3": "VCPD Maverick",
+      "5": "VCPD Maverick",
+      "20": "VCPD Expert Maverick",
+      "50": "From VCPD Mavericks",
+      "100": "Download VKPD."
+    },
+    "[POLICEV]": {
+      "3": "VCPD cruise ship",
+      "5": "world police cruiser",
+      "20": "VCPD Cruiser",
+      "50": "Online game VCPD Cruiser",
+      "100": "VKPD is enough."
+    },
+    "[POLICEM]": {
+      "3": "VCPD cruise ship",
+      "5": "world police cruiser",
+      "20": "VCPD Cruiser",
+      "50": "Online game VCPD Cruiser",
+      "100": "VKPD is enough."
+    },
+    "[ENFORCE]": {
+      "3": "VCPD Executive",
+      "5": "VCPD officers",
+      "20": "Distribution of VCPD",
+      "50": "Some VCPD",
+      "100": "This is VKPT."
+    },
+    "[PHEONIX]": {
+      "3": "Phoenix",
+      "5": "Phoenix",
+      "20": "Phoenix is safe",
+      "50": "Phoenix to Phoenix",
+      "100": "A phoenix is ​​a phoenix."
+    },
+    "[MESA]": {
+      "3": "mesa grande",
+      "5": "mesa grande",
+      "20": "An April surprise.",
+      "50": "in the writer's room",
+      "100": "You must eat the fruit."
+    },
+    "[ADMIRAL]": {
+      "3": "admiral",
+      "5": "admiral",
+      "20": "Admiral of the world",
+      "50": "they are military commanders",
+      "100": "I think there are many things."
+    },
+    "[PEREN]": {
+      "3": "perennial",
+      "5": "perennial",
+      "20": "There are always plants",
+      "50": "many years",
+      "100": "Type Name:"
+    },
+    "[BANSHEE]": {
+      "3": "Banshee",
+      "5": "Banshee",
+      "20": "Banshi Dr.",
+      "50": "with your smile",
+      "100": "And so they did."
+    },
+    "[BLISTA]": {
+      "3": "Compact Blista",
+      "5": "Compact blister pack",
+      "20": "The mistakes were huge.",
+      "50": "He is always quiet.",
+      "100": "There are plastic bottles"
+    },
+    "[BOBCAT]": {
+      "3": "About the Bobcat.",
+      "5": "Bobcat is a character",
+      "20": "they repeat it over and over",
+      "50": "Dear rice.",
+      "100": "Think about all this"
+    },
+    "[BURRITO]": {
+      "3": "Burritos are the best.",
+      "5": "burrito name",
+      "20": "Like a burrito",
+      "50": "Called Burrito.",
+      "100": "The burrito is delicious."
+    },
+    "[CABBIE]": {
+      "3": "About the cab",
+      "5": "Dr. Cabetta",
+      "20": "he invented the sword",
+      "50": "The driver is a taxi driver.",
+      "100": "So get up and go"
+    },
+    "[CADDY]": {
+      "3": "About the caddy",
+      "5": "Caddy is a character",
+      "20": "It was delicious",
+      "50": "the sailor",
+      "100": "Card number"
+    },
+    "[DELUXO]": {
+      "3": "luxury",
+      "5": "Luxury",
+      "20": "It's a beautiful place",
+      "50": "It has its fruits",
+      "100": "This is a new concept"
+    },
+    "[ESPERAN]": {
+      "3": "Esperanto",
+      "5": "Esperanto",
+      "20": "Esperanto language",
+      "50": "Esperanto Society",
+      "100": "Esperanto is Esperanto"
+    },
+    "[FBICAR]": {
+      "3": "FBI Washington",
+      "5": "FBI Washington",
+      "20": "FBI in Washington",
+      "50": "The FBI is based in Washington, DC.",
+      "100": "Washington, DC, FBI, referred to as FBI"
+    },
+    "[FIRETRK]": {
+      "3": "fire truck",
+      "5": "Fire truck",
+      "20": "A truck sitting against a tree",
+      "50": "There is fire in the fire",
+      "100": "There is also a fireplace"
+    },
+    "[HERMES]": {
+      "3": "Hermes",
+      "5": "hermes",
+      "20": "The Book of Hermes",
+      "50": "This is Hermione.",
+      "100": "said Hermione."
+    },
+    "[IDAHO]": {
+      "3": "He lives in Idaho",
+      "5": "Idaho",
+      "20": "Idaho is a place",
+      "50": "Idaho. deer",
+      "100": "They are born"
+    },
+    "[LANDSTK]": {
+      "3": "It’s a landstalker",
+      "5": "Landstarer",
+      "20": "World stalker games",
+      "50": "The wolf is hungry.",
+      "100": "They sell it"
+    },
+    "[MANANA]": {
+      "3": "here's the thing",
+      "5": "will have",
+      "20": "Morning",
+      "50": "midnight",
+      "100": "Very good"
+    },
+    "[OCEANIC]": {
+      "3": "It's the sea",
+      "5": "Ocean",
+      "20": "The sea is like that",
+      "50": "He has a snake in his hand.",
+      "100": "I don't like it"
+    },
+    "[SENTXS]": {
+      "3": "The Sentinel XS",
+      "5": "Guardian XS",
+      "20": "Orange XS available",
+      "50": "XS memory.",
+      "100": "Do your job"
+    },
+    "[SANCHEZ]": {
+      "3": "Sanchez is the victim",
+      "5": "Sanchez Dr.",
+      "20": "Sanchez was disappointed.",
+      "50": "Sanchez smiled and laughed.",
+      "100": "Sanchez said."
+    },
+    "[STALION]": {
+      "3": "The stallion",
+      "5": "A type of cavalry",
+      "20": "Wheels and tires",
+      "50": "Jessie nodded.",
+      "100": "Horses are a good example."
+    },
+    "[POLICAR]": {
+      "3": "Police",
+      "5": "by the police",
+      "20": "The police were there.",
+      "50": "This person is called dałem się oszuća",
+      "100": "This is not good news."
+    },
+    "[PATRIOT]": {
+      "3": "National",
+      "5": "Love of country",
+      "20": "Patriotism",
+      "50": "Funny Teresa",
+      "100": "He conquered the world."
+    },
+    "[PONY]": {
+      "3": "The dowry is one",
+      "5": "Pony pony",
+      "20": "The man and the pony.",
+      "50": "You are looking for us",
+      "100": "Common name in Phnom Penh."
+    },
+    "[SENTINL]": {
+      "3": "This is a guard",
+      "5": "Sentinel",
+      "20": "Supervisors",
+      "50": "The hostess is a woman",
+      "100": "You have a good idea."
+    },
+    "[PCJ600]": {
+      "3": "PCJ-600 is available",
+      "5": "PCJ-600",
+      "20": "The PCJ-600",
+      "50": "I worked for PCJ-DC",
+      "100": "This is PCJ-DC."
+    },
+    "[REEFER]": {
+      "3": "This is a refrigerator",
+      "5": "clerk",
+      "20": "There is a fridge",
+      "50": "We will unite",
+      "100": "and he died"
+    },
+    "[SPEEDER]": {
+      "3": "This is a speeder",
+      "5": "speed and speed",
+      "20": "Hurry up, guys",
+      "50": "Immediately: 1.1.",
+      "100": "This is a new thing."
+    },
+    "[LINERUN]": {
+      "3": "This is a liner",
+      "5": "The mat",
+      "20": "Corsican Design",
+      "50": "and traffic flow",
+      "100": "Connect to the server."
+    },
+    "[KURUMA]": {
+      "3": "and do it",
+      "5": "bite",
+      "20": "Horses and horses",
+      "50": "Black horse",
+      "100": "That's great."
+    },
+    "[BARRCKS]": {
+      "3": "Barracks All",
+      "5": "OL military camp",
+      "20": "Rental amount",
+      "50": "Overview of the Olympic Games.",
+      "100": "Thank you very much everyone."
+    },
+    "[PREDATR]": {
+      "3": "The predator",
+      "5": "an attacker",
+      "20": "These animals know their names.",
+      "50": "We make furniture from wood.",
+      "100": "I live in Adelaide."
+    },
+    "[FLATBED]": {
+      "3": "Flatbed is",
+      "5": "flat bed",
+      "20": "Bad beds.",
+      "50": "Asia was completely destroyed.",
+      "100": "2 rooms."
+    },
+    "[MOONBM]": {
+      "3": "Moonbeam is the moonbeam",
+      "5": "moon",
+      "20": "month",
+      "50": "per month",
+      "100": "It's been a month."
+    },
+    "[RUMPO]": {
+      "3": "Rimpo is one",
+      "5": "Rumpo",
+      "20": "fled the scene",
+      "50": "at a distance",
+      "100": "Strengthening relationships"
+    },
+    "[TAXI]": {
+      "3": "Taxi method",
+      "5": "taxi",
+      "20": "payment system",
+      "50": "Please stop by the road",
+      "100": "bicycle"
+    },
+    "[AMBULAN]": {
+      "3": "Emergency assistance available",
+      "5": "Emergency assistance",
+      "20": "This is a sauce.",
+      "50": "emergency services",
+      "100": "Do you need urgent help?"
+    },
+    "[STRETCH]": {
+      "3": "fats containing fats",
+      "5": "expansion",
+      "20": "Long term planning",
+      "50": "investment",
+      "100": "Hello and sorry."
+    },
+    "[FAGGIO]": {
+      "3": "phage",
+      "5": "throw away",
+      "20": "to become wise",
+      "50": "as",
+      "100": "It is called the sea."
+    },
+    "[STINGER]": {
+      "3": "Stinger",
+      "5": "The stinger",
+      "20": "It's confusing",
+      "50": "This is the bite.",
+      "100": "It is enough."
+    },
+    "[RIO]": {
+      "3": "rev",
+      "5": "Rio is the country",
+      "20": "He works as a shepherd",
+      "50": "they ran away.",
+      "100": "Rio is home"
+    },
+    "[TRASHM]": {
+      "3": "Garbage Master",
+      "5": "It is a toothpaste",
+      "20": "use it",
+      "50": "This is crazy.",
+      "100": "It is used in a large number without reason."
+    },
+    "[INFERNS]": {
+      "3": "the hell",
+      "5": "The Inferno",
+      "20": "This should be condemned",
+      "50": "It's not symbolic.",
+      "100": "The fire does not burn."
+    },
+    "[MULE]": {
+      "3": "mule",
+      "5": "Muluk.",
+      "20": "Okay",
+      "50": "A boat in the foreground.",
+      "100": "Send a message"
     }
   }
 }
