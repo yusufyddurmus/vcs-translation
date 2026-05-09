@@ -4138,6 +4138,1931 @@
       "20": "About changing jobs.",
       "50": "go away",
       "100": "The same is true for men."
+    },
+    "[EA_LEAV]": {
+      "3": "Attack cancelled: Leave the area.",
+      "5": "Attack Blocked: You're out.",
+      "20": "Forbidden Attack: You have left the area",
+      "50": "Wrong statement: that's it.",
+      "100": "Yunsai, I remember that."
+    },
+    "[EA_MOP]": {
+      "3": "Destroying the remaining goods and property of gang members.",
+      "5": "Destruction of other commercial property by criminals.",
+      "20": "Eliminate the remaining smugglers and criminals",
+      "50": "Company members damaged some of the company's property.",
+      "100": "Remove parts and accessories"
+    },
+    "[EM_PAY]": {
+      "3": "Payday - Equity: $",
+      "5": "Pay Today - Earnings Empire: $",
+      "20": "Salary - Imperial income: $",
+      "50": "Payment: Pay Now: USD",
+      "100": "Other: Country: United States"
+    },
+    "[EMP_STA]": {
+      "3": "Regarding the empire account",
+      "5": "Kingdom Statistics",
+      "20": "Image King",
+      "50": "It's about telling stories.",
+      "100": "please wash it well."
+    },
+    "[CUR_RES]": {
+      "3": "Current prestige level: 1.1.",
+      "5": "Current Honor Level:",
+      "20": "Last current level: 1.1.",
+      "50": "Now space;",
+      "100": "In this case,"
+    },
+    "[RESP_1]": {
+      "3": "No one else",
+      "5": "nobody",
+      "20": "There is no one else",
+      "50": "Nobody does.",
+      "100": "There is nothing here"
+    },
+    "[RES_3_1]": {
+      "3": "There is an elevator",
+      "5": "Lifting",
+      "20": "Keep going guys.",
+      "50": "I agree with that.",
+      "100": "The night is short"
+    },
+    "[RES_3_2]": {
+      "3": "crime-reaper",
+      "5": "reaper of crime",
+      "20": "steal the fruit of sin",
+      "50": "Criminal case",
+      "100": "The Prophet died."
+    },
+    "[LOAN_H1]": {
+      "3": "Your interest reputation has grown; You are now a lifter.",
+      "5": "Your credit has improved and you are now a Lifter.",
+      "20": "Now that you owe money, your credit rating and credit score will increase.",
+      "50": "Have a lot of faith in your team. Please update now.",
+      "100": "It is beautiful and beautiful"
+    },
+    "[LOAN_H2]": {
+      "3": "Your loan shark reputation has grown; You are now reaping a serious harvest of crime.",
+      "5": "Your credit has reached its limit and you are now a reaper of crime.",
+      "20": "Your credit score is dead and you are being treated unfairly.",
+      "50": "You can leave a federal credit union and make payments now.",
+      "100": "We have a money back guarantee."
+    },
+    "[RES_4_1]": {
+      "3": "He is a panderer",
+      "5": "Think about it",
+      "20": "Avoid it.",
+      "50": "It looks like a bucket",
+      "100": "Let's see."
+    },
+    "[RES_4_2]": {
+      "3": "This is Father Mike",
+      "5": "McDaddy",
+      "20": "Make him a father",
+      "50": "Mack is one of them.",
+      "100": "Father's name is Max."
+    },
+    "[PROS_H1]": {
+      "3": "Your reputation has improved and you are now a panderer.",
+      "5": "Your reputation as a pimp has grown, now you are an influencer.",
+      "20": "Your fame has increased and now you are thin.",
+      "50": "Poverty is widespread today.",
+      "100": "Your company is famous and now you have a business."
+    },
+    "[PROS_H2]": {
+      "3": "Your reputation has grown and you are now Father Mike.",
+      "5": "Your reputation as a pimp has grown, now you're McDaddy.",
+      "20": "You were raised to be a traitor, now you are.",
+      "50": "My son is healthy.",
+      "100": "His name is 3. His father's name is Marcus."
+    },
+    "[RES_2_1]": {
+      "3": "this is how i behave",
+      "5": "Hoodlum",
+      "20": "Serial killer",
+      "50": "There is a website",
+      "100": "This is a sad situation."
+    },
+    "[RES_2_2]": {
+      "3": "Ultimate Badass",
+      "5": "The last sin.",
+      "20": "a big loss",
+      "50": "Someone did Äarimnne.",
+      "100": "He felt bad."
+    },
+    "[PROT_H1]": {
+      "3": "Your extortion fame has increased, and you are now Gudlum.",
+      "5": "Your reputation for deceit has grown, and now you are a criminal.",
+      "20": "My awe grew and I became a woman.",
+      "50": "Callicetaceae in nature Ritter oleate varus",
+      "100": "Give us strength to fight and fight."
+    },
+    "[PROT_H2]": {
+      "3": "Your reputation for extortion has risen, and you are now the ultimate Badass.",
+      "5": "Your reputation as a Marauder is at its peak and now you’re the ultimate badass.",
+      "20": "Your glory is gone, now you are at the top.",
+      "50": "His reputation as a thief is gone.",
+      "100": "Everyone says Merlin because it doesn't fit."
+    },
+    "[RES_6_1]": {
+      "3": "A mule",
+      "5": "it is a storm",
+      "20": "This is a camel",
+      "50": "he is a stranger",
+      "100": "Cut the wood into small pieces."
+    },
+    "[RES_6_2]": {
+      "3": "The captain of the ship",
+      "5": "the pirate captain",
+      "20": "boatman",
+      "50": "A strong leader",
+      "100": "Captain HH McCarthy"
+    },
+    "[SMUG_H1]": {
+      "3": "Your smuggling reputation has grown and you are an ass.",
+      "5": "Your reputation as a smuggler has grown and now you are a camel.",
+      "20": "He untied the horse from the dark body and started running.",
+      "50": "His name is Arthur. He was a slave.",
+      "100": "This dog has a name."
+    },
+    "[SMUG_H2]": {
+      "3": "Your smuggling reputation has grown and you are now a pirate captain.",
+      "5": "Your reputation as a smuggler has grown and you are now a pirate captain.",
+      "20": "Your reputation as a pirate will grow. You are now a pirate captain.",
+      "50": "Azaria is very popular and brave.",
+      "100": "The name has been changed. Now he is a sailor."
+    },
+    "[RES_5_1]": {
+      "3": "A merchant",
+      "5": "The seller",
+      "20": "He's the boss",
+      "50": "- What do customers say?",
+      "100": "No, no, no"
+    },
+    "[RES_5_2]": {
+      "3": "Anoint Father",
+      "5": "He hit my father",
+      "20": "Be with my father.",
+      "50": "Take care of your skin.",
+      "100": "Sumac is a type of apple."
+    },
+    "[DRUG_H1]": {
+      "3": "Your reputation for drug use has grown and you are now a distributor.",
+      "5": "Your reputation as a drug dealer has grown and you are now a dealer.",
+      "20": "Your reputation in the pharmaceutical industry will improve. You are now an entrepreneur.",
+      "50": "Current information on drug addiction. And now it's deadly.",
+      "100": "Your arguments are strong and true."
+    },
+    "[DRUG_H2]": {
+      "3": "Your drug control authority has reached its peak, you are now the \"Father of Smack\".",
+      "5": "Your reputation as a drug dealer has peaked, so now you're Smack Daddy.",
+      "20": "Slavery became more common. Now you are a good father.",
+      "50": "My father is here and I know him well.",
+      "100": "Today, the largest group of drug users is the youth."
+    },
+    "[RES_7_1]": {
+      "3": "Abductor",
+      "5": "The character of the thief",
+      "20": "Theft, robbery",
+      "50": "Men are thieves.",
+      "100": "I don't know what to do"
+    },
+    "[RES_7_2]": {
+      "3": "Heist Master",
+      "5": "Heist Meister is now up and running",
+      "20": "said Mr. Ingersoll.",
+      "50": "Students cheat.",
+      "100": "i can do it"
+    },
+    "[ROBB_H1]": {
+      "3": "Your reputation as a thief has increased, you have become a fraud.",
+      "5": "Your attacking reputation has increased and you are now a thief.",
+      "20": "Stealing can increase your reputation. Now she is a whore.",
+      "50": "Your reputation as a thief will be restored and you will now be a thief.",
+      "100": "It is very interesting. Yes, Lauren."
+    },
+    "[ROBB_H2]": {
+      "3": "Your heist reputation has increased, you are now a Heist Meister!",
+      "5": "Your raid title is maxed out and you are now a Heist Meister.",
+      "20": "Your reputation as a hacker will increase. Now he has more experience.",
+      "50": "Famous now mr.",
+      "100": "Togman and Togman. Udu or Sri Sri."
+    },
+    "[E_PI]": {
+      "3": "This is \"absorption\".",
+      "5": "'Ping'",
+      "20": "\"on the way\"",
+      "50": "The word \"know\".",
+      "100": "\"married\"."
+    },
+    "[E_RO]": {
+      "3": "'Robbery'",
+      "5": "'robbery'",
+      "20": "\"news\"",
+      "50": "This is called \"sacrifice\".",
+      "100": "It's not \"bad\"."
+    },
+    "[E_SM]": {
+      "3": "It is called \"contraband\".",
+      "5": "'Deal'",
+      "20": "\"Experience\".",
+      "50": "\"Family\" is real.",
+      "100": "It's still here."
+    },
+    "[PR_RETS]": {
+      "3": "You have one second to return to the page!",
+      "5": "You can return to the page in seconds!",
+      "20": "The church says it pays!",
+      "50": "You have time to return to this page!",
+      "100": "We will be back soon."
+    },
+    "[PR_RET]": {
+      "3": "You have one second to return to the page!",
+      "5": "You may come back to the site again!",
+      "20": "The church says it pays!",
+      "50": "Back to court on Thursday!",
+      "100": "Let him go"
+    },
+    "[PR_GAN7]": {
+      "3": "Vance",
+      "5": "Vance",
+      "20": "Vance was right",
+      "50": "He is from Vantaa",
+      "100": "This is a huge problem"
+    },
+    "[PR_GAN9]": {
+      "3": "Vance",
+      "5": "Vance",
+      "20": "Vance was right",
+      "50": "He is from Vantaa",
+      "100": "This is a huge problem"
+    },
+    "[ATT_SUC]": {
+      "3": "The attacks were successful",
+      "5": "the attack was successful",
+      "20": "The war will be over",
+      "50": "Then they attacked him.",
+      "100": "The investigation was successful"
+    },
+    "[DEF_SUC]": {
+      "3": "Pages successfully protected",
+      "5": "The site is well maintained",
+      "20": "He looked around",
+      "50": "Your website is down.",
+      "100": "This place is amazing"
+    },
+    "[EM_PASS]": {
+      "3": "The attack passed! $",
+      "5": "THE STUDIO IS GONE! $",
+      "20": "You're ready to go! $",
+      "50": "The installation is complete. $ is the resource.",
+      "100": "$-Clothes"
+    },
+    "[PR_SEL]": {
+      "3": "Choose a company to build",
+      "5": "Choose a company to build",
+      "20": "Choose a construction company for yourself.",
+      "50": "I decided to start a project.",
+      "100": "Select the distribution you want to verify."
+    },
+    "[E_PR]": {
+      "3": "\"blackmail\"",
+      "5": "\"thief\".",
+      "20": "\"Help me out,\" he said.",
+      "50": "\"Now.\"",
+      "100": "- it's very toxic"
+    },
+    "[E_DR]": {
+      "3": "\"drug addiction\"",
+      "5": "\"Drug trade\".",
+      "20": "\"Drug Distribution.\"",
+      "50": "\"Doctor\".",
+      "100": "\"The River of the Wind\""
+    },
+    "[E_RE]": {
+      "3": "\"loan shark\"",
+      "5": "\"This shark is lonely\".",
+      "20": "\"Borrower\" is his name.",
+      "50": "\"Principles of Business\"",
+      "100": "— of course"
+    },
+    "[EM_FAIL]": {
+      "3": "The attack failed!",
+      "5": "The attack failed!",
+      "20": "The attack failed!",
+      "50": "No one doubts him!",
+      "100": "I don't have a comment."
+    },
+    "[PR_GAN1]": {
+      "3": "Umberto is a boy",
+      "5": "Umberto's sons",
+      "20": "Humbert Itiasia and Hasta.",
+      "50": "Who is little Umberto?",
+      "100": "Do you wake up?"
+    },
+    "[REP_GO]": {
+      "3": "You still have work to do to increase your reputation in the industry.",
+      "5": "You still need to work to increase your popularity in this business.",
+      "20": "Maintain your business reputation.",
+      "50": "There is much room for improvement in this area.",
+      "100": "There is a lot behind the name."
+    },
+    "[REP_NO]": {
+      "3": "Your reputation is on the line in this industry!",
+      "5": "Your reputation in this business is high!",
+      "20": "Gain a good reputation in the industry.",
+      "50": "The names in this group seem endless!",
+      "100": "This is your job."
+    },
+    "[PR_CUR]": {
+      "3": "Current services",
+      "5": "Current business",
+      "20": "Current work:",
+      "50": "Smart management",
+      "100": "Consult today"
+    },
+    "[E_COUN]": {
+      "3": "work",
+      "5": "to work",
+      "20": "Roger had great hearing.",
+      "50": "Hello to me",
+      "100": "Feldigdo otsumorinumum"
+    },
+    "[E_CANR]": {
+      "3": "Your progress will continue from your current point.",
+      "5": "Your progress will continue from where you are now.",
+      "20": "Your progress will continue from today.",
+      "50": "It's easy to do",
+      "100": "Some of these are very good"
+    },
+    "[SMG_PAK]": {
+      "3": "Collected collection: /",
+      "5": "Abbreviation: / .",
+      "20": "Send this package to:",
+      "50": "Description. /.",
+      "100": "tell me"
+    },
+    "[LG_02]": {
+      "3": "Player position",
+      "5": "Player character",
+      "20": "Player style",
+      "50": "he called out",
+      "100": "So this game"
+    },
+    "[LG_04]": {
+      "3": "All people",
+      "5": "Ammu - country",
+      "20": "Fear of Kamadeva",
+      "50": "like this man",
+      "100": "People love mountains, rivers and forests."
+    },
+    "[LG_05]": {
+      "3": "Hardware store",
+      "5": "Hardware stores",
+      "20": "Operating equipment",
+      "50": "shop equipment",
+      "100": "This is true."
+    },
+    "[LG_06]": {
+      "3": "A safe house",
+      "5": "A safe house is available",
+      "20": "A safe house.",
+      "50": "safe house",
+      "100": "To maintain the family"
+    },
+    "[LG_08]": {
+      "3": "Pay 'n' sprinklers",
+      "5": "Pay and treat",
+      "20": "Paint and paint.",
+      "50": "throwing.",
+      "100": "Take your time and be prepared."
+    },
+    "[LG_09]": {
+      "3": "Phone",
+      "5": "Phone:",
+      "20": "On the phone.",
+      "50": "on the phone",
+      "100": "Phone connection"
+    },
+    "[LG_10]": {
+      "3": "Bomb shop",
+      "5": "Bomb shop",
+      "20": "Football shop",
+      "50": "Printing is very easy.",
+      "100": "Some products to buy"
+    },
+    "[LG_11]": {
+      "3": "Clothing store",
+      "5": "Clothing store",
+      "20": "Clothes",
+      "50": "clothing store.",
+      "100": "clothes"
+    },
+    "[LG_12]": {
+      "3": "rise up",
+      "5": "Power increases",
+      "20": "Skakelje is not a force.",
+      "50": "in the medical field.",
+      "100": "I am very hungry"
+    },
+    "[LG_16]": {
+      "3": "The player's goal",
+      "5": "This is the player's goal",
+      "20": "Dolan is cooking",
+      "50": "Games are games.",
+      "100": "a group of ideas"
+    },
+    "[LG_29]": {
+      "3": "imperial site",
+      "5": "Empire website",
+      "20": "Empire seat",
+      "50": "Roman Empire.",
+      "100": "a monarchy"
+    },
+    "[LG_34]": {
+      "3": "Brian Forbes",
+      "5": "Brian Forbes",
+      "20": "Brian Forbes, b.",
+      "50": "Brian Forbes, Editor-in-Chief, from the United States.",
+      "100": "Brian Forbes is one of them."
+    },
+    "[LG_35]": {
+      "3": "González",
+      "5": "His name is Gonzalez",
+      "20": "Gonzalez, Kim, Kim",
+      "50": "Gonzalez didn't.",
+      "100": "Gonzalez too."
+    },
+    "[LG_36]": {
+      "3": "Lance Vance",
+      "5": "Lance Vance",
+      "20": "before the spear",
+      "50": "Author: Lance Vance.",
+      "100": "no problem"
+    },
+    "[LG_37]": {
+      "3": "Louise Cassidy Williams",
+      "5": "Louise Cassidy-Williams",
+      "20": "Lewis Cassidy Williams",
+      "50": "Miss Louise Cassidy Williams.",
+      "100": "Result - Lewis Cassidy Williams."
+    },
+    "[LG_38]": {
+      "3": "Marty J. Williams",
+      "5": "Matthew J Williams",
+      "20": "Martin Williams",
+      "50": "Matthew J. Williams, Secretary;",
+      "100": "Matthew J. Williams, b."
+    },
+    "[LG_39]": {
+      "3": "Phil Cassidy",
+      "5": "Phil Cassidy by Phil Cassidy",
+      "20": "Phil Cassidy",
+      "50": "Author: Phil Cassidy",
+      "100": "Bill Cassidy didn't care."
+    },
+    "[LG_40]": {
+      "3": "René Fazolmeier",
+      "5": "Pastor Wassulmaier",
+      "20": "Rene Vasoumel",
+      "50": "Take Rene Wasolmeyer",
+      "100": "Rana Vasumilla is a police officer."
+    },
+    "[LG_41]": {
+      "3": "Written by Ricardo Diaz",
+      "5": "Produced by Ricardo Diaz",
+      "20": "Richard Diaz",
+      "50": "Ricardo Diaz is not Ricardo Diaz.",
+      "100": "Ricardo Diaz is 19 years old."
+    },
+    "[LG_42]": {
+      "3": "Sergeant. Written by Jerry Martinez",
+      "5": "Sergeant. Produced by Jerry Martinez",
+      "20": "Party leader Jerry Martinez",
+      "50": "Jerry Martinez, Sgt",
+      "100": "Captain Jerry Martinez, Jr. and others."
+    },
+    "[LG_43]": {
+      "3": "Armando and Diego Mendez",
+      "5": "Armando and Diego Mendez",
+      "20": "Armando Mendez and Diego Mendez",
+      "50": "Armandez and Diego Mendez",
+      "100": "Armand Mendez and Diego Mendez"
+    },
+    "[LG_44]": {
+      "3": "Written by Umberto Robina",
+      "5": "Umberto Robina supervised the work",
+      "20": "Humbert Rubina",
+      "50": "Umberto Rubino, editor.",
+      "100": "Robin B. Humber."
+    },
+    "[LG_45]": {
+      "3": "Airport terminal",
+      "5": "Airport there",
+      "20": "Boat",
+      "50": "and the airport",
+      "100": "In the program"
+    },
+    "[LG_50]": {
+      "3": "Location",
+      "5": "where are you going",
+      "20": "Where are you going?",
+      "50": "All types of food",
+      "100": "At this time"
+    },
+    "[LG_51]": {
+      "3": "threats",
+      "5": "to threaten",
+      "20": "They call him a criminal.",
+      "50": "what is that",
+      "100": "This is very good"
+    },
+    "[LG_52]": {
+      "3": "A friend",
+      "5": "friend",
+      "20": "My friend",
+      "50": "Very beautiful",
+      "100": "You are a beautiful mother"
+    },
+    "[LG_53]": {
+      "3": "Select",
+      "5": "pick it up",
+      "20": "on the ground",
+      "50": "They agree",
+      "100": "We all agree."
+    },
+    "[FEB_STA]": {
+      "3": "Statistics",
+      "5": "statistics",
+      "20": "It was a calculation.",
+      "50": "Let me explain this concept",
+      "100": "language"
+    },
+    "[FEB_MAP]": {
+      "3": "Report",
+      "5": "Mepe",
+      "20": "world map",
+      "50": "Documentation requirements",
+      "100": "Security Service Plan"
+    },
+    "[FEB_BRI]": {
+      "3": "Details",
+      "5": "Conclusion",
+      "20": "Soon",
+      "50": "A brief explanation",
+      "100": "As required by department"
+    },
+    "[FEH_BRI]": {
+      "3": "short",
+      "5": "Conclusion",
+      "20": "Soon",
+      "50": "In short, everything",
+      "100": "As required by department"
+    },
+    "[FEB_CON]": {
+      "3": "Manage",
+      "5": "Examination",
+      "20": "This is about limitations",
+      "50": "spirit of peace",
+      "100": "This is a very important question."
+    },
+    "[FEB_AUD]": {
+      "3": "voices",
+      "5": "Audio available",
+      "20": "sound monitoring",
+      "50": "I need clarification on this.",
+      "100": "I believe it"
+    },
+    "[FEB_DIS]": {
+      "3": "Display",
+      "5": "table",
+      "20": "How to use it",
+      "50": "You have done a great job.",
+      "100": "This is it:"
+    },
+    "[FEB_LAN]": {
+      "3": "Language",
+      "5": "Language",
+      "20": "The scream worked.",
+      "50": "A joke is a joke.",
+      "100": "It's small"
+    },
+    "[FEH_LOA]": {
+      "3": "The game",
+      "5": "game",
+      "20": "The game has begun.",
+      "50": "Bet on games.",
+      "100": "Good game."
+    },
+    "[FEP_STA]": {
+      "3": "Statistics",
+      "5": "Statistics",
+      "20": "You have to plan your time",
+      "50": "anyone",
+      "100": "Read this article."
+    },
+    "[FEH_MP]": {
+      "3": "Multiplayer game",
+      "5": "Multiplayer",
+      "20": "multiplayer",
+      "50": "a long time ago",
+      "100": "Genre: Puem stn stori dân."
+    },
+    "[FES_LOA]": {
+      "3": "Load the game",
+      "5": "Load the game",
+      "20": "Price game",
+      "50": "Download this game.",
+      "100": "Open game."
+    },
+    "[FES_NGA]": {
+      "3": "New game",
+      "5": "another game",
+      "20": "A new game",
+      "50": "So enjoy it",
+      "100": "Another game."
+    },
+    "[FES_DGA]": {
+      "3": "Delete save data",
+      "5": "open storage",
+      "20": "Delete saved data.",
+      "50": "Delete the file",
+      "100": "Download the file"
+    },
+    "[FEC_CF1]": {
+      "3": "Setup 1",
+      "5": "Setting 1",
+      "20": "Advantages 1",
+      "50": "Table 1. Manufacturing information",
+      "100": "Report your site"
+    },
+    "[FEC_CF2]": {
+      "3": "Setting 2",
+      "5": "schedule",
+      "20": "Settings 2",
+      "50": "Part two",
+      "100": "The second half has already started."
+    },
+    "[FEC_CF3]": {
+      "3": "3 Settings",
+      "5": "Configuration 3. If you want to install again",
+      "20": "Preparation 3.1",
+      "50": "I wanted it for school",
+      "100": "Contents of Part III"
+    },
+    "[FEC_CF4]": {
+      "3": "Setting 4",
+      "5": "Configuration 4. If you have a load",
+      "20": "4. Preparation",
+      "50": "4 First",
+      "100": "4 parts"
+    },
+    "[FEC_ONF]": {
+      "3": "WITH FEET.",
+      "5": "Chaquix is on the way",
+      "20": "Walk around",
+      "50": "Accommodation for tourists",
+      "100": "This is legal action."
+    },
+    "[FEC_INC]": {
+      "3": "In C.A.R.",
+      "5": "Auto Housing",
+      "20": "in the car",
+      "50": "Everything is there",
+      "100": "But let me tell you"
+    },
+    "[FEC_CCF]": {
+      "3": "Configuration: 1 .",
+      "5": "The configuration is as follows:",
+      "20": "Format: 1.1.",
+      "50": "Weapons of mass destruction",
+      "100": "When will that happen?"
+    },
+    "[FEC_CDP]": {
+      "3": "Type:",
+      "5": "Above:",
+      "20": "category:",
+      "50": "Level: 100 points",
+      "100": "Procedure: 1.1."
+    },
+    "[FEC_ILU]": {
+      "3": "INVERTED display:",
+      "5": "REVERSE as follows;",
+      "20": "Look at the image changes.",
+      "50": "It happened",
+      "100": "let's see"
+    },
+    "[FEM_YES]": {
+      "3": "Yes",
+      "5": "Yes it is.",
+      "20": "oh oh",
+      "50": "Snake, snake, snake",
+      "100": "what is good"
+    },
+    "[FEM_NO]": {
+      "3": "No",
+      "5": "T.S.",
+      "20": "not at all",
+      "50": "Oh, I recognized her",
+      "100": "See below."
+    },
+    "[FEM_ANL]": {
+      "3": "ANALOG STICK",
+      "5": "They are ANALOG",
+      "20": "finger prick",
+      "50": "Principles of managerial accounting",
+      "100": "inquiry"
+    },
+    "[FEM_DIR]": {
+      "3": "direction button",
+      "5": "Specification of chimneys",
+      "20": "management",
+      "50": "Authority is the key to success",
+      "100": "This is the first one."
+    },
+    "[FEM_MOV]": {
+      "3": "move",
+      "5": "to another place",
+      "20": "to move",
+      "50": "in the near future",
+      "100": "Yes of course."
+    },
+    "[FEM_SEL]": {
+      "3": "selection",
+      "5": "However",
+      "20": "choice",
+      "50": "just get up and go",
+      "100": "the state of being."
+    },
+    "[FEM_BAK]": {
+      "3": "finally",
+      "5": "After",
+      "20": "into the past",
+      "50": "This group is called",
+      "100": "Then come to me."
+    },
+    "[FEC_SWP]": {
+      "3": "Player movement:",
+      "5": "Hint 2:",
+      "20": "Player Features:",
+      "50": "Football:",
+      "100": "Player Information: 1.1."
+    },
+    "[FED_BRI]": {
+      "3": "Light:",
+      "5": "Light:",
+      "20": "Received:",
+      "50": "Translation:",
+      "100": "This is Clara Lemon 100V."
+    },
+    "[FED_SUB]": {
+      "3": "Subheadings:",
+      "5": "Topics:",
+      "20": "Colin:",
+      "50": "There is noise.",
+      "100": "Season 1, 1999 Torrent"
+    },
+    "[FED_RDM]": {
+      "3": "Maps and Blips",
+      "5": "Maps and Flash",
+      "20": "Maps and markers",
+      "50": "Includes maps and photos.",
+      "100": "Maps and Information"
+    },
+    "[FED_RDB]": {
+      "3": "It just flutters",
+      "5": "Only blips do",
+      "20": "Just shocked",
+      "50": "Amazing.",
+      "100": "plumbing equipment."
+    },
+    "[FED_RDR]": {
+      "3": "Radar mode:",
+      "5": "Radar mode: 1.1.",
+      "20": "Tips:",
+      "50": "A type of radar.",
+      "100": "means"
+    },
+    "[FED_HUD]": {
+      "3": "HUD Mode:",
+      "5": "HUD Mode:",
+      "20": "Organization: 1.1.",
+      "50": "Basically, it is",
+      "100": "The law of salvation"
+    },
+    "[MUSVOL]": {
+      "3": "Music volume:",
+      "5": "The Sound of Music:",
+      "20": "Simple Music: 1.1.",
+      "50": "Best song of the year:",
+      "100": "This song is the best song of the year"
+    },
+    "[SFXVOL]": {
+      "3": "Sound effects volume:",
+      "5": "The amount of SFX:",
+      "20": "And SFX:",
+      "50": "Very difficult",
+      "100": "Thank you for your reply"
+    },
+    "[FEA_FM0]": {
+      "3": "Flash FM",
+      "5": "Flash FM",
+      "20": "FM flash is available.",
+      "50": "FM is the number of hours",
+      "100": "SK drawings available"
+    },
+    "[FEA_FM1]": {
+      "3": "V. Rock",
+      "5": "We rocked",
+      "20": "5 now",
+      "50": "On the rock",
+      "100": "such as V.V.V"
+    },
+    "[FEA_FM2]": {
+      "3": "Paradise",
+      "5": "heaven",
+      "20": "The abode of heaven",
+      "50": "Stay in heaven",
+      "100": "The weather has changed"
+    },
+    "[FEA_FM3]": {
+      "3": "VCPR",
+      "5": "VCPR called",
+      "20": "VCPR of VCPR",
+      "50": "V.C.P.R.",
+      "100": "It means wakafra."
+    },
+    "[FEA_FM4]": {
+      "3": "VCFL radio",
+      "5": "Radio VCFL",
+      "20": "Radio VCfl",
+      "50": "Download radio VKFL",
+      "100": "VFL Radio"
+    },
+    "[FEA_FM5]": {
+      "3": "listen 103",
+      "5": "Wave 103",
+      "20": "He is 103 years old",
+      "50": "103 Ghat",
+      "100": "103 results received"
+    },
+    "[FEA_FM6]": {
+      "3": "The new 105 FM",
+      "5": "New 105 FM",
+      "20": "New video for 105 FM",
+      "50": "Listen to Radio 105 FM for free",
+      "100": "Radio FM 105."
+    },
+    "[FEA_FM7]": {
+      "3": "The book of Espatos",
+      "5": "The name is Espantoso",
+      "20": "It is very bad",
+      "50": "Made in Spain",
+      "100": "It's called Sparta."
+    },
+    "[FEA_FM8]": {
+      "3": "Sensitivity 98.3",
+      "5": "Sensor 98.3",
+      "20": "Mental nature 98.3",
+      "50": "The overall score is 98.3",
+      "100": "according to"
+    },
+    "[FEA_FM9]": {
+      "3": "The name of the place where seats are reserved",
+      "5": "A place to write",
+      "20": "Plan a trip indoors",
+      "50": "It depends on your opinion",
+      "100": "Tell people where you live."
+    },
+    "[FEA_RSS]": {
+      "3": "Radio stations:",
+      "5": "radio:",
+      "20": "Radio Name:",
+      "50": "Changes: 1.1.",
+      "100": "He worked as an engineer."
+    },
+    "[FEA_CSS]": {
+      "3": "Customized Soundtrack:",
+      "5": "Language description:",
+      "20": "Normal sound:",
+      "50": "Music is acceptable",
+      "100": "It's just there."
+    },
+    "[FEA_NON]": {
+      "3": "Turn off the radio",
+      "5": "The radio is off",
+      "20": "The radio turned off.",
+      "50": "Turn off the radio.",
+      "100": "turn on the radio."
+    },
+    "[CRIMRA]": {
+      "3": "Classification of crime",
+      "5": "Consideration of crime",
+      "20": "Criminal investigation",
+      "50": "A criminal investigation is required.",
+      "100": "Well, the question remains."
+    },
+    "[RATNG53]": {
+      "3": "Dishonest",
+      "5": "Misdemeanor",
+      "20": "He doesn't deserve it",
+      "50": "It's terrible.",
+      "100": "don't do that"
+    },
+    "[RATNG54]": {
+      "3": "Cheating rat",
+      "5": "Corruption of rats",
+      "20": "smart card",
+      "50": "It's dangerous.",
+      "100": "There are many trees and bushes."
+    },
+    "[RATNG55]": {
+      "3": "Shark",
+      "5": "Shark of",
+      "20": "The name of a shark",
+      "50": "The festival is called Meen Sankranti.",
+      "100": "That's exactly how it should be."
+    },
+    "[RATNG56]": {
+      "3": "Cheater",
+      "5": "People cheat on each other",
+      "20": "who is the artist",
+      "50": "They’re musicians",
+      "100": "He’s not crazy."
+    },
+    "[RATNG57]": {
+      "3": "Gift of all liars",
+      "5": "Don't lie to them all",
+      "20": "All the lies - Sunday morning.",
+      "50": "It’s not just about killing people",
+      "100": "During the two weeks of August."
+    },
+    "[RATNG1]": {
+      "3": "gentlemen",
+      "5": "Firefighters",
+      "20": "mom and dad",
+      "50": "A good citizen",
+      "100": "I am a citizen of the country."
+    },
+    "[RATNG2]": {
+      "3": "No one is special",
+      "5": "No one is important",
+      "20": "nothing special.",
+      "50": "not really",
+      "100": "It’s very interesting"
+    },
+    "[RATNG3]": {
+      "3": "Sportsman",
+      "5": "Incineration waste",
+      "20": "letter",
+      "50": "this book",
+      "100": "No, it isn’t."
+    },
+    "[RATNG4]": {
+      "3": "Businessman",
+      "5": "Tool thieves",
+      "20": "The goods were stolen.",
+      "50": "On top of the building",
+      "100": "bed"
+    },
+    "[RATNG5]": {
+      "3": "Vandal",
+      "5": "Vandal",
+      "20": "month month",
+      "50": "This is progress.",
+      "100": "Definitely"
+    },
+    "[RATNG6]": {
+      "3": "Do it, son",
+      "5": "You're the boy",
+      "20": "Dabo is a noun.",
+      "50": "This is your son.",
+      "100": "A doctor is a doctor."
+    },
+    "[RATNG7]": {
+      "3": "Pickpocket",
+      "5": "Pickpocketing",
+      "20": "This is called hunting.",
+      "50": "From the library",
+      "100": "operating budget"
+    },
+    "[RATNG8]": {
+      "3": "Klepto",
+      "5": "Klepto",
+      "20": "Chronic kleptomania.",
+      "50": "Object resistance",
+      "100": "Why is this so?"
+    },
+    "[RATNG9]": {
+      "3": "cut",
+      "5": "to wash",
+      "20": "He is known as a wrestler.",
+      "50": "It gets stronger every day.",
+      "100": "What hope do you have?"
+    },
+    "[RATNG10]": {
+      "3": "Rat",
+      "5": "mouse",
+      "20": "the rat",
+      "50": "The fish is the fish.",
+      "100": "Enjoy a future."
+    },
+    "[RATNG11]": {
+      "3": "smile",
+      "5": "League",
+      "20": "falling snow",
+      "50": "This is a news site.",
+      "100": "There is something in it."
+    },
+    "[RATNG12]": {
+      "3": "to cheat",
+      "5": "Con Amen",
+      "20": "It is edible.",
+      "50": "He is a victim",
+      "100": "Let's learn from this."
+    },
+    "[RATNG13]": {
+      "3": "to cheat",
+      "5": "hard",
+      "20": "Copy this.",
+      "50": "Count the points.",
+      "100": "Let's learn from this."
+    },
+    "[RATNG14]": {
+      "3": "Hall of Numbers",
+      "5": "sports scores",
+      "20": "Number of riders",
+      "50": "We are them.",
+      "100": "Official website"
+    },
+    "[RATNG15]": {
+      "3": "drug dealer",
+      "5": "host",
+      "20": "Fraud.",
+      "50": "This is the heavenly sea.",
+      "100": "by him"
+    },
+    "[RATNG16]": {
+      "3": "threat",
+      "5": "threat",
+      "20": "They will make you laugh.",
+      "50": "That is the problem.",
+      "100": "I am a thief"
+    },
+    "[RATNG17]": {
+      "3": "Riff-Raff",
+      "5": "Riff-Raff",
+      "20": "confused",
+      "50": "thief",
+      "100": "This is a murder."
+    },
+    "[RATNG18]": {
+      "3": "escalawag",
+      "5": "a scalawag",
+      "20": "that",
+      "50": "It is a pity.",
+      "100": "The fruit is ripe"
+    },
+    "[RATNG19]": {
+      "3": "A violent man",
+      "5": "hooligan snowflake",
+      "20": "badly",
+      "50": "Elibi's name",
+      "100": "This is true."
+    },
+    "[RATNG20]": {
+      "3": "violent people",
+      "5": "That's a bad guy",
+      "20": "In fact, in fact.",
+      "50": "It's left there",
+      "100": "This is not allowed."
+    },
+    "[RATNG21]": {
+      "3": "The violent people",
+      "5": "like a robber",
+      "20": "Kiba Pokpa.",
+      "50": "In the public interest",
+      "100": "That is not necessary."
+    },
+    "[RATNG22]": {
+      "3": "The fire of the descent",
+      "5": "Humans are broken",
+      "20": "Leave it alone.",
+      "50": "Bayenqaba Ukuenza brother Loku",
+      "100": "The doctor called."
+    },
+    "[RATNG23]": {
+      "3": "Goon in the matter",
+      "5": "gong",
+      "20": "Being a terrorist.",
+      "50": "Bad people",
+      "100": "I am a judge."
+    },
+    "[RATNG24]": {
+      "3": "man",
+      "5": "respectable",
+      "20": "Chawlhni",
+      "50": "shadow",
+      "100": "Nuclear weapons are increasing"
+    },
+    "[RATNG25]": {
+      "3": "the jailbird",
+      "5": "Prison guard",
+      "20": "he was imprisoned",
+      "50": "build a palace",
+      "100": "The door was closed"
+    },
+    "[RATNG26]": {
+      "3": "ex-convict",
+      "5": "former prisoner",
+      "20": "First of all, connect",
+      "50": "It is possible",
+      "100": "I was furious"
+    },
+    "[RATNG27]": {
+      "3": "guilty",
+      "5": "criminal",
+      "20": "That's a bad thing",
+      "50": "it is a sin",
+      "100": "Heart problems"
+    },
+    "[RATNG28]": {
+      "3": "Wrong person",
+      "5": "the bone man",
+      "20": "There are pockets",
+      "50": "Use a bicycle bag",
+      "100": "They point to your bank account"
+    },
+    "[RATNG29]": {
+      "3": "they have a mind",
+      "5": "Intelligent",
+      "20": "intelligence",
+      "50": "They are good people.",
+      "100": "It's just an idea."
+    },
+    "[RATNG30]": {
+      "3": "Wilman",
+      "5": "Wheelman",
+      "20": "leader",
+      "50": "This is the second person.",
+      "100": "Pray for men."
+    },
+    "[RATNG31]": {
+      "3": "The tenant muscle",
+      "5": "Recruited muscles",
+      "20": "take responsibility",
+      "50": "It is used in the food industry.",
+      "100": "Use your muscles."
+    },
+    "[RATNG32]": {
+      "3": "known as the Hatchetman",
+      "5": "An ax man",
+      "20": "Hechtman too",
+      "50": "Sarah was furious.",
+      "100": "Make someone angry."
+    },
+    "[RATNG33]": {
+      "3": "The head of the hunter",
+      "5": "The headhunter",
+      "20": "hunter hunter",
+      "50": "Name Name:",
+      "100": "This was immediately obvious."
+    },
+    "[RATNG34]": {
+      "3": "Manager",
+      "5": "Compliance with the",
+      "20": "the director",
+      "50": "And there are rules",
+      "100": "He was killed with the sword."
+    },
+    "[RATNG35]": {
+      "3": "Ronin",
+      "5": "Roonin",
+      "20": "Ronin",
+      "50": "Luyhi is called khulhi.",
+      "100": "His name is Marvin."
+    },
+    "[RATNG36]": {
+      "3": "Proofreader",
+      "5": "the tightest",
+      "20": "Judgment",
+      "50": "Here is an example.",
+      "100": "What do you think of this place?"
+    },
+    "[RATNG37]": {
+      "3": "Hitman",
+      "5": "He is known as the Sicario",
+      "20": "kill someone",
+      "50": "The killer said.",
+      "100": "We're talking about the killer game."
+    },
+    "[RATNG38]": {
+      "3": "partner",
+      "5": "friendship",
+      "20": "a friend",
+      "50": "in the classroom",
+      "100": "Everything around you"
+    },
+    "[RATNG39]": {
+      "3": "butcher",
+      "5": "Butchery shop",
+      "20": "helper",
+      "50": "I cut the meat",
+      "100": "Јадеа и плачеа"
+    },
+    "[RATNG40]": {
+      "3": "The cleaner",
+      "5": "the cleaner one",
+      "20": "cleaner",
+      "50": "You are not to blame",
+      "100": "O."
+    },
+    "[RATNG41]": {
+      "3": "the killer",
+      "5": "the deadly one",
+      "20": "breaking the law",
+      "50": "For the killer",
+      "100": "пашаккотоккердн"
+    },
+    "[RATNG42]": {
+      "3": "Consultant",
+      "5": "Councilor's Office",
+      "20": "counselor.",
+      "50": "Civil law",
+      "100": "оние кои го носат"
+    },
+    "[RATNG43]": {
+      "3": "Made by Man",
+      "5": "made by a man",
+      "20": "He made him a man.",
+      "50": "This is protection",
+      "100": "it's difficult"
+    },
+    "[RATNG44]": {
+      "3": "Right hand",
+      "5": "right-handed",
+      "20": "good man",
+      "50": "your right hand",
+      "100": "Good people."
+    },
+    "[RATNG45]": {
+      "3": "ନିଷ୍ପାଦକ",
+      "5": "the killer of the murderer",
+      "20": "People die there.",
+      "50": "a cat",
+      "100": "Mind is different."
+    },
+    "[RATNG46]": {
+      "3": "Lt. Lieut",
+      "5": "the officer of the army",
+      "20": "He was a good officer.",
+      "50": "he is a brave man",
+      "100": "Things are bad here. Colonel Alaska"
+    },
+    "[RATNG47]": {
+      "3": "Underbus",
+      "5": "Assistant Director",
+      "20": "The manager laughed.",
+      "50": "and (defeated).",
+      "100": "This is typical for Miami."
+    },
+    "[RATNG48]": {
+      "3": "କାପୋ |",
+      "5": "Capo",
+      "20": "Cabo wonder.",
+      "50": "Energy is good medicine",
+      "100": "These people"
+    },
+    "[RATNG49]": {
+      "3": "Principal",
+      "5": "Leader",
+      "20": "Ed",
+      "50": "Author's note",
+      "100": "Responsible owner"
+    },
+    "[RATNG50]": {
+      "3": "Ripin",
+      "5": "He is known as Kingpin",
+      "20": "This is the king.",
+      "50": "Emperor Ping of the Qing Dynasty",
+      "100": "Responsible owner"
+    },
+    "[RATNG51]": {
+      "3": "Don",
+      "5": "Money",
+      "20": "tell me",
+      "50": "White spots",
+      "100": "It's still cold there."
+    },
+    "[RATNG52]": {
+      "3": "Father of the children",
+      "5": "God the Father",
+      "20": "his father",
+      "50": "His father is God.",
+      "100": "Leaders and managers"
+    },
+    "[PER_COM]": {
+      "3": "Percentage completed",
+      "5": "Complete percentage",
+      "20": "Full interest.",
+      "50": "It is poisonous.",
+      "100": "Look at the current situation."
+    },
+    "[NMISON]": {
+      "3": "Try a mission",
+      "5": "Task test",
+      "20": "They are trying to promote.",
+      "50": "watch ads",
+      "100": "This is an interesting question."
+    },
+    "[ST_TIME]": {
+      "3": "Current playing time",
+      "5": "Current game time",
+      "20": "Game time",
+      "50": "It's time to drink!",
+      "100": "It’s time to read!"
+    },
+    "[ST_OVTI]": {
+      "3": "Total game time",
+      "5": "Full game time",
+      "20": "Always play games.",
+      "50": "Play this game over and over again.",
+      "100": "I know you are all confused."
+    },
+    "[DAYSPS]": {
+      "3": "The day passed in the game",
+      "5": "Days passed in the game",
+      "20": "I wish you a good day",
+      "50": "Gone are the days of exercise.",
+      "100": "It’s totally worth it."
+    },
+    "[NUMSHV]": {
+      "3": "Number saved",
+      "5": "Number of survivors",
+      "20": "File number",
+      "50": "bank account..",
+      "100": "where are they?"
+    },
+    "[FEST_RP]": {
+      "3": "The anger passed",
+      "5": "Excessive crying",
+      "20": "Confusion ensued.",
+      "50": "Land of Orcs or.",
+      "100": "This problem will be solved"
+    },
+    "[NUM_NS]": {
+      "3": "Number of broken necks",
+      "5": "Some of their backs were cut off",
+      "20": "The number of documents is huge.",
+      "50": "This happened many times.",
+      "100": "No, no, no, no"
+    },
+    "[PERPIC]": {
+      "3": "Add hidden packages",
+      "5": "We are checking the hidden package",
+      "20": "Encrypted packets are collected.",
+      "50": "REPORTED.",
+      "100": "He had to announce it"
+    },
+    "[BAL_BUR]": {
+      "3": "The red balloon burst",
+      "5": "The red ball burst",
+      "20": "The red bubble expands.",
+      "50": "Bleeding",
+      "100": "I'm tired of it"
+    },
+    "[PE_WAST]": {
+      "3": "The person you lost",
+      "5": "People have spoiled you",
+      "20": "You are cursed.",
+      "50": "They were destroyed.",
+      "100": "Your thoughts are there"
+    },
+    "[PE_WSOT]": {
+      "3": "People who are consumed by others",
+      "5": "People have lost other people",
+      "20": "People destroy others.",
+      "50": "People hurt each other.",
+      "100": "talk about it"
+    },
+    "[CAR_EXP]": {
+      "3": "Cars exploded",
+      "5": "Cars were bombed",
+      "20": "He shoots at the car",
+      "50": "The car is screaming.",
+      "100": "I have a problem with my car."
+    },
+    "[BOA_EXP]": {
+      "3": "The boats were destroyed",
+      "5": "The ship was destroyed",
+      "20": "The ship was destroyed.",
+      "50": "The plane was damaged.",
+      "100": "The result is the sea."
+    },
+    "[HEL_DST]": {
+      "3": "The plane was destroyed",
+      "5": "The planes were destroyed",
+      "20": "The plane was shot down.",
+      "50": "The Air Force is closed.",
+      "100": "."
+    },
+    "[TYREPOP]": {
+      "3": "The tires burst from the fire",
+      "5": "Balls exploded from the gun",
+      "20": "My tires are flat.",
+      "50": "Money fell from the cup.",
+      "100": "soft and beautiful colors"
+    },
+    "[ST_STAR]": {
+      "3": "All desired stars have been found",
+      "5": "The whole thing needs a star set",
+      "20": "Full star rating request accepted.",
+      "50": "Celebrity love is real.",
+      "100": "I want a reward."
+    },
+    "[ST_STGN]": {
+      "3": "All the wanted stars run away",
+      "5": "They took all the stars",
+      "20": "I saw all the famous artists.",
+      "50": "Save the country you love.",
+      "100": "Inc., Inc"
+    },
+    "[TM_BUST]": {
+      "3": "Sometimes you get caught",
+      "5": "The time required",
+      "20": "How many times have you been stopped?",
+      "50": "There are many mistakes.",
+      "100": "The time has come."
+    },
+    "[TM_DED]": {
+      "3": "Bad time",
+      "5": "Times you left",
+      "20": "Just a waste of time.",
+      "50": "This is a problem.",
+      "100": "Time is up."
+    },
+    "[ST_HEAD]": {
+      "3": "Number of heads",
+      "5": "Number of mental disorders",
+      "20": "Machine head number",
+      "50": "There are many questions.",
+      "100": "Number of club members."
+    },
+    "[DAYPLC]": {
+      "3": "Daily expenses of the police",
+      "5": "Police use it every day",
+      "20": "Daily policy cost",
+      "50": "Full time pay",
+      "100": "Police are integrated into everyday life."
+    },
+    "[GNG_WST]": {
+      "3": "The gangs were scattered",
+      "5": "The gang members are gone.",
+      "20": "Travel team members.",
+      "50": "I don't enjoy it",
+      "100": "This is a good lesson."
+    },
+    "[DED_CRI]": {
+      "3": "The rebels dispersed",
+      "5": "criminals who have lost their way",
+      "20": "I cough",
+      "50": "This is a very common phenomenon.",
+      "100": "This is the thing."
+    },
+    "[KGS_EXP]": {
+      "3": "kilogram of explosives used",
+      "5": "kilograms of explosives used",
+      "20": "1 pound of ammunition",
+      "50": "Kilogram per unit",
+      "100": "Even if it explodes."
+    },
+    "[BUL_FIR]": {
+      "3": "a bullet has been fired",
+      "5": "A gunshot was fired",
+      "20": "It will be a weapon.",
+      "50": "I heard a shot.",
+      "100": "disease"
+    },
+    "[BUL_HIT]": {
+      "3": "The bullets that fell",
+      "5": "The bullet that hit him",
+      "20": "There is a gun",
+      "50": "It’s supposed to be a celebration.",
+      "100": "It comes in many colors"
+    },
+    "[ACCURA]": {
+      "3": "To be just",
+      "5": "Accuracy",
+      "20": "This is not true",
+      "50": "This is a serious problem.",
+      "100": "give"
+    },
+    "[FEST_DF]": {
+      "3": "Walking distance (miles).",
+      "5": "Distance Walked (miles)",
+      "20": "Driving distance (km).",
+      "50": "Distance in feet (km).",
+      "100": "Length (km)."
+    },
+    "[FESTDFM]": {
+      "3": "Space (m).",
+      "5": "Distance walked (meters)",
+      "20": "distance (m).",
+      "50": "Distance traveled (m) .",
+      "100": "Height (meters)."
+    },
+    "[DISTSWI]": {
+      "3": "Miles (miles).",
+      "5": "Distance Main (miles)",
+      "20": "Distance to the river bank (km).",
+      "50": "Travel time per fuel (km).",
+      "100": "Water length (km)."
+    },
+    "[DISTSWM]": {
+      "3": "During drought (m.) .",
+      "5": "Sailing distance (m)",
+      "20": "Bathing area (meters)",
+      "50": "Other rivers (in meters).",
+      "100": "Plant height (m)."
+    },
+    "[FEST_DC]": {
+      "3": "Distance traveled by vehicle (miles).",
+      "5": "Distance traveled per vehicle (miles)",
+      "20": "kilometer (km)",
+      "50": "Distance in feet (km).",
+      "100": "Distance (km)."
+    },
+    "[FESTDCM]": {
+      "3": "Distance traveled by vehicle (m).",
+      "5": "Vehicle distance (m)",
+      "20": "km (m)",
+      "50": "Height (meters).",
+      "100": "The length of the table is 1 meter."
+    },
+    "[DISTBIK]": {
+      "3": "Bike Distance (miles)",
+      "5": "Distance a bicycle can travel (miles)",
+      "20": "Distance of the cycle",
+      "50": "About (thousands).",
+      "100": "Distance (km)."
+    },
+    "[DISTBIM]": {
+      "3": "Distance traveled by bicycle (meters).",
+      "5": "Distance traveled by bicycle (m.)",
+      "20": "Distance of the cycle",
+      "50": "Slope distance (m).",
+      "100": "It is expressed in metres"
+    },
+    "[DISTBOA]": {
+      "3": "Distance traveled by boat (miles)",
+      "5": "Distance traveled by boat (miles)",
+      "20": "Distance (kms).",
+      "50": "Walking (km).",
+      "100": "Distance (km)"
+    },
+    "[DISTBOM]": {
+      "3": "Distance traveled by boat (m)",
+      "5": "Distance traveled by boat (m)",
+      "20": "Captain (m).",
+      "50": "Height of feet (m).",
+      "100": "Cable resistance in meters."
+    },
+    "[DISTHEL]": {
+      "3": "Distance traveled by plane (miles)",
+      "5": "Distance traveled by air (miles)",
+      "20": "Flight distance (miles).",
+      "50": "Travel distance (km).",
+      "100": "Average distance (km)."
+    },
+    "[DISTHEM]": {
+      "3": "Distance traveled by air (m)",
+      "5": "Distance traveled by air (m)",
+      "20": "Location (meters).",
+      "50": "Travel distance (in meters).",
+      "100": "The length of the train is in meters."
+    },
+    "[TOT_DIS]": {
+      "3": "Total distance traveled (miles)",
+      "5": "Total distance traveled (miles)",
+      "20": "Total distance traveled (miles).",
+      "50": "Total length (km).",
+      "100": "Total length (km)."
+    },
+    "[TOTDISM]": {
+      "3": "Total distance traveled (m) .",
+      "5": "Total travel distance (m)",
+      "20": "Total distance (m).",
+      "50": "Total area (m)",
+      "100": "Total length (meters)."
+    },
+    "[MXCARD]": {
+      "3": "Max Crazy Jump Distance (feet) .",
+      "5": "Long jump distance (feet)",
+      "20": "Normal dog long jump (legs).",
+      "50": "When you jump",
+      "100": "It happened immediately."
+    },
+    "[MXCARDM]": {
+      "3": "Max Crazy Jump Distance (m) .",
+      "5": "Long jump distance (m).",
+      "20": "Crazy long jump (m).",
+      "50": "Average distance (m)",
+      "100": "Current position (weight)"
+    },
+    "[MXCARJ]": {
+      "3": "Crazy jump height (legs).",
+      "5": "Crazy high jump height (feet).",
+      "20": "Crazy horizontal jumps (legs).",
+      "50": "Average Height (feet)",
+      "100": "Mara (city)."
+    },
+    "[MXCARJM]": {
+      "3": "Maximum Crazy Jump Height (m) .",
+      "5": "Maximum jump height (m).",
+      "20": "flight length (m).",
+      "50": "Average trip (m)",
+      "100": "length length (meters)"
+    },
+    "[MXFLIP]": {
+      "3": "Jump to the highest level of madness",
+      "5": "The craziest jumps",
+      "20": "Mostly black mosquitoes",
+      "50": "Wait, this is crazy.",
+      "100": "We climbed up."
+    },
+    "[MXJUMP]": {
+      "3": "Max Crazy Dog Wanders",
+      "5": "They jumped over their anger",
+      "20": "Especially dancing in the dark",
+      "50": "Max escaped.",
+      "100": "We climbed up."
+    },
+    "[BSTSTU]": {
+      "3": "The most insane thing.",
+      "5": "Crazy obstacles",
+      "20": "The most delicious place",
+      "50": "This is insane.",
+      "100": "To love to listen"
+    },
+    "[INSTUN]": {
+      "3": "Rabbit Street",
+      "5": "RATIO",
+      "20": "It is black magic",
+      "50": "He plays like a madman",
+      "100": "I hate this."
+    },
+    "[PRINST]": {
+      "3": "The Perfect Sportsmanship",
+      "5": "A beautiful trick",
+      "20": "It is so bengchheng.",
+      "50": "His work speaks for itself.",
+      "100": "It is still dark."
+    },
+    "[DBINST]": {
+      "3": "Double trick",
+      "5": "Crazy stunt hat",
+      "20": "Another clever trick",
+      "50": "double darkness",
+      "100": "This river is twice as big as that one."
+    },
+    "[DBPINS]": {
+      "3": "A perfect double crazy stunt",
+      "5": "Pretty crazy double stunt",
+      "20": "Both incredibly stupid strategies",
+      "50": "The two are close to each other.",
+      "100": "Increase 2 times"
+    },
+    "[TRINST]": {
+      "3": "Triple Madness Tricks",
+      "5": "It was three darks",
+      "20": "Three crazy tricks",
+      "50": "3 levels of darkness",
+      "100": "It depends on the idiot!"
+    },
+    "[PRTRST]": {
+      "3": "Perfect triple crazy trick",
+      "5": "A pretty crazy triple stunt",
+      "20": "Three big crazy plans",
+      "50": "green grass",
+      "100": "It's hard to say."
+    },
+    "[QUINST]": {
+      "3": "Quadruple Madness Tricks",
+      "5": "Crazy Four Act",
+      "20": "Four crazy men",
+      "50": "A bit strange",
+      "100": "The difference between them"
+    },
+    "[PQUINS]": {
+      "3": "Complete with four crazy stunts",
+      "5": "A perfect quarter",
+      "20": "Crazy perfect square effect",
+      "50": "Crazy beautiful place",
+      "100": "Change the yeast every 4 days."
+    },
+    "[NOSTUC]": {
+      "3": "It's not crazy given that",
+      "5": "No crazy fees",
+      "20": "It's not funny",
+      "50": "This is not a good idea.",
+      "100": "You don't have to do anything wrong."
+    },
+    "[NOUNIF]": {
+      "3": "A rare leap passed",
+      "5": "Amazing jumps are over",
+      "20": "He entered with a great leap.",
+      "50": "The journey is over.",
+      "100": "let's play"
+    },
+    "[ST_WHEE]": {
+      "3": "Longest idle time (seconds)",
+      "5": "Maximum cycle time (seconds) .",
+      "20": "Average cycle time (seconds).",
+      "50": "time (seconds).",
+      "100": "time (time)."
+    },
+    "[ST_WHED]": {
+      "3": "Maximum distance (m)",
+      "5": "Maximum Wheelbase (m) .",
+      "20": "About half (m).",
+      "50": "Wheel height (m).",
+      "100": "Wheel height (m)."
+    },
+    "[ST_STOP]": {
+      "3": "Longest duration of rupture (seconds)",
+      "5": "Longest stop time (seconds)",
+      "20": "stay there longer.",
+      "50": "Jenny becomes president (dupa).",
+      "100": "Enter the time in seconds."
+    },
+    "[ST_STOD]": {
+      "3": "Farthest distance (m.)",
+      "5": "Longest stopping distance (meters)",
+      "20": "a ni Naidluz cɛ janya (m.).",
+      "50": "Average vertical distance (m)",
+      "100": "Or high school students"
+    },
+    "[ST_FAPD]": {
+      "3": "The plant with the longest face (m)",
+      "5": "The longest plant (meters)",
+      "20": "Jiri in fànba ka bòn (m).",
+      "50": "Tallest tree (in meters)",
+      "100": "String (letters)"
+    },
+    "[ST_2WHE]": {
+      "3": "Longest 2 wheel time (seconds)",
+      "5": "Longest driving time on two wheels (seconds)",
+      "20": "Aw bɛ taa taama janw na wotoro fila kan.",
+      "50": "The maximum time is 2 seconds.",
+      "100": "2 Poto Zeitl (2nd edition)."
+    },
+    "[ST_2WHD]": {
+      "3": "Maximum distance 2 wheels (m)",
+      "5": "The longest distance between two wheels (meters)",
+      "20": "2 outer wheels (m.).",
+      "50": "Soap (m.) 2 wheels",
+      "100": "There are two sides (meters) between them."
+    },
+    "[TMSOUT]": {
+      "3": "Changing clothes",
+      "5": "change of clothes",
+      "20": "Change of clothes",
+      "50": "Change yourself",
+      "100": "Afraid of death."
+    },
+    "[ST_DRWN]": {
+      "3": "Feeding the fish",
+      "5": "feeding the fish",
+      "20": "eating fish",
+      "50": "This is very difficult.",
+      "100": "catching fish"
+    },
+    "[SPRAYIN]": {
+      "3": "Pay 'n' Spray Delivery",
+      "5": "See 'N' Spray",
+      "20": "Look at the singer.",
+      "50": "The answer is water",
+      "100": "directly"
+    },
+    "[ST_WEAP]": {
+      "3": "Weapons budget",
+      "5": "Arms budget.",
+      "20": "Has a weapon level",
+      "50": "It all started with gold",
+      "100": "The meeting continues."
+    },
+    "[ST_AUTO]": {
+      "3": "car maintenance and paint budget.",
+      "5": "Car maintenance and paint budget.",
+      "20": "Car repair and painting",
+      "50": "Repair and painting costs.",
+      "100": "Please tell me that."
+    },
+    "[ST_DAMA]": {
+      "3": "Property destroyed",
+      "5": "destroyed property",
+      "20": "Everything is in chaos.",
+      "50": "The property was destroyed",
+      "100": "It makes you better."
+    },
+    "[FST_MFR]": {
+      "3": "Favorite radio station",
+      "5": "My favorite radio",
+      "20": "Our Favorite Radio Stations",
+      "50": "Your favorite radio station?",
+      "100": "Pop radio on the air"
+    },
+    "[FST_LFR]": {
+      "3": "Favorite radio station",
+      "5": "My favorite radio",
+      "20": "radio is awesome",
+      "50": "Your favorite radio station?",
+      "100": "Pop radio on the air"
+    },
+    "[ST_GANG]": {
+      "3": "Favorite group",
+      "5": "Delete a favorite group",
+      "20": "It's hard to like a team.",
+      "50": "This group is very popular.",
+      "100": "Among other things"
+    },
+    "[CHASE]": {
+      "3": "High media attention",
+      "5": "More media interest",
+      "20": "a lot of media attention",
+      "50": "I love television",
+      "100": "Like a warehouse."
+    },
+    "[CHASE1]": {
+      "3": "Ignored",
+      "5": "ignore",
+      "20": "no problem",
+      "50": "There are no figures.",
+      "100": "I don't know"
+    },
+    "[CHASE2]": {
+      "3": "Anxiety",
+      "5": "boring",
+      "20": "I'm bored",
+      "50": "It's really sad.",
+      "100": "It's a great game."
+    },
+    "[CHASE3]": {
+      "3": "Very interesting",
+      "5": "Very interesting",
+      "20": "I am interested in ambiguity",
+      "50": "This is a big problem.",
+      "100": "That is not surprising."
+    },
+    "[CHASE4]": {
+      "3": "Local newspaper 7 pages",
+      "5": "Local newspaper 7 pages",
+      "20": "Local articles b",
+      "50": "Local Newspaper p.7",
+      "100": "Page 7 of the district newspaper."
+    },
+    "[CHASE5]": {
+      "3": "The front page of the local newspaper",
+      "5": "Front page of local newspaper",
+      "20": "On the front page of the local newspaper",
+      "50": "Front page of a local newspaper.",
+      "100": "Local newspaper"
+    },
+    "[CHASE6]": {
+      "3": "Deputy attendant Page 2",
+      "5": "Sub Messaging p",
+      "20": "Help page",
+      "50": "In a voice message",
+      "100": "Working time: 14 hours"
+    },
+    "[CHASE7]": {
+      "3": "Vice Courier front page",
+      "5": "Early Deputy Missionary",
+      "20": "About page",
+      "50": "In a voice message",
+      "100": "Last page of this article."
+    },
+    "[CHASE8]": {
+      "3": "Local TV 3 hours",
+      "5": "Local TV at 15:00",
+      "20": "15:00 local television.",
+      "50": "15:00 - Local TV",
+      "100": "Watch 3 hours of local TV"
+    },
+    "[CHASE9]": {
+      "3": "Local TV news",
+      "5": "Local TV news",
+      "20": "Local television news",
+      "50": "Turn on the local TV",
+      "100": "Publication date"
+    },
+    "[CHASE10]": {
+      "3": "Live local television",
+      "5": "Live local TV broadcast",
+      "20": "In the past",
+      "50": "Maybe on local TV",
+      "100": "Watch TV at home"
     }
   }
 }
