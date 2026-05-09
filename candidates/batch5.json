@@ -8128,6 +8128,2001 @@
       "20": "Okay",
       "50": "A boat in the foreground.",
       "100": "Send a message"
+    },
+    "[CHEETAH]": {
+      "3": "Cheetah",
+      "5": "Cheetah",
+      "20": "Color",
+      "50": "round cap",
+      "100": "Everything has its place."
+    },
+    "[WASHIN]": {
+      "3": "Washington",
+      "5": "Washington",
+      "20": "Washington",
+      "50": "in Washington Point",
+      "100": "He lives in Washington."
+    },
+    "[WHOOPEE]": {
+      "3": "Mr. Whoopi",
+      "5": "Mr. Whoopi",
+      "20": "Mr. Wow!",
+      "50": "excuse me",
+      "100": "\"Wait,\" she whispered."
+    },
+    "[BFINJC]": {
+      "3": "BF vaccine",
+      "5": "PF injection",
+      "20": "BF injection",
+      "50": "High injection furnace",
+      "100": "I want to interrupt"
+    },
+    "[HUNTER]": {
+      "3": "the hunter",
+      "5": "Hunter",
+      "20": "The outsider",
+      "50": "He is the Savior.",
+      "100": "fish"
+    },
+    "[ENFORCR]": {
+      "3": "Executor",
+      "5": "user",
+      "20": "form",
+      "50": "Drive in the snow",
+      "100": "This security has been verified."
+    },
+    "[SECURI]": {
+      "3": "The security guards",
+      "5": "Security",
+      "20": "Avalanches are not dangerous.",
+      "50": "I'm getting along",
+      "100": "This is a security issue."
+    },
+    "[RHINO]": {
+      "3": "the rhinoceros",
+      "5": "the elephant",
+      "20": "Rhinos",
+      "50": "or something like that",
+      "100": "They said it was bad."
+    },
+    "[CUBAN]": {
+      "3": "Cuban Hermes",
+      "5": "Hermes in Cuba",
+      "20": "Cuban mercury",
+      "50": "Hermes in Cuba",
+      "100": "Because of Merck"
+    },
+    "[DODO]": {
+      "3": "Dodo",
+      "5": "dodo",
+      "20": "bangui",
+      "50": "many things",
+      "100": "Name of person"
+    },
+    "[COACH]": {
+      "3": "Coach",
+      "5": "Teacher",
+      "20": "a hard-working teacher",
+      "50": "The teacher is here.",
+      "100": "my teacher"
+    },
+    "[PACKER]": {
+      "3": "Early",
+      "5": "Park replied",
+      "20": "employee",
+      "50": "no that's not true.",
+      "100": "a storm"
+    },
+    "[SQUALO]": {
+      "3": "Storm",
+      "5": "Posted by Squalo",
+      "20": "Who is the School?",
+      "50": "He was a handsome young man.",
+      "100": "It is called antimony."
+    },
+    "[SEASPAR]": {
+      "3": "The ocean is the sea",
+      "5": "Sea urchins",
+      "20": "a sea of fire",
+      "50": "Marine animals",
+      "100": "Go to the sea."
+    },
+    "[GANGBUR]": {
+      "3": "It's a gang",
+      "5": "Rancher Zoo Group",
+      "20": "calves and sheep",
+      "50": "What is that",
+      "100": "Take a deep breath."
+    },
+    "[TROPIC]": {
+      "3": "tropical",
+      "5": "tropical",
+      "20": "there is a storm",
+      "50": "Health garden.",
+      "100": "There is no light"
+    },
+    "[YANKEE]": {
+      "3": "yankee",
+      "5": "Yankees",
+      "20": "yankee",
+      "50": "But you can.",
+      "100": "but this is not the case"
+    },
+    "[SKIMMER]": {
+      "3": "skimmer",
+      "5": "Foamer",
+      "20": "crazy",
+      "50": "I borrowed money",
+      "100": "These drones"
+    },
+    "[PHOENIX]": {
+      "3": "phoenix",
+      "5": "Phoenix",
+      "20": "Author:",
+      "50": "The phoenix rises.",
+      "100": "Phoenix"
+    },
+    "[FREEWAY]": {
+      "3": "freeway",
+      "5": "highway",
+      "20": "the boss",
+      "50": "This is the fastest way.",
+      "100": "It was close."
+    },
+    "[GLENDAL]": {
+      "3": "from Glendale",
+      "5": "Glendale",
+      "20": "Glendale is a name",
+      "50": "This article was written in Glendale.",
+      "100": "in Glendale"
+    },
+    "[SPARROW]": {
+      "3": "There are sparrows",
+      "5": "I said",
+      "20": "Fantastic!",
+      "50": "The animals were weak in his ears.",
+      "100": "The cows are happy."
+    },
+    "[COASTG]": {
+      "3": "Coast Guard",
+      "5": "Coast Guard",
+      "20": "Look at the ocean",
+      "50": "save the sea",
+      "100": "Lacrum is a fortress."
+    },
+    "[DINGHY]": {
+      "3": "I pass the boat",
+      "5": "Ship",
+      "20": "a ship",
+      "50": "he wrote a letter",
+      "100": "Chirac is Verdi's eldest son."
+    },
+    "[SABRE]": {
+      "3": "it's morning",
+      "5": "A sword",
+      "20": "in the morning",
+      "50": "you have to be patient",
+      "100": "dictionary"
+    },
+    "[SABRETU]": {
+      "3": "Saber Turbo",
+      "5": "Saber Turbo",
+      "20": "The Saber is a turbo.",
+      "50": "The wind was strong",
+      "100": "Japan J Turbo"
+    },
+    "[WALTON]": {
+      "3": "Walton",
+      "5": "Given to Walton",
+      "20": "Walton laughed.",
+      "50": "1999. Walton et al.",
+      "100": "Gorton."
+    },
+    "[REGINA]": {
+      "3": "Regina",
+      "5": "Presented by Regina",
+      "20": "It’s in Regina.",
+      "50": "queen mother",
+      "100": "Lady Reginald Lady Reginald"
+    },
+    "[COMET]": {
+      "3": "Comet",
+      "5": "Also known as smoking",
+      "20": "Commitment to the work",
+      "50": "Do your job",
+      "100": "That's a star."
+    },
+    "[MARQUIS]": {
+      "3": "Marquis",
+      "5": "Marquis gave",
+      "20": "Narrator - Marcus.",
+      "50": "Mark, you are right.",
+      "100": "mountains of the world"
+    },
+    "[BAGGAGE]": {
+      "3": "Baggage handler",
+      "5": "Luggage rack",
+      "20": "Property manager",
+      "50": "Financial management",
+      "100": "Put it in your pocket"
+    },
+    "[COASTMA]": {
+      "3": "Coast Guard Outsiders",
+      "5": "Coast Guard Maverick",
+      "20": "Maverick Coast Maverick",
+      "50": "Coast Guard",
+      "100": "The Coast Guard will not help anyone."
+    },
+    "[MAVERIC]": {
+      "3": "outsider",
+      "5": "Maverick",
+      "20": "Maverick Snowflakes",
+      "50": "Note:",
+      "100": "It is an old story."
+    },
+    "[RANCHER]": {
+      "3": "breeder",
+      "5": "Sower",
+      "20": "There is a warning.",
+      "50": "Animal skin",
+      "100": "In this case, America."
+    },
+    "[FBIRAN]": {
+      "3": "FBI breeder",
+      "5": "FBI agent",
+      "20": "A good example is the FBI Ranger.",
+      "50": "FBI agent",
+      "100": "It's the FBI."
+    },
+    "[VIRGO]": {
+      "3": "Tower",
+      "5": "A virgin is a virgin",
+      "20": "The girl is brave.",
+      "50": "A woman",
+      "100": "She is my brother's wife."
+    },
+    "[GREENWO]": {
+      "3": "by Greenwood",
+      "5": "Green trees",
+      "20": "you are a woman",
+      "50": "Rain forest, rain forest",
+      "100": "But Greenwood said"
+    },
+    "[WEAP00]": {
+      "3": "Camera",
+      "5": "Take photos",
+      "20": "There was a room.",
+      "50": "Camera",
+      "100": "Terms and Conditions"
+    },
+    "[WEAP01]": {
+      "3": "Baseball jacket",
+      "5": "Baseball bat",
+      "20": "It's a baseball cap.",
+      "50": "He plays basketball",
+      "100": "He plays basketball"
+    },
+    "[WEAP02]": {
+      "3": "Sticky night",
+      "5": "The night is thujru",
+      "20": "It is a tree at night",
+      "50": "Water for breathing",
+      "100": "tomorrow"
+    },
+    "[WEAP03]": {
+      "3": "Brass Knuckle",
+      "5": "the knees of brass",
+      "20": "Kiss the metal",
+      "50": "The device is turned off",
+      "100": "By using this tool you will:"
+    },
+    "[WEAP04]": {
+      "3": "Bow tie knife",
+      "5": "The butterfly knife",
+      "20": "The feathers are swords.",
+      "50": "The child's foot",
+      "100": "Very far"
+    },
+    "[WEAP05]": {
+      "3": "Golf club",
+      "5": "The golf course",
+      "20": "Great golf course",
+      "50": "Next up are the golf courses.",
+      "100": "they dance here"
+    },
+    "[WEAP06]": {
+      "3": "knife",
+      "5": "Here it is",
+      "20": "and so on",
+      "50": "The ice cream is delicious",
+      "100": "Please take the sword"
+    },
+    "[WEAP07]": {
+      "3": "hand axe",
+      "5": "The ax of the hand",
+      "20": "The ball is there",
+      "50": "Congratulations to all",
+      "100": "There is a connection"
+    },
+    "[WEAP08]": {
+      "3": "Gaff the snowflakes",
+      "5": "Author: Gio Hooker",
+      "20": "He turned and looked",
+      "50": "Engage yourself with more energy.",
+      "100": "So try it yourself."
+    },
+    "[WEAP09]": {
+      "3": "The machete is flat",
+      "5": "Fabric for work",
+      "20": "System",
+      "50": "This is the channel.",
+      "100": "It's called an attack."
+    },
+    "[WEAP10]": {
+      "3": "Katana",
+      "5": "katana",
+      "20": "I am Katana",
+      "50": "The announcement was made on Twitter.",
+      "100": "We have a problem."
+    },
+    "[WEAP11]": {
+      "3": "Chainsaws available",
+      "5": "chain saw",
+      "20": "Control group",
+      "50": "command line.",
+      "100": "They know each other."
+    },
+    "[WEAP12]": {
+      "3": "Let's talk about Molotovs",
+      "5": "Molotov wrote",
+      "20": "Molotov again",
+      "50": "Molotov cocktail.",
+      "100": "The bomb exploded."
+    },
+    "[WEAP13]": {
+      "3": "Grenades",
+      "5": "Bombs.",
+      "20": "Explosive machine",
+      "50": "Bomb blast",
+      "100": "He had a gun."
+    },
+    "[WEAP14]": {
+      "3": "Tear gas",
+      "5": "Gas tears.",
+      "20": "lacrimal duct",
+      "50": "He said",
+      "100": "Use tears"
+    },
+    "[WEAP15]": {
+      "3": "Remote grenades",
+      "5": "Long range grenades.",
+      "20": "They are also tall",
+      "50": "They paid their money.",
+      "100": "This is what it is."
+    },
+    "[WEAP16]": {
+      "3": "pistol",
+      "5": "Gun in hand.",
+      "20": "weapons of mass destruction",
+      "50": "This is a tool.",
+      "100": "From the very beginning"
+    },
+    "[WEAP17]": {
+      "3": "Equalizer",
+      "5": "How it was done.",
+      "20": "for some reasons",
+      "50": "Company Manager",
+      "100": "You have to choose it"
+    },
+    "[WEAP18]": {
+      "3": "Small SMG",
+      "5": "Micro-SMG is available",
+      "20": "SMG arrows",
+      "50": "Small submachine gun",
+      "100": "Words are tools."
+    },
+    "[WEAP19]": {
+      "3": "Scorpion",
+      "5": "This scorpion is.",
+      "20": "Chicken",
+      "50": "This is a bug",
+      "100": "Let's think back."
+    },
+    "[WEAP20]": {
+      "3": "SMG",
+      "5": "Automatic pistol",
+      "20": "SMG is the source",
+      "50": "The SMG does the same thing.",
+      "100": "Small hands"
+    },
+    "[WEAP21]": {
+      "3": "Mac",
+      "5": "Mac",
+      "20": "Swimming pool",
+      "50": "See here for Mac.",
+      "100": "nick"
+    },
+    "[WEAP22]": {
+      "3": "White",
+      "5": "A.K.",
+      "20": "He is white",
+      "50": "It is not white",
+      "100": "He came to him"
+    },
+    "[WEAP23]": {
+      "3": "The assault rifle",
+      "5": "assault rifle",
+      "20": "assault rifle",
+      "50": "They helped me.",
+      "100": "this is me"
+    },
+    "[WEAP24]": {
+      "3": "Space",
+      "5": "Space 12. Place",
+      "20": "There are 12 hospitals in this area.",
+      "50": "There are 12 topics.",
+      "100": "Business 12. Location of the hotel"
+    },
+    "[WEAP25]": {
+      "3": "The shotgun",
+      "5": "gun",
+      "20": "He was shot dead.",
+      "50": "This is a tool.",
+      "100": "Good and good"
+    },
+    "[WEAP26]": {
+      "3": "Stylish shotgun",
+      "5": "blunt rifle",
+      "20": "Rock those boots.",
+      "50": "It is a small device.",
+      "100": "This is the government's problem."
+    },
+    "[WEAP27]": {
+      "3": "M249",
+      "5": "M249",
+      "20": "M249 launched",
+      "50": "That is, in 1999",
+      "100": "Privacy"
+    },
+    "[WEAP28]": {
+      "3": "Small arms",
+      "5": "A small gun",
+      "20": "rotating arm",
+      "50": "It is everywhere",
+      "100": "I understand it"
+    },
+    "[WEAP29]": {
+      "3": "Stone thrower",
+      "5": "Rocket engine",
+      "20": "There is a rocket.",
+      "50": "parade",
+      "100": "We sell jewelry"
+    },
+    "[WEAP30]": {
+      "3": "Work tool",
+      "5": "Turn off the fire",
+      "20": "volcanoes of the world",
+      "50": "Your stove.",
+      "100": "Very useful"
+    },
+    "[WEAP31]": {
+      "3": "Sniper",
+      "5": "Archer",
+      "20": "he was hit by an arrow",
+      "50": "He walked slowly.",
+      "100": "I wrote my name"
+    },
+    "[WEAP32]": {
+      "3": "Laser Sniper",
+      "5": "laser weapons",
+      "20": "laser shooting",
+      "50": "fake gun",
+      "100": "to other teachers"
+    },
+    "[WEAP33]": {
+      "3": "body armor",
+      "5": "Body protectors",
+      "20": "Bulletproof vest.",
+      "50": "Please protect us.",
+      "100": "Please provide more information"
+    },
+    "[WEAP34]": {
+      "3": "Land mine",
+      "5": "Land explosives",
+      "20": "This is me.",
+      "50": "From Aiken County",
+      "100": "This is Tang"
+    },
+    "[WHEEL01]": {
+      "3": "Two-wheel bonus: $ Distance: .m Time: seconds.",
+      "5": "TWO WHEELS BONUS: $ Distance: .m Time: sec.",
+      "20": "Two parameters are given: $ Distance: .m Time: seconds.",
+      "50": "Double line: prefix: value .m: seconds.",
+      "100": "2 i $ per leg: .m Sat"
+    },
+    "[WHEEL02]": {
+      "3": "Two Wheel Bonus: $ Distance: Feet Time: Seconds.",
+      "5": "TWO WHEELS BONUS: $ Distance: Feet Time: Seconds.",
+      "20": "Point 2: Distance: Depending on the situation Time: seconds.",
+      "50": "Scale: $Distance: Step Time: Seconds.",
+      "100": "Two cycles, $ hours, run time, seconds."
+    },
+    "[WHEEL03]": {
+      "3": "WHEEL BONUS: $ Distance: .m Time: Seconds.",
+      "5": "ON BIKE Bonus: $ Distance: .m Time: sec.",
+      "20": "Target amount: $ Location: .m Duration: seconds.",
+      "50": "Tire Price: $ Distance: .m Height:",
+      "100": "Description: $Stop: Your turn"
+    },
+    "[WHEEL04]": {
+      "3": "BONUS WHEEL: $ Distance: feet Time: seconds.",
+      "5": "Wheelie Bonus: $ Distance: Feet Time: Seconds.",
+      "20": "Wheelie Price: $ Distance: Feet Time: Minutes",
+      "50": "Car Rental: $$ Distance: Driving Time: Mon.",
+      "100": "Local Value: $ Country: Inc. And other things"
+    },
+    "[WHEEL05]": {
+      "3": "STOPPIE BONUS: $ Distance: .m Time: sec.",
+      "5": "Stoppy bonus: $ Distance: .m Time: sec.",
+      "20": "Close Price: $ Distance: .m Time: Sec",
+      "50": "Healing Bonus: $ Range: .M Time: Mon.",
+      "100": "Final price: $ length: .m Port: art"
+    },
+    "[WHEEL06]": {
+      "3": "STOPPIE BONUS: $ Distance: feet Time: seconds.",
+      "5": "Stoppy Bonus: $ Distance: Feet Time: Seconds.",
+      "20": "Close Price: $ Distance: Feet Time: Sec",
+      "50": "Pricing: $ List: Category: Currency",
+      "100": "Final amount: $ company: Inc. Source: 2 collections"
+    },
+    "[SJ_1]": {
+      "3": "OFFICIAL WORK BONUS: $",
+      "5": "Crazy Stunt Bonus: $",
+      "20": "Free money: $",
+      "50": "Crazy Action Price: $",
+      "100": "Price: $"
+    },
+    "[SJ_1P]": {
+      "3": "TOTAL ACTIVE BONUS: $",
+      "5": "Crazy Stunt Bonus: $",
+      "20": "Total cost: $",
+      "50": "Currency: US Dollar",
+      "100": "Price: $"
+    },
+    "[SJ_2]": {
+      "3": "Double Crazy Tech Bonus: Dollars",
+      "5": "Two prizes for crazy puzzles: $",
+      "20": "Double Scam Bonus: $",
+      "50": "Free Double Bonus $",
+      "100": "Two game wins: $"
+    },
+    "[SJ_2P]": {
+      "3": "Perfect Double Crazy Tech Bonus: $",
+      "5": "Crazy Double Full Bonus: $",
+      "20": "Currency exchange rate: $",
+      "50": "Free Double Bonus $",
+      "100": "Dollar range: $"
+    },
+    "[SJ_3]": {
+      "3": "Triple Crazy Tech Bonus: Dollars",
+      "5": "Crazy Three TUNT BONUS: $",
+      "20": "Three bonuses: $",
+      "50": "Trip Crazy Triple Bonus: $",
+      "100": "I did this 3 times."
+    },
+    "[SJ_3P]": {
+      "3": "Perfect Triple Crazy Tech Bonus: $",
+      "5": "Three Stunt Full Reward: $",
+      "20": "Current exchange rate: $",
+      "50": "Important value: $",
+      "100": "3 AirGad: USD"
+    },
+    "[SJ_4]": {
+      "3": "Last Thursday Bonus: Dollars",
+      "5": "Crazy Four Stunts Reward: $",
+      "20": "Current interest rate: $",
+      "50": "Flag price: USD",
+      "100": "In Diredh, $"
+    },
+    "[SJ_4P]": {
+      "3": "Perfect Quad Crazy Stunt Bonus: $",
+      "5": "Top Fourth Seed Bonus: $",
+      "20": "Awesome Crazy Cheat Pali Bonus: $",
+      "50": "Jazz Bonus Man: USD",
+      "100": "Money is money though; Rs"
+    },
+    "[SJSTATP]": {
+      "3": "Distance: .m Height: .m Rotation: Rotation: ° What a landing!",
+      "5": "Length: .m Height: .m Roll: Rotation: ° And what a drop!",
+      "20": "Length: .m Height: .m Back: Back: ° Perfect for sitting!",
+      "50": "Length: .m Length: .m o: o: °: ° This is a paragraph",
+      "100": "Size: Your size. your size Height: ° Warmth and comfort."
+    },
+    "[SJSTAT]": {
+      "3": "Distance: .m Height: .m Tilt: Rotation: °",
+      "5": "Length: .m Height: .m Flip: Rotation: °",
+      "20": "length:, m height:, m data: °",
+      "50": "Height: m. Age: M. Change: Change: °",
+      "100": "Altitude: m Altitude: m Temperature: Celsius"
+    },
+    "[SJSTAFP]": {
+      "3": "Distance: .ft Height: .ft Rotation: Rotation: ° What a landing!",
+      "5": "Distance: .ft Height: .ft Roll: Turn: ° And what a hard landing!",
+      "20": "Distance: leg up, leg bend, twist, ° and it fits perfectly!",
+      "50": "Length: m Height: m Dimensions: Highest point",
+      "100": "Size: ft. Height: ft. Size: ° Size"
+    },
+    "[SJSTAF]": {
+      "3": "Distance: .ft Height: .ft Tilt: Rotation: °",
+      "5": "Length: .ft Height: .ft Flip: Rotation: °",
+      "20": "Length: ft. Height: ft. Perimeter: Perimeter: °",
+      "50": "Height: Leg Length: Leg Circumference: Side: °",
+      "100": "Ling: P Ling: .P Nova: Sir:."
+    },
+    "[FPLANT]": {
+      "3": "Oops! Plant face distance: .m",
+      "5": "Wow! Height of the surface plant: .m",
+      "20": "Oh! Contents: .d",
+      "50": "[Error: Failed after 8 attempts: Request exception can happen due to an api connection error. Please check your connection and try again]",
+      "100": "This shirt is 7 years old. good brother"
+    },
+    "[FPLANTF]": {
+      "3": "Oops! Plant Face Distance: Ft",
+      "5": "Wow! Surface Floor Width: Ft",
+      "20": "Hey, people! Plant species: Foot",
+      "50": "[Error: Failed after 8 attempts: Request exception can happen due to an api connection error. Please check your connection and try again]",
+      "100": "We will win! Office: PO Box"
+    },
+    "[WPLANT]": {
+      "3": "Splosh! Plant face distance: .m",
+      "5": "Give up! Height of the surface plant: .m",
+      "20": "Stop Contents: .m",
+      "50": "[Error: Failed after 8 attempts: Request exception can happen due to an api connection error. Please check your connection and try again]",
+      "100": "That's it! Darkness descended"
+    },
+    "[WPLANTF]": {
+      "3": "Splosh! Plant Face Distance: Ft",
+      "5": "Give up! Surface Floor Width: Ft",
+      "20": "Plant Diversity Stops: Shoes.",
+      "50": "[Error: Failed after 8 attempts: Request exception can happen due to an api connection error. Please check your connection and try again]",
+      "100": "I emailed Hale's office"
+    },
+    "[USJ_P]": {
+      "3": "Special Stunts Bonus!",
+      "5": "SPECIAL HIT BONUS!",
+      "20": "Another crazy bonus!",
+      "50": "[Error: Failed after 8 attempts: Request exception can happen due to an api connection error. Please check your connection and try again]",
+      "100": "It's a beautiful scene."
+    },
+    "[USJ_F]": {
+      "3": "Unique stunt failed!",
+      "5": "Amazing trick failed!",
+      "20": "Unlock special features!",
+      "50": "Expert training is useless!",
+      "100": "This place was destroyed."
+    },
+    "[USJ_ALL]": {
+      "3": "All unique action taken!",
+      "5": "ALL unique tricks completed!",
+      "20": "All tools are ready!",
+      "50": "Another good game!",
+      "100": "Peaceful place."
+    },
+    "[CHEAT1]": {
+      "3": "Able to deceive",
+      "5": "The cheat has been activated",
+      "20": "Fraud continues.",
+      "50": "Start copying",
+      "100": "Real estate prices."
+    },
+    "[CHEAT2]": {
+      "3": "cheating on weapons",
+      "5": "Gun fraud",
+      "20": "fake gun",
+      "50": "Look at the bad guys",
+      "100": "it should"
+    },
+    "[CHEAT3]": {
+      "3": "Health fraud",
+      "5": "Health fraud",
+      "20": "Health care",
+      "50": "Lying is healthy",
+      "100": "Health care fraud"
+    },
+    "[CHEAT4]": {
+      "3": "Armored trap",
+      "5": "Armor deceives",
+      "20": "Make a weapon",
+      "50": "Fake device",
+      "100": "This is a bad practice"
+    },
+    "[CHEAT5]": {
+      "3": "Look for the level cheat",
+      "5": "is in the same position.",
+      "20": "They want to lie",
+      "50": "Good preparation is essential",
+      "100": "Health"
+    },
+    "[CHEAT6]": {
+      "3": "Money trap",
+      "5": "Money fraud",
+      "20": "When do you pay?",
+      "50": "Money laundering offenses",
+      "100": "Administrative expenses."
+    },
+    "[CHEAT7]": {
+      "3": "Weather trap",
+      "5": "Weather cheater",
+      "20": "The wind is strong",
+      "50": "I won't lie anymore",
+      "100": "I remember that day."
+    },
+    "[AMM_LEF]": {
+      "3": "<",
+      "5": "<",
+      "20": "<:",
+      "50": "<",
+      "100": "<"
+    },
+    "[AMM_RIG]": {
+      "3": ">",
+      "5": ">",
+      "20": ">",
+      "50": ">",
+      "100": ">Who is this?"
+    },
+    "[AMM_COS]": {
+      "3": "Price: $",
+      "5": "Price: $",
+      "20": "Price: USD",
+      "50": "Price: Dollar",
+      "100": "Price: Dollar"
+    },
+    "[AMM_NOS]": {
+      "3": "No more stock available.",
+      "5": "tired",
+      "20": "No longer available",
+      "50": "all over the house",
+      "100": "Immediate treatment is required."
+    },
+    "[AMM_OVR]": {
+      "3": "This will replace your current weapon.",
+      "5": "This will replace your current weapon.",
+      "20": "This will replace your current weapon.",
+      "50": "This will update your device.",
+      "100": "Plan daily activities."
+    },
+    "[AMM_ARM]": {
+      "3": "Your Body Armor is fine.",
+      "5": "Your armor is fine.",
+      "20": "Your body is beautiful",
+      "50": "The better you are with yourself, the better.",
+      "100": "Eat food that suits your body."
+    },
+    "[AMM_NOC]": {
+      "3": "You can't afford that.",
+      "5": "You can't accept this.",
+      "20": "I don't make friends",
+      "50": "Can't. That's right",
+      "100": "We give it to the people"
+    },
+    "[AMM_NOH]": {
+      "3": "I already have one.",
+      "5": "You already have one of these.",
+      "20": "You have less",
+      "50": "You are one of them",
+      "100": "You are one of them"
+    },
+    "[AMM_SC1]": {
+      "3": "This can be credited to Lance.",
+      "5": "You can credit that to Lance.",
+      "20": "You can take this as a wake-up call for Lance",
+      "50": "Lance arrived.",
+      "100": "Lance could read."
+    },
+    "[DAMAGE]": {
+      "3": "Too bad",
+      "5": "causing damage",
+      "20": "He is very sad",
+      "50": "some ice cream",
+      "100": "It's raining"
+    },
+    "[KILLS]": {
+      "3": "killing me",
+      "5": "He killed it",
+      "20": "He killed his son.",
+      "50": "he is dead",
+      "100": "He killed his killer."
+    },
+    "[LEVEL]": {
+      "3": "The level",
+      "5": "Amount",
+      "20": "Every part.",
+      "50": "Here are the instructions.",
+      "100": "He was summoned to the king."
+    },
+    "[TIME]": {
+      "3": "Time is",
+      "5": "time",
+      "20": "The time has come.",
+      "50": "since then",
+      "100": "The first one"
+    },
+    "[SCORE]": {
+      "3": "The result is",
+      "5": "Find out",
+      "20": "Take a look",
+      "50": "Let's see how we can do it.",
+      "100": "Answer the following questions:"
+    },
+    "[CASH]": {
+      "3": "Cash",
+      "5": "Money",
+      "20": "You can use an ax.",
+      "50": "Upper teeth (upper teeth).",
+      "100": "Write the poem"
+    },
+    "[EVID]": {
+      "3": "Description",
+      "5": "Proof",
+      "20": "There is evidence.",
+      "50": "The nature of the parental relationship.",
+      "100": "Hope is dangerous."
+    },
+    "[PACKAGE]": {
+      "3": "There is a package.",
+      "5": "the paper",
+      "20": "A cow",
+      "50": "Heart to heart",
+      "100": "Author: Van Branhout."
+    },
+    "[GA_1]": {
+      "3": "No way, dude! I don't touch them!",
+      "5": "No way friend! I won’t touch them!",
+      "20": "No one, sir! I didn't move it.",
+      "50": "Man, I can't take it!",
+      "100": "The storm has not left us yet. Please come and see."
+    },
+    "[GA_2]": {
+      "3": "New engine and paint: $100.",
+      "5": "New engine and paint: $100",
+      "20": "Then they collected 100 ISK and painted",
+      "50": "New glass and paint $100",
+      "100": "A new car can sell for 100 million."
+    },
+    "[GA_3]": {
+      "3": "Re-spray $100.",
+      "5": "Remap the $100.",
+      "20": "I see $100.",
+      "50": "$100 Closing Opening",
+      "100": "About $100."
+    },
+    "[GA_8]": {
+      "3": "Use the grenade launcher to make a bomb.",
+      "5": "Use the grenade launcher to make a bomb.",
+      "20": "Use explosives explosives.",
+      "50": "The bomb exploded",
+      "100": "The objective is to throw bombs."
+    },
+    "[GA_15]": {
+      "3": "I hope you like the new colors.",
+      "5": "We hope you like the new color.",
+      "20": "Hope you like the new color palette.",
+      "50": "I hope you enjoy the new version",
+      "100": "I hope you enjoyed this walkthrough."
+    },
+    "[GA_16]": {
+      "3": "Spray is free.",
+      "5": "Re-spray is free.",
+      "20": "Then release and sprinkle.",
+      "50": "Recovery of lost property",
+      "100": "Oh!"
+    },
+    "[GA_17]": {
+      "3": "New engine and paint job.",
+      "5": "New engine and paint.",
+      "20": "New engine and paint.",
+      "50": "a new car",
+      "100": "he can walk"
+    },
+    "[RACE_0]": {
+      "3": "work",
+      "5": "That’s where it’s located",
+      "20": "The location",
+      "50": "Product warranty",
+      "100": "Delay (slight delay)."
+    },
+    "[RACE_P1]": {
+      "3": "1st place",
+      "5": "1. 1. 1. If you have a lock.",
+      "20": "America first",
+      "50": "the first of these",
+      "100": "See UCHTS Ahamst code."
+    },
+    "[RACE_P2]": {
+      "3": "2",
+      "5": "2",
+      "20": "2",
+      "50": "See you later.",
+      "100": "Stop the music"
+    },
+    "[RACE_P3]": {
+      "3": "3",
+      "5": "The third",
+      "20": "3",
+      "50": "Third group",
+      "100": "3. For mobile phones"
+    },
+    "[RACE_P4]": {
+      "3": "4",
+      "5": "Fourthly",
+      "20": "4",
+      "50": "Start with shift 4:",
+      "100": "4. Language."
+    },
+    "[RACE_L]": {
+      "3": "round",
+      "5": "chest",
+      "20": "honestly",
+      "50": "According to the contract",
+      "100": "He speaks from the heart"
+    },
+    "[RACE_FL]": {
+      "3": "FINAL ROUND",
+      "5": "the last round",
+      "20": "Finally.",
+      "50": "Close the lid.",
+      "100": "That's the goal."
+    },
+    "[RACE_T]": {
+      "3": "time",
+      "5": "Weather",
+      "20": "In time.",
+      "50": "Rules of honor",
+      "100": "Tips"
+    },
+    "[RACE_A0]": {
+      "3": "Get in the car and head towards the starting line.",
+      "5": "Get a car to the starting line.",
+      "20": "Get a car and go to the beginning.",
+      "50": "The first line is Yukurora.",
+      "100": "We are in the car."
+    },
+    "[RACE_A1]": {
+      "3": "Grab the bike and ride towards the starting line.",
+      "5": "Ride a motorcycle to the starting line.",
+      "20": "Get in the car and go to the starting line.",
+      "50": "First, get on your bike",
+      "100": "The boy was picked up first."
+    },
+    "[RACE_A2]": {
+      "3": "Get on the quad and head to the starting line.",
+      "5": "Hold the quad in the starting position.",
+      "20": "Grab your ATV and head to the starting line.",
+      "50": "- said Pembisa Mezru",
+      "100": "He walked over to the table and sat behind the bar."
+    },
+    "[RACE_B0]": {
+      "3": "You need a car to participate in this race.",
+      "5": "You need a car to participate in this race.",
+      "20": "The car must participate in this competition.",
+      "50": "Motorcycles are part of this race",
+      "100": "You have to start from scratch."
+    },
+    "[RACE_B1]": {
+      "3": "You must have a motorcycle to participate in this event.",
+      "5": "You need a motorcycle to participate in this competition.",
+      "20": "A bicycle is required to participate in the competition.",
+      "50": "You need a car to get there.",
+      "100": "Do you want a nice car?"
+    },
+    "[RACE_B2]": {
+      "3": "You must have a quad to participate in this event.",
+      "5": "You need a Quad to participate in this race.",
+      "20": "Four corners are required to participate in this tournament.",
+      "50": "Accessibility should be increased.",
+      "100": "Participate in international competitions."
+    },
+    "[RACE_C0]": {
+      "3": "You have a few seconds to find the car.",
+      "5": "You have a few seconds.",
+      "20": "You have a few seconds to find the car.",
+      "50": "It took a few minutes to see the blood.",
+      "100": "It took them a few minutes to find the car."
+    },
+    "[RACE_C1]": {
+      "3": "You have a few seconds to find the motorcycle.",
+      "5": "You have a few seconds to find the motorcycle.",
+      "20": "You have a few seconds to find the bike.",
+      "50": "It only takes a few seconds to see the blood.",
+      "100": "It took them a few minutes to find the car."
+    },
+    "[RACE_C2]": {
+      "3": "You have a few seconds to find the quad.",
+      "5": "You have a few seconds to get the Quad.",
+      "20": "You have a few seconds to find the square.",
+      "50": "Understanding these four points takes time.",
+      "100": "Getting to know these people takes time."
+    },
+    "[RACE_D0]": {
+      "3": "You have 1 second to find the car.",
+      "5": "You have one second to find the car.",
+      "20": "You have 1 second to find the car.",
+      "50": "A man wants to buy a car.",
+      "100": "Searching for a car only takes a few minutes"
+    },
+    "[RACE_D1]": {
+      "3": "You have 1 second to find a motorcycle.",
+      "5": "You have one second to find the engine.",
+      "20": "You have 1 second to see the light.",
+      "50": "Stay there for a while.",
+      "100": "This flash lasts a few seconds"
+    },
+    "[RACE_D2]": {
+      "3": "You have 1 second to find the quadrilateral.",
+      "5": "You have one second to find the Quad.",
+      "20": "You only need a few seconds to find four people.",
+      "50": "Add a new rectangle.",
+      "100": "Secondly, everything runs into the millions"
+    },
+    "[RACE_E3]": {
+      "3": "3",
+      "5": "3",
+      "20": "3. Egg carton.",
+      "50": "3. 3. In particular.",
+      "100": "3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3."
+    },
+    "[RACE_E2]": {
+      "3": "2",
+      "5": "2",
+      "20": "2. Text field.",
+      "50": "2.2. Oh",
+      "100": "2.2.2.2.2.2.1."
+    },
+    "[RACE_E1]": {
+      "3": "1. 1. 2012-09-19 10:00:0",
+      "5": "1",
+      "20": "1/1/2012-09-19 10:00:00 ETI",
+      "50": "1-1-",
+      "100": "6.1.1.2.2.2.2.2.2.1."
+    },
+    "[RACE_E]": {
+      "3": "GO!",
+      "5": "GO ON!",
+      "20": "Come on!",
+      "50": "Don't go too far!",
+      "100": "In this case"
+    },
+    "[RACE_Z1]": {
+      "3": "1st PLACE!",
+      "5": "1ST PLACE!",
+      "20": "First place",
+      "50": "In the first step",
+      "100": "Lots of fruit!"
+    },
+    "[RACE_Z2]": {
+      "3": "PART 2!",
+      "5": "2ND PLACE!",
+      "20": "Part 2",
+      "50": "shown in Table 2.",
+      "100": "Let's talk about the lessons"
+    },
+    "[RACE_Z3]": {
+      "3": "3rd PLACE!",
+      "5": "3RD PLACE!",
+      "20": "And we!",
+      "50": "Tuesday is over!",
+      "100": "3. missionary work"
+    },
+    "[RACE_Z4]": {
+      "3": "The last place!",
+      "5": "Last thing!",
+      "20": "A last chance!",
+      "50": "! No!",
+      "100": "This is the last chance."
+    },
+    "[RACEX0]": {
+      "3": "You didn’t come first.",
+      "5": "You are not progressing.",
+      "20": "This is not the first time",
+      "50": "You are not the first person",
+      "100": "This is not the first time."
+    },
+    "[RACEX1]": {
+      "3": "One of the racers is killed - the race is cancelled.",
+      "5": "A runner dies - the race is stopped.",
+      "20": "Kill the opponent: the race will stop",
+      "50": "Due to the death of the player, the game is not played.",
+      "100": "Let the table and the table be jumorama."
+    },
+    "[RACEX2A]": {
+      "3": "Banned for not finding a car.",
+      "5": "You are ineligible for not finding the car.",
+      "20": "He was rejected because he did not have a car.",
+      "50": "They don't see the car and keep going.",
+      "100": "Neither men nor women are allowed to participate."
+    },
+    "[RACEX2B]": {
+      "3": "You have been banned for not finding a motorcycle.",
+      "5": "They are disqualified for not finding the motorcycle.",
+      "20": "Because the bike was not available, he left there.",
+      "50": "The bike is yours until you buy it.",
+      "100": "But it is an interesting car."
+    },
+    "[RACEX2C]": {
+      "3": "You get fired for not having a quad.",
+      "5": "Quad has no right to claim.",
+      "20": "You know you can't buy a house.",
+      "50": "He turned on the television in bed.",
+      "100": "He was punished for not attending class."
+    },
+    "[RACEX3A]": {
+      "3": "You are forbidden to leave your car.",
+      "5": "Deprived of the right to exit the vehicle.",
+      "20": "You can't get out of the car.",
+      "50": "he got out of the car.",
+      "100": "I'm in the car"
+    },
+    "[RACEX3B]": {
+      "3": "You are not allowed to leave your bike.",
+      "5": "Abandoning the vehicle is disqualified.",
+      "20": "I can't ride a bike",
+      "50": "He was killed because he forgot his steps.",
+      "100": "I got up and left"
+    },
+    "[RACEX3C]": {
+      "3": "You are prohibited from leaving your Quad.",
+      "5": "You don't deserve to be denied a quad.",
+      "20": "He is not allowed to leave the field.",
+      "50": "Click the ATV",
+      "100": "four questions"
+    },
+    "[RACE_R1]": {
+      "3": "Message: : New message!",
+      "5": "Record: : New record!",
+      "20": "Note: new headphones.",
+      "50": "Check out: New episodes!",
+      "100": "Login :: Login again"
+    },
+    "[RACE_R2]": {
+      "3": "NEW RECORD!",
+      "5": "A new record!",
+      "20": "New record!",
+      "50": "This is a new story!",
+      "100": "new album"
+    },
+    "[RACE_S0]": {
+      "3": "TIME: :",
+      "5": "time ::",
+      "20": "more ::",
+      "50": "There are five.",
+      "100": "Thank you very much"
+    },
+    "[RACE_S1]": {
+      "3": "BEST ROUND::",
+      "5": "good uncle ::",
+      "20": "Forum::",
+      "50": "Full circle.",
+      "100": "Research objectives: 1.1."
+    },
+    "[OUT_F1]": {
+      "3": "\"Ami tire\"",
+      "5": "\"Military Expansion\"",
+      "20": "\"Military diseases.\"",
+      "50": "“The Weakness of War”.",
+      "100": "reduction of players"
+    },
+    "[OU_1]": {
+      "3": "Army fatigues are now in the safe.",
+      "5": "The exhaustion of the army is in the Safe House.",
+      "20": "Now they are wearing military uniforms.",
+      "50": "Funding is available to eligible organizations.",
+      "100": "He caught her"
+    },
+    "[OUT_F2]": {
+      "3": "'normal'",
+      "5": "\"sloppy\"",
+      "20": "\"pleasure\" .",
+      "50": "Use the word \"example\".",
+      "100": "It means Chiyam"
+    },
+    "[OU_2]": {
+      "3": "Casual clothing is now available in the safe area.",
+      "5": "Such clothes are now available in the safe house.",
+      "20": "Safehouse offers comfortable clothing",
+      "50": "The animals are still in the shelter.",
+      "100": "There are old clothes in the room"
+    },
+    "[OUT_F3]": {
+      "3": "'happiness'",
+      "5": "\"fun\"",
+      "20": "\"Soul\"",
+      "50": "\"enjoy\"",
+      "100": "Yes, this is Malloy"
+    },
+    "[OU_3]": {
+      "3": "Recreational clothing is now available at the shelter.",
+      "5": "Fun clothes are now available in the safe house.",
+      "20": "Party Wear is available now at Safehouse",
+      "50": "You can buy a lot of furniture for your home",
+      "100": "A bag of gold"
+    },
+    "[OUT_F4]": {
+      "3": "'Trailer Trash'",
+      "5": "\"Trailer\"",
+      "20": "\"Dirty trouble.",
+      "50": "\"Virgin Branch\".",
+      "100": "- Waste management"
+    },
+    "[OU_4]": {
+      "3": "Garbage carts are now available at Safe House.",
+      "5": "Dump trailers are now in a safe house.",
+      "20": "Discarded car beds are now safely stored.",
+      "50": "Another friend came",
+      "100": "Just kidding"
+    },
+    "[OUT_F5]": {
+      "3": "The Cuban Pain.",
+      "5": "\"Cuban Style\".",
+      "20": "\"Try\".",
+      "50": "\"Cuban Culture\".",
+      "100": "\"Cube\" is a good example"
+    },
+    "[OU_5]": {
+      "3": "Cuban style outfits are now available at Safehouse.",
+      "5": "Cuban patterned clothing is now available at Safe House.",
+      "20": "Cuban style clothing is now in a safe place.",
+      "50": "Typical of Cuba",
+      "100": "It is true"
+    },
+    "[OUT_F6]": {
+      "3": "pastel pastels",
+      "5": "\"Pastel dress\" is.",
+      "20": "\"A beautiful crayon.\"",
+      "50": "White lights",
+      "100": "\"His clothes are empty,\" he said."
+    },
+    "[OU_6]": {
+      "3": "Pastel suits are now available at Safehouse.",
+      "5": "Safe House now offers pastel clothing.",
+      "20": "The red shirt is now in a safe place.",
+      "50": "Now blue is the real home",
+      "100": "This is my desk"
+    },
+    "[OUT_F7]": {
+      "3": "'sweatshirt'",
+      "5": "'Sportswear'.",
+      "20": "\"work\".",
+      "50": "- It's time to play.",
+      "100": "- The clothes they wear."
+    },
+    "[OU_7]": {
+      "3": "Coach is now available at Safe House.",
+      "5": "Sportswear is currently in stock.",
+      "20": "Valve training clothing available.",
+      "50": "Information added without citation.",
+      "100": "The game can be downloaded at home."
+    },
+    "[OUT_F8]": {
+      "3": "'hood'",
+      "5": "the tail",
+      "20": "“Worship” is a noun.",
+      "50": "Another word for \"thing\".",
+      "100": "\"Buy\""
+    },
+    "[OU_8]": {
+      "3": "Hooded clothing is now available at Safe Home.",
+      "5": "Vault configuration is now available in the vault.",
+      "20": "The outgoing link is now in the loop.",
+      "50": "Now you have a safe house.",
+      "100": "You know, there's a chance."
+    },
+    "[OUT_F9]": {
+      "3": "'Muscle for Hire'.",
+      "5": "Muscles are used.",
+      "20": "“He has good nerves.",
+      "50": "- 我们有肉。",
+      "100": "- to serve."
+    },
+    "[OU_9]": {
+      "3": "The Hired Muscle suit is now available in the safe.",
+      "5": "Safe now offers muscle suit rentals.",
+      "20": "The body parts found are now in a safe place.",
+      "50": "Pets are welcome.",
+      "100": "Afraid of the Snake, T. Coates b"
+    },
+    "[OUT_F10]": {
+      "3": "'repo man'",
+      "5": "\"Repurchase Man\"",
+      "20": "\"Rapman\" is one of them.",
+      "50": "\"man\".",
+      "100": "- The snow"
+    },
+    "[OU_10]": {
+      "3": "The Repo-Man suit is now available in the safe.",
+      "5": "Buyback people's clothes are now safe.",
+      "20": "The main team is safe.",
+      "50": "Men can buy from pet stores.",
+      "100": "Everything can be found on the security page."
+    },
+    "[OUT_F11]": {
+      "3": "'Smugglers'",
+      "5": "From the movie \"Smugglers\".",
+      "20": "\"merchant\"",
+      "50": "it's \"fake\"",
+      "100": "\"The Secret of Mercy\"."
+    },
+    "[OU_11]": {
+      "3": "Smuggler's clothes are now available in the safe house.",
+      "5": "Prohibited clothes are now properly kept.",
+      "20": "The drugs are now at City Hall.",
+      "50": "Children do that in church.",
+      "100": "The company responded Tuesday."
+    },
+    "[OUT_F12]": {
+      "3": "'smart clothes'",
+      "5": "\"Nice clothes\".",
+      "20": "“Time to think.”",
+      "50": "\"All Projects\".",
+      "100": "\"No problem."
+    },
+    "[OU_12]": {
+      "3": "Smart clothes are now available in safe houses.",
+      "5": "A neat suit is in a safe house.",
+      "20": "Smart Suite is your home security.",
+      "50": "Home security provides professional clothing.",
+      "100": "A safe house is a strong house."
+    },
+    "[OUT_F13]": {
+      "3": "'victory'",
+      "5": "\"story\".",
+      "20": "He is “lucky”.",
+      "50": "They called him a \"hero\".",
+      "100": "\"Thanksgiving to God's mercy.\""
+    },
+    "[OU_13]": {
+      "3": "Winner's clothing is available for purchase at the safe house.",
+      "5": "The military uniform is in storage.",
+      "20": "Go home safely.",
+      "50": "Successful studios have a solid base.",
+      "100": "Champagne room in the room."
+    },
+    "[OUT_F14]": {
+      "3": "'dress'",
+      "5": "\"Palace of fire\".",
+      "20": "soft, cold",
+      "50": "- Closed.",
+      "100": "Your clothes are clean."
+    },
+    "[OU_14]": {
+      "3": "Wetsuits are now available at Safehouse",
+      "5": "Wetsuits are now available from Safehouse.",
+      "20": "of Turkish fabric.",
+      "50": "Beautiful house with bathroom",
+      "100": "Now you are in trouble."
+    },
+    "[ARMYB]": {
+      "3": "Fort Baxter",
+      "5": "Fort Baxter",
+      "20": "Fort Baxter in town",
+      "50": "About Fort Baxter",
+      "100": "My name is Dean Baxter."
+    },
+    "[LOADIN2]": {
+      "3": "Loading...",
+      "5": "Loading...",
+      "20": "is obtained",
+      "50": "You will take it with you.",
+      "100": "Easy to clean."
+    },
+    "[TIMEPOS]": {
+      "3": "+ Sec",
+      "5": "+ seconds",
+      "20": "+ The second part",
+      "50": "Even if it is for a month",
+      "100": "That's an A+."
+    },
+    "[TIMENEG]": {
+      "3": "- Sec",
+      "5": "- Sec",
+      "20": "- For the second time",
+      "50": "- Lives in Saint Louis Louis",
+      "100": "- This is hidden"
+    },
+    "[TIMEPRF]": {
+      "3": "Perfect bonus + sec",
+      "5": "Full bonus + seconds",
+      "20": "Full bonus + seconds.",
+      "50": "Max Bonus + Min",
+      "100": "Happy hunting + woman."
+    },
+    "[GA_2B]": {
+      "3": "New paint: $100",
+      "5": "New color PLN 100",
+      "20": "New color: $100",
+      "50": "9 paintings 100 euros",
+      "100": "I can give you $250."
+    },
+    "[GA_17B]": {
+      "3": "New paint.",
+      "5": "New painting.",
+      "20": "New work being done",
+      "50": "new color",
+      "100": "A new color has appeared."
+    },
+    "[SJ_1F]": {
+      "3": "Bonus Flaming Crazy Stunt: $",
+      "5": "Burning Mania Stunt Game Bonus: $",
+      "20": "Crazy Glitter Coins: $",
+      "50": "Crazy Game Day Limited: $",
+      "100": "Total cost: $"
+    },
+    "[SJ_2F]": {
+      "3": "Bonus Flaming Double Crazy Stunt: $",
+      "5": "Double Burn Bonus: $",
+      "20": "Type of fish: $",
+      "50": "Second image cost: $",
+      "100": "I repeat: simple."
+    },
+    "[SJ_3F]": {
+      "3": "TRIPLE CRAZY STUNT FLAME BONUS: $",
+      "5": "Tri-State Stunt Bonus: $",
+      "20": "Third Prize: $",
+      "50": "Crazy three times a week: $",
+      "100": "Price: USD"
+    },
+    "[SJ_4F]": {
+      "3": "CRAZY FOUR FLAMES STUNT BONUS: $",
+      "5": "Tajikistan Cash Bonus: $",
+      "20": "Crazy Kid Bonus: $",
+      "50": "Registration Fee: USD",
+      "100": "Cheap America"
+    },
+    "[SJSTATF]": {
+      "3": "Area: .m Height: .m Properties: Rotation: ° You're on fire!",
+      "5": "Distance: .m Height: .m Turn: Turn: ° You are on fire!",
+      "20": "Width: ,m Height: ,m Flag: Wings: ° Gorish!",
+      "50": "Eyes: M Height: M Waist: Clothes: Hot!",
+      "100": "Height:, Height:, Position: Information: ° Height!"
+    },
+    "[SJSTAFF]": {
+      "3": "Distance: .ft Height: .ft Turns: Spin: ° You're on fire!",
+      "5": "Distance: .ft Height: .ft Rotation: Rotation: ° You are on fire!",
+      "20": "Width: .ft Height: .ft Turn: Turn: ° Gorish!",
+      "50": "Height: ft Height: ft Location: Location: ° grass",
+      "100": "Width: ft Height: ft Dimensions: Weight: ft Weight:"
+    },
+    "[BARRACK]": {
+      "3": "OL barracks",
+      "5": "OL camp",
+      "20": "The development is complete",
+      "50": "Available at OL Store.",
+      "100": "After the meeting"
+    },
+    "[GA_22]": {
+      "3": "Pumps cannot be installed in this type of vehicle.",
+      "5": "You can't put bombs in cars like this.",
+      "20": "You can't put a pump in a car like that.",
+      "50": "Such devices do not explode.",
+      "100": "It can get hot."
+    },
+    "[GA_23]": {
+      "3": "Car pump installation – parts and labor: $500",
+      "5": "Planted car bomb - parts and labor cost: $500",
+      "20": "Plumbing Installation - Parts and Labor: $500.",
+      "50": "Mechanical pump system - parts and hardware $500.00.",
+      "100": "Correct pipe installation - Time and work - D u.o."
+    },
+    "[GA_5]": {
+      "3": "The car was already filled with bombs.",
+      "5": "The car had been bombed.",
+      "20": "He planted a bomb in his car.",
+      "50": "It was a car bomb.",
+      "100": "The car suffered mechanical damage as a result of the explosion."
+    },
+    "[VCNMAV]": {
+      "3": "VCN Maverick",
+      "5": "VCN Maverick, editor",
+      "20": "Install VCN Maverick.",
+      "50": "Author: VCN Maverick.",
+      "100": "N and A.S."
+    },
+    "[RACEWIN]": {
+      "3": "won the victory",
+      "5": "the champion",
+      "20": "He wants a sword.",
+      "50": "His name is Vijay.",
+      "100": "left and a"
+    },
+    "[GA_4]": {
+      "3": "The bomb cars cost $250 each.",
+      "5": "Car bombs cost $200 each.",
+      "20": "A car bomb costs $500.",
+      "50": "$100 for damaged vehicles",
+      "100": "The pump costs $200."
+    },
+    "[RACE_F0]": {
+      "3": "You have seconds to get back to the car.",
+      "5": "You have one second to get back to the car.",
+      "20": "You have a few seconds to get back to the car.",
+      "50": "It took a few seconds to get back to the car.",
+      "100": "A few minutes later we were in the car."
+    },
+    "[RACE_F1]": {
+      "3": "You have seconds to get back on the bike.",
+      "5": "You have one second to get back on the bike.",
+      "20": "You have a few seconds to get into your car.",
+      "50": "This cake is available for a limited time.",
+      "100": "We are now in the second half."
+    },
+    "[RACE_F2]": {
+      "3": "He's seconds away from returning to the Quad.",
+      "5": "You have one second to get back on the quad.",
+      "20": "Go back a few seconds.",
+      "50": "You have a few seconds to start.",
+      "100": "Let's start."
+    },
+    "[RACE_G0]": {
+      "3": "You have 1 second to get back to the car.",
+      "5": "You have one second to get back to the car.",
+      "20": "I have a second to get back to the car.",
+      "50": "Can you return the car for me?",
+      "100": "won by seconds."
+    },
+    "[RACE_G1]": {
+      "3": "You have 1 second to get back on the motorcycle.",
+      "5": "You have one second to recover the bike.",
+      "20": "You have 1 second to get back on the bike.",
+      "50": "You have seconds to ride the bike.",
+      "100": "Don't wait."
+    },
+    "[RACE_G2]": {
+      "3": "You have 1 second to return to the Quad.",
+      "5": "You have 1 second to return to the quad.",
+      "20": "You have 1 second to enter this field.",
+      "50": "I still have the return box.",
+      "100": "Now is the time to do it right."
+    },
+    "[RACEX4A]": {
+      "3": "Your car broke down.",
+      "5": "Your car broke down.",
+      "20": "Your car broke down.",
+      "50": "Your car broke down.",
+      "100": "Your car has broken down"
+    },
+    "[RACEX4B]": {
+      "3": "Your motorcycle broke down.",
+      "5": "Your motorcycle breaks down.",
+      "20": "Your bike will break down.",
+      "50": "Your car broke down.",
+      "100": "Your car has broken down"
+    },
+    "[RACEX4C]": {
+      "3": "Your Quad has been destroyed.",
+      "5": "Your quad is broken.",
+      "20": "He lost all four legs.",
+      "50": "Don't destroy the garden.",
+      "100": "Repeat step 4."
+    },
+    "[RACEX5]": {
+      "3": "The party's mission was cancelled.",
+      "5": "The competition has been cancelled.",
+      "20": "The service has been suspended.",
+      "50": "All hope of war is lost",
+      "100": "The planned fight was cancelled."
+    },
+    "[AMM_SC2]": {
+      "3": "You're one of Marty's men, take it.",
+      "5": "You are one of Marty's people. take it here",
+      "20": "Hey Marty, wait a minute.",
+      "50": "Young and strong, accept it.",
+      "100": "I don't believe that."
+    },
+    "[GA_21]": {
+      "3": "You cannot store other cars in this garage.",
+      "5": "You can no longer park vehicles in this garage.",
+      "20": "This garage can't fit many cars.",
+      "50": "No other vehicles are permitted in this area.",
+      "100": "i'm not here yet"
+    },
+    "[BOBO]": {
+      "3": "Domestobot is",
+      "5": "Stobot's house",
+      "20": "About Domstobot",
+      "50": "This is not the case",
+      "100": "boat dust"
+    },
+    "[AMM_NOA]": {
+      "3": "Have as much ammo as you can carry!",
+      "5": "You can only have as much ammo as you have!",
+      "20": "That's how you get all the bugs!",
+      "50": "Get as many balls as possible!",
+      "100": "another device"
+    },
+    "[C0TGSUB]": {
+      "3": "R3 button",
+      "5": "and the R3 button",
+      "20": "R3 button",
+      "50": "This is the R3 button.",
+      "100": "Press R3 and click."
+    },
+    "[C1TGSUB]": {
+      "3": "R3 button",
+      "5": "and the R3 button",
+      "20": "R3 button",
+      "50": "This is the R3 button.",
+      "100": "Press R3 and click."
+    },
+    "[C2TGSUB]": {
+      "3": "R3 button",
+      "5": "and the R3 button",
+      "20": "R3 button",
+      "50": "This is the R3 button.",
+      "100": "Press R3 and click."
+    },
+    "[C3TGSUB]": {
+      "3": "R3 button",
+      "5": "and the R3 button",
+      "20": "R3 button",
+      "50": "This is the R3 button.",
+      "100": "Press R3 and click."
+    },
+    "[C0VESTR]": {
+      "3": "Left analog stick",
+      "5": "Left analog tree",
+      "20": "The left is similar",
+      "50": "right analog button",
+      "100": "To the right is a mailbox."
+    },
+    "[C1VESTR]": {
+      "3": "ئوخشىتىش تاياقنىڭ سول تەرىپىگە",
+      "5": "The analog stick is on the left.",
+      "20": "Left analog stick",
+      "50": "Same goes for the other side on the left side.",
+      "100": "Manual switching"
+    },
+    "[C2VESTR]": {
+      "3": "ئوخشىتىش تاياقنىڭ سول تەرىپىگە",
+      "5": "The analog stick is on the left.",
+      "20": "Left analog stick",
+      "50": "Same goes for the other side on the left side.",
+      "100": "Manual switching"
+    },
+    "[C3VESTR]": {
+      "3": "ئوخشىتىش تاياقنىڭ سول تەرىپىگە",
+      "5": "The analog stick is on the left.",
+      "20": "Left analog stick",
+      "50": "Same goes for the other side on the left side.",
+      "100": "Manual switching"
+    },
+    "[C0VEHB]": {
+      "3": "R1 button",
+      "5": "R1 is the name",
+      "20": "Tire switch R1",
+      "50": "Fire R1",
+      "100": "R1 only."
+    },
+    "[C1VEHB]": {
+      "3": "R1 button",
+      "5": "R1 is the name",
+      "20": "Tire switch R1",
+      "50": "Fire R1",
+      "100": "R1 only."
+    },
+    "[C2VEHB]": {
+      "3": "R button",
+      "5": "R button",
+      "20": "About to finish",
+      "50": "Click the \"Action\" button",
+      "100": "Of course, R.S."
+    },
+    "[C3VEHB]": {
+      "3": "R button",
+      "5": "R button",
+      "20": "About to finish",
+      "50": "Click the \"Action\" button",
+      "100": "Of course, R.S."
+    },
+    "[C0VEHN]": {
+      "3": "L3 button",
+      "5": "Switch L3 is available.",
+      "20": "Press the L3 button",
+      "50": "press L3",
+      "100": "Most L3 letters"
+    },
+    "[C1VEHN]": {
+      "3": "L1 button",
+      "5": "The L1 button is available.",
+      "20": "Press the L1 button",
+      "50": "Press L1",
+      "100": "Share L.1:1."
+    },
+    "[C2VEHN]": {
+      "3": "Press the button",
+      "5": "Down button",
+      "20": "Click below for more information.",
+      "50": "on the keyboard",
+      "100": "This is his picture"
+    },
+    "[C3VEHN]": {
+      "3": "Analog stick",
+      "5": "stop the analogy",
+      "20": "Analog top",
+      "50": "This number is increasing.",
+      "100": "Download this form here"
+    },
+    "[C0VELL]": {
+      "3": "L2 button",
+      "5": "L2 button",
+      "20": "L2 button",
+      "50": "If you have an L2 signal",
+      "100": "L2 is close."
+    },
+    "[C1VELL]": {
+      "3": "L2 button",
+      "5": "L2 button",
+      "20": "L2 button",
+      "50": "If you have an L2 signal",
+      "100": "L2 is close."
+    },
+    "[C2VELL]": {
+      "3": "L2 button",
+      "5": "L2 button",
+      "20": "L2 button",
+      "50": "If you have an L2 signal",
+      "100": "L2 is close."
+    },
+    "[C3VELL]": {
+      "3": "L2 button",
+      "5": "L2 button",
+      "20": "L2 button",
+      "50": "If you have an L2 signal",
+      "100": "L2 is close."
+    },
+    "[C0VELR]": {
+      "3": "R2 button",
+      "5": "signal R2",
+      "20": "This is R2",
+      "50": "Press R2 to type.",
+      "100": "Repeat with R2"
+    },
+    "[C1VELR]": {
+      "3": "R2 button",
+      "5": "signal R2",
+      "20": "This is R2",
+      "50": "Press R2 to type.",
+      "100": "Repeat with R2"
+    },
+    "[C2VELR]": {
+      "3": "R2 button",
+      "5": "signal R2",
+      "20": "This is R2",
+      "50": "Press R2 to type.",
+      "100": "Repeat with R2"
+    },
+    "[C3VELR]": {
+      "3": "R2 button",
+      "5": "signal R2",
+      "20": "This is R2",
+      "50": "Press R2 to type.",
+      "100": "Repeat with R2"
+    },
+    "[C0VETU]": {
+      "3": "Analog lighting has increased",
+      "5": "Analog sticks",
+      "20": "Fennel is very strong.",
+      "50": "Similar communication",
+      "100": "Let's see"
+    },
+    "[C1VETU]": {
+      "3": "Click on the up button",
+      "5": "Heart sign",
+      "20": "on the button",
+      "50": "Enter the field",
+      "100": "they are great people"
+    },
+    "[C2VETU]": {
+      "3": "Analog is recommended",
+      "5": "High analog sticks",
+      "20": "put your hands",
+      "50": "Results of comparison",
+      "100": "in Russia"
+    },
+    "[C3VETU]": {
+      "3": "Click on the up button",
+      "5": "Heart sign",
+      "20": "on the button",
+      "50": "Enter the field",
+      "100": "they are great people"
+    },
+    "[C0VETD]": {
+      "3": "Analog plug down",
+      "5": "Low wood analog",
+      "20": "Minimize handshaking",
+      "50": "Results of comparison",
+      "100": "he went"
+    },
+    "[C1VETD]": {
+      "3": "press down the button",
+      "5": "The bottom button",
+      "20": "Click the button below",
+      "50": "Report button",
+      "100": "This seems like a good thing."
+    },
+    "[C2VETD]": {
+      "3": "analog stick down",
+      "5": "Analog stick down",
+      "20": "analog stick.",
+      "50": "This means:",
+      "100": "Dinner time"
+    },
+    "[C3VETD]": {
+      "3": "button down",
+      "5": "The buttons are shown below.",
+      "20": "Press the button.",
+      "50": "Hear for yourself",
+      "100": "Click on the button."
+    },
+    "[C0VELB]": {
+      "3": "L2 button + R2 button",
+      "5": "L2 button + R2 button",
+      "20": "L2 button + R2 button.",
+      "50": "The function L2 + R2 is a function",
+      "100": "L2 + R2 is a constant."
+    },
+    "[C1VELB]": {
+      "3": "L2 button + R2 button",
+      "5": "L2 button + R2 button",
+      "20": "L2 button + R2 button.",
+      "50": "The function L2 + R2 is a function",
+      "100": "L2 + R2 is a constant."
+    },
+    "[C2VELB]": {
+      "3": "L2 button + R2 button",
+      "5": "L2 button + R2 button",
+      "20": "L2 button + R2 button.",
+      "50": "The function L2 + R2 is a function",
+      "100": "L2 + R2 is a constant."
+    },
+    "[C3VELB]": {
+      "3": "L2 button + R2 button",
+      "5": "L2 button + R2 button",
+      "20": "Bodywork L2 + R2.",
+      "50": "L2 button + R2 button",
+      "100": "L2 + R2 combo"
+    },
+    "[C0VECRS]": {
+      "3": "L1 button",
+      "5": "L1 button",
+      "20": "Free L1 forms,",
+      "50": "The L1 button will appear on the screen",
+      "100": "Press L1"
+    },
+    "[C1VECRS]": {
+      "3": "SELECT button",
+      "5": "Select the button",
+      "20": "Tomorrow tomorrow",
+      "50": "Select button",
+      "100": "Select the button"
+    },
+    "[C2VECRS]": {
+      "3": "L3 button",
+      "5": "L3 button",
+      "20": "Free L3 forms,",
+      "50": "This is heavy duty L3",
+      "100": "Press L3."
+    },
+    "[C0VEWEU]": {
+      "3": "Analog stick up and analog stick down",
+      "5": "Download Analog Blocking and Analog Stick",
+      "20": "It is very strong and very weak.",
+      "50": "There is a hand pole. Get a cane.",
+      "100": "Analog boxes and analog substations."
+    },
+    "[C1VEWEU]": {
+      "3": "Up button and down button",
+      "5": "Top and bottom buttons",
+      "20": "Click the up and down buttons.",
+      "50": "Mix top and bottom",
+      "100": "Payment of salaries"
+    },
+    "[C2VEWEU]": {
+      "3": "Analog stick and analog stick",
+      "5": "Analog stick and analog stick down",
+      "20": "Take it with you.",
+      "50": "Small button big button",
+      "100": "There are similarities and differences between the two"
+    },
+    "[C3VEWEU]": {
+      "3": "Up button and down button",
+      "5": "Top and bottom buttons",
+      "20": "Click the up and down buttons.",
+      "50": "Mix top and bottom",
+      "100": "Payment of salaries"
+    },
+    "[C0VEWEL]": {
+      "3": "Left button and right button",
+      "5": "Click the left button",
+      "20": "Left button and right button",
+      "50": "left and right buttons",
+      "100": "Click left and right"
+    },
+    "[C1VEWEL]": {
+      "3": "Analog stick left and analog stick right",
+      "5": "Left analog stick and left analog stick",
+      "20": "left and right",
+      "50": "Left analog right analog stick",
+      "100": "One remained, one remained"
+    },
+    "[C2VEWEL]": {
+      "3": "left button and right button",
+      "5": "left button and right button",
+      "20": "Left button and right button",
+      "50": "left and right.",
+      "100": "Click left and right."
+    },
+    "[C3VEWEL]": {
+      "3": "analog stick on the left and analog stick on the right",
+      "5": "left analog stick and right analog stick",
+      "20": "Left joystick and right joystick",
+      "50": "Quiet inside, noisy inside.",
+      "100": "Use the left stick."
+    },
+    "[C0VEWEI]": {
+      "3": "left analog stick up and down",
+      "5": "Left analog stick up and down",
+      "20": "Right hand up and down",
+      "50": "Move your right hand up and down.",
+      "100": "There are big and small bags."
+    },
+    "[C1VEWEI]": {
+      "3": "left analog stick up and down",
+      "5": "Left analog stick up and down",
+      "20": "Right hand up and down",
+      "50": "Move your right hand up and down.",
+      "100": "There are big and small bags."
+    },
+    "[C2VEWEI]": {
+      "3": "left analog stick up and down",
+      "5": "Left analog stick up and down",
+      "20": "Right hand up and down",
+      "50": "Move your right hand up and down.",
+      "100": "Please take my bag."
+    },
+    "[C3VEWEI]": {
+      "3": "Stick left analog up and down.",
+      "5": "left analog up and down",
+      "20": "But what about analog cars?",
+      "50": "Walk right and up.",
+      "100": "Match uppercase and lowercase letters"
+    },
+    "[C0HERO]": {
+      "3": "L2 button and R2 button",
+      "5": "L2 button and R2 button",
+      "20": "L2 button and R2 button",
+      "50": "signal L2 and signal R2",
+      "100": "L2 and R2 respectively"
+    },
+    "[C1HERO]": {
+      "3": "L2 button and R2 button",
+      "5": "L2 button and R2 button",
+      "20": "L2 button and R2 button",
+      "50": "signal L2 and signal R2",
+      "100": "L2 and R2 respectively"
+    },
+    "[C2HERO]": {
+      "3": "L2 button and R2 button",
+      "5": "L2 button and R2 button",
+      "20": "L2 button and R2 button",
+      "50": "signal L2 and signal R2",
+      "100": "L2 and R2 respectively"
+    },
+    "[C3HERO]": {
+      "3": "L2 button and R2 button",
+      "5": "L2 button and R2 button",
+      "20": "L2 button and R2 button",
+      "50": "signal L2 and signal R2",
+      "100": "L2 and R2 respectively"
     }
   }
 }
