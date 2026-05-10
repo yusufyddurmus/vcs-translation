@@ -19,6 +19,11 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        
+      - name: Sync latest repo state
+        run: |
+          git fetch origin
+          git pull --rebase origin main
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -35,9 +40,10 @@ jobs:
 
       - name: Run HyperTranslator
         run: |
-          python hypertrans_cli.py translate source/ENGLISH.TXT --output candidates/batch5.json \
+          python hypertrans_workers.py translate source/ENGLISH.TXT --output candidates/batch5.json \
             --batch 5 \
-            --resume
+            --resume \
+            --workers 3
 
       - name: Commit updated candidates
         run: |
