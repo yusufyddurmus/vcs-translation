@@ -10123,6 +10123,1931 @@
       "20": "L2 button and R2 button",
       "50": "signal L2 and signal R2",
       "100": "L2 and R2 respectively"
+    },
+    "[C0HEPI]": {
+      "3": "Analog stick left and right",
+      "5": "Left, left and right joystick",
+      "20": "Left and right analog switch",
+      "50": "From left to right.",
+      "100": "The reason for that"
+    },
+    "[C1HEPI]": {
+      "3": "Analog stick left and right",
+      "5": "Left, left and right joystick",
+      "20": "Left and right analog switch",
+      "50": "From left to right.",
+      "100": "The reason for that"
+    },
+    "[C2HEPI]": {
+      "3": "Analog stick left and right",
+      "5": "Left, left and right joystick",
+      "20": "Left and right analog switch",
+      "50": "From left to right.",
+      "100": "The reason for that"
+    },
+    "[C3HEPI]": {
+      "3": "Analog stick left and right",
+      "5": "Left, left and right joystick",
+      "20": "Left and right analog switch",
+      "50": "From left to right.",
+      "100": "The reason for that"
+    },
+    "[C0FLUP]": {
+      "3": "Click the arrow button",
+      "5": "Up or down arrow keys",
+      "20": "They are called keys",
+      "50": "Get up",
+      "100": "from the table"
+    },
+    "[C1FLUP]": {
+      "3": "directional button",
+      "5": "on the button",
+      "20": "It is very systematic.",
+      "50": "Click the arrow.",
+      "100": "There will be trees."
+    },
+    "[C2FLUP]": {
+      "3": "directional button",
+      "5": "on the button",
+      "20": "It is very systematic.",
+      "50": "Click the arrow.",
+      "100": "There will be trees."
+    },
+    "[C3FLUP]": {
+      "3": "directional button",
+      "5": "on the button",
+      "20": "It is very systematic.",
+      "50": "Click the arrow.",
+      "100": "There will be trees."
+    },
+    "[C0FLDN]": {
+      "3": "Down arrow button",
+      "5": "bottom guide button",
+      "20": "Arrows below",
+      "50": "The sun has many properties in space.",
+      "100": "No, close the door."
+    },
+    "[C1FLDN]": {
+      "3": "Down arrow button",
+      "5": "bottom guide button",
+      "20": "Arrows below",
+      "50": "The sun has many properties in space.",
+      "100": "Great food."
+    },
+    "[C2FLDN]": {
+      "3": "button down",
+      "5": "Button off",
+      "20": "lower arrow",
+      "50": "Under the table",
+      "100": "click icon"
+    },
+    "[C3FLDN]": {
+      "3": "button down",
+      "5": "Button off",
+      "20": "lower arrow",
+      "50": "Under the table",
+      "100": "click icon"
+    },
+    "[C0PUTE]": {
+      "3": "button R1",
+      "5": "Button R1 no",
+      "20": "with signal R1",
+      "50": "Example R1",
+      "100": "R1 is good."
+    },
+    "[C1PUTE]": {
+      "3": "button R1",
+      "5": "Button R1 no",
+      "20": "with signal R1",
+      "50": "Example R1",
+      "100": "R1 is good."
+    },
+    "[C2PUTE]": {
+      "3": "button R1",
+      "5": "Button R1 no",
+      "20": "with signal R1",
+      "50": "Example R1",
+      "100": "R1 is good."
+    },
+    "[C3PUTE]": {
+      "3": "For the R1 button",
+      "5": "R1 button",
+      "20": "Phone number 1",
+      "50": "Click R1",
+      "100": "The protagonist is R1."
+    },
+    "[C0SNSLO]": {
+      "3": "For the L button",
+      "5": "L button",
+      "20": "L. Mark",
+      "50": "Damchi's L",
+      "100": "This is called commitment."
+    },
+    "[C1SNSLO]": {
+      "3": "For the L button",
+      "5": "L button",
+      "20": "L. Mark",
+      "50": "Damchi's L",
+      "100": "This is called commitment."
+    },
+    "[C2SNSLO]": {
+      "3": "For the L button",
+      "5": "L button",
+      "20": "L. Mark",
+      "50": "Damchi's L",
+      "100": "This is called commitment."
+    },
+    "[C3SNSLO]": {
+      "3": "For the L button",
+      "5": "L button",
+      "20": "L. Mark",
+      "50": "Damchi's L",
+      "100": "This is called commitment."
+    },
+    "[C0PDCWE]": {
+      "3": "L2 and R2 buttons",
+      "5": "L2 and R2 buttons",
+      "20": "L2 and R2 buttons",
+      "50": "letters L2 and R2",
+      "100": "Some examples are L2 and R2."
+    },
+    "[C1PDCWE]": {
+      "3": "L2 and R2 buttons",
+      "5": "L2 and R2 buttons",
+      "20": "L2 and R2 buttons",
+      "50": "Example: L2 and R2.",
+      "100": "Some examples are L2 and R2."
+    },
+    "[C2PDCWE]": {
+      "3": "L2 and R2 buttons",
+      "5": "L2 and R2 buttons",
+      "20": "L2 and R2 buttons",
+      "50": "letters L2 and R2",
+      "100": "Some examples are L2 and R2."
+    },
+    "[C3PDCWE]": {
+      "3": "L2 and R2 buttons",
+      "5": "L2 and R2 buttons",
+      "20": "L2 and R2 buttons",
+      "50": "letters L2 and R2",
+      "100": "Some examples are L2 and R2."
+    },
+    "[C0PUCF]": {
+      "3": "L1 button",
+      "5": "L1 button",
+      "20": "Press the L1 button",
+      "50": "These codes are L1.",
+      "100": "Project manager L"
+    },
+    "[C1PUCF]": {
+      "3": "L1 button",
+      "5": "L1 button",
+      "20": "L1 button",
+      "50": "This is the L1 code.",
+      "100": "Return to page L1"
+    },
+    "[C0PDLT]": {
+      "3": "R1 button",
+      "5": "the R1 button",
+      "20": "Stick R1",
+      "50": "Call the R1 phone.",
+      "100": "The number is R1"
+    },
+    "[C1PDLT]": {
+      "3": "R1 button",
+      "5": "the R1 button",
+      "20": "Stick R1",
+      "50": "Call the R1 phone.",
+      "100": "The number is R1"
+    },
+    "[C2PDLT]": {
+      "3": "R1 button",
+      "5": "the R1 button",
+      "20": "Stick R1",
+      "50": "Call the R1 phone.",
+      "100": "The number is R1"
+    },
+    "[C3PDLT]": {
+      "3": "L1 button",
+      "5": "L1 button",
+      "20": "L1 button",
+      "50": "This is the L1 code.",
+      "100": "Return to page L1"
+    },
+    "[C0PDCTL]": {
+      "3": "The L2, R2 button",
+      "5": "L2 and R2 buttons",
+      "20": "L2 and R2 buttons",
+      "50": "For example, L2 and R2",
+      "100": "L2 and R2"
+    },
+    "[C1PDCTL]": {
+      "3": "The L2, R2 button",
+      "5": "L2 and R2 buttons",
+      "20": "L2 and R2 buttons",
+      "50": "For example, L2 and R2",
+      "100": "L2 and R2"
+    },
+    "[C2PDCTL]": {
+      "3": "The L2, R2 button",
+      "5": "L2 and R2 buttons",
+      "20": "L2 and R2 buttons",
+      "50": "For example, L2 and R2",
+      "100": "L2 and R2"
+    },
+    "[C3PDCTL]": {
+      "3": "The L2, R2 button",
+      "5": "L2 and R2 buttons",
+      "20": "L2 and R2 buttons",
+      "50": "For example, L2 and R2",
+      "100": "L2 and R2"
+    },
+    "[C0FREE1]": {
+      "3": "the L3 button",
+      "5": "L3 button is available",
+      "20": "This is the L3 button.",
+      "50": "the L3 symbol",
+      "100": "For example, L3"
+    },
+    "[C1FREE1]": {
+      "3": "L3 button",
+      "5": "signal L3",
+      "20": "L3 Button When",
+      "50": "Press L3.",
+      "100": "L3 conversion."
+    },
+    "[C2FREE1]": {
+      "3": "L3 button",
+      "5": "signal L3",
+      "20": "L3 Button When",
+      "50": "Press L3.",
+      "100": "L3 conversion."
+    },
+    "[C3FREE1]": {
+      "3": "L3 button",
+      "5": "signal L3",
+      "20": "L3 Button When",
+      "50": "Press L3.",
+      "100": "L3 conversion."
+    },
+    "[C0FREE2]": {
+      "3": "Left analog stick",
+      "5": "Left analog stick",
+      "20": "Left analog stick",
+      "50": "a good tree",
+      "100": "Enjoy it now"
+    },
+    "[C1FREE2]": {
+      "3": "Left analog stick",
+      "5": "Left analog stick",
+      "20": "Left analog stick",
+      "50": "a good tree",
+      "100": "Enjoy it now"
+    },
+    "[C2FREE2]": {
+      "3": "Left analog stick",
+      "5": "Left analog stick",
+      "20": "Analog musical instruments on the left",
+      "50": "on the left side",
+      "100": "There are always problems."
+    },
+    "[C3FREE2]": {
+      "3": "Left analog stick",
+      "5": "Left analog stick",
+      "20": "Analog musical instruments on the left",
+      "50": "on the left side",
+      "100": "There are always problems."
+    },
+    "[C0CVEIW]": {
+      "3": "SELECT button",
+      "5": "SELECT button",
+      "20": "Select the button",
+      "50": "It was very confusing",
+      "100": "Please select a button."
+    },
+    "[C1CVEIW]": {
+      "3": "Up and down arrow keys",
+      "5": "Up and down arrow keys",
+      "20": "There are navigation buttons at the top and bottom.",
+      "50": "Press the up and down buttons",
+      "100": "Top and bottom view."
+    },
+    "[C2CVEIW]": {
+      "3": "SELECT button",
+      "5": "SELECT button",
+      "20": "Select the button",
+      "50": "It was very confusing",
+      "100": "Please select a button."
+    },
+    "[C3CVEIW]": {
+      "3": "Select the button",
+      "5": "Select the button",
+      "20": "Select the button",
+      "50": "Select the button.",
+      "100": "Select a button."
+    },
+    "[C0PDBAK]": {
+      "3": "R3 button",
+      "5": "Button R3",
+      "20": "R3 Cabin Software",
+      "50": "R3 Cub button.",
+      "100": "Press R3."
+    },
+    "[C1PDBAK]": {
+      "3": "R3 button",
+      "5": "Button R3",
+      "20": "R3 Cabin Software",
+      "50": "R3 Cub button.",
+      "100": "Press R3."
+    },
+    "[C2PDBAK]": {
+      "3": "R3 button",
+      "5": "Button R3",
+      "20": "R3 Cabin Software",
+      "50": "R3 Cub button.",
+      "100": "Press R3."
+    },
+    "[C3PDBAK]": {
+      "3": "R3 button",
+      "5": "Button R3",
+      "20": "R3 Cabin Software",
+      "50": "R3 Cub button.",
+      "100": "Press R3."
+    },
+    "[C0PDLO1]": {
+      "3": "L button",
+      "5": "L button",
+      "20": "Press L.",
+      "50": "Press the L button.",
+      "100": "Not at all"
+    },
+    "[C1PDLO1]": {
+      "3": "L button",
+      "5": "L button",
+      "20": "Press L.",
+      "50": "Press the L button.",
+      "100": "Not at all"
+    },
+    "[C2PDLO1]": {
+      "3": "L button",
+      "5": "L button",
+      "20": "Press L.",
+      "50": "Press the L button.",
+      "100": "Not at all"
+    },
+    "[C3PDLO1]": {
+      "3": "L button",
+      "5": "L button",
+      "20": "Press L.",
+      "50": "Press the L button.",
+      "100": "Not at all"
+    },
+    "[C0PDLO2]": {
+      "3": "Analog sticks",
+      "5": "analog board",
+      "20": "A piece of wood",
+      "50": "Fun at home",
+      "100": "while he was working"
+    },
+    "[C1PDLO2]": {
+      "3": "steering curves",
+      "5": "Control panel",
+      "20": "arrow arrow",
+      "50": "If so, then so be it.",
+      "100": "It's just you."
+    },
+    "[C2PDLO2]": {
+      "3": "analog switchboards",
+      "5": "The fig tree",
+      "20": "design",
+      "50": "One of the camels.",
+      "100": "Smart kids"
+    },
+    "[C3PDLO2]": {
+      "3": "steering curves",
+      "5": "Control panel",
+      "20": "arrow arrow",
+      "50": "If so, then so be it.",
+      "100": "Really bad"
+    },
+    "[C0ANS]": {
+      "3": "L is the button",
+      "5": "L button",
+      "20": "Press the L button.",
+      "50": "The L button is activated.",
+      "100": "At least slowly."
+    },
+    "[C1ANS]": {
+      "3": "L is the button",
+      "5": "L button",
+      "20": "Press the L button.",
+      "50": "The L button is activated.",
+      "100": "At least slowly."
+    },
+    "[C2ANS]": {
+      "3": "the L button",
+      "5": "The L button",
+      "20": "L and battery",
+      "50": "Yale is important.",
+      "100": "More beer"
+    },
+    "[C3ANS]": {
+      "3": "the L button",
+      "5": "The L button",
+      "20": "me and the battery",
+      "50": "Yale is important.",
+      "100": "More beer"
+    },
+    "[C0AMLEF]": {
+      "3": "Left button",
+      "5": "The button on the left side",
+      "20": "on the right side of the screen",
+      "50": "Remember to turn right",
+      "100": "We turn right"
+    },
+    "[C1AMLEF]": {
+      "3": "Left analog stick",
+      "5": "Analog stick balance",
+      "20": "It appears to be on the left",
+      "50": "The analog switch is on the right side.",
+      "100": "Kadazh Moss of the Flower Cave"
+    },
+    "[C2AMLEF]": {
+      "3": "Left button",
+      "5": "The button on the left side",
+      "20": "on the right side of the screen",
+      "50": "Remember to turn right",
+      "100": "We turn right"
+    },
+    "[C3AMLEF]": {
+      "3": "Left analog stick",
+      "5": "left hand",
+      "20": "The analog is on the left.",
+      "50": "The same goes for other trees",
+      "100": "Support"
+    },
+    "[C0AMRIG]": {
+      "3": "Right button",
+      "5": "right button",
+      "20": "in the eastern position.",
+      "50": "on the right side of the screen",
+      "100": "Right-click."
+    },
+    "[C1AMRIG]": {
+      "3": "Right analog stick",
+      "5": "Analog stick on the right",
+      "20": "Right analog stick.",
+      "50": "It is also made of handcrafted wood",
+      "100": "small price"
+    },
+    "[C2AMRIG]": {
+      "3": "Right button",
+      "5": "right button",
+      "20": "in the eastern position.",
+      "50": "Start with a map",
+      "100": "Right-click."
+    },
+    "[C3AMRIG]": {
+      "3": "Right analog stick",
+      "5": "Analog stick on the right",
+      "20": "Right analog stick.",
+      "50": "It is also made of handcrafted wood",
+      "100": "small price"
+    },
+    "[C0SWIMD]": {
+      "3": "Left analog stick or arrow keys",
+      "5": "Left analog stick or aim button",
+      "20": "right joystick or control button",
+      "50": "Left or right analog keyboard.",
+      "100": "the switch or joystick still works."
+    },
+    "[C1SWIMD]": {
+      "3": "Left analog stick",
+      "5": "The analog stick is on the left",
+      "20": "The left hand",
+      "50": "There is a comparison chart on the right.",
+      "100": "An inch This is the owner."
+    },
+    "[C2SWIMD]": {
+      "3": "Left analog stick or arrow keys",
+      "5": "Left analog stick or aim button",
+      "20": "right joystick or control button",
+      "50": "Left or right analog keyboard.",
+      "100": "the switch or joystick still works."
+    },
+    "[C3SWIMD]": {
+      "3": "Left analog stick",
+      "5": "The analog stick is on the left",
+      "20": "The left hand",
+      "50": "There is a comparison chart on the right.",
+      "100": "An inch This is the owner."
+    },
+    "[H_BUST1]": {
+      "3": "When you have a desired level, law enforcement will try to arrest you.",
+      "5": "If you have limited access, law enforcement will try to arrest you.",
+      "20": "When you get to the checkpoint, security will try to stop you.",
+      "50": "If you tell the truth, the police will arrest you.",
+      "100": "If the police have any information, they will try to arrest him."
+    },
+    "[H_BUST2]": {
+      "3": "As you reach your desired level, the law will try to destroy you.",
+      "5": "The higher the level you want, the more the law will try to lower you.",
+      "20": "When the price goes up, the law tries to reduce it.",
+      "50": "As the excitement builds, try relaxing the rules.",
+      "100": "Aloba Madwa Bhai I am Chinchari Ada Mukhi is my duty."
+    },
+    "[H_BUST3]": {
+      "3": "If you are caught by security forces, you will be taken to your local police station for processing.",
+      "5": "If you are arrested by law enforcement, you will be taken to your local police station.",
+      "20": "If the person is arrested, they are taken to their local police station for questioning.",
+      "50": "If found, you will be taken to the road.",
+      "100": "He was arrested and taken to the police station."
+    },
+    "[H_BUST4]": {
+      "3": "The police there will confiscate your weapons and take a bribe before letting you go.",
+      "5": "The authorities there will confiscate your weapons and bribe you before letting you go.",
+      "20": "The local police will disarm and bribe you before you leave.",
+      "50": "Police took his gun and money before letting him go.",
+      "100": "Om is that Utbara Kullu Bahgun as Mary Mahamala."
+    },
+    "[H_HOSP1]": {
+      "3": "If your health status is 0, you will be taken to the nearest hospital for treatment.",
+      "5": "If your health is zero, you will be taken to the nearest hospital for treatment.",
+      "20": "When your health drops to zero, you are transported to the nearest hospital for treatment.",
+      "50": "If you are sick, we will take you to the nearest hospital and treat you.",
+      "100": "If it still doesn’t work, seek treatment at the nearest hospital."
+    },
+    "[H_HOSP2]": {
+      "3": "Before you leave the hospital, the hospital staff will confiscate your weapons and charge you for treatment.",
+      "5": "Before you recover, the hospital staff will confiscate your weapons and charge you for treatment.",
+      "20": "Before you leave the hospital, the hospital staff will collect your weapons and pay for your treatment.",
+      "50": "Hospital workers removed the weapon and called 911 before he died.",
+      "100": "One concern is employees’ free time."
+    },
+    "[H_HOSP3]": {
+      "3": "You can heal yourself by collecting health choices, and body armor will help protect you.",
+      "5": "You can heal yourself by collecting healing talents, and armor shells protect you.",
+      "20": "You can heal yourself by collecting health points. The tool will protect you.",
+      "50": "There are various safety devices to help.",
+      "100": "To protect yourself, buy an air conditioner."
+    },
+    "[H_HUD01]": {
+      "3": "Your health is indicated by a pink line in the corner of the screen. Once it reaches zero you pass.",
+      "5": "Your health is indicated by the pink bar in the corner of the screen. When it gets to zero, you're fat.",
+      "20": "Pink lines in the corners of the screen indicate health. When you arrive at the venue, leave the building.",
+      "50": "A horizontal red line represents health. You have been fired",
+      "100": "A straight red line shows current activity. If not, you should."
+    },
+    "[H_HUD02]": {
+      "3": "The yellow sign indicates that you are in the search phase - police officers are attempting to arrest you.",
+      "5": "A yellow badge means you wanted status - the police will try to arrest you.",
+      "20": "Red numbers mean you're looking for them. The police want to arrest you.",
+      "50": "A red flag indicates a strong situation. The police will try to arrest you.",
+      "100": "The red line represents selection. The police tried to arrest him."
+    },
+    "[H_HUD03]": {
+      "3": "Your application level is limited. When the stars shine, committing a crime will restore your desired level.",
+      "5": "The required level stops. If you do wrong while the stars are shining, you will be restored to your full potential.",
+      "20": "Your requested transaction has been declined. This is not true. When the stars shine, your passion returns.",
+      "50": "This has been achieved. In case of cancellation, the ticket amount will be refunded.",
+      "100": "The gas exploded."
+    },
+    "[H_HUD04]": {
+      "3": "To find Martinez tickets, follow the sergeant lines on your radar.",
+      "5": "Follow Sergeant Stripes' trail on your radar to find Martinez's cabin.",
+      "20": "Follow the official radar for Martinez's work.",
+      "50": "They follow the noise to find Martinez's gun.",
+      "100": "Detect radar signals from non-Mars sites"
+    },
+    "[H_WE_01]": {
+      "3": "Walk on the weapon carrier while walking to pick it up.",
+      "5": "Collect resources when you go to collect them.",
+      "20": "Go out and look at the weapons.",
+      "50": "After the weapons are shipped, the process of moving the weapons continues.",
+      "100": "No correlation was found."
+    },
+    "[PU_CF]": {
+      "3": "Tap to get this weapon. You will lose any weapons you are carrying of the same type.",
+      "5": "Click to download this tool. You will lose both types of weapons.",
+      "20": "Click to select the device. There is no such thing.",
+      "50": "Click here to download the report. I lost two weapons.",
+      "100": "Click here for codes"
+    },
+    "[H_ARM01]": {
+      "3": "Wearing body armor will protect you from minor damage while standing.",
+      "5": "Wearing a bulletproof vest will protect against certain injuries if sustained.",
+      "20": "The weapons you use make you stronger and protect you from harm.",
+      "50": "Orthodontic braces protect you from injury for the rest of your life.",
+      "100": "Water safety"
+    },
+    "[H_BRI01]": {
+      "3": "Collecting police gifts will pay to the law, reducing the desired level by one star.",
+      "5": "Collecting money from the police will restore the law and lower the star's demand.",
+      "20": "Calling the police is the mission rule for you to lose stars.",
+      "50": "Police compensation is regulated by law and is astronomically limited.",
+      "100": "Buy your copy, get your copy and become a star."
+    },
+    "[H_IV_15]": {
+      "3": "Items can only be collected while walking. Tap to exit the vehicle.",
+      "5": "Items can only be purchased by foot. Click to exit the vehicle.",
+      "20": "Kill as many things as you can. Press to exit the vehicle.",
+      "50": "I can only lift things above my feet. Click here to download.",
+      "100": "Take Kona out of the car and take the luggage."
+    },
+    "[H_OF_01]": {
+      "3": "Keep running. You will get tired after running for a short time.",
+      "5": "To run, stop and hold while running. You will feel tired after running for a while.",
+      "20": "Run, run, run.",
+      "50": "If you run, run. It will be in a few seconds.",
+      "100": "After the race I was tired."
+    },
+    "[H_OF_02]": {
+      "3": "Click to enter or exit the vehicle.",
+      "5": "Tap to enter or exit the vehicle.",
+      "20": "Click to enter or exit the vehicle.",
+      "50": "Click to enter and exit the vehicle.",
+      "100": "I got out of the car."
+    },
+    "[H_OF_03]": {
+      "3": "Use to look around.",
+      "5": "Use it to look around.",
+      "20": "look around",
+      "50": "A basket of goats",
+      "100": "Look around."
+    },
+    "[INT_01]": {
+      "3": "Go to the big arrows to enter and exit buildings.",
+      "5": "Head towards the big arrows to enter and exit buildings.",
+      "20": "I saw a big arrow going in and out of the house.",
+      "50": "Follow the big arrow to exit the building.",
+      "100": "Let's look inside"
+    },
+    "[SWIM_01]": {
+      "3": "Use it to navigate in any direction.",
+      "5": "Use it to breathe in any direction.",
+      "20": "Place it where it floats.",
+      "50": "Various methods have been identified.",
+      "100": "so now"
+    },
+    "[SWIM_02]": {
+      "3": "Your energy will gradually increase. decreased while in the water If you run out of energy, you will drown.",
+      "5": "Your yarn shrinks more slowly in water. If you run, you drown.",
+      "20": "As you fly, your energy gradually decreases. When a young woman goes about her business, she leaves.",
+      "50": "When you are in the water, you need to be calm and relaxed. He lost control",
+      "100": "They drank water. If you get burned, you die."
+    },
+    "[SWIM_03]": {
+      "3": "If you run out of energy while in the water, you will drown.",
+      "5": "If you run into water, you will drown.",
+      "20": "If you don't lose, you lose.",
+      "50": "If water is weak, it melts",
+      "100": "I'm thirsty now"
+    },
+    "[SWIM_04]": {
+      "3": "You can swim faster but it takes more effort.",
+      "5": "You can breathe and swim faster, but it requires more stamina.",
+      "20": "You can level it quickly, but patience is required.",
+      "50": "You can relax quickly, but you need to be patient",
+      "100": "Now he sleeps, but he is still alive."
+    },
+    "[SWIM_05]": {
+      "3": "If you are near a boat or coast Push it out of the water.",
+      "5": "If you are near a boat or beach, get out of the water.",
+      "20": "If you are in a boat or on land, click to get out of the water.",
+      "50": "If you are on a boat or on land, stay away from the water",
+      "100": "Either on board or ashore."
+    },
+    "[H_IV_01]": {
+      "3": "You can change the radio station you are on too.",
+      "5": "You can change the radio station to which I am connected.",
+      "20": "You can change the radio you listen to.",
+      "50": "You can change the locked radio",
+      "100": "Listening to the radio changes everything."
+    },
+    "[H_IV_02]": {
+      "3": "If you have a machine gun, you can pass.",
+      "5": "If you have a sub car you can drive it.",
+      "20": "If you have a car, you can walk.",
+      "50": "It is possible, if it is better to change",
+      "100": "In this case, turn it on"
+    },
+    "[H_IV_03]": {
+      "3": "Look left or right and use fire.",
+      "5": "Stop it or point left or right and use the lights.",
+      "20": "Look left or right?",
+      "50": "Tap and drag left or right",
+      "100": "Or it's raining"
+    },
+    "[H_IV_04]": {
+      "3": "Bikes also allow you to fire a machine gun forward using the .",
+      "5": "The use of cycles can also be advanced by submachine guns.",
+      "20": "The soldiers could shoot him.",
+      "50": "You can upgrade your tank and weapons",
+      "100": "You can ride a bike"
+    },
+    "[H_IV_05]": {
+      "3": "You can adjust your weight while riding a bike.",
+      "5": "When you are on your bike.",
+      "20": "If you ride a bike, you lose weight.",
+      "50": "You can change your weight while driving",
+      "100": "Give me a heart"
+    },
+    "[H_IV_06]": {
+      "3": "Rhinos have a cannon. Use it to aim and shoot.",
+      "5": "Rhino has a cannon. Use it to aim and fire.",
+      "20": "One of them is a squirrel. Because there is something like an arrow",
+      "50": "Some manage to fight",
+      "100": "A place called \"Sesame Street\" in Mexico"
+    },
+    "[H_IV_07]": {
+      "3": "Using the handbrake allows the boat to turn in a tight circle.",
+      "5": "When you use the handbrake, the boat will turn quickly.",
+      "20": "Applying the handbrake causes the aircraft to move in a tight circle.",
+      "50": "The boat is in excellent condition.",
+      "100": "Making a wooden boat"
+    },
+    "[H_IV_08]": {
+      "3": "Hold the fire engine to use the water cannon.",
+      "5": "A handheld water machine fire truck is ready for use.",
+      "20": "Press down to use hot water.",
+      "50": "Don’t change the hot water you use.",
+      "100": "Then use the generate tool."
+    },
+    "[H_IV_10]": {
+      "3": "Click to get on the bike.",
+      "5": "Click to ride a bike.",
+      "20": "Click to get behind the wheel.",
+      "50": "Draw a small circle.",
+      "100": "Tire pressure"
+    },
+    "[H_IV_11]": {
+      "3": "Click to pedal.",
+      "5": "Click to change",
+      "20": "Press the pedal.",
+      "50": "Special paddles available.",
+      "100": "Press the pedal."
+    },
+    "[H_IV_12]": {
+      "3": "Use the radar to find your way around town - follow the green blip to find the package.",
+      "5": "Use radar to find your way around town - follow the green blobs to find packages.",
+      "20": "Use the radar around the city; Follow Green Philip and find the treasure.",
+      "50": "Use the radar to navigate through town and follow the green sign.",
+      "100": "Use the radar to find cities with red lights."
+    },
+    "[H_IV_13]": {
+      "3": "Press to brake the car or reverse if the car stops.",
+      "5": "Press to brake the car, or reverse when the car is stationary.",
+      "20": "When the vehicle does not move, push the vehicle or stop the vehicle.",
+      "50": "[Error: Failed after 8 attempts: Shtypni butonin ndërsa jeni të ndaluar për të inspektuar dhe riparuar automjete të tjera.\nRrethi tjetër përfaqëson diçka më të madhe se ju.\nNjë rrugë e gjatë trekëndore të çon në pjesën e poshtme.\n,.\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . --> Text length need to be between 0 and 5000 characters]",
+      "100": "Click the \"Close\" button."
+    },
+    "[H_IV_14]": {
+      "3": "A blip is an upward pointing triangle indicating that the target is above you.",
+      "5": "A blip is an upward-pointing triangle, indicating that the target is higher than you.",
+      "20": "The line is the upper triangle. It means the purpose is bigger than you.",
+      "50": "[Error: Failed after 8 attempts: Shtypni butonin ndërsa jeni të ndaluar për të inspektuar dhe riparuar automjete të tjera.\nRrethi tjetër përfaqëson diçka më të madhe se ju.\nNjë rrugë e gjatë trekëndore të çon në pjesën e poshtme.\n,.\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . --> Text length need to be between 0 and 5000 characters]",
+      "100": "Triharing Uma Nagari j Physician, Physician."
+    },
+    "[H_IV_16]": {
+      "3": "A blip is a downward pointing triangle that indicates the target is below you.",
+      "5": "A blip is a downward-facing triangle, indicating that the target is below you.",
+      "20": "A triangle with its axis pointing downwards. This means the target is below you.",
+      "50": "[Error: Failed after 8 attempts: Shtypni butonin ndërsa jeni të ndaluar për të inspektuar dhe riparuar automjete të tjera.\nRrethi tjetër përfaqëson diçka më të madhe se ju.\nNjë rrugë e gjatë trekëndore të çon në pjesën e poshtme.\n,.\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . --> Text length need to be between 0 and 5000 characters]",
+      "100": "Allherninger Noir matched Tockner Holting, Shemdur was unstoppable."
+    },
+    "[H_IV_17]": {
+      "3": "For use while looking around and driving.",
+      "5": "To start and use in the car.",
+      "20": "take advantage. While walking or running.",
+      "50": "[Error: Failed after 8 attempts: Shtypni butonin ndërsa jeni të ndaluar për të inspektuar dhe riparuar automjete të tjera.\nRrethi tjetër përfaqëson diçka më të madhe se ju.\nNjë rrugë e gjatë trekëndore të çon në pjesën e poshtme.\n,.\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . --> Text length need to be between 0 and 5000 characters]",
+      "100": "Open the user"
+    },
+    "[H_IV_18]": {
+      "3": "To use the tilt and play camera.",
+      "5": "Rotating the game camera again.",
+      "20": "Travel with a pet camera.",
+      "50": "[Error: Failed after 8 attempts: Shtypni butonin ndërsa jeni të ndaluar për të inspektuar dhe riparuar automjete të tjera.\nRrethi tjetër përfaqëson diçka më të madhe se ju.\nNjë rrugë e gjatë trekëndore të çon në pjesën e poshtme.\n,.\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . --> Text length need to be between 0 and 5000 characters]",
+      "100": "Select the color of the CCTV camera"
+    },
+    "[H_IV_19]": {
+      "3": "Tap to switch quickly",
+      "5": "Click for the accelerator pedal.",
+      "20": "Click to speed up.",
+      "50": "Jack is strong.",
+      "100": "I have to go now"
+    },
+    "[H_IV_20]": {
+      "3": "Using the handbrake makes boats and JetSkis faster.",
+      "5": "Using the handbrake makes turning boats and personal watercraft faster.",
+      "20": "Ships and planes are sailing.",
+      "50": "These barriers are easy to use on boats and vehicles.",
+      "100": "Gravity is used to lift ships and planes."
+    },
+    "[H_IV_21]": {
+      "3": "Use it to spin around inside the helicopter.",
+      "5": "Use it to fly and control the helicopter.",
+      "20": "A helicopter.",
+      "50": "Use airplanes and planes.",
+      "100": "You can go to night clubs."
+    },
+    "[H_IV_30]": {
+      "3": "Click to lock the wheel",
+      "5": "Click to lock the car.",
+      "20": "Click to ride a bike.",
+      "50": "If it is revolutionary.",
+      "100": "Click here to register for the course."
+    },
+    "[H_IV_40]": {
+      "3": "Click to accelerate",
+      "5": "Click for speed.",
+      "20": "Click on the picture to save.",
+      "50": "Changing equipment.",
+      "100": "Click here to watch live."
+    },
+    "[H_IV_41]": {
+      "3": "Press to activate the car's brakes, then stand up when the car is stopped.",
+      "5": "Click to apply the vehicle's brakes and reverse while the vehicle is stationary.",
+      "20": "Press to stop the vehicle or restart when the vehicle is moving.",
+      "50": "Stop or turn when the vehicle is stationary",
+      "100": "Gaia was wearing shorts."
+    },
+    "[H_IV_50]": {
+      "3": "Use the radar to find your way around town - follow the pink dot to find your destination.",
+      "5": "Use the radar to navigate around the city. Follow the pink dots to find your destination.",
+      "20": "Use the radar to navigate around town - follow the pink dots to find your location.",
+      "50": "Radarnikiwan lagta riksi hinespa buka libikunatha kathi memon rinakipak.",
+      "100": "Brothers Nathan and Nathan are not on the radar."
+    },
+    "[H_IV_60]": {
+      "3": "Use the guide. Press to shoot.",
+      "5": "Use it for its intended purpose. Tap to capture.",
+      "20": "In that case, press the lamp once to turn it on.",
+      "50": "Use your knowledge, it's black",
+      "100": "Hello Douma. Click on it if you are interested."
+    },
+    "[H_PNS01]": {
+      "3": "Park at Pay 'n' Spray to reach the desired level and repair and spray your vehicle. Price: $1,000.",
+      "5": "To beat the level you want, park in Pay 'n' Spray mode, repair your car and spray again. Price: $1",
+      "20": "Come to Pay 'N' Spray and fill up your car with gas and the supplies and services you need. If they spend $100",
+      "50": "Rhythm 'n' Spray Niskawan, Munasca alcuquita Havman harcaspa, Corota cyachispa Bununa. Price: $1000",
+      "100": "Pay and spend more. Price: one bag."
+    },
+    "[H_PNS02]": {
+      "3": "Park at Pay 'n' Spray to reach the desired level and repair and re-spray your car. The fee is usually $2,000, but this time it's free.",
+      "5": "Park at Pay 'n' Spray, repair your car and spray again to beat the level you want. It usually costs $100, but this time it's free.",
+      "20": "Come to Pay 'N' Spray and fill up your car with gas and the supplies and services you need. The fee is usually $100, but this time it’s free.",
+      "50": "Rhythm 'n' Spray Niskawan, Munasca alcuquita Havman harcaspa, Corota cyachispa Bununa. $200 kolkipakami, itaka to kudipika kratigime.",
+      "100": "Pay and spend more. It costs $100 in local currency."
+    },
+    "[H_PNS03]": {
+      "3": "Follow the blip on the radar to find the nearest Pay 'n' Spray.",
+      "5": "Follow the radar to find the nearest flying 'n' fly.",
+      "20": "Follow our radar tips to find Pie and Fiddle near you",
+      "50": "Check your rain radar station.",
+      "100": "Look for the \"N\" symbol next to the enemy radar."
+    },
+    "[H_PNS04]": {
+      "3": "To get the clearance level you need, stop by Pay 'n' Spray and have your vehicle tuned and sprayed. The fee is usually $100, but this time Phil paid.",
+      "5": "Use Pay 'N' Spray to clean roofs, repair and warm up vehicles. The fee is usually $100, but this time Phil will pay.",
+      "20": "Pack and spray with Pie ‘N’ Spray to clean and maintain your vehicle. The usual fee is $100, but Phil paid it this time.",
+      "50": "Payment for repair or restoration of vehicles. He always gives $1,000, but this time he gives it to Phil.",
+      "100": "When cleaning car paint, rinse thoroughly and work with a cleaning solution. The floor is about $200, and now it’s time to shoot."
+    },
+    "[H_BS_01]": {
+      "3": "Every car you drive into this garage makes a remote control bomb. Price: 500 dollars",
+      "5": "Every car you drive in the parking lot will have a remote controlled bomb. Price: 500$.",
+      "20": "All cars in the garage are remote controlled. Price: $5",
+      "50": "The front parking lot is brand new. Price: Price 10",
+      "100": "The car stopped. Location: 10th St"
+    },
+    "[H_AM_01]": {
+      "3": "Shop to go",
+      "5": "to pick up",
+      "20": "exit the mall",
+      "50": "He is suspected of possessing firearms without a permit.",
+      "100": "It enables people to do more."
+    },
+    "[H_CAM01]": {
+      "3": "Click to cycle through camera modes.",
+      "5": "Tap to cycle through camera modes.",
+      "20": "Tap here to switch to camera mode",
+      "50": "Click to change camera mode.",
+      "100": "Turn off the camera on the way out."
+    },
+    "[H_MET01]": {
+      "3": "Metal detectors will pick up any weapons you have and put them outside.",
+      "5": "A metal detector will pick up any weapons you are carrying and remove them.",
+      "20": "The guns are raised.",
+      "50": "Nož da vidim tvoje oružje.",
+      "100": "The origins of heroes and villains."
+    },
+    "[H_MAG1]": {
+      "3": "Place the magnet on the container to pick it up.",
+      "5": "Place the magnet on the barrel to get it.",
+      "20": "Move the magnet to where you want to remove it",
+      "50": "Stavite magnet u kutiju za pregled.",
+      "100": "Because gravity works"
+    },
+    "[H_MAG2]": {
+      "3": "To remove the magnet from the container, drop it into the mixture.",
+      "5": "Push the magnet into the halo and remove it from the container.",
+      "20": "Drag it in a circle to remove the magnet from the object",
+      "50": "Rotate the magnet vertically to change its diameter.",
+      "100": "Remove the mixture from the oven through a sieve."
+    },
+    "[H_WE_02]": {
+      "3": "Use your weapons to scroll.",
+      "5": "Use your gun to move.",
+      "20": "Use the gun to climb up",
+      "50": "Use your phone.",
+      "100": "Learn more"
+    },
+    "[H_WE_03]": {
+      "3": "Click to throw this weapon. Hold longer to increase throw distance.",
+      "5": "Click to throw this weapon. Hold it longer to increase the throw distance.",
+      "20": "Click to launch the Weapon Expand button to enlarge the screen",
+      "50": "Pritisnite za otvaranje uređaja. Povećava udaljenost udarca za zadržavanje.",
+      "100": "start a long conversation"
+    },
+    "[CAN_CON]": {
+      "3": "Use again to cancel the mission.",
+      "5": "Use again to cancel the mission.",
+      "20": "Also use the delete function.",
+      "50": "They are used for a variety of purposes.",
+      "100": "Use it to get the job done."
+    },
+    "[SIREN_1]": {
+      "3": "Tap to turn the ambulance sirens on or off.",
+      "5": "Click to turn the emergency siren on and off.",
+      "20": "Press the vehicle's emergency horn to turn it on or off.",
+      "50": "Tap Siren to turn it on or off.",
+      "100": "Click to print."
+    },
+    "[PARA_TR]": {
+      "3": "Paramedic missions can be turned on or off using",
+      "5": "It can be turned on or off using medical functions.",
+      "20": "It can be activated or deactivated by subscription.",
+      "50": "You can turn it on and off during saves.",
+      "100": "You must have this service."
+    },
+    "[FIRE_TR]": {
+      "3": "You can turn it on or off using Fire Fighter missions.",
+      "5": "Firefighting missions can be turned on and off using them.",
+      "20": "Fire can be used to start or extinguish fires.",
+      "50": "It can be enabled or disabled.",
+      "100": "So don't get burned."
+    },
+    "[VIGI_TR]": {
+      "3": "Vigilante can be turned on or off using missions.",
+      "5": "You can turn it on and off with Vigilante missions.",
+      "20": "Track functions can be turned on or off.",
+      "50": "Notifications can be turned on and off through the app.",
+      "100": "You can use any method or function."
+    },
+    "[CHOP_TR]": {
+      "3": "Air rescue mission.",
+      "5": "The air rescue service can be turned on or off.",
+      "20": "Use them to modify or disable wireless functions.",
+      "50": "It can be opened and closed in flight.",
+      "100": "You can use the click command to open and close objects."
+    },
+    "[DRIV_TR]": {
+      "3": "Click to use the disk set.",
+      "5": "Click to execute the command.",
+      "20": "Click to search for place names.",
+      "50": "Click to access this survey.",
+      "100": "I opened the box."
+    },
+    "[TAXI_TR]": {
+      "3": "You can enable or disable the taxi driver mission.",
+      "5": "Taxi Driver can be turned on or off using the service.",
+      "20": "Drivers can change jobs.",
+      "50": "It can be turned on or off depending on the driver’s performance.",
+      "100": "Then take a taxi or drive to the car dealership."
+    },
+    "[EMPA_TR]": {
+      "3": "Click to start attacking the site.",
+      "5": "Click to start the attack.",
+      "20": "Click here to visit the site.",
+      "50": "Click on the page.",
+      "100": "Click here to open the information page."
+    },
+    "[EMPB_TR]": {
+      "3": "This site is used for shopping.",
+      "5": "Use this website to purchase.",
+      "20": "You may use this site to shop.",
+      "50": "The room was filled.",
+      "100": "You can buy it on this page."
+    },
+    "[SAVE_01]": {
+      "3": "You can save your progress by collecting save tokens - the timer will continue from 6 hours.",
+      "5": "You can save your progress by checking the save schedule - the clock will work for 6 hours.",
+      "20": "You can save your progress by clicking the Save button. The deadline is extended to six hours.",
+      "50": "Click the button to save the results. The time is increased to 6 hours.",
+      "100": "Click Save to save the work. Stay 6 nights in the park."
+    },
+    "[SAVE_02]": {
+      "3": "You cannot save while serving.",
+      "5": "You can't live while you're in it.",
+      "20": "I can't work and live.",
+      "50": "I can't save money between missions.",
+      "100": "Black powder has no effect."
+    },
+    "[H_GANG1]": {
+      "3": "Target and use them to recruit followers for your party.",
+      "5": "Find your passion, purpose and use it",
+      "20": "Use them to track and recruit your team.",
+      "50": "Sell, sell, sell your business.",
+      "100": "Select the people you want to invite and add them to the group."
+    },
+    "[H_GANG2]": {
+      "3": "Those with submachine guns in your car will attack enemies if you approach them.",
+      "5": "The gunmen in your car will attack the enemy if you get too close.",
+      "20": "When you get close, the enemy will shoot at your vehicle.",
+      "50": "If you have a machine gun, you can attack the enemy.",
+      "100": "When the enemy comes, shoot."
+    },
+    "[H_OJ_01]": {
+      "3": "Return to the driving range every so often to improve your grip.",
+      "5": "Come back to the fairway anytime to improve your swing.",
+      "20": "Get back into the car often to improve your swing.",
+      "50": "We strive to create the best experience for drivers.",
+      "100": "Pull the seat back and remove the top."
+    },
+    "[H_TS_01]": {
+      "3": "Use it to activate \"Skip Trip\".",
+      "5": "Use Trip Skip to activate.",
+      "20": "Use it to plan your trip.",
+      "50": "He uses planes to fly.",
+      "100": "Tichuan"
+    },
+    "[H_TS_02]": {
+      "3": "The 'Skip Trip' checkpoint has been reached.",
+      "5": "Reached the \"Journey Skip\" checkpoint.",
+      "20": "On the jump stage.",
+      "50": "This allows you to \"search on the fly\".",
+      "100": "More than 1 inch per day"
+    },
+    "[H_GUN01]": {
+      "3": "Hold to lock on target and tap to shoot.",
+      "5": "Hold to aim and press to shoot.",
+      "20": "Focus on the target and shoot.",
+      "50": "A fire.",
+      "100": "Rose lit a cigarette."
+    },
+    "[H_GUN02]": {
+      "3": "Tap to switch target while locked.",
+      "5": "When locked, click to change target.",
+      "20": "If the lock is on, click it",
+      "50": "Click here instead.",
+      "100": "Click on the location you want to transfer."
+    },
+    "[H_GUN03]": {
+      "3": "While aiming, tap to enter Free Aim mode, then use it to set your aim.",
+      "5": "While targeting, tap D to enter open target mode, then use D to set target.",
+      "20": "If desired, turn the water to the opening and use the water where needed.",
+      "50": "Just press the button to move or shoot an arrow if you want",
+      "100": "Black Button M. Setting and Time."
+    },
+    "[H_TIP]": {
+      "3": "The top bar will decrease over time. And when your taxi is broken down",
+      "5": "Over time, the spin points will decrease and the taxi will be damaged.",
+      "20": "Even if the carburetor fails, the steering will eventually fail.",
+      "50": "Over time, plaque loosens and teeth fall out.",
+      "100": "The house burned, the roof burned."
+    },
+    "[EMP_DEN]": {
+      "3": "You are currently unable to develop this site.",
+      "5": "This page is currently not being promoted.",
+      "20": "This channel is no longer worth watching",
+      "50": "No access to this page.",
+      "100": "This page is not available"
+    },
+    "[EMP_BU1]": {
+      "3": "Now you can create a pharmacy website.",
+      "5": "You can now create a medical page.",
+      "20": "Now you can create a chemical grid.",
+      "50": "Now you will have a beautiful website.",
+      "100": "Now I can take medicine"
+    },
+    "[EMP_BU2]": {
+      "3": "Now you can create a bootleg website.",
+      "5": "You can now create a trading page.",
+      "20": "Now you can create a fake website.",
+      "50": "Now we can make a false accusation.",
+      "100": "Therefore, it is forbidden"
+    },
+    "[EMP_BU3]": {
+      "3": "Now you can create a theft website.",
+      "5": "Now you can create your scene.",
+      "20": "Now you can start digging.",
+      "50": "Now I'm used to it.",
+      "100": "Now you can do your work"
+    },
+    "[CLOTHA]": {
+      "3": "Use to see the outfit.   To change clothes.   To cancel",
+      "5": "Wear clothes to see how the world transforms, cancel it.",
+      "20": "We are stupid, stupid.",
+      "50": "Decorate your face with it.   Change your clothes and go out",
+      "100": "Thank you for your time. It's time to change.   Try to control yourself."
+    },
+    "[CLOTHB]": {
+      "3": "Here you can change clothes at any time.",
+      "5": "Here you can change clothes at any time.",
+      "20": "You can always change something here.",
+      "50": "You can change it here.",
+      "100": "Circumstances are constantly changing."
+    },
+    "[DIA2_H3]": {
+      "3": "Persist to make fine adjustments to your goals.",
+      "5": "Take what you need, adjust accordingly.",
+      "20": "Prepare your work well.",
+      "50": "Look for positive change.",
+      "100": "Remember your conscience."
+    },
+    "[AM_UL_1]": {
+      "3": "Minigun is now available at Ammu-Nation in Vice Point Mall.",
+      "5": "The minigun is now available at Ammu-Nation in the Vice Point Mall.",
+      "20": "His guns are stored at the Ammunition Center.",
+      "50": "Emo guys sell guns at Waypoint Mall.",
+      "100": "You can find it on the streets of Aero Nation."
+    },
+    "[AM_UL_2]": {
+      "3": "Rocket Launcher is now at Ammu-Nation in Vice Point Mall.",
+      "5": "The Rocket Launcher is now available in Ammu-Nation at Vice Point Mall.",
+      "20": "Filmed at Ammu-Nation at Vic Point Mall.",
+      "50": "The rocket is located at the Imo State Mall in Dana Point.",
+      "100": "Sugar is sold in stores and factories."
+    },
+    "[WEAP_PU]": {
+      "3": "Go inside the tool to get it.",
+      "5": "Walk over to the weapon to pick it up.",
+      "20": "Tereho biblioteca-pe ha egueraha umíva.",
+      "50": "I'm looking for it",
+      "100": "Add the story to your list."
+    },
+    "[H_SCTA1]": {
+      "3": "If you get \"crushed\" or \"lost\" during the operation, this taxi will take you back to the meeting point.",
+      "5": "If you are 'rescued' or 'abandoned' during a mission, this taxi will bring you back to the rendezvous point.",
+      "20": "If the service is \"empty\" or \"dirty\", send a taxi to the test location.",
+      "50": "If you drop a bomb or \"miss\" your mission. This taxi will take you to your destination.",
+      "100": "If there is no \"logic\" or \"error\" in the system. This taxi will pay for you."
+    },
+    "[H_SCTA2]": {
+      "3": "If you have money, the driver will pay you a small fee for the journey.",
+      "5": "If you have money, the driver will charge you a small fee for the journey.",
+      "20": "If you have money, you can ask the tour operator for a small fee.",
+      "50": "If you have money, the driver will give it to you",
+      "100": "If I had money, I wouldn't go much."
+    },
+    "[C0DOSUD]": {
+      "3": "Left analog stick up and down",
+      "5": "left manual stick up and down",
+      "20": "It's a good example of mombirry.",
+      "50": "Compare the upper right corner with the lower right corner.",
+      "100": "Touch from top to bottom for a beautiful finish."
+    },
+    "[C1DOSUD]": {
+      "3": "Left analog stick up and down",
+      "5": "left manual stick up and down",
+      "20": "It's a good example of mombirry.",
+      "50": "Compare the upper right corner with the lower right corner.",
+      "100": "Touch from top to bottom for a beautiful finish."
+    },
+    "[C2DOSUD]": {
+      "3": "The left analog sticks up and down",
+      "5": "The left analog stick is up and down",
+      "20": "Move the cursor up and down to the right.",
+      "50": "Color left from top to bottom.",
+      "100": "and communication"
+    },
+    "[C3DOSUD]": {
+      "3": "The left analog sticks up and down",
+      "5": "The left analog stick is up and down",
+      "20": "Move the cursor up and down to the right.",
+      "50": "Color left from top to bottom.",
+      "100": "and communication"
+    },
+    "[C0DOSLR]": {
+      "3": "Left and right analog sticks",
+      "5": "Left and right analog sticks",
+      "20": "And from left to right.",
+      "50": "Trees on the right and left.",
+      "100": "Everything from left to right."
+    },
+    "[C1DOSLR]": {
+      "3": "Left and right analog sticks",
+      "5": "Left and right analog sticks",
+      "20": "And from left to right.",
+      "50": "Trees on the right and left.",
+      "100": "Everything from left to right."
+    },
+    "[C2DOSLR]": {
+      "3": "Left and right analog sticks",
+      "5": "Left and right analog sticks",
+      "20": "And from left to right.",
+      "50": "Trees on the right and left.",
+      "100": "Everything from left to right."
+    },
+    "[C3DOSLR]": {
+      "3": "Left left and right analog stick",
+      "5": "Left analog stick left and right",
+      "20": "left and right",
+      "50": "left to right",
+      "100": "Left and right are the same."
+    },
+    "[C0DOARM]": {
+      "3": "L2 and R2 buttons",
+      "5": "L2 and R2 buttons",
+      "20": "L2 and R2 buttons",
+      "50": "L2 and R2",
+      "100": "These signals are L2 and R2."
+    },
+    "[C1DOARM]": {
+      "3": "L2 and R2 buttons",
+      "5": "L2 and R2 buttons",
+      "20": "L2 and R2 buttons",
+      "50": "L2 and R2",
+      "100": "These signals are L2 and R2."
+    },
+    "[C2DOARM]": {
+      "3": "L2 and R2 buttons",
+      "5": "L2 and R2 buttons",
+      "20": "L2 and R2 buttons",
+      "50": "L2 and R2",
+      "100": "These signals are L2 and R2."
+    },
+    "[C3DOARM]": {
+      "3": "L2 and R2 buttons",
+      "5": "L2 and R2 buttons",
+      "20": "L2 and R2 buttons",
+      "50": "L2 and R2",
+      "100": "These signals are L2 and R2."
+    },
+    "[RACEHLP]": {
+      "3": "compete.   climb.  change race",
+      "5": "to compete.   quit.  Change races.",
+      "20": "The skin of breast leaves has different colors.",
+      "50": "I changed the lane to the left.",
+      "100": "you can write"
+    },
+    "[C0VEWE2]": {
+      "3": "R1 button",
+      "5": "When the R1 button",
+      "20": "R1 button",
+      "50": "H.1.",
+      "100": "R1 is great."
+    },
+    "[C1VEWE2]": {
+      "3": "R1 button",
+      "5": "When the R1 button",
+      "20": "R1 button",
+      "50": "H.1.",
+      "100": "R1 is great."
+    },
+    "[C2VEWE2]": {
+      "3": "R1 button",
+      "5": "When the R1 button",
+      "20": "R1 button",
+      "50": "H.1.",
+      "100": "R1 is great."
+    },
+    "[C3VEWE2]": {
+      "3": "R1 button",
+      "5": "When the R1 button",
+      "20": "R1 button",
+      "50": "H.1.",
+      "100": "R1 is great."
+    },
+    "[H_IV_H1]": {
+      "3": "Click to fire the Hunter's missiles, and shoot the cannon.",
+      "5": "Click to shoot hunters guns and weapons.",
+      "20": "Hunters throw bombs and weapons.",
+      "50": "Be deliberate",
+      "100": "Herod conquered Medina and Iman."
+    },
+    "[H_IV_H2]": {
+      "3": "Click to fire the Sea Sparrow Cannon.",
+      "5": "Click to fire sea sparrow missiles.",
+      "20": "Try shooting the sharks",
+      "50": "Click and drag it to your position.",
+      "100": "Press C to close the window."
+    },
+    "[H_IV_H3]": {
+      "3": "Click to fire Little Willy's cannon.",
+      "5": "Click on slow fire with Willie's cannons.",
+      "20": "Click to fire Willy's little gun.",
+      "50": "Click to play Gun Willie.",
+      "100": "Click the button"
+    },
+    "[H_OJ_03]": {
+      "3": "Keeping only the cars they want - in the name of law and order. Everything is legal, you will be well paid.",
+      "5": "They just confiscate cars in the name of law and order. This practice is legal and well paid.",
+      "20": "They design the machines they want: they all invest in the name of the law.",
+      "50": "You want to buy a dangerous car. That’s a good thing.",
+      "100": "Bakers and candles."
+    },
+    "[H_FE_01]": {
+      "3": "You can place an icon on the holiday menu map, which helps you navigate around the city.",
+      "5": "You can add addresses to the stops map to help you get around the city.",
+      "20": "Addresses and stations can be placed on the city map.",
+      "50": "Adding a map to the menu will help you navigate the city.",
+      "100": "Cities have been added to the interactive map for display."
+    },
+    "[H_HUD08]": {
+      "3": "If you want to find Stonewall J again, keep an eye on the signal on your radar.",
+      "5": "If you want to see Stonewall J again, check out Flag Flash on Radar.",
+      "20": "If you want to see Stonewall J again, keep an eye on the radar flag.",
+      "50": "Look for radar flags to find Stonewall J.",
+      "100": "If you want to know more about the Stonewall Jay, click on the link below."
+    },
+    "[C0FIREH]": {
+      "3": "Right analog stick",
+      "5": "Right analog stick",
+      "20": "The comparison is the same on the right",
+      "50": "Switch to the analog button.",
+      "100": "This is the antidote."
+    },
+    "[C1FIREH]": {
+      "3": "Right analog stick",
+      "5": "Right analog stick",
+      "20": "The comparison is the same on the right",
+      "50": "Switch to the analog button.",
+      "100": "This is the antidote."
+    },
+    "[C2FIREH]": {
+      "3": "Right analog stick",
+      "5": "Right analog stick",
+      "20": "The comparison is the same on the right",
+      "50": "Switch to the analog button.",
+      "100": "This is the antidote."
+    },
+    "[C3FIREH]": {
+      "3": "Right analog stick",
+      "5": "Right analog stick",
+      "20": "The comparison is the same on the right",
+      "50": "Switch to the analog button.",
+      "100": "This is the antidote."
+    },
+    "[H_IV_09]": {
+      "3": "As it cools, you can use it to upgrade the gun.",
+      "5": "Mens du spryter, bruk for å attjere kanonmålet.",
+      "20": "Adjust your aim as you move your weapon.",
+      "50": "Use the button when you throw the ball.",
+      "100": "Use the arrows"
+    },
+    "[H_BINO1]": {
+      "3": "Also use to zoom in and out of binoculars.",
+      "5": "Use and zoom in and out using the glasses.",
+      "20": "Use the telescope to zoom in and out.",
+      "50": "Use your external and internal vision.",
+      "100": "Read through the year"
+    },
+    "[EMP_DEV]": {
+      "3": "Use it to create or save this database.",
+      "5": "You can develop or create your own website.",
+      "20": "Use this page to create or edit a page.",
+      "50": "Use it to build or maintain your website.",
+      "100": "Use this page to make changes or corrections."
+    },
+    "[EMP_INF]": {
+      "3": "- Click on the database to open the progress menu. - Approach the gang member to start the mission.",
+      "5": "- Gå til oppslagstavlen på å utløse utviklingsmenyen. -Gå til et gängmedlem to å utløse and svätt.",
+      "20": "- Access the control panel to get the progress board. - Talk to the party members and start the quest.",
+      "50": "- Rate to unlock a chance to win. - Start a mission and collect loot.",
+      "100": "- Go to the company page and log in - Contact a team member for more information."
+    },
+    "[H_HUD05]": {
+      "3": "The portion of the Empire symbol on your radar indicates the devastation. These sites have resulted in a drop in revenue.",
+      "5": "Det partille imperium-iconet på radaren din representatives and bravait nettstedt. These areas have reduced costs.",
+      "20": "The enemy image on your radar shows the location of the damage. Incomes in those areas have declined.",
+      "50": "Being on the government's radar is dangerous. Today, this figure is much less.",
+      "100": "Radar signals indicate communication problems. Both schools were closed"
+    },
+    "[H_HUD06]": {
+      "3": "The Empire Key icon on your radar represents a site under construction.",
+      "5": "A wrench symbol on your radar indicates a construction site.",
+      "20": "The Empire Spinner icon on the radar is a juicy spot.",
+      "50": "The Ottoman icon shows the building's location on the radar.",
+      "100": "Ownership is the last step."
+    },
+    "[H_HUD07]": {
+      "3": "The Emergency Empire icon on your radar represents the location being attacked.",
+      "5": "Your radar signal indicates the location of the attack.",
+      "20": "Radar markings indicate the location of the attack.",
+      "50": "The Empire of Chaos logo shows the battle area.",
+      "100": "There are signs of train wrecks."
+    },
+    "[EMPSH_A]": {
+      "3": "Destroy a vehicle outside the location to trigger an attack. The attack increases the gang's hatred for you!",
+      "5": "Disable offline traffic on attack. Attacks make you grow!",
+      "20": "Start attacking the cars outside the station and destroy them. Attacks increase hostility.",
+      "50": "Start the fight by destroying the vehicles outside the area, attacking the enemy.",
+      "100": "Use the cart to clear the river and fight powerful enemies."
+    },
+    "[EMPSH_B]": {
+      "3": "Enter the building and create this page or start the quest.",
+      "5": "Log in to create this page or start a search.",
+      "20": "Enter a building or start a mission to improve an area.",
+      "50": "He entered a construction site and started working there.",
+      "100": "Ask for help creating this page."
+    },
+    "[SHOPLIH]": {
+      "3": "You must reach the required level before starting this mission.",
+      "5": "Before starting this quest, you need to lose a level of ambition.",
+      "20": "You must clear the required level before starting this mission.",
+      "50": "Check your situation before that happens.",
+      "100": "You need to quit before you start training."
+    },
+    "[SRNGRET]": {
+      "3": "Phil lets friends use the shooting range at all times.",
+      "5": "Phil lets his friends use the dash whenever they want.",
+      "20": "Phil always lets his friends use the shooting range.",
+      "50": "Bill's friends let him use the boat as much as he wanted",
+      "100": "Philip encouraged him to visit friends around the world."
+    },
+    "[SRNGWON]": {
+      "3": "The shooting range is ready. AmmoNation offers you a discounted price!",
+      "5": "Tire is ready. Ammu-Nation offers discounted prices!",
+      "20": "Registration is complete. You can buy this product from Ammu-Nation!",
+      "50": "Milat Ambush is very helpful if you want to take photos",
+      "100": "The fire is out. black religion."
+    },
+    "[RACEUNL]": {
+      "3": "Visit Sunshine Autos to participate in other road races.",
+      "5": "Visit Sunshine Autos for more street racing.",
+      "20": "For street racing, check out Sunshine Auto.",
+      "50": "Get a car for the day to race",
+      "100": "New cars replace other cars."
+    },
+    "[CIVIWON]": {
+      "3": "The Civil Asset Forfeiture Division has not yet established a plan for paying your respray bill.",
+      "5": "The Department of Civil Asset Forfeiture has now paid your bill.",
+      "20": "The Department of Labor will then pay your renewal application fee.",
+      "50": "The company has now decided to pay for the new color.",
+      "100": "This money is taken from the republic's budget as a dunning."
+    },
+    "[JETTUNL]": {
+      "3": "Return to JetSk in Movie Studio for more high-speed challenges.",
+      "5": "Return to JetSki Studios for high-speed missions.",
+      "20": "Return to the movie studio speedboat and do a quick inspection.",
+      "50": "Want to go faster? through the water gate",
+      "100": "Back on the bike."
+    },
+    "[RE_WEP]": {
+      "3": "Pay a $2000 bounty to get your weapon back?   purchase From.",
+      "5": "Pay $2,000 for your gun?   go out shopping",
+      "20": "Would you pay $2,000 to get your gun back?   Best wishes.   To get out of the way.",
+      "50": "Could you write me a check for $1,000? Letter",
+      "100": "Do I have to pay $200 to return the gun? Stand out from the crowd."
+    },
+    "[RE_WEPN]": {
+      "3": "You need $2000 to buy your weapons.",
+      "5": "You need $2000 to unlock your weapon.",
+      "20": "A $2,000 deposit is required to return the gun.",
+      "50": "You must return the check to cover $1,000.",
+      "100": "Guns under $1,000."
+    },
+    "[RE_PHI]": {
+      "3": "Pay $6000 to buy access to a Phil Collins concert?   purchase From.",
+      "5": "Paying $6,000 to attend a Phil Collins concert?   go out shopping",
+      "20": "Pay $6,000 to attend a Phil Collins concert?   Best wishes.   To get out of the way.",
+      "50": "Would you pay $6,000 for a Phil Collins concert? Why?",
+      "100": "Would you pay $200 to see Phil Collins in concert? It is not like that."
+    },
+    "[RE_PHIN]": {
+      "3": "You need $6000 to buy access to a Phil Collins concert.",
+      "5": "Admission to a Phil Collins concert costs $6,000.",
+      "20": "It costs $6,000 to go to a Phil Collins concert.",
+      "50": "Tickets to a Phil Collins concert cost $6,000.",
+      "100": "Phil Collins’ film sold for $5,000."
+    },
+    "[RE_PHIM]": {
+      "3": "There is a new course!",
+      "5": "A new addition to the stadium!",
+      "20": "Stadium products!",
+      "50": "You will find new things in the game!",
+      "100": "Ask for more information"
+    },
+    "[RE_VE1M]": {
+      "3": "Brand new for sale at Sunshine Autos!",
+      "5": "New purchased item available at Sunshine Cars!",
+      "20": "Sunshine Auto just sold.",
+      "50": "Sunny Auto's new product in the market!",
+      "100": "Diesel engine!"
+    },
+    "[RE_VE2]": {
+      "3": "Would you pay $ 4,500 to buy a Splitz-6 ATV?   Buy now   Come down",
+      "5": "Would you pay $4,500 for a Splitz-6 ATV?   buy.   go out",
+      "20": "Spent $4,500 on a Splitz-6 ATV?   Get out there and sell!",
+      "50": "Quad-6 for $4,500?   Complete your purchase.",
+      "100": "Want to pay $4,500 for 6 square inches? we don't know."
+    },
+    "[RE_VE2N]": {
+      "3": "You need $ 4,500 to buy a Splitz-6 ATV.",
+      "5": "You will need $4,500 to purchase a Splitz-6 ATV.",
+      "20": "The ATV Splitz-6 costs $4,500.",
+      "50": "Part IV costs $4,500.",
+      "100": "A size 6 ATV costs about $4,500."
+    },
+    "[RE_VE2M]": {
+      "3": "New items to buy in the backyard!",
+      "5": "A new purchased item is available in the folded vault!",
+      "20": "Safe Chemicals sells new products.",
+      "50": "New Channel \"Casa Feliz\"!",
+      "100": "Good words"
+    },
+    "[RE_VE3]": {
+      "3": "Spend $ 5000 to buy Little Willie?   Buy now   Come down",
+      "5": "Would you pay $5,000 for Willie Jr.?   buy.   Go out",
+      "20": "Spend $5,000 on Little Willie?   Get out there and sell!",
+      "50": "Can I get $200 from Willy now?   Complete your purchase.",
+      "100": "Does Willy now have $5,000? The game is over"
+    },
+    "[RE_VE3N]": {
+      "3": "He needs $5000 to buy little Willie.",
+      "5": "I need $5,000 to buy Little Willie.",
+      "20": "I need $5,000 to buy a small house.",
+      "50": "I gave Willie $5,000.",
+      "100": "Wiley Jr. donated $10,000."
+    },
+    "[RE_VE3M]": {
+      "3": "A new purchase item is available in Clymenus Suite!",
+      "5": "A new acquisition in the Clymenus Suite.",
+      "20": "Newly purchased products can be used in the Clymenus product line.",
+      "50": "Last time with Clayman",
+      "100": "Clement F. A banker"
+    },
+    "[RE_VE4]": {
+      "3": "Paying $3000 for a quad?   to buy",
+      "5": "Should I pay $3000 for a quad?   purchase.   go away.",
+      "20": "Should I spend $3,000 on a full car?   buy less",
+      "50": "Do you want a $3,000 sofa?   Buy ice cream",
+      "100": "Don't I have to pay a $200 fine?   Check it out"
+    },
+    "[RE_VE4N]": {
+      "3": "You need $3000 to buy the Quad.",
+      "5": "I need $3,000 to buy a quad.",
+      "20": "An ATV costs $3,000 to purchase.",
+      "50": "It costs $3,000 to purchase four boxes.",
+      "100": "1 hectare -"
+    },
+    "[RE_VE4M]": {
+      "3": "The latest shopping is at Beach Hotel!",
+      "5": "You can buy novelty items at the beach hotel.",
+      "20": "There is a new product launch at the Beach Hotel.",
+      "50": "Now Beach Hotel is a new company",
+      "100": "Onparana Renik Hotel"
+    },
+    "[UCBT_01]": {
+      "3": "Use it to attack targeted enemies if you are unarmed.",
+      "5": "If you don't have a weapon, use the enemy target.",
+      "20": "Attacking a non-combatant enemy",
+      "50": "This weapon can be used against enemies.",
+      "100": "Against weak enemies"
+    },
+    "[UCBT_02]": {
+      "3": "Hold to block enemy melee attacks.",
+      "5": "Hold to block enemy object attacks.",
+      "20": "Follow and dose to avoid attacks",
+      "50": "He blocked the enemy's attack.",
+      "100": "Avoid enemy attacks."
+    },
+    "[UCBT_03]": {
+      "3": "Tap to catch your opponent, make them defend your attack.",
+      "5": "Click to trap the opponent so that they are not defenseless to your attack.",
+      "20": "Click on the enemy's net to remove it from your attack.",
+      "50": "Capture and destroy your enemies",
+      "100": "Click on the enemy to open it."
+    },
+    "[RE_VE5]": {
+      "3": "Paying $4500 for a Bovver'64?   Buy out",
+      "5": "Paying $4500 for a Bowver'64?   purchase output",
+      "20": "Would you pay $4,500 for a 1964 Bower?   take this",
+      "50": "Would you pay $200 for 64 children? Plan your vacation",
+      "100": "Want to spend $4,500 on a Power 64? Now you know"
+    },
+    "[RE_VE5N]": {
+      "3": "You need $4500 to buy Bovver'64.",
+      "5": "You need $4,500 to buy a Bovver'64.",
+      "20": "I wanted $4500 for a 64 Bower.",
+      "50": "Babur sold for $500 in 1964.",
+      "100": "Arc 64 sold for $4,500."
+    },
+    "[RE_VE1]": {
+      "3": "Paying $3000 to buy a bulletproof trait?   Buy to go out",
+      "5": "Spending $200 on a bulletproof vest?   Purchasing abroad.",
+      "20": "Would you spend $3,000 for a bulletproof vest?   Go out and go to the store",
+      "50": "$3000 for a pill?   capture",
+      "100": "Did I spend $10,000 on the movie?   you can buy"
+    },
+    "[RE_VE1N]": {
+      "3": "You need $3000 to buy a bulletproof trait.",
+      "5": "You need $200 to buy a bulletproof vest.",
+      "20": "Bulletproof vest costs $3000",
+      "50": "The cost of purchasing protective clothing is $3,000.",
+      "100": "No-hitter gets $1,000"
+    },
+    "[H_WBBW1]": {
+      "3": "By paying a large bribe you will get your weapon back.",
+      "5": "Enough sweat to get your armor back up.",
+      "20": "Give a nice bribe and get the gun back.",
+      "50": "The money will be returned after the payment of the required amount.",
+      "100": "pay return charges"
+    },
+    "[RE_VE6]": {
+      "3": "Pay $4000 to buy a bulletproof BF injection?   Buy to go out",
+      "5": "Spending $4,000 on a BF bulletproof vest?   Purchasing abroad.",
+      "20": "Would you pay $4,000 for a BF bulletproof product?   Go out and go to the store",
+      "50": "Spend $4000 to lose love.",
+      "100": "Is it worth spending $200 on a built-in shed? why does this happen"
+    },
+    "[RE_VE6N]": {
+      "3": "You need $4000 to buy a bulletproof BF injection.",
+      "5": "You need $4000 to buy a proof BF injection.",
+      "20": "The BF bullet costs $4,000.",
+      "50": "The price of the BF rifle is $4000.",
+      "100": "Purchase amount $4000"
+    },
+    "[EXPO_W]": {
+      "3": "Civilian asset forfeiture requires one of these vehicles.",
+      "5": "Civil liability applies to every vehicle.",
+      "20": "If you want to transport goods in the area, one of these vehicles is a must have.",
+      "50": "Social problems must be solved.",
+      "100": "Companies need vending machines."
+    },
+    "[H_OJ_02]": {
+      "3": "The Civil Asset Forfeiture Office in Wisport seizes all types of vehicles \"connected\" to drug crimes and does not require the burden of proof.",
+      "5": "Public property in Viceport includes all types of drug-related vehicles and does not require a burden of proof.",
+      "20": "Wiseport's seizure includes all types of \"vehicles\" involved in drug-related crimes. and the burden of proof is not mandatory.",
+      "50": "Officers stopped all unknown vehicles.",
+      "100": "Whisport's health policy applies to all vehicles."
+    },
+    "[EMP_MAX]": {
+      "3": "Vehicles on your site will be updated as you own all 30 businesses.",
+      "5": "Even if you have all 30 services, your website traffic will improve.",
+      "20": "If you find all 30 companies, your car will be better wherever you are.",
+      "50": "Seats are updated every 30 yards.",
+      "100": "30 companies can install these devices in your home."
+    },
+    "[C0TAXJU]": {
+      "3": "L3 button",
+      "5": "L3 button",
+      "20": "L3 is the default setting.",
+      "50": "L3 button",
+      "100": "in L3"
+    },
+    "[C1TAXJU]": {
+      "3": "L1 button",
+      "5": "L1 button",
+      "20": "L1 is the default setting.",
+      "50": "This is called L1.",
+      "100": "L.1.1."
+    },
+    "[C2TAXJU]": {
+      "3": "Bottom button",
+      "5": "bottom button",
+      "20": "The button is below.",
+      "50": "Click on this icon.",
+      "100": "and tools."
+    },
+    "[C3TAXJU]": {
+      "3": "Hold the analog",
+      "5": "analog glue",
+      "20": "Analog stepped forward",
+      "50": "Don't worry",
+      "100": "The championship title should be changed."
+    },
+    "[TAX_JUM]": {
+      "3": "Use when running to activate Boost Jump.",
+      "5": "Use it while driving to a power jump.",
+      "20": "Enable jump while running.",
+      "50": "Use while driving.",
+      "100": "Tax assessment."
+    },
+    "[EMPI_TR]": {
+      "3": "Use to trigger empire quests and gain respect for this type of business.",
+      "5": "Use it to burn royal missions and honor similar work.",
+      "20": "Use it to build an empire and gain respect in the industry.",
+      "50": "Use this opportunity to spread God's words of wisdom to your community.",
+      "100": "This is hard."
+    },
+    "[H_BINO0]": {
+      "3": "Hold it up to look through the binoculars.",
+      "5": "Look through the telescope.",
+      "20": "Click on it to view through the binoculars.",
+      "50": "He stood up and looked in the mirror.",
+      "100": "A glass of wine."
+    },
+    "[RE_WEPE]": {
+      "3": "You have no weapons to fight with.",
+      "5": "There is no support weapon.",
+      "20": "No weapon to trust.",
+      "50": "No one does well.",
+      "100": "This does not help at all."
+    },
+    "[FER_STO]": {
+      "3": "Stop the Ferris Wheel.",
+      "5": "Wait until the iron wheel closes.",
+      "20": "Wait for the ferris wheel to stop.",
+      "50": "Wait for the wheels to roll.",
+      "100": "Keep your legs straight."
+    },
+    "[MPUNLK]": {
+      "3": "Be the talk of the town with the new multiplayer content you unlock!",
+      "5": "Be the talk of the town with the newly unlocked player content.",
+      "20": "This question is on the agenda to unlock content for many new players.",
+      "50": "I loved your post!",
+      "100": "This news spread throughout the city and many people heard it."
+    },
+    "[MPUNLKA]": {
+      "3": "Everyone wants to know you because you have so many different content open!",
+      "5": "Now everyone wants to know that you have unlocked all the content in the player.",
+      "20": "Once you open up all the multilingual content, everyone will want to know you.",
+      "50": "Hire more people. Everyone wants to meet you!",
+      "100": "Everyone knows it because it is a great resource."
+    },
+    "[HUNDCOM]": {
+      "3": "You made it 100%! Now you can watch movies in the Clymans Suite!",
+      "5": "You get 100%. You can now watch movies in the Clement Suite.",
+      "20": "You are 100% successful. Now you can watch the movie as Clymanus.",
+      "50": "You are 100% correct! Now you can get the Creminios dress!",
+      "100": "It was 100% successful and you can watch Clement Park videos now."
+    },
+    "[MOCINST]": {
+      "3": "Use to scroll through movies.   to look   go away",
+      "5": "Use it to start the movie.   Look.   wait",
+      "20": "It gives you the opportunity to look.   We will see",
+      "50": "The book itself is based on the film.",
+      "100": "It would be nice to change the screen with a button."
+    },
+    "[GS_B4]": {
+      "3": "Video memories 1",
+      "5": "Save the video 1",
+      "20": "Video memory 1. Video memory",
+      "50": "See point 1 for more information.",
+      "100": "Watch the video below."
+    },
+    "[GS_LO]": {
+      "3": "Video memories 11",
+      "5": "11 Movie Archive",
+      "20": "See note 11",
+      "50": "Look at the art.",
+      "100": "Don't forget the pictures"
+    },
+    "[GS_HI]": {
+      "3": "Video memories 111",
+      "5": "111 movie memories",
+      "20": "111 video articles",
+      "50": "Read the news.",
+      "100": "111 people live there."
+    },
+    "[CS_INT]": {
+      "3": "Introduction",
+      "5": "Introduction",
+      "20": "First of all",
+      "50": "This is one thing;",
+      "100": "surprising"
+    },
+    "[CS_MID]": {
+      "3": "Midtro",
+      "5": "medium",
+      "20": "this in between.",
+      "50": "DC",
+      "100": "Small children"
+    },
+    "[CS_OUT]": {
+      "3": "Outside",
+      "5": "Outro",
+      "20": "If you leave the group.",
+      "50": "This is different.",
+      "100": "Mission accomplished."
+    },
+    "[H_CAN]": {
+      "3": "Press at any time to cancel the process",
+      "5": "Press it at any time to cancel the job.",
+      "20": "Always click to delete the project.",
+      "50": "Kiliki e fa'leunga is tautua i so'o se taimi.",
+      "100": "You can do so at any time by clicking the button below."
+    },
+    "[RE_VE7]": {
+      "3": "की हमरा बुलेट प्रॉव वेंटोसो चर्बाबा लेल 2500 डेबाक चाही?   Going to buy",
+      "5": "Paying $2,500 for Ventoso bulletproof?   To get out of it.",
+      "20": "$2,500 bullet Ventoso?   Buy goods abroad.",
+      "50": "Spending $200 on car insurance?   I am not a customer.",
+      "100": "Would you spend $2,500 on a bulletproof vest? Khmer Dan and his car."
+    },
+    "[RE_VE7N]": {
+      "3": "bullet proof ventoso ক্র্ব্বা ল্ল অগান কায 2500 ক্র্র ক্র্যাত",
+      "5": "You need $2,500 to buy a Ventoso bullet.",
+      "20": "Bulletproof air conditioners cost $2.50.",
+      "50": "Full lunch $2",
+      "100": "Steam ball $2,500."
+    },
+    "[RE_VE8]": {
+      "3": "Spending $4,500 on Skis?   Purchase to withdraw",
+      "5": "Pay $4500 to buy a skimmer?   to buy.   go out",
+      "20": "Would you pay the seller $4,500?   Buy it.",
+      "50": "Has anyone paid 200 yuan for a scam?   Learn anytime, anywhere",
+      "100": "Passengers pay up to 4,500 yuan."
+    },
+    "[RE_VE8N]": {
+      "3": "$4,500 is needed to purchase a jumpstarter.",
+      "5": "You need $4500 to buy a Skimmer.",
+      "20": "This tractor cost $4,500 to purchase.",
+      "50": "The price is 4500 euros.",
+      "100": "It weighs 4,500 pounds."
+    },
+    "[RE_VE9]": {
+      "3": "Spending $4,000 on Scallo?   Purchase to withdraw",
+      "5": "Would you pay $4000 to own Squallo?   to buy.   go out",
+      "20": "Did you pay $4,000 for a Squalo?   Buy it.",
+      "50": "Would you spend $200 on a storm?   Learn anytime, anywhere",
+      "100": "4000 yuan in cash?   I have to run"
+    },
+    "[RE_VE9N]": {
+      "3": "Squallo costs $4,000 to purchase.",
+      "5": "You need $4000 to buy Squallo.",
+      "20": "$4,000 to buy Squalo",
+      "50": "Squala costs $4,000 to purchase.",
+      "100": "Tuition: $4,000."
+    },
+    "[RE_VE10]": {
+      "3": "Spend $4,500 on a jet ski?   Purchase to withdraw",
+      "5": "Paying $4500 to own a JetSki?   to buy.   get out",
+      "20": "Would you pay $4,500 for a pair of shoes? Why? Buy it.",
+      "50": "Want to spend $200 on skis?   Learn anytime, anywhere",
+      "100": "4500 square feet? Oh, yes!"
+    },
+    "[RE_V10N]": {
+      "3": "You need $4500 to buy a JetSki.",
+      "5": "You need $4,500 to buy a jet.",
+      "20": "The purchase price of the jetski was $4,500.",
+      "50": "The bike was purchased for $250,000.",
+      "100": "He bought a boat for $1,000."
+    },
+    "[RE_VE11]": {
+      "3": "Would you pay $4500 to buy a Marquis?   to buy.   to leave",
+      "5": "Pay $4,500 to buy an awning?   Go out and buy",
+      "20": "Are you willing to pay $4,500 for a show?   Buy as soon as it comes out",
+      "50": "Would you pay $4,500 to move to the city?   me too",
+      "100": "Don't have an extra $200?   You can buy it online."
+    },
+    "[RE_V11N]": {
+      "3": "You need $4500 to buy a Marquis.",
+      "5": "You need $4,500 to buy the awning.",
+      "20": "The purchase price of the place is $4,500.",
+      "50": "Price: $4,500.",
+      "100": "Purchase price (4) d 8"
+    },
+    "[RE_VE12]": {
+      "3": "Would you pay $4000 to buy Sanchez a bulletproof vest?   to buy.   to leave",
+      "5": "Pay $4000 to buy an armored Sanchez?   Go out and buy",
+      "20": "Are you willing to pay $4,000 to get Sanchez?   Buy as soon as it comes out",
+      "50": "Worth $4,000?   me too",
+      "100": "$4,000 for a gun?   You can buy it online."
+    },
+    "[RE_V12N]": {
+      "3": "You need $4000 to buy Sanchez bullet proof.",
+      "5": "You need $4000 to buy Bulletproof Sanchez.",
+      "20": "Sanchez's gun cost $4,000.",
+      "50": "A house was bought for $4,000.",
+      "100": "Sanchez wanted $4,000 for the gun."
+    },
+    "[C0PDLOO]": {
+      "3": "Vertical analog baton",
+      "5": "right analog stick one",
+      "20": "Very nice guide",
+      "50": "This is a real value comparison.",
+      "100": "I can't believe it"
+    },
+    "[C1PDLOO]": {
+      "3": "Vertical analog baton",
+      "5": "right analog stick one",
+      "20": "Very nice guide",
+      "50": "This is a real value comparison.",
+      "100": "I can't believe it"
+    },
+    "[C2PDLOO]": {
+      "3": "Vertical analog baton",
+      "5": "right analog stick one",
+      "20": "Very nice guide",
+      "50": "This is a real value comparison.",
+      "100": "I can't believe it"
+    },
+    "[C3PDLOO]": {
+      "3": "Vertical analog baton",
+      "5": "right analog stick one",
+      "20": "Very nice guide",
+      "50": "This is a real value comparison.",
+      "100": "I can't believe it"
+    },
+    "[C0AMMOV]": {
+      "3": "Left analog bag or directional knob",
+      "5": "Left analog stick or arrow keys",
+      "20": "Left simulator or router",
+      "50": "Left thumb or shoulder.",
+      "100": "On the right side there is an option to confirm or review."
     }
   }
 }
