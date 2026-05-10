@@ -14078,6 +14078,2176 @@
       "20": "Bag of the car",
       "50": "International trains",
       "100": "There are no blankets on the bed."
+    },
+    "[MPRET]": {
+      "3": "The car has been returned",
+      "5": "The car was returned",
+      "20": "The vehicle has been returned.",
+      "50": "There was a traffic accident.",
+      "100": "The car arrives"
+    },
+    "[MPCAP]": {
+      "3": "car ride",
+      "5": "The vehicle was impounded",
+      "20": "The car was in an accident.",
+      "50": "They were chasing the car.",
+      "100": "My car was stolen."
+    },
+    "[MPSTOLE]": {
+      "3": "stolen car",
+      "5": "The car was stolen",
+      "20": "The car was stolen",
+      "50": "Autobet gives you",
+      "100": "My car was stolen."
+    },
+    "[MTN_2]": {
+      "3": "the blue team",
+      "5": "from the blue team",
+      "20": "Blue Team",
+      "50": "Known as the Blue Team",
+      "100": "This is the Green Party."
+    },
+    "[MTN_1]": {
+      "3": "the red team",
+      "5": "from the red team",
+      "20": "Red Team",
+      "50": "One of them was Shah Timur.",
+      "100": "This area is called red."
+    },
+    "[GS_TEMS]": {
+      "3": "IT IS A TEAM GAME",
+      "5": "PLAY TOGETHER",
+      "20": "a sports team",
+      "50": "In a group of",
+      "100": "Communication facilities"
+    },
+    "[MP_GNG1]": {
+      "3": "Team 1 is:",
+      "5": "First meeting:",
+      "20": "Group 1:",
+      "50": "First class: 1.1.",
+      "100": "First series: April"
+    },
+    "[MP_GNG2]": {
+      "3": "Team 2 is:",
+      "5": "join two:",
+      "20": "Group 2:",
+      "50": "Section 2 of the Act;",
+      "100": "In other words;"
+    },
+    "[GNG1]": {
+      "3": "NOTHING AT ALL",
+      "5": "CHOLO",
+      "20": "let's go",
+      "50": "It is different from other places.",
+      "100": "For more details:"
+    },
+    "[GNG2]": {
+      "3": "PARTY GROUP SUPPLIES",
+      "5": "WIND lane",
+      "20": "Marti's team",
+      "50": "Sports clubs",
+      "100": "Afternoon pencil"
+    },
+    "[GNG3]": {
+      "3": "GANG VANS 1",
+      "5": "Vance Gall 1",
+      "20": "1 Once Road Gang",
+      "50": "Across the Wangxi River",
+      "100": "Couple."
+    },
+    "[GNG4]": {
+      "3": "THE VANCE GANG 2",
+      "5": "VANCE Floor 2",
+      "20": "From the gang law",
+      "50": "There are no details.",
+      "100": "It has two parts."
+    },
+    "[GNG5]": {
+      "3": "Stallions",
+      "5": "About STALLIONZ",
+      "20": "Gymnasium floors",
+      "50": "There",
+      "100": "Yes, that's true."
+    },
+    "[GNG6]": {
+      "3": "THE DIAZ GANG",
+      "5": "Diaz's words",
+      "20": "10 lessons",
+      "50": "Dig Bail Ups LLC.",
+      "100": "I:"
+    },
+    "[GNG7]": {
+      "3": "MENDEZ ganga",
+      "5": "MENDZ GROUP",
+      "20": "in the city of Mendez",
+      "50": "Mendes Johnny LLC.",
+      "100": "Market segmentation"
+    },
+    "[GS_MODE]": {
+      "3": "Game Type:",
+      "5": "Game type:",
+      "20": "Game Type:",
+      "50": "Game features",
+      "100": "Game Features: 1.1."
+    },
+    "[MPNEED]": {
+      "3": "demand",
+      "5": "feel yourself",
+      "20": "the program",
+      "50": "Until the age of majority",
+      "100": "This is a very important thing."
+    },
+    "[MPOBJ]": {
+      "3": "goal",
+      "5": "the reason",
+      "20": "The Project Project",
+      "50": "What function is this?",
+      "100": "there is a story"
+    },
+    "[GS_TO1]": {
+      "3": "Kill the rival gang!",
+      "5": "Destroy the opposing team!",
+      "20": "Kill your opponents!",
+      "50": "Go to the station.",
+      "100": "The enemy has been defeated."
+    },
+    "[GS_O1]": {
+      "3": "Each to his own person! Kill other players!",
+      "5": "Every man for himself! Kill other players!",
+      "20": "Everyone alone! Kill the other players!",
+      "50": "And my body too! Kill a person while playing.",
+      "100": "We are all different! kill the player"
+    },
+    "[GS_O2]": {
+      "3": "Run through the barriers to be the first to reach the finish line.",
+      "5": "Race through checkpoints to reach the finish line.",
+      "20": "Open the checkpoint first to reach the location.",
+      "50": "Choose the first path and go there.",
+      "100": "Shoes are street shoes."
+    },
+    "[GS_OD3]": {
+      "3": "Protect your vehicle from attackers entering your base.",
+      "5": "Protect your vehicle from future attackers.",
+      "20": "Protect big cars from future attacks.",
+      "50": "Protect your valuables from thieves.",
+      "100": "Online bookstores."
+    },
+    "[GS_OA3]": {
+      "3": "Destroy the vehicles in the base of the rival gang.",
+      "5": "Destroy cars based on rival teams.",
+      "20": "Destroy enemy planted equipment.",
+      "50": "Destroy enemy vehicles.",
+      "100": "Some cars were damaged."
+    },
+    "[GS_O4]": {
+      "3": "Steal your rival gang's car, bring it back to your base and protect your gang's car.",
+      "5": "Steal the enemy team's car, return it to the base and protect the team's car.",
+      "20": "Steal the enemy's car, return to the parking lot and park your team's car.",
+      "50": "Drive the police car safely to the police station.",
+      "100": "Destroy the enemy car, get out and enter the house."
+    },
+    "[GS_O5]": {
+      "3": "Survive the longest in the tank to win. Hit a tank to steal it from another player.",
+      "5": "Stay in the tank for the longest time to win. Destroy tanks to steal from other players.",
+      "20": "Stay on the field to win and live as long as possible. Destroy boxes and steal from other players.",
+      "50": "Do not stay in the pool for too long. Uncover and steal other players' metals.",
+      "100": "Collect 10 packs. Close the drawer and steal items from other players."
+    },
+    "[GS_O6]": {
+      "3": "Kill the marked player quickly. But if you are 'Mark', survive as long as you can.",
+      "5": "Kill 'marked' players quickly. However, if you 'mark' you can survive as long as possible.",
+      "20": "Quickly kill \"branded\" players. But if you are a \"symbol\", live as long as you can.",
+      "50": "This allows group effects to be quickly negated, but if they are \"printed\" they should be robust.",
+      "100": "This will help players progress faster and hopefully everything will run smoothly."
+    },
+    "[GS_O7]": {
+      "3": "Collect cars scattered in the city and transport them to different places.",
+      "5": "Collect cars scattered around the city and send them to different locations.",
+      "20": "Collect cars scattered around the city and transport them to different locations.",
+      "50": "Collect the cars scattered around the city and place them in different places.",
+      "100": "Collect cars scattered throughout the city."
+    },
+    "[GS_O8]": {
+      "3": "Kill other players while flying Hunter. Destroy the hunter when another player wakes up.",
+      "5": "Kill other players while the Hunter is flying. Destroy the hunter while the other player is flying.",
+      "20": "When the fighter returns, kill another player. If another player controls it, the battle is lost.",
+      "50": "The character kills other players. If the player has a hunter, shoot him.",
+      "100": "running people When the player works as a farmer."
+    },
+    "[GS_O9]": {
+      "3": "Destroy the empire of your opponents by dropping bombs on their buildings.",
+      "5": "Destroy your opponent's empire by placing bombs on their buildings.",
+      "20": "Destroy the enemy government by bombing their buildings.",
+      "50": "Destroy enemy structures by dropping bombs on their territory.",
+      "100": "Use explosives to destroy enemy positions."
+    },
+    "[GS_1OD]": {
+      "3": "Protect the VIP.",
+      "5": "Protect the VIPs.",
+      "20": "VIP security.",
+      "50": "VIP and others",
+      "100": "VIP security available."
+    },
+    "[GS_1OV]": {
+      "3": "Stay alive and accomplish your goal before you leave.",
+      "5": "Stay alive and reach your goals before you leave.",
+      "20": "Survive and reach your goal before the chase",
+      "50": "Exit and complete the mission.",
+      "100": "Good luck with your first goal!"
+    },
+    "[GS_1OA]": {
+      "3": "Kill them before they attract the VIP.",
+      "5": "Kill the VIP before they leave.",
+      "20": "Kill the characters before they leave",
+      "50": "Upgrade to VIP level for the first time.",
+      "100": "Before the V.I.P. event"
+    },
+    "[GS_11]": {
+      "3": "Help_1",
+      "5": "Helper_1",
+      "20": "instruction_1",
+      "50": "Help_1 is one",
+      "100": "contact_1:"
+    },
+    "[GS_12]": {
+      "3": "Help_1",
+      "5": "Helper_1",
+      "20": "instruction_1",
+      "50": "Help_1 is one",
+      "100": "contact_1:"
+    },
+    "[MPLEG]": {
+      "3": "Legend of the",
+      "5": "The legend of",
+      "20": "A legend",
+      "50": "during the day",
+      "100": "Which framework is it?"
+    },
+    "[MPI01]": {
+      "3": "turn on",
+      "5": "Turn on the power",
+      "20": "support",
+      "50": "ability to work",
+      "100": "Get it and try it out."
+    },
+    "[MPI02]": {
+      "3": "health",
+      "5": "health",
+      "20": "the health",
+      "50": "it is very beautiful",
+      "100": "health care"
+    },
+    "[MPI03]": {
+      "3": "weapons",
+      "5": "armor",
+      "20": "the thoughts",
+      "50": "This is tissue damage.",
+      "100": "Weapons of destruction."
+    },
+    "[MPI04]": {
+      "3": "weapons",
+      "5": "Weapons",
+      "20": "weapons",
+      "50": "This is tissue damage.",
+      "100": "Weapons of destruction."
+    },
+    "[MPI05]": {
+      "3": "the enemy",
+      "5": "the enemy",
+      "20": "the enemy",
+      "50": "absolutely",
+      "100": "the enemies of"
+    },
+    "[MPI06]": {
+      "3": "A friend",
+      "5": "Tianpa is the name",
+      "20": "a friend",
+      "50": "It looks like a desert.",
+      "100": "Slavery and War."
+    },
+    "[MPI07]": {
+      "3": "Brand name",
+      "5": "It's a brand",
+      "20": "The sign of the cross",
+      "50": "business letter",
+      "100": "Here is an example."
+    },
+    "[MPI08]": {
+      "3": "The next sign",
+      "5": "The next character",
+      "20": "Other links",
+      "50": "the next step.",
+      "100": "Children grow up."
+    },
+    "[MPI09]": {
+      "3": "The last line",
+      "5": "The last line",
+      "20": "How to delete",
+      "50": "to the end",
+      "100": "what is this"
+    },
+    "[MPI10]": {
+      "3": "A runner",
+      "5": "He is a runner",
+      "20": "From competition",
+      "50": "Do the exercises",
+      "100": "It's hard to do."
+    },
+    "[MPI11]": {
+      "3": "Basic",
+      "5": "It's original.",
+      "20": "Just depends",
+      "50": "The basics are explained",
+      "100": "Your arrow is there."
+    },
+    "[MPI12]": {
+      "3": "Enemy base",
+      "5": "Enemy base",
+      "20": "The main enemy",
+      "50": "The enemy has embraced religion",
+      "100": "This is the enemy city."
+    },
+    "[MPI13]": {
+      "3": "Tank",
+      "5": "known as a tank",
+      "20": "The application is a confidentiality agreement.",
+      "50": "His name is Balihar.",
+      "100": "His wife stood behind him."
+    },
+    "[MPI14]": {
+      "3": "Marc",
+      "5": "It is known as a symbol",
+      "20": "Mark will take care of it",
+      "50": "It is called an ontology",
+      "100": "Here are some examples:"
+    },
+    "[MPI15]": {
+      "3": "Car",
+      "5": "It's a car.",
+      "20": "It's a car",
+      "50": "or any car",
+      "100": "This is a car"
+    },
+    "[MPI16]": {
+      "3": "Lock space",
+      "5": "It was a lock.",
+      "20": "I will stay in prison",
+      "50": "All was silent.",
+      "100": "The video is finished."
+    },
+    "[MPI17]": {
+      "3": "the hunter",
+      "5": "Hunter is one of them.",
+      "20": "A hunter.",
+      "50": "I am a farmer.",
+      "100": "as you can imagine"
+    },
+    "[MPI18]": {
+      "3": "VIP",
+      "5": "VIP",
+      "20": "VIP",
+      "50": "V.I.P",
+      "100": "For VIP"
+    },
+    "[MP_SNEW]": {
+      "3": "Please install or start a new single player or multiplayer game",
+      "5": "Load or start a new single or multiplayer game.",
+      "20": "Install or start a new single-player or multiplayer game",
+      "50": "Start and stop the player and return.",
+      "100": "Download and play one or more games."
+    },
+    "[NOWIFI2]": {
+      "3": "A network error has occurred. WLAN switch off. Please turn on the Wi-Fi for multiplayer games.",
+      "5": "A network error has occurred. The WLAN switch is disabled. Turn on the WLAN switch to enable multiplayer games.",
+      "20": "VLAN Network Error Disabled Players can play on VLAN links",
+      "50": "The results are amazing. Wireless LAN not working. To do this, open Wi-Fi.",
+      "100": "Use popular tools to connect to Wi-Fi"
+    },
+    "[MPWLPAC]": {
+      "3": "He took the car",
+      "5": "I got the car.",
+      "20": "He bought a car.",
+      "50": "I was in the car.",
+      "100": "From the car."
+    },
+    "[MP_MICM]": {
+      "3": "Your nickname contains unsupported characters. These characters are denoted as €",
+      "5": "Username contains unsupported characters. these characters are expressed as €",
+      "20": "Your last name contains unsupported characters. This letter looks like €.",
+      "50": "The name contains negative characters. This figure is expressed in euros.",
+      "100": "This symbol does not correspond to the European name."
+    },
+    "[MPWLDAC]": {
+      "3": "He took the car",
+      "5": "I got the car",
+      "20": "he is driving",
+      "50": "They took the car",
+      "100": "The car broke down."
+    },
+    "[MPCASH]": {
+      "3": "The amount of the tax",
+      "5": "money",
+      "20": "Get all the money.",
+      "50": "Small size",
+      "100": "Someone has to do it."
+    },
+    "[MPCARS]": {
+      "3": "Vehicles",
+      "5": "moving",
+      "20": "Blood came out.",
+      "50": "Dr. Inc.",
+      "100": "Take it."
+    },
+    "[MPTNEED]": {
+      "3": "Mihia",
+      "5": "necessary",
+      "20": "Seven!",
+      "50": "Attitude",
+      "100": "There is information."
+    },
+    "[MPKLMTL]": {
+      "3": "The limit is dead",
+      "5": "dead end",
+      "20": "Establish a boundaries.",
+      "50": "Reduce productivity.",
+      "100": "That's how it goes."
+    },
+    "[MRACE13]": {
+      "3": "seconds for the car!",
+      "5": "Find your vehicle in seconds!",
+      "20": "Learn the second lesson.",
+      "50": "The car will arrive in a few minutes.",
+      "100": "Seconds later, a car arrived."
+    },
+    "[MRACE14]": {
+      "3": "second to get a car!",
+      "5": "Next time, look for a car!",
+      "20": "Second, get a car.",
+      "50": "Buy another car.",
+      "100": "give me a chance"
+    },
+    "[GS_D8]": {
+      "3": "CAN GO THE HUNTER AND GO BALLISTIC.",
+      "5": "It runs towards the hunter and attacks fiercely.",
+      "20": "Hop aboard the Hunter and sail to the Baltic Sea.",
+      "50": "ball game",
+      "100": "let's swing."
+    },
+    "[GS_D9]": {
+      "3": "Bomb the base!",
+      "5": "Blow up the base!",
+      "20": "A loud explosion!",
+      "50": "It's a great group",
+      "100": "It's a very simple process."
+    },
+    "[GS_D10]": {
+      "3": "Protect or destroy the VIP",
+      "5": "Protect or destroy VIPs.",
+      "20": "Stop by or make a VIP reservation",
+      "50": "VIP management and security",
+      "100": "VIP service?"
+    },
+    "[GS_G4]": {
+      "3": "TAKEN to drive",
+      "5": "A LIST WORTH SAVING.",
+      "20": "Changes",
+      "50": "He lives.",
+      "100": "I sat down"
+    },
+    "[GS_G8]": {
+      "3": "The power of the hunter",
+      "5": "THE POWER OF THE HUNTER.",
+      "20": "Foreign soldiers",
+      "50": "in this picture",
+      "100": "He stole."
+    },
+    "[GS_G9]": {
+      "3": "The Empire was TAKEN",
+      "5": "EPIR IS.",
+      "20": "The government has failed",
+      "50": "The government won",
+      "100": "It was built by the government."
+    },
+    "[GS_G10]": {
+      "3": "rip off vip",
+      "5": "VIP RIP",
+      "20": "VIP staff",
+      "50": "VIP delivery available.",
+      "100": "Enjoy Shanti Lok VIP!"
+    },
+    "[MRTYPEN]": {
+      "3": "big",
+      "5": "common",
+      "20": "it is so",
+      "50": "just me.",
+      "100": "Money to buy shares."
+    },
+    "[MRTYPEI]": {
+      "3": "quadruple",
+      "5": "Quadrathlon",
+      "20": "They are four",
+      "50": "This is a snow valley.",
+      "100": "He has a driver's license."
+    },
+    "[MRTYPEJ]": {
+      "3": "jet ski",
+      "5": "JET SKI",
+      "20": "The plane",
+      "50": "He wrote the Vedas.",
+      "100": "There is also a water park."
+    },
+    "[MPVARI]": {
+      "3": "sky",
+      "5": "otherwise",
+      "20": "Otherwise it is",
+      "50": "children and",
+      "100": "Morality."
+    },
+    "[MPVIP1]": {
+      "3": "You are a VIP. Collect small tasks",
+      "5": "You are a VIP. Collect this short case",
+      "20": "You're a VIP, bring your diary.",
+      "50": "You are a member of the VIP group.",
+      "100": "VIP from the church."
+    },
+    "[MPVIP2]": {
+      "3": "Protect your VIPs",
+      "5": "It is VIP security",
+      "20": "Save your VIP.",
+      "50": "Treat yourself like a VIP",
+      "100": "VIPs are limited."
+    },
+    "[MPVIP3]": {
+      "3": "kill the VIP",
+      "5": "Kill the VIP",
+      "20": "Click the \"VIP\" button.",
+      "50": "Kill the VIP",
+      "100": "VIP members welcome."
+    },
+    "[MPVIP4]": {
+      "3": "Your portfolio is full.",
+      "5": "The briefcase was folded",
+      "20": "will be added",
+      "50": "closed",
+      "100": "he said cheerfully."
+    },
+    "[MPVIP5]": {
+      "3": "All your cases are ready, now let's run them.",
+      "5": "The case has been decided, now run away.",
+      "20": "The only problem is you. Play now.",
+      "50": "Do this when you have all the information",
+      "100": "Everything is fixed."
+    },
+    "[MPVIP6]": {
+      "3": "Run, stop!",
+      "5": "They are fast, stop them!",
+      "20": "Stop running away!",
+      "50": "You know me!",
+      "100": "This is a gift from Santa Claus."
+    },
+    "[GNG0]": {
+      "3": "LOS CABRONES",
+      "5": "the goats",
+      "20": "He has a goat.",
+      "50": "That's good",
+      "100": "Capron is a good example."
+    },
+    "[GS_1O]": {
+      "3": "Kill or protect the VIP - depending on which group you belong to.",
+      "5": "Kill or protect VIPs - depends on the gang you're in.",
+      "20": "Kill or Save VIP - It depends on the group you join.",
+      "50": "Teams are responsible for killing or rescuing characters.",
+      "100": "Attack or defend depending on your side."
+    },
+    "[MPC_001]": {
+      "3": "Vic",
+      "5": "Vic",
+      "20": "About the wig",
+      "50": "wake up",
+      "100": "He did it for her."
+    },
+    "[MPC_002]": {
+      "3": "Pimp Dawg",
+      "5": "Broker Doug smiled",
+      "20": "BIMDA may decide.",
+      "50": "sleep tomorrow",
+      "100": "On the beach"
+    },
+    "[MPC_003]": {
+      "3": "'Vince' gave it.",
+      "5": "\"Vince\"",
+      "20": "What does \"winning\" mean?",
+      "50": "Just \"win\".",
+      "100": "\"but\"."
+    },
+    "[MPC_004]": {
+      "3": "Goodbye world",
+      "5": "Vida Lock",
+      "20": "People say goodbye",
+      "50": "People around the world",
+      "100": "This is not true."
+    },
+    "[MPC_005]": {
+      "3": "Victor gave the",
+      "5": "Victor",
+      "20": "Victor is known as",
+      "50": "You are the winner.",
+      "100": "Everything will be fine."
+    },
+    "[MPC_006]": {
+      "3": "Tracks",
+      "5": "truck",
+      "20": "The song is described",
+      "50": "Join the market.",
+      "100": "His name is Max."
+    },
+    "[MPC_007]": {
+      "3": "The hood",
+      "5": "Raise",
+      "20": "There is a hat",
+      "50": "this man",
+      "100": "The sound of a car was heard."
+    },
+    "[MPC_008]": {
+      "3": "Muscles",
+      "5": "muscles",
+      "20": "the meat",
+      "50": "The original has been removed",
+      "100": "I don't know what to do"
+    },
+    "[MPC_009]": {
+      "3": "Repo",
+      "5": "Repo",
+      "20": "For viewing purposes",
+      "50": "Name of the packager",
+      "100": "Human disease"
+    },
+    "[MPC_010]": {
+      "3": "A smuggler",
+      "5": "smugglers",
+      "20": "Afraid that",
+      "50": "Trade in animals",
+      "100": "A customer has arrived"
+    },
+    "[MPC_011]": {
+      "3": "L'Homme",
+      "5": "L'Homme",
+      "20": "This is the face",
+      "50": "It's called Al Jazeera.",
+      "100": "They live in their own house."
+    },
+    "[MPC_013]": {
+      "3": "Wetz",
+      "5": "moist",
+      "20": "darkness",
+      "50": "Who is one of them?",
+      "100": "Be careful when using this medicine"
+    },
+    "[MPC_014]": {
+      "3": "T.J. The surgeon",
+      "5": "T.J. Sugar",
+      "20": "T. J. Tuker B.",
+      "50": "Tianjin Football Association.",
+      "100": "The 3G ball"
+    },
+    "[MPC_015]": {
+      "3": "The technical expert",
+      "5": "Specialist",
+      "20": "According to experts",
+      "50": "health worker",
+      "100": "It’s a sad thing"
+    },
+    "[MPC_016]": {
+      "3": "An agent of inspiration",
+      "5": "Conflict Leader Agent",
+      "20": "secret agent rehegua",
+      "50": "a secret friend",
+      "100": "He deserves to be set free."
+    },
+    "[MPC_017]": {
+      "3": "Cam O'Flarge, you say",
+      "5": "Cam O'Flarz, Secretary",
+      "20": "Is it so extreme?",
+      "50": "Runner, Kim",
+      "100": "Kim Lu is a good example"
+    },
+    "[MPC_018]": {
+      "3": "The paramedic - lose that one",
+      "5": "Paramedics - lose it",
+      "20": "Onomi - Mboyge",
+      "50": "But this did not happen. This is the real truth.",
+      "100": "Doctor: No, I don't."
+    },
+    "[MPC_019]": {
+      "3": "Jose",
+      "5": "Jose gave it",
+      "20": "Joseph gave.",
+      "50": "Josiah brought with him",
+      "100": "The story of Joseph"
+    },
+    "[MPC_022]": {
+      "3": "Gloria - lost it",
+      "5": "Glory - I miss this",
+      "20": "Gloria: Hello.",
+      "50": "Gloria: Congratulations",
+      "100": "My heart started pounding."
+    },
+    "[MPC_023]": {
+      "3": "Seth - lose this one",
+      "5": "Woman: Lose it",
+      "20": "Woman: Especially.",
+      "50": "The girl disappeared",
+      "100": "Ladies, be careful"
+    },
+    "[MPC_024]": {
+      "3": "Block 1 - Lose this",
+      "5": "Type 1 - Lose it",
+      "20": "No block 1.",
+      "50": "1 - Eyes",
+      "100": "Christmas 1 - Christmas"
+    },
+    "[MPC_025]": {
+      "3": "Block 2 - Lose this",
+      "5": "Type 2 - Don't miss this one",
+      "20": "Block 2 - No.",
+      "50": "This is a second person game",
+      "100": "This is not true."
+    },
+    "[MPC_026]": {
+      "3": "A woman is lost",
+      "5": "Female - Play This",
+      "20": "Girl - you are bored.",
+      "50": "Woman - No, I don't think so.",
+      "100": "Brothers and sisters"
+    },
+    "[MPC_027]": {
+      "3": "A woman is lost",
+      "5": "Female - Play This",
+      "20": "Girl - you are bored.",
+      "50": "Woman - No, I don't think so.",
+      "100": "Brothers and sisters"
+    },
+    "[MPC_028]": {
+      "3": "Block 3 is to lose it",
+      "5": "Block 3 - Play This",
+      "20": "The third phase is war.",
+      "50": "Step 3 - Uninstall the app.",
+      "100": "The third step. It's wonderful."
+    },
+    "[MPC_029]": {
+      "3": "Block 4 is to lose it",
+      "5": "Block 4 - Play This",
+      "20": "Step 4 Attack.",
+      "50": "Part 4 - Out of the way",
+      "100": "Lesson 4: The End"
+    },
+    "[MPC_030]": {
+      "3": "Lady Tess",
+      "5": "Tess Tickle",
+      "20": "Tessa's sister",
+      "50": "Tess did a great job.",
+      "100": "This is a test subject."
+    },
+    "[MPC_032]": {
+      "3": "Harry Balzac",
+      "5": "Written by Harry Balzac",
+      "20": "This was the final result for Harry Balzac",
+      "50": "Harry Balzac was the latter.",
+      "100": "Balzac himself."
+    },
+    "[MPC_033]": {
+      "3": "Beach Boy: This is a loser",
+      "5": "Beach Man - Don't miss this one",
+      "20": "Beach Girl - I miss you",
+      "50": "Beach Man: Thank you.",
+      "100": "Don’t miss the game!"
+    },
+    "[MPC_034]": {
+      "3": "Woman: Lose it",
+      "5": "Women - you bepa no",
+      "20": "Woman: You are a liar.",
+      "50": "One of them is a woman.",
+      "100": "the face of a woman"
+    },
+    "[MPC_035]": {
+      "3": "Litigation e. of Chiddle",
+      "5": "Sue E. Sydney",
+      "20": "Sue Sydal, Sue Sydal and D. McCarthy",
+      "50": "Sue E. Seidel, Sue E. Seidel & McCarthy Attorneys.",
+      "100": "This is a fact of life. This is a fact of life."
+    },
+    "[MPC_037]": {
+      "3": "Jenny Tals",
+      "5": "Jenny Tools",
+      "20": "Jenny Tulsa Jenny Tulsa",
+      "50": "Out of frustration.",
+      "100": "Children of Shadani Santi and Jenny Isso."
+    },
+    "[MPC_038]": {
+      "3": "Anita's bathroom",
+      "5": "Anita Butt is the person",
+      "20": "Anita Bucknik",
+      "50": "Anita smiled.",
+      "100": "Anita in the bathroom"
+    },
+    "[MPC_039]": {
+      "3": "Daryl Lect",
+      "5": "It's Darrell Lake",
+      "20": "Daryl Legg",
+      "50": "About Daryl Roach",
+      "100": "But Darryl Ryder took a different approach."
+    },
+    "[MPC_040]": {
+      "3": "Worker - destroy him",
+      "5": "Staff - that's a loser",
+      "20": "Clerk: I miss you.",
+      "50": "Loss of employment",
+      "100": "The magic of feet"
+    },
+    "[MPC_041]": {
+      "3": "Cabbie - to lose",
+      "5": "Chili - lose this",
+      "20": "Taxi - works normally",
+      "50": "Danger: Damage.",
+      "100": "Director: No, I don't"
+    },
+    "[MPC_042]": {
+      "3": "founder - destroy",
+      "5": "Construction guy - that loser.",
+      "20": "There's the murderer.",
+      "50": "Source: Uncommon.",
+      "100": "Be careful."
+    },
+    "[MPC_043]": {
+      "3": "Dwayne Deven, he said",
+      "5": "About Duane DeWayne",
+      "20": "The result is Dwayne Dwayne.",
+      "50": "Dwayne Dwayne is still active.",
+      "100": "Another winner"
+    },
+    "[MPC_046]": {
+      "3": "Abe journey",
+      "5": "About Abe Rudder",
+      "20": "like a steering wheel",
+      "50": "Bhas",
+      "100": "Her name is Abby Rader."
+    },
+    "[MPC_047]": {
+      "3": "Block 5 - Lose this one",
+      "5": "Block 5 - its absence",
+      "20": "Block 5 - subtraction",
+      "50": "Five good things",
+      "100": "September 5"
+    },
+    "[MPC_050]": {
+      "3": "Guy 6 - Are you losing it?",
+      "5": "Block 6 - Lost?",
+      "20": "Episode 6 - Did You Miss Me?",
+      "50": "Voice 6 - Forgot?",
+      "100": "Chapter 6 – Why?"
+    },
+    "[MPC_052]": {
+      "3": "Beach Guy: Lose this one",
+      "5": "Beach Boy - lost",
+      "20": "Children of the sea - don't miss it",
+      "50": "Beachboy is great.",
+      "100": "A small village near Hartgarh"
+    },
+    "[MPC_055]": {
+      "3": "Block 7 - Lose it",
+      "5": "Part 7 - Emombo",
+      "20": "Block 7 - Close",
+      "50": "Part 7 - Research",
+      "100": "Chapter 7 is forgotten."
+    },
+    "[MPC_058]": {
+      "3": "Abey Ajo",
+      "5": "About Abe Ozo",
+      "20": "My father is dead",
+      "50": "He is a great man",
+      "100": "The doctor refused."
+    },
+    "[MPC_059]": {
+      "3": "Mall dog",
+      "5": "Get away from Dawg",
+      "20": "Hey, Doug, okay.",
+      "50": "There are dogs and pigs",
+      "100": "they were very popular."
+    },
+    "[MPC_060]": {
+      "3": "Moe Lester",
+      "5": "Sleeping for Leicester",
+      "20": "About Mo Lister",
+      "50": "Lester please.",
+      "100": "I chose Leicester."
+    },
+    "[MPC_061]": {
+      "3": "Dylan Weed",
+      "5": "Dylan The Bad Guy",
+      "20": "Dylan is a criminal",
+      "50": "Dylan Gross answers",
+      "100": "Dylan's eyes lit up."
+    },
+    "[MPC_062]": {
+      "3": "Dee Tsim",
+      "5": "D generate",
+      "20": "Doing this job",
+      "50": "what are you doing",
+      "100": "I think so"
+    },
+    "[MPC_065]": {
+      "3": "Old Man - It's lost",
+      "5": "Old man, forget it",
+      "20": "Parents - I miss them.",
+      "50": "Not an old man.",
+      "100": "Think about the past."
+    },
+    "[MPC_066]": {
+      "3": "Pearl Necklace",
+      "5": "Pearl necklace",
+      "20": "Diamond necklace",
+      "50": "Hair and glasses",
+      "100": "Download Thanh Ngoc - The best of Thanh Ngoc."
+    },
+    "[MPC_067]": {
+      "3": "Woman - It disappears",
+      "5": "Woman - lose it",
+      "20": "Girl - I miss you.",
+      "50": "She is not a girl.",
+      "100": "He was confused."
+    },
+    "[MPC_068]": {
+      "3": "Hayden in Search",
+      "5": "Hayden is sick",
+      "20": "Hayden is fine",
+      "50": "Hayden is convicted.",
+      "100": "Hayden asked."
+    },
+    "[MPC_069]": {
+      "3": "Type 8 - Lose it",
+      "5": "Guy 8 - Lose this one",
+      "20": "Block 8 - Destroy.",
+      "50": "Chapter 8 Missing.",
+      "100": "Read that article"
+    },
+    "[MPC_070]": {
+      "3": "Stacey Regt",
+      "5": "Stacey Rhett",
+      "20": "Stacey is human.",
+      "50": "Written by Stacey Ricketts",
+      "100": "Director: Stacey Rich."
+    },
+    "[MPC_071]": {
+      "3": "Chris Paquette",
+      "5": "Chris's pack",
+      "20": "Chris too.",
+      "50": "Chris Peck, CEO;",
+      "100": "Chris stopped him."
+    },
+    "[MPC_072]": {
+      "3": "Emma Royds",
+      "5": "Emma Rhodes",
+      "20": "But this is an opinion.",
+      "50": "Immanuel has died.",
+      "100": "I am a B.Sc. student."
+    },
+    "[MPC_073]": {
+      "3": "Pops",
+      "5": "it will appear",
+      "20": "Sharks and stuff",
+      "50": "Explain the situation.",
+      "100": "the victim is abused"
+    },
+    "[MPC_074]": {
+      "3": "Friend of construction, lose this one",
+      "5": "The Builder - Lost",
+      "20": "Creator - remember me",
+      "50": "Company: Product",
+      "100": "Written by Amer. life"
+    },
+    "[MPC_075]": {
+      "3": "Golf Girl - Lose It",
+      "5": "Golf Wife - maybe.",
+      "20": "I played golf",
+      "50": "Golfer... people, stop it.",
+      "100": "Betty: This woman wasn’t killed."
+    },
+    "[MPC_076]": {
+      "3": "Golfer – Lose This One",
+      "5": "Golfer - It happens.",
+      "20": "Golfers remember him.",
+      "50": "Golf is a sport.",
+      "100": "Brother. I love you so much."
+    },
+    "[MPC_079]": {
+      "3": "Girl - lose it",
+      "5": "Woman - I miss you.",
+      "20": "Ladies, remember this",
+      "50": "Girl – I feel happy",
+      "100": "Hello there girls"
+    },
+    "[MPC_080]": {
+      "3": "Damn, man",
+      "5": "Boyd Scheidt",
+      "20": "Written by Boyd Shad.",
+      "50": "Enter: Save",
+      "100": "The author is Sid Boyd"
+    },
+    "[MPC_081]": {
+      "3": "Block 9 - miss him",
+      "5": "Block 9 - Lack of it",
+      "20": "Man 9 - Destroy him.",
+      "50": "Chapter 9 - Current Session",
+      "100": "Episode 9 was amazing."
+    },
+    "[MPC_082]": {
+      "3": "Played by Candy Beare",
+      "5": "Candy bar",
+      "20": "It's delicious.",
+      "50": "There are desserts",
+      "100": "It's very difficult."
+    },
+    "[MPC_083]": {
+      "3": "Lady Bomb - miss her",
+      "5": "A woman who does nothing - lost him",
+      "20": "Donna Boom is news.",
+      "50": "The color is blue",
+      "100": "A woman came out."
+    },
+    "[MPC_084]": {
+      "3": "Old Boom - lost it",
+      "5": "Old bum - it's gone",
+      "20": "Good for seniors - get them.",
+      "50": "Use it",
+      "100": "Father: No, I don't know."
+    },
+    "[MPC_085]": {
+      "3": "Des bratu",
+      "5": "D. Borat is not",
+      "20": "De Burato laughed out loud.",
+      "50": "This is the main point",
+      "100": "I had to do something."
+    },
+    "[MPC_086]": {
+      "3": "Block 10 - Lose this one",
+      "5": "Block 10 - Lose",
+      "20": "Level 10 - Missing.",
+      "50": "Section 10. Analysis",
+      "100": "It was reduced"
+    },
+    "[MPC_087]": {
+      "3": "Martha Focker",
+      "5": "Martha Fokker in action",
+      "20": "The same can be said of Martha's old man.",
+      "50": "Martha was playing poker",
+      "100": "Masha Valkova was born"
+    },
+    "[MPC_088]": {
+      "3": "Leo Trad",
+      "5": "Leo It's late",
+      "20": "Uncle Leo Tard.",
+      "50": "Written by Le Gudrun",
+      "100": "Current / University"
+    },
+    "[MPC_095]": {
+      "3": "Lee Wittout",
+      "5": "Lee Wittout presided",
+      "20": "Lee V. Tut, editor",
+      "50": "Le Trang lives here",
+      "100": "Doctor Hachem here"
+    },
+    "[MPC_097]": {
+      "3": "Joaquin Nof",
+      "5": "Joaquin Knopf",
+      "20": "Joaquin Knopf, editor.",
+      "50": "by Joaquin Knopp",
+      "100": "Author: Josiah Busta"
+    },
+    "[MPC_099]": {
+      "3": "Decwan DeMarco",
+      "5": "dejuan demarco",
+      "20": "The challenge of Mark",
+      "50": "DeMarco said:",
+      "100": "Tiguan DeMarco January 19"
+    },
+    "[MPC_101]": {
+      "3": "Kanye Cipher",
+      "5": "மம்ருவை ஬ாலை",
+      "20": "Connie said",
+      "50": "Connie was number one.",
+      "100": "Eastern Inc. and I am one of them."
+    },
+    "[MPC_103]": {
+      "3": "PVT. Parts",
+      "5": "PVT kfal",
+      "20": "Group P",
+      "50": "Body Hygiene Pvt.",
+      "100": "Being human is being human"
+    },
+    "[MPC_104]": {
+      "3": "PVT. Cities",
+      "5": "PVT Somewhere in the country",
+      "20": "P. Location",
+      "50": "People's money",
+      "100": "He also agreed"
+    },
+    "[MPC_105]": {
+      "3": "Tate Islands",
+      "5": "Tet",
+      "20": "Tips that will help you",
+      "50": "The Archbishop said:",
+      "100": "Boom Alsip, 1999;"
+    },
+    "[MPC_106]": {
+      "3": "Buster Nut",
+      "5": "Buster Nutt on the wall",
+      "20": "Author: Buster Nott",
+      "50": "you are the one",
+      "100": "This is a cake"
+    },
+    "[MPC_107]": {
+      "3": "Harris Mint",
+      "5": "Harris Mint",
+      "20": "Mintmaster Harris",
+      "50": "thank you very much",
+      "100": "And Dr. A.S. A. Morris M. 2010. about."
+    },
+    "[MPC_109]": {
+      "3": "troy",
+      "5": "Troy was doing it",
+      "20": "Written by Troy.",
+      "50": "T. H. Source: SSS",
+      "100": "trojan horse"
+    },
+    "[MPC_111]": {
+      "3": "Golfer - Lose it",
+      "5": "Golf: You must lose",
+      "20": "Golf: Paralyzed",
+      "50": "This is a golf course",
+      "100": "I want to play golf, dad."
+    },
+    "[MPC_112]": {
+      "3": "Golfer - Lose it",
+      "5": "Golf: You must lose",
+      "20": "Golf: Paralyzed",
+      "50": "This is a golf course",
+      "100": "Stop playing golf."
+    },
+    "[MPC_113]": {
+      "3": "Ron A. Mack",
+      "5": "Ronald A. Muck",
+      "20": "Ron A. Many things",
+      "50": "Ronald E. Pop",
+      "100": "This is a direct attack"
+    },
+    "[MPC_115]": {
+      "3": "Beau Noor's",
+      "5": "Beau Nur",
+      "20": "There is no light.",
+      "50": "This is understandable.",
+      "100": "explained"
+    },
+    "[MPC_117]": {
+      "3": "Fidel Cistaxez",
+      "5": "Sistax must",
+      "20": "Faithful brothers and sisters",
+      "50": "As a result, cysts appear.",
+      "100": "Fidel Castro is our president"
+    },
+    "[MPC_118]": {
+      "3": "Hugo Zehr",
+      "5": "Hugo Zehr",
+      "20": "said Hugo Seri",
+      "50": "Hugo did the same.",
+      "100": "Hugh Locke was eighteen years old"
+    },
+    "[MPC_119]": {
+      "3": "Juan Ovjem",
+      "5": "John Ovzem",
+      "20": "John Offham smiled",
+      "50": "Ozum Owen Ozum",
+      "100": "The wind is blowing hard"
+    },
+    "[MPC_121]": {
+      "3": "Representative Alman",
+      "5": "German worker.",
+      "20": "ambassador of Germany",
+      "50": "Ambassador of Germany",
+      "100": "Innervation of the August ventricle."
+    },
+    "[MPC_123]": {
+      "3": "Jailbreak officer",
+      "5": "Colonel Cracker.",
+      "20": "create something",
+      "50": "Service transport",
+      "100": "Business income"
+    },
+    "[MPC_124]": {
+      "3": "Officer's butt",
+      "5": "Home button.",
+      "20": "the policeman's lips",
+      "50": "A fan",
+      "100": "Comfortable shoes"
+    },
+    "[MPC_125]": {
+      "3": "Colin Allcars",
+      "5": "Written by Colin Olkers.",
+      "20": "Colin Olker, b.",
+      "50": "This is Colin Ark.",
+      "100": "Colin Akey, President."
+    },
+    "[MPC_126]": {
+      "3": "Alberto is a character",
+      "5": "Alberto's book.",
+      "20": "Alberto said",
+      "50": "Albert did.",
+      "100": "Alberto Eva surfs."
+    },
+    "[MPC_127]": {
+      "3": "Name Armando",
+      "5": "known as Armand",
+      "20": "Armaan is working.",
+      "50": "My name is Amanda",
+      "100": "Amen: Yes"
+    },
+    "[MPC_128]": {
+      "3": "Barry's book",
+      "5": "It's Barry",
+      "20": "They offer cigarettes.",
+      "50": "Books: All",
+      "100": "Everything is ready."
+    },
+    "[MPC_129]": {
+      "3": "Buger Bar - Have you thought about this?",
+      "5": "Bugger Bar - Did you miss this?",
+      "20": "Burgers - do you want one?",
+      "50": "Left to left - to go?",
+      "100": "Booger Bar - Do you like it?"
+    },
+    "[MPC_130]": {
+      "3": "Forbes book",
+      "5": "Forbes is the source",
+      "20": "Forbes magazine.",
+      "50": "Forbes and Forbes",
+      "100": "forbes"
+    },
+    "[MPC_133]": {
+      "3": "rush hour",
+      "5": "by Spitz",
+      "20": "Spitz says so.",
+      "50": "I'm telling you",
+      "100": "Please stop watching."
+    },
+    "[MPC_134]": {
+      "3": "Diaz",
+      "5": "Diaz",
+      "20": "Diaz wrote",
+      "50": "This is what I did",
+      "100": "Courage"
+    },
+    "[MPC_135]": {
+      "3": "Diego:",
+      "5": "Diego",
+      "20": "students",
+      "50": "a student",
+      "100": "a dream"
+    },
+    "[MPC_136]": {
+      "3": "Operator: Tear this down!",
+      "5": "Cameraman - Good job",
+      "20": "Photography - get rid of it.",
+      "50": "Brief information about the author",
+      "100": "camera etc."
+    },
+    "[MPC_138]": {
+      "3": "Gonzalez is a character",
+      "5": "González",
+      "20": "wrote Gonzalez",
+      "50": "Goncolor books",
+      "100": "Gonzales Who is this?"
+    },
+    "[MPC_139]": {
+      "3": "No. 1:",
+      "5": "#1",
+      "20": "number 1",
+      "50": "or 1. Pregnancy",
+      "100": "1.1.1.1.1.1.1.1.1. Pharmacy owner."
+    },
+    "[MPC_141]": {
+      "3": "Martyr",
+      "5": "Martinez",
+      "20": "Martinez is up to the task.",
+      "50": "By Martinez",
+      "100": "Written by Martinez."
+    },
+    "[MPC_142]": {
+      "3": "Lance",
+      "5": "throw",
+      "20": "He hugged (coming)",
+      "50": "Let's get started.",
+      "100": "They called for war."
+    },
+    "[MPC_143]": {
+      "3": "Lance T. McCarthy.",
+      "5": "Lance T. McCarthy.",
+      "20": "Lance T. served.",
+      "50": "a long time ago",
+      "100": "President McCarthy Garth D. McCarthy"
+    },
+    "[MPC_148]": {
+      "3": "Marty",
+      "5": "Marty",
+      "20": "Even Marty",
+      "50": "Marty is a man.",
+      "100": "The believers laughed"
+    },
+    "[MPC_150]": {
+      "3": "Gabe Hiker",
+      "5": "Gabe Caminante",
+      "20": "My name is Gabe Higger.",
+      "50": "speaker installation",
+      "100": "They do everything."
+    },
+    "[MPC_152]": {
+      "3": "phil collins",
+      "5": "Phil Collins provided",
+      "20": "Phil Collins laughed",
+      "50": "Phil Collins, R.",
+      "100": "This is the Philcolin website."
+    },
+    "[MPC_153]": {
+      "3": "phil cassidy",
+      "5": "Phil Cassidy gave it to him",
+      "20": "Phil Cassidy laughed.",
+      "50": "CDs and videos available",
+      "100": "Realization: Phil Cassidy"
+    },
+    "[MPC_154]": {
+      "3": "Renee",
+      "5": "The Queen",
+      "20": "Written by Rene.",
+      "50": "Rene smiled.",
+      "100": "His name has been deleted."
+    },
+    "[MPC_155]": {
+      "3": "Renee",
+      "5": "Miss Queen",
+      "20": "And Rennie smiled.",
+      "50": "Who is Ms. McCarthy Rainey?",
+      "100": "His name has been deleted."
+    },
+    "[MPC_156]": {
+      "3": "robin banks",
+      "5": "Robin Banks provided",
+      "20": "Robin Banks is here.",
+      "50": "Robin has a bag.",
+      "100": "One of them is Robin Banks."
+    },
+    "[MPC_157]": {
+      "3": "Sergeant Author Peppa",
+      "5": "Sgt. Peppa",
+      "20": "Sergeant Pepe was hired",
+      "50": "Sergeant Pepper smiled.",
+      "100": "Date of registration with police department."
+    },
+    "[MPC_158]": {
+      "3": "Pantry - lose this one",
+      "5": "Buy - lose this",
+      "20": "Customer - lost",
+      "50": "Customers: I do.",
+      "100": "Customer: I think so."
+    },
+    "[MPC_159]": {
+      "3": "Written by Umberto",
+      "5": "Umberto",
+      "20": "Umberto made his own",
+      "50": "Umberto did his job.",
+      "100": "Humberto is right."
+    },
+    "[MPC_160]": {
+      "3": "Bub",
+      "5": "sin",
+      "20": "Bob is already here",
+      "50": "I'm sorry.",
+      "100": "since childhood"
+    },
+    "[HA_KCHP]": {
+      "3": "destroyed by the Hunter",
+      "5": "Destroy the hunter",
+      "20": "The bird is dead",
+      "50": "He is deaf and old.",
+      "100": "finish the job"
+    },
+    "[PUPCOL]": {
+      "3": "Power plant",
+      "5": "I took the feeder",
+      "20": "The power of the writer",
+      "50": "There is a possibility",
+      "100": "Pursue your strengths."
+    },
+    "[MPTURNB]": {
+      "3": "They are off the playing field!",
+      "5": "You're out of the field!",
+      "20": "You knocked it out of the park.",
+      "50": "Stop reading.",
+      "100": "This is played."
+    },
+    "[MPVIP7]": {
+      "3": "VIP",
+      "5": "VIPs are so-called VIPs",
+      "20": "VIPs:",
+      "50": "There’s a VIP",
+      "100": "I am a great host."
+    },
+    "[HA_HNT]": {
+      "3": "the hunter",
+      "5": "Hunt on the wall",
+      "20": "Hunter",
+      "50": "The hunter",
+      "100": "I want to drink tea"
+    },
+    "[MPI_BCA]": {
+      "3": "Small handle",
+      "5": "Case for use",
+      "20": "Information:",
+      "50": "Women's work",
+      "100": "Yes, yes"
+    },
+    "[MPI_EXP]": {
+      "3": "Explosive",
+      "5": "It explodes",
+      "20": "dynamite",
+      "50": "The problem is complex",
+      "100": "It was the same during the war."
+    },
+    "[MPI_TBO]": {
+      "3": "targeted vessel",
+      "5": "the purpose of the ship",
+      "20": "target ship",
+      "50": "On white beaches",
+      "100": "It keeps us alive."
+    },
+    "[MPI_THE]": {
+      "3": "Attention helicopter",
+      "5": "towards the helicopter",
+      "20": "Aim at the plane",
+      "50": "Ahinanan",
+      "100": "It keeps us alive."
+    },
+    "[PUPSPN]": {
+      "3": "POWERUP was born!",
+      "5": "Power is removed.",
+      "20": "Power!",
+      "50": "Stop the car!",
+      "100": "It's not enough."
+    },
+    "[FEMP_VT]": {
+      "3": "VIP Group:",
+      "5": "VIP Group:",
+      "20": "VIP members:",
+      "50": "VIP membership",
+      "100": "You are in the VIP room."
+    },
+    "[PUPMEGA]": {
+      "3": "MEGA IS GOING!",
+      "5": "A great loss!",
+      "20": "Shame!",
+      "50": "slide",
+      "100": "game!"
+    },
+    "[PUPREGN]": {
+      "3": "THINGS THAT HAVE HAPPENED!",
+      "5": "Promote health!",
+      "20": "Get your life back!",
+      "50": "Improve your life",
+      "100": "Save your life."
+    },
+    "[PUPINVS]": {
+      "3": "I CAN'T SEE IT!",
+      "5": "Untouched!",
+      "20": "Don't look!",
+      "50": "glow of",
+      "100": "I couldn't see anything"
+    },
+    "[PUPFREZ]": {
+      "3": "EXCLUSIVE!",
+      "5": "stupid!",
+      "20": "Stupidity!",
+      "50": "go to the head",
+      "100": "French language"
+    },
+    "[MPFBYBR]": {
+      "3": "He takes the bomb.",
+      "5": "He took the bomb.",
+      "20": "You took the pump.",
+      "50": "Take your medicine",
+      "100": "Happiness comes."
+    },
+    "[MPFBPBR]": {
+      "3": "I caught the bomb.",
+      "5": "They take the bomb away.",
+      "20": "Take the seeds.",
+      "50": "I really appreciate it",
+      "100": "let it happen"
+    },
+    "[MPFBYPB]": {
+      "3": "You planted the bomb!",
+      "5": "They plant a bomb!",
+      "20": "Bomb!",
+      "50": "Hit the ball!",
+      "100": "In the water!"
+    },
+    "[MPFBPPB]": {
+      "3": "Drop the bomb!",
+      "5": "Plant the bomb!",
+      "20": "Shoot!",
+      "50": "Tell me about it",
+      "100": "It's football!"
+    },
+    "[MPFBPDB]": {
+      "3": "The bomb has been dropped!",
+      "5": "The bombs are falling!",
+      "20": "The bomb fell.",
+      "50": "My hair is gone!",
+      "100": "Please!"
+    },
+    "[MPQDCL]": {
+      "3": "Move to the next car!",
+      "5": "On to the next car!",
+      "20": "In another car!",
+      "50": "Catch the next train!",
+      "100": "bring back"
+    },
+    "[MP_E_PO]": {
+      "3": "It is an evacuation site",
+      "5": "Point of evacuation",
+      "20": "distributed worldwide",
+      "50": "Security policy",
+      "100": "One of these changes."
+    },
+    "[MPI_ASS]": {
+      "3": "He's a killer",
+      "5": "A murderer",
+      "20": "fire extinguisher",
+      "50": "One died",
+      "100": "To kill a person"
+    },
+    "[HA_DST]": {
+      "3": "Hunter is devastated",
+      "5": "Hunter was destroyed",
+      "20": "Then he went to get the man",
+      "50": "hunting sick",
+      "100": "This is a very interesting fact."
+    },
+    "[MPFBGB]": {
+      "3": "Catch the bomb!",
+      "5": "Grab the bomb!",
+      "20": "Get the bomb!",
+      "50": "Another bomb",
+      "100": "Look for these trees."
+    },
+    "[MPFBRB]": {
+      "3": "the bomb was removed.",
+      "5": "remove the bomb.",
+      "20": "Remove the pipe.",
+      "50": "The bomb exploded.",
+      "100": "I picked up the phone."
+    },
+    "[MPFBDB]": {
+      "3": "Send bombs to enemy bases!",
+      "5": "Bomb enemy positions!",
+      "20": "Bombing enemy positions!",
+      "50": "The app is great.",
+      "100": "Enemy explosion."
+    },
+    "[MRJSFR1]": {
+      "3": "Second, get a ride!",
+      "5": "Another to find transportation!",
+      "20": "Hope to be back!",
+      "50": "Let's go together!",
+      "100": "Round 2."
+    },
+    "[MRJSFR2]": {
+      "3": "Seconds to find a vehicle!",
+      "5": "Seconds to find transportation!",
+      "20": "Photography takes seconds!",
+      "50": "Few seconds left.",
+      "100": "Change lines in seconds."
+    },
+    "[MPCTFIN]": {
+      "3": "Shoot enemy vehicles and protect them.",
+      "5": "Take out enemy weapons while defending your own.",
+      "20": "Capture enemy vehicles while protecting yourself.",
+      "50": "Get into the enemy's car and escape.",
+      "100": "Enemy weapons help."
+    },
+    "[BMX_TIT]": {
+      "3": "'the machine' went shopping",
+      "5": "The \"car\" goes to the mall.",
+      "20": "Visit the car trading area.",
+      "50": "- How to pay?",
+      "100": "The word \"car\" is perfect."
+    },
+    "[SHO_TIT]": {
+      "3": "\"Crime Wave\"",
+      "5": "'crime'",
+      "20": "They are called \"sin waves\".",
+      "50": "It means “sin.”",
+      "100": "\"Change of Leaders\""
+    },
+    "[GYR_TIT]": {
+      "3": "\"Sky Wolf\"",
+      "5": "'The Wolf of the Sky'",
+      "20": "\"The Lion in the Sky.\"",
+      "50": "“Birds in the Sky”",
+      "100": "He is a farmer"
+    },
+    "[BEA_TIT]": {
+      "3": "\"Beach Patrol\"",
+      "5": "'Marine Patrol'",
+      "20": "A trip to the beach",
+      "50": "Beach patrol",
+      "100": "- God is happy"
+    },
+    "[CHOPLIF]": {
+      "3": "\"Air Rescue\"",
+      "5": "'Aerial Rescue'",
+      "20": "\"Wind protection\" is essential.",
+      "50": "“In the air again.”",
+      "100": "Let's try"
+    },
+    "[FIR_TIT]": {
+      "3": "\"fire helicopter\"",
+      "5": "'fire helicopter'",
+      "20": "- The sewing machine caught fire.",
+      "50": "“Diamond Cave”",
+      "100": "They are burning."
+    },
+    "[HEL_TIT]": {
+      "3": "\"Vice Mind\".",
+      "5": "'Vise-site'.",
+      "20": "\"Other areas\".",
+      "50": "\"medicine\" and so on.",
+      "100": "\"Spiritual strength.\""
+    },
+    "[AIR_TIT]": {
+      "3": "\"Crime with wings.\"",
+      "5": "'Crime on the Wings'.",
+      "20": "\"Crime Behind the Scenes\"",
+      "50": "\"wound\"",
+      "100": "- Yes, here"
+    },
+    "[HOV_TIT]": {
+      "3": "\"Haiti Hover Race\".",
+      "5": "'The Haitian Run'.",
+      "20": "\"Slow flow\".",
+      "50": "\"It's not a city\".",
+      "100": "Horatio Hickey, Governor."
+    },
+    "[HO2_TIT]": {
+      "3": "\"Harbor Hover Race\".",
+      "5": "'Running on the port'.",
+      "20": "Harbor Drift Racing",
+      "50": "\"Sea Corp\".",
+      "100": "Please open the door. it's already cold"
+    },
+    "[MVR_TIT]": {
+      "3": "\"Ace of Land, Sea and Air.\"",
+      "5": "Land, sea and air etc.",
+      "20": "\"Like ground, bridge, air.\"",
+      "50": "\"Land, Sea, Sky\".",
+      "100": "\"Sky, sea and sky.\""
+    },
+    "[PCJ_TIT]": {
+      "3": "'The playground in the city'.",
+      "5": "\"the playground in the city\".",
+      "20": "\"The City Games\".",
+      "50": "\"City in the Sky.\"",
+      "100": "\"Liberty State.\""
+    },
+    "[PC2_TIT]": {
+      "3": "'Game board in the face'.",
+      "5": "\"Playground on point\".",
+      "20": "Save the game",
+      "50": "\"School Games\".",
+      "100": "\"The game has been changed,\" he said."
+    },
+    "[EXP_R01]": {
+      "3": "Here is the collection fee: $.",
+      "5": "Here is your fee: USD.",
+      "20": "Here's what your fundraiser needs to pay: $.",
+      "50": "Here is your default message: $",
+      "100": "Contract Price: AED"
+    },
+    "[EXP_R02]": {
+      "3": "Your collection fee is $ plus $ bonus for capturing the entire list.",
+      "5": "Your collection fee is $, plus a $ bonus for purchasing the entire series.",
+      "20": "Cashier fees in dollars and bonuses for accessing all registrations.",
+      "50": "$ Reward for completing a profile with your rating.",
+      "100": "Total cost per unit"
+    },
+    "[CR_TIT]": {
+      "3": "'Run!'",
+      "5": "\"Bad!\"",
+      "20": "Look!",
+      "50": "- male!",
+      "100": "- Don't go!"
+    },
+    "[RAMPAGE]": {
+      "3": "riot!",
+      "5": "damage!",
+      "20": "Beauty!",
+      "50": "Thank you!",
+      "100": "he is crazy"
+    },
+    "[RAMP_P]": {
+      "3": "Going on a rampage!",
+      "5": "The disaster continues!",
+      "20": "It came too!",
+      "50": "work!",
+      "100": "Maybe they are old."
+    },
+    "[RAMP_F]": {
+      "3": "Rampage failed!",
+      "5": "Ramban! a job!",
+      "20": "The revolution failed!",
+      "50": "Violence is not good!",
+      "100": "Call ahead!"
+    },
+    "[RAMP_CA]": {
+      "3": "You need a vehicle for this rampage.",
+      "5": "This rebellion needs a way.",
+      "20": "Download data",
+      "50": "This water must be blood",
+      "100": "You need a car to get here."
+    },
+    "[RAMP_A]": {
+      "3": "The whole rampage is over! $",
+      "5": "All full raging! $",
+      "20": "Everyone fight! darling",
+      "50": "All pages are full of RAM! agricultural dollars",
+      "100": "Everyone was crying. fluoride"
+    },
+    "[RAMP_01]": {
+      "3": "Garbage for 2 minutes.",
+      "5": "Garbage truck in 2 minutes.",
+      "20": "Unlock the car after 2 minutes.",
+      "50": "The book will arrive in two minutes.",
+      "100": "Larry at 1 p.m."
+    },
+    "[RAMP_03]": {
+      "3": "Burn the car for 2 minutes.",
+      "5": "Ignite the car within 2 seconds.",
+      "20": "After 2 minutes, start the car.",
+      "50": "The program will start in 2 seconds.",
+      "100": "Traffic flow per minute"
+    },
+    "[RAMP_04]": {
+      "3": "Take the bikers out for 2 minutes.",
+      "5": "The bike will be on the market in two minutes.",
+      "20": "Kill the rider within 2 minutes.",
+      "50": "Play for two minutes.",
+      "100": "After two minutes the trainer stopped"
+    },
+    "[RAMP_05]": {
+      "3": "Kill the cholos for 2 minutes.",
+      "5": "Kill a holos in 2 seconds.",
+      "20": "Correct mistakes in 2 minutes.",
+      "50": "Joe Ross in two seconds.",
+      "100": "Hold your head up for two minutes"
+    },
+    "[RAMP_06]": {
+      "3": "Kill the shark in 2 minutes.",
+      "5": "Kill the shark within 2 minutes.",
+      "20": "Kill the bird in 2 minutes.",
+      "50": "Cook the dog for 2 minutes.",
+      "100": "Cook the mangoes for two minutes."
+    },
+    "[RAMP_07]": {
+      "3": "Cut out a shark in 2 minutes.",
+      "5": "Kill the sharks in two minutes.",
+      "20": "Get out of the shark after 2 minutes.",
+      "50": "Let the chicken rest for two minutes.",
+      "100": "Keep the camera on for two minutes."
+    },
+    "[RAMP_08]": {
+      "3": "Crush The Bikers in 2 minutes.",
+      "5": "The cake is washed in two minutes.",
+      "20": "2 minutes per round.",
+      "50": "Take two minutes.",
+      "100": "This process takes about two minutes."
+    },
+    "[RAMP_09]": {
+      "3": "Throwing cholos in 2 minutes.",
+      "5": "Make Cholos in two minutes.",
+      "20": "Defeat the Crown in less than 2 minutes.",
+      "50": "Decapping occurs every two minutes.",
+      "100": "Leave for two minutes."
+    },
+    "[CHCOL]": {
+      "3": "\"Visitor Integration\".",
+      "5": "\"Collection of Nature\".",
+      "20": "\"phrase\".",
+      "50": "\"Cigarette money.\"",
+      "100": "msgid \"User Settings\""
+    },
+    "[FIRE_M]": {
+      "3": "'Fireman'.",
+      "5": "'Firefighter'.",
+      "20": "\"Hello\"",
+      "50": "“He's dead.",
+      "100": "This is called \"selling\"."
+    },
+    "[PARAMED]": {
+      "3": "\"paramedic\"",
+      "5": "'Paramedics'.",
+      "20": "\"savings\"",
+      "50": "“The hospital.",
+      "100": "\"I gave him a chance.\""
+    },
+    "[VIGILAN]": {
+      "3": "\"smart\"",
+      "5": "'The guard'.",
+      "20": "“See for yourself",
+      "50": "\"a\"",
+      "100": "It is a cigarette"
+    },
+    "[TT_A1]": {
+      "3": "\"Time Test\"",
+      "5": "'The test of time'.",
+      "20": "“The ravages of time.",
+      "50": "\"The Test of Time\".",
+      "100": "- It's a good time"
+    },
+    "[TT_JSKI]": {
+      "3": "\"water sports\"",
+      "5": "\"Water Sports\".",
+      "20": "\"water sports\"",
+      "50": "\"Water Play\"",
+      "100": "\"playing in the water\""
+    },
+    "[DRIVING]": {
+      "3": "\"Swingers Club\"",
+      "5": "'The Swinger's Club'.",
+      "20": "\"Swingers Club\"",
+      "50": "- Book Society.",
+      "100": "\"Park Management.\""
+    },
+    "[TAXIDR]": {
+      "3": "a taxi driver",
+      "5": "taxi driver",
+      "20": "he was a taxi driver",
+      "50": "He is a taxi driver",
+      "100": "Thanks guys"
+    },
+    "[SRNG]": {
+      "3": "'Phil's shooting'.",
+      "5": "Elephant shooting range",
+      "20": "\"Camera Circle.\"",
+      "50": "Filmed in Philadelphia",
+      "100": "He hit the sea"
+    },
+    "[BAL_COL]": {
+      "3": "Red Bubble / Run!",
+      "5": "The red balloon / burst!",
+      "20": "Red Globes/Pop!",
+      "50": "Bridges/Red Lights!",
+      "100": "water/metal flow"
+    },
+    "[BAL_WIN]": {
+      "3": "The red balloon is released!",
+      "5": "All red balloons burst!",
+      "20": "All the red balls are broken!",
+      "50": "Red hair everywhere",
+      "100": "Click on all the red dots."
+    },
+    "[EXP_R10]": {
+      "3": "The Department of Civil Resources is also interested in the ship.",
+      "5": "The Civil Asset Forfeiture Ministry is also interested in the boats.",
+      "20": "The classification of civil property damage focuses on ships.",
+      "50": "Fish are like water",
+      "100": "It is also popular with tourists."
+    },
+    "[EXP_R11]": {
+      "3": "Bring water vehicles to this hangar.",
+      "5": "Deliver your desired water vehicle to this hangar.",
+      "20": "Send the necessary ships to this anchorage.",
+      "50": "Bring plenty of water.",
+      "100": "Check all springs."
+    },
+    "[RAMP_10]": {
+      "3": "Stop cholo in 2 minutes.",
+      "5": "Get rid of colos in 2 minutes",
+      "20": "Brew pure coffee for 2 minutes.",
+      "50": "After 2 minutes the player starts.",
+      "100": "Rinse thoroughly after 2 minutes."
+    },
+    "[RAMP_11]": {
+      "3": "Drive and cycle in 2 minutes.",
+      "5": "Drive through and defeat the biker in 2 minutes.",
+      "20": "2 minutes by car, go to the car",
+      "50": "Continue the exercise for two minutes.",
+      "100": "Mix for 2 minutes"
+    },
+    "[RAMP_13]": {
+      "3": "Hack Cholos in 2 minutes.",
+      "5": "Slice and dice holo in 2 minutes.",
+      "20": "Wash your face for 2 minutes.",
+      "50": "Play the song for two minutes.",
+      "100": "He died within two minutes."
+    },
+    "[RAMP_14]": {
+      "3": "Remove sharks within 2 minutes.",
+      "5": "Kill sharks in 2 minutes.",
+      "20": "I killed the shark for 2 minutes",
+      "50": "Bake the fish for two minutes.",
+      "100": "After 2 minutes add the milk."
+    },
+    "[RAMP_15]": {
+      "3": "Cook the shark for two minutes.",
+      "5": "Destroy the shark in 2 minutes.",
+      "20": "Remove the fish for 2 minutes.",
+      "50": "Kill the fish within 2 minutes.",
+      "100": "Leave it for two minutes."
+    },
+    "[RAMP_16]": {
+      "3": "The bus stops two minutes away.",
+      "5": "Level the cars within 2 minutes.",
+      "20": "Prepare your car in 2 minutes.",
+      "50": "Wait about 2 minutes.",
+      "100": "The drive takes two minutes."
+    },
+    "[RAMP_17]": {
+      "3": "Cook the shark for two minutes.",
+      "5": "Destroy the shark in 2 minutes.",
+      "20": "Boil the fish for 2 minutes.",
+      "50": "Fry the fish for 2 minutes.",
+      "100": "Leave it for two minutes."
+    },
+    "[RAMP_18]": {
+      "3": "Cook the shark for two minutes.",
+      "5": "Finish the shark in 2 minutes.",
+      "20": "Boil the fish skin for 2 minutes.",
+      "50": "Kill the fish within 2 minutes.",
+      "100": "Leave it for two minutes."
+    },
+    "[RAMP_19]": {
+      "3": "Remove the bikes in two minutes.",
+      "5": "Destroy the bikers for 2 minutes.",
+      "20": "Beat runners in 2 minutes.",
+      "50": "After 2 minutes, turn off your device.",
+      "100": "A few minutes later he fell off the side of his bike."
+    },
+    "[RAMP_21]": {
+      "3": "Defeat the bikers in 2 minutes.",
+      "5": "Eliminate cyclists within 2 minutes.",
+      "20": "Kill the driver within 2 minutes.",
+      "50": "Complete the ride in 2 minutes.",
+      "100": "An important player in the automotive industry."
+    },
+    "[RAMP_23]": {
+      "3": "Blow up cars in 2 minutes.",
+      "5": "Blow up vehicles in 2 minutes.",
+      "20": "Two minutes later, the car exploded.",
+      "50": "Two minutes later the car exploded.",
+      "100": "In two minutes."
+    },
+    "[RAMP_24]": {
+      "3": "Finish the shark in 2 minutes.",
+      "5": "Finish the shark in 2 minutes.",
+      "20": "Finish the shark in 2 minutes.",
+      "50": "The mango takes two minutes.",
+      "100": "All these officers."
+    },
+    "[RAMP_25]": {
+      "3": "Run Holos for 2 minutes.",
+      "5": "Perform solos in 2 minutes.",
+      "20": "Colossus is ready in 2 minutes.",
+      "50": "Only 2 minutes left.",
+      "100": "hall"
+    },
+    "[RAMP_26]": {
+      "3": "Kill the shark within 2 minutes.",
+      "5": "Kill the shark in 2 minutes.",
+      "20": "Cook the duck for 2 minutes.",
+      "50": "Kill the shark in two minutes.",
+      "100": "All these officers."
+    },
+    "[RAMP_27]": {
+      "3": "Eliminate bikers in 2 minutes.",
+      "5": "Remove the rider for 2 minutes.",
+      "20": "White phone in two minutes.",
+      "50": "Roll for 2 minutes.",
+      "100": "Then let it sit overnight for 2 minutes."
+    },
+    "[RAC_TIT]": {
+      "3": "tourism",
+      "5": "passenger",
+      "20": "Travel is a noun.",
+      "50": "i have to go now",
+      "100": "It's about the journey."
+    },
+    "[RAMP_28]": {
+      "3": "Remove the wheel in 2 minutes.",
+      "5": "Defeat the rider in 2 minutes.",
+      "20": "Hold the pedal for two minutes.",
+      "50": "Complete the cycle in less than 2 minutes.",
+      "100": "Called after 2 minutes."
+    },
+    "[RAMP_29]": {
+      "3": "Kill bikers in 2 minutes.",
+      "5": "Kill a bike in 2 minutes.",
+      "20": "Add the shrimp for 2 minutes.",
+      "50": "2 minutes to find the bike",
+      "100": "This page is updated every 2 minutes."
+    },
+    "[TT_QUAD]": {
+      "3": "Quad bike trial time",
+      "5": "Four wheel time trial",
+      "20": "Quad and stopwatch",
+      "50": "Four points",
+      "100": "Now there are four."
+    },
+    "[TT_BMX]": {
+      "3": "BMX time test",
+      "5": "BMX time trial",
+      "20": "During the BMX test",
+      "50": "During the BMKS examination",
+      "100": "BMX prices"
+    },
+    "[TT_SAN]": {
+      "3": "Sanchez Time Trial",
+      "5": "Time difficulties Sanchez",
+      "20": "Sanchez article",
+      "50": "Analysis of Sanchez",
+      "100": "Sansa looked at him."
+    },
+    "[BALREW0]": {
+      "3": "The gun is now in your safe house!",
+      "5": "Pistol is now available in your wallet!",
+      "20": "The gun is in your safe.",
+      "50": "Now you can buy weapons outside the home",
+      "100": "He decided to stay at home."
+    },
+    "[BALREW1]": {
+      "3": "Scorpio is in your safe house!",
+      "5": "Scorpion is now available in your vault!",
+      "20": "There is a squirrel in your room.",
+      "50": "Scorpio is now in the right place in your house",
+      "100": "The view is very good."
+    },
+    "[BALREW2]": {
+      "3": "Stubby Shotgun is now in your safe house!",
+      "5": "Stubby's Shotgun is now available in your wallet!",
+      "20": "The gun is in your hand",
+      "50": "Guns are not safe in your home.",
+      "100": "He decided to stay at home."
+    },
+    "[BALREW3]": {
+      "3": "Now you can safely buy Molotov from your home!",
+      "5": "Molotov is now available in your vault.",
+      "20": "You will now be protected with a Molotov cocktail.",
+      "50": "Molotov cocktails in your life.",
+      "100": "Molotov cocktails at home today."
+    },
+    "[BALREW4]": {
+      "3": "The AK is now in your safe house!",
+      "5": "AK is now ready for your safe home.",
+      "20": "In my room, AK.",
+      "50": "The way you live your life.",
+      "100": "Protect your home."
+    },
+    "[BALREW5]": {
+      "3": "You can now buy body armor from your shelter!",
+      "5": "Body Armor is now ready to keep you safe.",
+      "20": "This tool is where you are hiding.",
+      "50": "Now you can use this feature.",
+      "100": "I got home safely this morning."
+    },
+    "[BALREW6]": {
+      "3": "The Flamethrower is now in your safe house!",
+      "5": "Flame Thrower is now ready for your safe home.",
+      "20": "Smoking is permitted in secure buildings.",
+      "50": "We don't shoot.",
+      "100": "Now see for yourself."
+    },
+    "[BALREW7]": {
+      "3": "The Equalizer is now in your safe home!",
+      "5": "The equalizer is now ready for your safety.",
+      "20": "You can then contact your manager.",
+      "50": "Ecuador for you.",
+      "100": "This is your party now."
+    },
+    "[BALREW8]": {
+      "3": "Sniper is now available in your safe house!",
+      "5": "Sniper is now available in the safety of your home!",
+      "20": "The sniper is now in your inventory",
+      "50": "Someone has come to your house!",
+      "100": "It's a fun time."
+    },
+    "[BALREW9]": {
+      "3": "M249 is now available in your safe!",
+      "5": "M249 is now available in your shelter!",
+      "20": "The M249 is now in your wardrobe",
+      "50": "m249 Sorry!",
+      "100": "He gave me the M2"
+    },
+    "[RAMP_00]": {
+      "3": "Eliminate bikers within 2 minutes.",
+      "5": "Eliminate the biker in 2 minutes.",
+      "20": "Killing bikers within 2 minutes",
+      "50": "After two minutes, the console turns off.",
+      "100": "The game starts in 2 minutes."
+    },
+    "[RAMP_02]": {
+      "3": "Finish the cyclists in 2 minutes.",
+      "5": "Eliminate the biker in 2 minutes.",
+      "20": "Switch off the bike after 2 minutes",
+      "50": "Do this for two minutes.",
+      "100": "Stand up after 2 minutes"
+    },
+    "[RAMP_20]": {
+      "3": "Cyclists ride and kill in 2 minutes.",
+      "5": "Pass a cyclist in 2 minutes.",
+      "20": "Drive and complete the journey in two minutes",
+      "50": "No more than two minutes.",
+      "100": "aka 2 minutes."
+    },
+    "[RAMP_12]": {
+      "3": "Destroy the car in 2 minutes.",
+      "5": "Destroy the car in 2 minutes.",
+      "20": "The car broke down within two minutes.",
+      "50": "The train stopped for two minutes.",
+      "100": "Two minutes later the car crashed."
+    },
+    "[EXP_R03]": {
+      "3": "That's it - Here's your cut: $.",
+      "5": "That's it - Here's your cut: $.",
+      "20": "This is your discount: $.",
+      "50": "What do you want?",
+      "100": "Price: Euro"
+    },
+    "[EXP_R04]": {
+      "3": "We are enough to open the truth! Here's your cut: $.",
+      "5": "We have enough to open the port! Here's your cut: $.",
+      "20": "We have enough money to open a storefront! Here's your share: $.",
+      "50": "- he said in a low voice. Here is the price: $",
+      "100": "Open the door: $"
+    },
+    "[RAMP_22]": {
+      "3": "Kill a shark in 2 minutes.",
+      "5": "Kill the shark in 2 minutes.",
+      "20": "Stir in the mango for 2 minutes",
+      "50": "It only takes two minutes to kill a shark.",
+      "100": "Stir the mixture for one second."
+    },
+    "[RAMP_30]": {
+      "3": "Destroy the car in 2 minutes.",
+      "5": "Destroy the car in 2 minutes.",
+      "20": "The car broke down within two minutes.",
+      "50": "The train stopped for two minutes.",
+      "100": "Two minutes later the car crashed."
     }
   }
 }
