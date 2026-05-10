@@ -12048,6 +12048,2036 @@
       "20": "Left simulator or router",
       "50": "Left thumb or shoulder.",
       "100": "On the right side there is an option to confirm or review."
+    },
+    "[C1AMMOV]": {
+      "3": "Left analog stick or direction buttons",
+      "5": "Left analog or directional button",
+      "20": "arrow clasp or left stick",
+      "50": "Left and right.",
+      "100": "right or left arrow"
+    },
+    "[C2AMMOV]": {
+      "3": "Left analog stick or direction buttons",
+      "5": "Left analog or directional button",
+      "20": "arrow clasp or left stick",
+      "50": "Left and right.",
+      "100": "right or left arrow"
+    },
+    "[C3AMMOV]": {
+      "3": "Left analog stick or direction buttons",
+      "5": "Left analog or directional button",
+      "20": "arrow clasp or left stick",
+      "50": "Left and right.",
+      "100": "right or left arrow"
+    },
+    "[C0VEWEA]": {
+      "3": "right analog stick",
+      "5": "Really analogue",
+      "20": "True analog joysticks",
+      "50": "He is a great leader.",
+      "100": "Let's go together"
+    },
+    "[C1VEWEA]": {
+      "3": "right analog stick",
+      "5": "Really analogue",
+      "20": "True analog joysticks",
+      "50": "He is a great leader.",
+      "100": "Let's go together"
+    },
+    "[C2VEWEA]": {
+      "3": "The right analog stick",
+      "5": "right analog stick",
+      "20": "This is exactly what it is.",
+      "50": "This is a real tree of analogies",
+      "100": "Cover to cook"
+    },
+    "[C3VEWEA]": {
+      "3": "directional buttons",
+      "5": "control button",
+      "20": "Instructions for the button.",
+      "50": "It has its role",
+      "100": "Like chairs"
+    },
+    "[JAN]": {
+      "3": "January is the day",
+      "5": "Jan",
+      "20": "In January of this year, the United States",
+      "50": "There is fire",
+      "100": "In the United States in January"
+    },
+    "[FEB]": {
+      "3": "February is the date",
+      "5": "February",
+      "20": "i will do it.",
+      "50": "They were burned",
+      "100": "I can't handle it."
+    },
+    "[MAR]": {
+      "3": "March is the day.",
+      "5": "Mars",
+      "20": "in March.",
+      "50": "It came out in March.",
+      "100": "Travel in the United States"
+    },
+    "[APR]": {
+      "3": "April",
+      "5": "April",
+      "20": "April",
+      "50": "In April",
+      "100": "It was April."
+    },
+    "[MAY]": {
+      "3": "May",
+      "5": "May",
+      "20": "That's right",
+      "50": "We close:",
+      "100": "They are"
+    },
+    "[JUN]": {
+      "3": "June",
+      "5": "June",
+      "20": "June",
+      "50": "June...",
+      "100": "End of June"
+    },
+    "[JUL]": {
+      "3": "July",
+      "5": "July",
+      "20": "July",
+      "50": "The month of July.",
+      "100": "It was July."
+    },
+    "[AUG]": {
+      "3": "August",
+      "5": "August",
+      "20": "August",
+      "50": "10 August",
+      "100": "August"
+    },
+    "[SEP]": {
+      "3": "September",
+      "5": "In September",
+      "20": "September",
+      "50": "It was September.",
+      "100": "In September the U.S"
+    },
+    "[OCT]": {
+      "3": "October",
+      "5": "In October 1999",
+      "20": "October",
+      "50": "It happened in October.",
+      "100": "In the month of October"
+    },
+    "[NOV]": {
+      "3": "November",
+      "5": "In November",
+      "20": "November",
+      "50": "11 months have passed.",
+      "100": "It was summer in September."
+    },
+    "[DEC]": {
+      "3": "December",
+      "5": "In December",
+      "20": "December",
+      "50": "It was December.",
+      "100": "In the month of December."
+    },
+    "[FEA_MON]": {
+      "3": "Mono",
+      "5": "His name is Mono",
+      "20": "Mona",
+      "50": "In my arms",
+      "100": "It's a fact of life."
+    },
+    "[FED_SUD]": {
+      "3": "Available subtitles:",
+      "5": "OTHER THINGS: 1.1.",
+      "20": "Assistant Manager: Dr.",
+      "50": "This is Isro Khan Pataki.",
+      "100": "Minister of Justice"
+    },
+    "[FED_WIS]": {
+      "3": "screen length:",
+      "5": "SCREEN WIDTH: 1.1.",
+      "20": "Wide screens.",
+      "50": "Then: Then:",
+      "100": "a new way"
+    },
+    "[FEP_LAN]": {
+      "3": "you: you:",
+      "5": "TESTS: .",
+      "20": "spoken language",
+      "50": "We are in debt",
+      "100": "It is prohibited."
+    },
+    "[FEP_POS]": {
+      "3": "Display screen",
+      "5": "THE TEST OF TIME",
+      "20": "As stated",
+      "50": "The vision of the eyes",
+      "100": "It is located on Gastehuis Street."
+    },
+    "[FES_DSS]": {
+      "3": "Select Save Game to delete:",
+      "5": "Select the saved game to delete:",
+      "20": "Select \"Save Game\" to delete it;",
+      "50": "Jan ere TE Igvasile",
+      "100": "This should always be done."
+    },
+    "[FES_LSS]": {
+      "3": "Select a saved game to load:",
+      "5": "Select Game to download;",
+      "20": "Select the saved game you want to import.",
+      "50": "Download other games.",
+      "100": "Select the game you want to download."
+    },
+    "[FES_DSC]": {
+      "3": "Delete successful. Select OK to continue.",
+      "5": "The deletion was successful. Continue reading",
+      "20": "Done for removal. Select OK to continue.",
+      "50": "Details: Click OK to continue.",
+      "100": "Good news friends. Choose carefully."
+    },
+    "[FES_DEL]": {
+      "3": "Delete a game",
+      "5": "Delete the game",
+      "20": "Delete the game",
+      "50": "Leave the game.",
+      "100": "Depends on the game."
+    },
+    "[ITBEG]": {
+      "3": "At first...",
+      "5": "Let's get started",
+      "20": "First of all it is.",
+      "50": "This is true.",
+      "100": "i can drink"
+    },
+    "[FES_DGM]": {
+      "3": "Delete a game",
+      "5": "Delete the game",
+      "20": "Delete the game",
+      "50": "Leave the game.",
+      "100": "Depends on the game."
+    },
+    "[FET_LG]": {
+      "3": "Loads of games",
+      "5": "The game is in progress",
+      "20": "To open the game.",
+      "50": "The story is playing",
+      "100": "to play with"
+    },
+    "[FES_SAV]": {
+      "3": "Save the game",
+      "5": "hide and seek game",
+      "20": "Play games.",
+      "50": "Try to play it safe.",
+      "100": "Set up the game."
+    },
+    "[FES_DGL]": {
+      "3": "Remove the game",
+      "5": "Removed on Thursday",
+      "20": "Game over.",
+      "50": "The game continues.",
+      "100": "Check out our other games."
+    },
+    "[FES_LGL]": {
+      "3": "Loads of games",
+      "5": "paid games",
+      "20": "The game is loaded.",
+      "50": "Download the game.",
+      "100": "to play with"
+    },
+    "[FES_SGL]": {
+      "3": "Save the game",
+      "5": "save game",
+      "20": "Save the game.",
+      "50": "Try to play it safe.",
+      "100": "Set up the game."
+    },
+    "[FES_NGL]": {
+      "3": "New game",
+      "5": "New sports",
+      "20": "This is a new game",
+      "50": "There is a new game",
+      "100": "This is a new sport."
+    },
+    "[FES_SCG]": {
+      "3": "Save the game?",
+      "5": "Save your current games?",
+      "20": "Are you saving the game now?",
+      "50": "The game is to be played",
+      "100": "You are the last man standing."
+    },
+    "[GMREST]": {
+      "3": "Restart the game",
+      "5": "Start the game again",
+      "20": "Start playing again",
+      "50": "A new game begins",
+      "100": "Start a new sport."
+    },
+    "[GMLOAD]": {
+      "3": "Load the game",
+      "5": "Property games",
+      "20": "This is a great game",
+      "50": "This is a game",
+      "100": "Download the game here."
+    },
+    "[GMSAVE]": {
+      "3": "Save the game",
+      "5": "Save the game",
+      "20": "Save the game",
+      "50": "It's a safe game",
+      "100": "join"
+    },
+    "[FESZ_CA]": {
+      "3": "Do this",
+      "5": "cancel",
+      "20": "swipe up.",
+      "50": "He stopped her",
+      "100": "Abortion laws"
+    },
+    "[FES_SSC]": {
+      "3": "Save successfully. Select OK to continue.",
+      "5": "To protect success. Select OK to continue.",
+      "20": "People who live a good life are always happy.",
+      "50": "Choose the right path.",
+      "100": "The answer is clear. Click OK to continue."
+    },
+    "[FESZ_QZ]": {
+      "3": "Are you sure you want to save this game?",
+      "5": "Want to save this game?",
+      "20": "Are you sure you want to save this game?",
+      "50": "Do you want to play the game?",
+      "100": "Do you want to play a game?"
+    },
+    "[FESZ_QL]": {
+      "3": "All unsaved achievements in the current game will be lost. Continue posting?",
+      "5": "Any unsaved progress in the current game will be lost. Can I remove this?",
+      "20": "Keep reading, because the sting is over.",
+      "50": "All saved updates will be deleted. Unbhel tho winds acher to tin?",
+      "100": "Want to launch a new game today?"
+    },
+    "[FESZ_QD]": {
+      "3": "Continue deleting this save game?",
+      "5": "Will you complete this survival game?",
+      "20": "If yes, did you delete and save the game?",
+      "50": "Pit food I save my horse. Am I my gem?",
+      "100": "Do you want to be a pirate?"
+    },
+    "[FESZ_QO]": {
+      "3": "Keep canceling this save game?",
+      "5": "Replace this rescue game?",
+      "20": "Are you back in this survival game?",
+      "50": "Has consumer behavior been disrupted?",
+      "100": "Should you continue playing this game?"
+    },
+    "[FESZ_QR]": {
+      "3": "Are you sure you want to start a new game? All progress since the last saved game will be lost. Continued?",
+      "5": "Are you sure you want to start a new game? All progress will be lost after the last save. led?",
+      "20": "Want to start a new game? All changes from your previous saved game will be lost. Is this the same?",
+      "50": "Don't know how to start a new game? Game saved or lost.",
+      "100": "Want to start having fun on your own? Dobio has one last match. This is the country;"
+    },
+    "[FEL_ENG]": {
+      "3": "English",
+      "5": "English",
+      "20": "In the Aymara language",
+      "50": "Chet Singh's voice",
+      "100": "Why did you register?"
+    },
+    "[FEL_FRE]": {
+      "3": "France",
+      "5": "French language",
+      "20": "and France",
+      "50": "French.",
+      "100": "In France"
+    },
+    "[FEL_GER]": {
+      "3": "Germany",
+      "5": "German",
+      "20": "in Germany",
+      "50": "in Germany",
+      "100": "Is Jiffy Street empty?"
+    },
+    "[FEL_ITA]": {
+      "3": "Italian language",
+      "5": "ITALY",
+      "20": "in italy",
+      "50": "11. Italian",
+      "100": "Made in Italy"
+    },
+    "[FEL_SPA]": {
+      "3": "Spanish language",
+      "5": "Spain",
+      "20": "spanish",
+      "50": "Spain",
+      "100": "Castilian etc."
+    },
+    "[FEC_VIB]": {
+      "3": "The vibration is as follows:",
+      "5": "VIBRATION",
+      "20": "Material distribution.",
+      "50": "This is a big problem.",
+      "100": "Method: 1.1."
+    },
+    "[FEM_SL1]": {
+      "3": "Save file 1 does not exist",
+      "5": "There is no log file",
+      "20": "save file",
+      "50": "1 Do not save the file",
+      "100": "I can't imagine."
+    },
+    "[FEM_SL2]": {
+      "3": "File 2 is not available",
+      "5": "File 2 does not exist",
+      "20": "save another file",
+      "50": "File 2 was not saved",
+      "100": "There is nothing wrong with that"
+    },
+    "[FEM_SL3]": {
+      "3": "Save file 3 is not available",
+      "5": "save file 3 no",
+      "20": "There are no 3 databases",
+      "50": "There are only three lines.",
+      "100": "Failed to save file III."
+    },
+    "[FEM_SL4]": {
+      "3": "Save file 4 is not available",
+      "5": "save file 4 no",
+      "20": "Do not save the fourth file",
+      "50": "3. Do not save the file.",
+      "100": "The same applies to the fourth warning."
+    },
+    "[FEM_SL5]": {
+      "3": "Save file 5 is not available",
+      "5": "save file 5 no",
+      "20": "Do not save the files",
+      "50": "5. Do not save the file.",
+      "100": "The v file is in this folder."
+    },
+    "[FEM_SL6]": {
+      "3": "Save file 6 is not available",
+      "5": "Save file 6 none",
+      "20": "Do not save the files",
+      "50": "Table 6 does not survive.",
+      "100": "Failed to save VI file."
+    },
+    "[FEM_SL7]": {
+      "3": "Save file 7 is not available",
+      "5": "save file 7 no",
+      "20": "Do not save 7 files",
+      "50": "7 Do not save the file.",
+      "100": "There are 7 articles in total."
+    },
+    "[FEM_SL8]": {
+      "3": "Save file 8 Not available",
+      "5": "Unable to save file",
+      "20": "Do not save file 8 now",
+      "50": "8. Give or take something.",
+      "100": "8. File not found"
+    },
+    "[FES_FMS]": {
+      "3": "Structure wins.",
+      "5": "Compilation was successful.",
+      "20": "Success behavior.",
+      "50": "This model is beautiful",
+      "100": "Here's a good example:"
+    },
+    "[FEM_NTF]": {
+      "3": "MEMORY CARD The memory card (8MB) (for PlayStation®2) in slot 1 is not formatted.",
+      "5": "Memory card (8 MB) Memory card 1 (for PlayStation®2) is not formatted",
+      "20": "Memory cards (8 MB) (for PlayStation®2) cannot be inserted into the card reader slot.",
+      "50": "Memory Card No Memory Card (8 MB) (PlayStation® 2) 1.",
+      "100": "1 Memory card (8 MB) is not configured for memory usage (PlayStation® 2)."
+    },
+    "[FES_CFM]": {
+      "3": "Formatting a memory card (8MB) (on PlayStation®2) in the MEMORY CARD slot 1. Do not reset/remove the memory card (8MB) (on PlayStation®2), controller, or console.",
+      "5": "Formatted memory card (8MB) in the memory card slot (for PlayStation®2).",
+      "20": "Memory Card (8 MB) (for PlayStation®2) Adjust Memory Card Slot 1. Do not upgrade the Memory Card (8 MB) (for PlayStation®2), controller or console.",
+      "50": "Insert the memory card (8 MB) (PlayStation® 2) into the memory card slot.",
+      "100": "Memory card memory (8MB) (PlayStation®2). Memory (8 MB) (PlayStation® 2), remote control or computer"
+    },
+    "[FES_LOQ]": {
+      "3": "The load failed! Saving the game to a memory card (8MB) (on PlayStation®2) instead of MEMORY CARD 1 is not compatible with the game. Please try to load a different save game. Now the game begins again.",
+      "5": "Download error! Memory card (8MB) Memory card 1 (for PlayStation®2) is not compatible with game drives. Try downloading another save game. Now the game starts again.",
+      "20": "An error occurred during installation. The game does not support inserting a game card (8MB) (for PlayStation®2) into the memory card slot. Try another copy. Restart the game.",
+      "50": "Download is not possible! Memory Card (8MB) (PlayStation® 2) 1. Games saved on the memory card are not compatible with this game. Download more reviews. Now restart the game.",
+      "100": "You can download it! Your card (8 MB) (PlayStation® 2) has a game stored in its memory, but it is not compatible with this game. I tried to install a game, but it wants to start."
+    },
+    "[FEM_NTH]": {
+      "3": "No memory card (8 MB) is inserted in MEMORY CARD slot 1 (on PlayStation®2).",
+      "5": "Memory card slot 1 (for PlayStation®2) The memory card (8 MB) is missing.",
+      "20": "Memory (8 MB) (for PLAYSTATION®2) The memory card cannot be inserted into slot 1.",
+      "50": "Memory card (8MB) (PlayStation® 2) Not compatible with original memory cards.",
+      "100": "Card (8 MB) (PlayStation®2) No memory card."
+    },
+    "[FES_CMP]": {
+      "3": "Collection failed! Check the memory card (8MB) (on PlayStation®2) in MEMORY CARD slot 1 and try again.",
+      "5": "Save the results! Check the memory card (8 MB) in memory card slot 1 (for PlayStation®2) and try again.",
+      "20": "I can't save you! 1 (8 MB) card (for PlayStation®2) into the memory card slot and try again",
+      "50": "If not, continue. Card Combo (8 MB) Card Combo 1 (PlayStation® 2).",
+      "100": "Don't worry! Check the memory card (8 MB) and enter 11 (PlayStation®2)."
+    },
+    "[FESZ_FO]": {
+      "3": "The memory card (8 MB) (for PlayStation®2) in the MEMORY CARD 1 slot is not formatted. Do you want to configure it now?",
+      "5": "Memory card The memory card (8 MB) in slot 1 (for PlayStation®2) is not formatted. Do you want to format now?",
+      "20": "Memory card (8 MB) No memory card installed (on PlayStation®2). Now you want to make me feel better?",
+      "50": "1 (8 MB) free memory (for second game). Want to plan now?",
+      "100": "Memory card (for PlayStation®2 memory card) (8 MB) not included. What do you want to know now?"
+    },
+    "[FES_NOC]": {
+      "3": "No memory card (8 MB) is inserted in MEMORY CARD slot 1 (on PlayStation®2).",
+      "5": "Memory card slot 1 (for PlayStation®2) The memory card (8 MB) is missing.",
+      "20": "Memory (8 MB) (for PLAYSTATION®2) The memory card cannot be inserted into slot 1.",
+      "50": "Memory card (8MB) (PlayStation® 2) Not compatible with original memory cards.",
+      "100": "Card (8 MB) (PlayStation®2) No memory card."
+    },
+    "[FES_LOE]": {
+      "3": "Loading failed! Check the memory card (8MB) (on PlayStation®2) in MEMORY CARD slot 1 and try again. Now restart the game.",
+      "5": "Uploading is not allowed! Check the memory card (8 MB) in memory card slot 1 (for PlayStation®2) and try again. Now restart the game.",
+      "20": "Index failed! 1 (8 MB) card (for PlayStation®2) into the memory card slot and try again now the game starts",
+      "50": "Installation Error! Check Memory Card (8 MB) Format Memory Card 1 (PlayStation® 2) The game has just started.",
+      "100": "Riley hasn't arrived yet! Download the map (8 MB) and place it on the first track (PlayStation®2). Live again, live again."
+    },
+    "[FES_DEE]": {
+      "3": "Could not delete! Please check the memory card (8MB) (for PlayStation®2) in the MEMORY CARD 1 slot and try again.",
+      "5": "I can't stand it! Check the memory card (8MB) (for PlayStation®2) in memory card slot 1 and try again.",
+      "20": "It can be lost! Note 1 Check the memory card (8MB) (for PlayStation®2) and try again",
+      "50": "Inserting a memory card (8 MB) into memory card 1 (PlayStation®2) does not fail authentication.",
+      "100": "Don't wait any longer, check the PlayStation 2 card memory (8 MB) and try again"
+    },
+    "[SLONFM]": {
+      "3": "Could not format! Please check the memory card (8MB) (for PlayStation®2) in the MEMORY CARD 1 slot and try again.",
+      "5": "Setup failed! Check the memory card (8MB) (for PlayStation®2) in memory card slot 1 and try again.",
+      "20": "Form failed! Note 1 Check the memory card (8MB) (for PlayStation®2) and try again",
+      "50": "An attempt to update by inserting a memory card (8 MB) into the memory card failed 1 (PlayStation®2).",
+      "100": "This model is no longer available. Check the PlayStation 2 card memory (8 MB) and try again"
+    },
+    "[SLONDR]": {
+      "3": "There is not enough free space on the memory card (8MB) (for PlayStation®2) MEMORY CARD 1 slot. Please insert a memory card (8MB) (for PlayStation®2) into the MEMORY CARD 1 slot with at least 326KB free space to save this game data.",
+      "5": "There is too little space on the memory card (8 MB) (for PlayStation®2) in memory card slot 1. Insert a memory card (8 MB) (for PlayStation®2) into memory card slot 1 with a capacity of at least 326 KB to store the game data.",
+      "20": "Sufficient Memory Card Memory Card (8 MB) (for PlayStation®2) 1 If you wish to download data for this game, please provide at least 326 KB of free space on the memory card (8 MB) (for PlayStation®2) 1 on the memory card.",
+      "50": "Insert a 326 KB Game Data Protected (8 MB) memory card (PlayStation®2) into the memory card slot.",
+      "100": "Small Memory Card (8 MB) (PlayStation® 2) Large Memory Card Memory Card (8 MB) (PlayStation® 2) 326 KB Memory card space for saving game data."
+    },
+    "[SLNSP]": {
+      "3": "There is not enough free space on the memory card (8MB) (for PlayStation®2) MEMORY CARD 1 slot. At least an additional 97KB of free space on the memory card (8MB) (for PlayStation®2) is required in the MEMORY CARD 1 slot to save this game data.",
+      "5": "Minimum memory card space (8 MB) (for PlayStation®2) for memory card slot 1. To store game data, you need at least 97 KB of free space on the memory card (8 MB) (for PlayStation®2).",
+      "20": "Memory Card (8 MB) (for PlayStation®2) 1 Insufficient Memory Card Space This game requires at least 97 KB of memory card space (8 MB) (for PlayStation®2).",
+      "50": "Memory Card 1 (PlayStation®2) Large Memory Card (8 MB) Memory Card (PlayStation®2).",
+      "100": "Memory Size (8 MB) (for PlayStation 2) Initial Memory Size (8 MB) (PlayStation 2) requires approximately 97 KB of memory to store game files."
+    },
+    "[SLONNF]": {
+      "3": "The memory card (8MB) in the MEMORY CARD 1 slot (for PlayStation®2) is not formatted. Do you want to format it now?",
+      "5": "The memory card (8 MB) in memory card slot 1 (PlayStation®2) is not formatted. Want to plan now?",
+      "20": "Not intended for use with a memory card (8MB) (for PlayStation®2). Are you training now?",
+      "50": "Memory card 1 (PlayStation®2) No memory card (8 MB). Uyafuna ukuenza ngoku?",
+      "100": "Memory Card (8MB) (PlayStation® 2) Install now?"
+    },
+    "[FESZ_FF]": {
+      "3": "The format didn’t work! MEMORY CARD Check the memory card (8MB) (for PlayStation®2) in slot 1 and try again.",
+      "5": "The format is not recommended! Memory Card (8 MB) (for PlayStation®2) Slot 1 Check the MEMORY CARD and reinstall it.",
+      "20": "The plan failed! Insert memory card (8 MB) (for PlayStation® 2) into memory card 1 and try again.",
+      "50": "It cannot be prepared! Memory card 1 (PlayStation 2) Insert a memory card (8 MB).",
+      "100": "An error occurred Download this file (PlayStation®2) (8 MB)."
+    },
+    "[MCDNSP]": {
+      "3": "No memory card (8MB) (for PlayStation®2) is inserted in the memory card slot 1. If you want to store your game data, insert a memory card (8MB) (for PlayStation®2) with at least 326KB of free space. Want to start playing anyway?",
+      "5": "Memory Card (8 MB) (for PlayStation®2) Insert a MEMORY CARD in slot 1. If you want to store your game data, insert a memory card (8 MB) (for PlayStation®2) with 326 KB of free space. Do you want to start playing yet?",
+      "20": "A user memory card (8 MB) cannot be inserted in slot 1 (for PlayStation® 2). Add a free 326 KB (8 MB) memory card to store game data (for PlayStation® 2). Do you want to start the game?",
+      "50": "The memory card is not compatible with Memory Card 1 (PlayStation®2) (8 MB). To save game data, insert an 8 MB memory card (PlayStation 2) with a capacity of 326 KB. Are you ready to play?",
+      "100": "Games are stored on a 326 KB (8 MB) memory card (PlayStation®2). level"
+    },
+    "[MCGNDP]": {
+      "3": "Insufficient Free Space on Memory Card (8MB) (For PlayStation®2) Memory Card Space 1. This game requires a minimum of 326KB of free space to store data. Want to start playing anyway?",
+      "5": "Memory card with sufficient free space (8 MB) (for PlayStation®2) MEMORY CARD in slot 1. At least 326 KB of free space is required to store game data. Do you want to start playing yet?",
+      "20": "Use card slot 1 (for PlayStation® 2), the most free space available on the memory card (8 MB). A minimum of 326 KB of free space is required to store game data. Do you still want to start the game?",
+      "50": "Good memory (8 MB) (PlayStation® 2) Memory card slot 1. The game must be 326 KB in size. Want to start playing?",
+      "100": "1 RAM (8 MB) (PlayStation®2) I can play files up to 326 KB. Who is Luder?"
+    },
+    "[MCGNSP]": {
+      "3": "Not enough free space on the memory card (8MB) (for PlayStation®2) Memory card slot 1. This game requires at least 97KB of free space on the memory card (8MB) (for PlayStation®2) to store data. Want to start playing anyway?",
+      "5": "Memory card (8MB) (PlayStation®2) does not have enough free space in MEMORY CARD slot 1. Memory card (8MB) (PlayStation®2) needs 97KB of free space in memory card slot 1. Still trying to start the game?",
+      "20": "Card Space Usage 1 (For PlayStation® 2) There is enough space on the memory card (8 MB). To store game data, each 1 memory card (for PlayStation® 2) requires 97 KB of free memory card space (8 MB). Do you want to start the game?",
+      "50": "Memory (8 MB) (PlayStation® 2).",
+      "100": "Looking for games with a microSD (8MB) memory card (PlayStation®2)?"
+    },
+    "[FESZ_WR]": {
+      "3": "Data management. Do not remove the memory card slot 1 memory card (8MB) (for PlayStation®2) from the controller or reboot/shut down the console.",
+      "5": "Save the information. Do not remove the memory card (8MB) (for PlayStation®2) in 1 memory card slot, on the controller or turn the console on/off.",
+      "20": "Protect your data Memory card slot 1 Do not remove the memory card (8 MB) (for PlayStation® 2) from the controller Restart/reboot the console.",
+      "50": "Extracting data from an 8MB memory card (PlayStation 2) To turn on or flash the device, remove the memory card from slot 1 on the control panel.",
+      "100": "Copy data to a memory stick (8MB) (PlayStation 2) 1 Do not remove the memory stick or disk. For the Repelandus aperium."
+    },
+    "[FELD_WR]": {
+      "3": "Loading of data. Do not remove the memory card (8 MB) (for PlayStation®2) from MEMORY CARD slot 1, the controller, or restart/shut down the console.",
+      "5": "Data loading. Do not insert a memory card (8MB) (for PlayStation®2) into the memory card 1 slot, the controller and restart / stop the console.",
+      "20": "data entered. Remove the memory card (8 MB) (PlayStation®2) from the MEMORY CARD 1 slot on the computer or turn off the console.",
+      "50": "Key card access 1 Do not remove the memory card (8 MB) (PlayStation® 2) from the controller Open or close Control Panel.",
+      "100": "Remove the green memory card (8MB) (PlayStation®2) from position 1 and turn the remote control on and off."
+    },
+    "[FEDL_WR]": {
+      "3": "Deleting the data. Do not remove the memory card (8 MB) (for PlayStation®2) from MEMORY CARD slot 1, the controller, or restart/shut down the console.",
+      "5": "Delete the data. Do not insert a memory card (8MB) (for PlayStation®2) into the memory card 1 slot, the controller and restart / stop the console.",
+      "20": "Corrupt file. Remove the memory card (8 MB) (PlayStation®2) from the MEMORY CARD 1 slot on the computer or turn off the console.",
+      "50": "Memory Memory card button 1 Do not remove the memory card (8 MB) (PlayStation® 2) from the remote control. Open or close Control Panel.",
+      "100": "1. Run command to clear (PlayStation®2) memory (8MB). or turn the steering wheel."
+    },
+    "[MCDNCK]": {
+      "3": "To locate the memory card (8 MB) (for PlayStation®2) in the MEMORY CARD Slot 1. Do not remove the memory card (8MB) (for PlayStation®2), the controller, or restart/shut down the console.",
+      "5": "Check the memory card (8MB) (for PlayStation®2) in the memory card slot.",
+      "20": "Insert a memory card (8 MB) into memory card slot 1 (PlayStation®2). Do not remove the memory card (8MB) (PlayStation®2) with the controller or turn the console on/off.",
+      "50": "Insert a memory card (8 MB) into memory card slot 1 (PlayStation 2). Do not remove the memory card (8 MB) (PlayStation® 2) from the controller Open or close Control Panel.",
+      "100": "Insert the Cardboard (8MB) (PlayStation®2) card into the card slot 1. Insert the card (8MB) and remove it from the device (PlayStation®2)."
+    },
+    "[FES_LCF]": {
+      "3": "The upload failed! Check the memory card (8 MB) (for PlayStation®2) in MEMORY CARD slot 1 and try again.",
+      "5": "Not downloaded yet! Insert a memory card (8 MB) (for PlayStation®2) into memory card slot 1 and try again.",
+      "20": "failure! Check the memory card (8 MB) in memory card slot 1 (PlayStation®2) and try again.",
+      "50": "I can't stand it! Copy the map (8MB) to memory card 1a (PlayStation®2) and test.",
+      "100": "Remove the internal memory (8 MB) (PlayStation®2) card and try again"
+    },
+    "[FESZ_LS]": {
+      "3": "Charging was successful.",
+      "5": "The installation was successful.",
+      "20": "Presentation is good.",
+      "50": "good result",
+      "100": "Installation is complete."
+    },
+    "[FEM_OK]": {
+      "3": "OK",
+      "5": "good",
+      "20": "a little bit",
+      "50": "Good",
+      "100": "This is not a good idea."
+    },
+    "[RESTART]": {
+      "3": "Start a new game.",
+      "5": "Start a new game.",
+      "20": "Start a new game.",
+      "50": "Start a new game",
+      "100": "Voi Cave Restaurant is not available."
+    },
+    "[NOCONT]": {
+      "3": "Connect a DUALSHOCK® analog controller or DUALSHOCK®2 analog controller to port 1 to continue.",
+      "5": "Connect the DUALSHOCK® Analog Controller or DUALSHOCK®2 Analog Controller to port 1 of the controller to continue.",
+      "20": "To maintain compatibility, use a DUALSHOCK® analog controller or a DUALSHOCK®2 analog controller for Controller 1.",
+      "50": "Continue connecting 1 DUALSHOCK® analog controller or 2 DUALSHOCK® analog controllers.",
+      "100": "You can connect one DUALSHOCK® controller or 2 DUALSHOCK® controllers to one device port."
+    },
+    "[NOCONTE]": {
+      "3": "Please connect an analog controller (DUALSHOCK®) or an analog controller (DUALSHOCK®2) to port 1 to continue.",
+      "5": "Connect an analog controller (DUALSHOCK®) or analog controller (DUALSHOCK®2) to port 1 of the controller to continue.",
+      "20": "For regular use, connect an analog controller (DUALSHOCK®) or an analog controller (DUALSHOCK®2) to port 1 of the controller.",
+      "50": "Continue connecting an analog controller (DUALSHOCK®) or another analog controller. (DUALSHOCK®2) to port 1 on the control panel.",
+      "100": "Add a controller (DUALSHOCK®) or a controller. (DUALSHOCK®2) to this device 1 Clear."
+    },
+    "[WRCONT]": {
+      "3": "The controller connected to port 1 is an unsupported controller. GTA: Vice City Story requires an analog controller (DUALSHOCK®) or an analog controller (DUALSHOCK®2).",
+      "5": "The controller connected to control port 1 is an auxiliary controller. GTA: Vice City Stories requires an analog controller (DUALSHOCK®) or an analog controller (DUALSHOCK®2).",
+      "20": "The controller is connected to port 1 of the controller as a passive controller. GTA: Vice City Communication requires Analog Stick (DUALSHOCK®) or Analog Stick (DUALSHOCK®2).",
+      "50": "The new console port of GTA 1: City Manager requires an analog controller (DUALSHOCK®) or an analog controller. (DUALSHOCK®2).",
+      "100": "There is nothing wrong with that. Console games do not work 1. GTA: Vice City Legends requires an analog (DUALSHOCK®) or controller. (DUALSHOCK®2) to play"
+    },
+    "[WRCONTE]": {
+      "3": "The controller connected to controller port 1 is an unused controller. GTA: Vice City Stories requires an analog controller (DUALSHOCK®) or a controller (DUALSHOCK®2).",
+      "5": "Controllers connected to controller 1 are not supported controllers. GTA: Wise City Story requires a controller (DUALSHOCK®) or an analog controller (DUALSHOCK®2).",
+      "20": "Controller 1 is connected to the manual drive. GTA: Vice City requires a controller (DUALSHOCK®) or a handheld controller (DUALSHOCK®2).",
+      "50": "1. test port. GTA related driver support hardware. Leas City Story requires a DUALSHOCK® or an analog controller. (if they follow).",
+      "100": "GTA: Urban Legends requires an analog controller (DUALSHOCK®) or a controller. (DualShock® 2)"
+    },
+    "[FEMP_HG]": {
+      "3": "Compare GAMES",
+      "5": "wait for the game",
+      "20": "welcome to the game",
+      "50": "He is the director of the game",
+      "100": "until tomorrow"
+    },
+    "[FEMP_JG]": {
+      "3": "LOG IN GAMES",
+      "5": "join the game",
+      "20": "come to the game",
+      "50": "Another game",
+      "100": "This game is very interesting"
+    },
+    "[FEMP_J]": {
+      "3": "Please log in",
+      "5": "participation",
+      "20": "participate",
+      "50": "stay with us",
+      "100": "Follow the news."
+    },
+    "[FEMP_CS]": {
+      "3": "Symptoms:",
+      "5": "Personal characteristics:",
+      "20": "Teacher:",
+      "50": "which is flying",
+      "100": "The game is over."
+    },
+    "[FEMP_PS]": {
+      "3": "Player Settings.",
+      "5": "PLAYER SETTINGS",
+      "20": "game type",
+      "50": "The game plan",
+      "100": "I want to see the final."
+    },
+    "[FEMP_GS]": {
+      "3": "Think of a game.",
+      "5": "CHOOSE A GAME",
+      "20": "Choose your story",
+      "50": "What is my favorite sport?",
+      "100": "The game continues."
+    },
+    "[FEMP_R]": {
+      "3": "Do it again and again.",
+      "5": "RETURN UPDATE",
+      "20": "repeat",
+      "50": "This is the default value.",
+      "100": "Department of Water Resources"
+    },
+    "[FEMP_NG]": {
+      "3": "Start a new game.",
+      "5": "BEGINNING OF A NEW GAME",
+      "20": "A new game begins",
+      "50": "Start a new game.",
+      "100": "Start a new game."
+    },
+    "[FEMP_H]": {
+      "3": "Host: 1.",
+      "5": "a stranger",
+      "20": "Guest:",
+      "50": "Guests: 1.1.",
+      "100": "Rules: 1.1."
+    },
+    "[FEMP_P]": {
+      "3": "Players:",
+      "5": "Players:",
+      "20": "Actors:",
+      "50": "However:",
+      "100": "How can this be done?"
+    },
+    "[FEMP_TS]": {
+      "3": "Find one:",
+      "5": "JOIN THE TEAM:",
+      "20": "Join the group:",
+      "50": "Follow someone.",
+      "100": "You have a team."
+    },
+    "[FEMP_GJ]": {
+      "3": "Choose your perfect game",
+      "5": "Choose a game to play",
+      "20": "Select Join Game",
+      "50": "Select a game at random.",
+      "100": "Choose one and win the game."
+    },
+    "[SVRLIST]": {
+      "3": "Good list",
+      "5": "List of hosts",
+      "20": "guest list",
+      "50": "List of guests.",
+      "100": "The guest list is below."
+    },
+    "[SVRINFO]": {
+      "3": "Guest details",
+      "5": "Host details",
+      "20": "foreign information",
+      "50": "Everyone was shocked.",
+      "100": "You can join us too."
+    },
+    "[SVRNAME]": {
+      "3": "Name:",
+      "5": "name:",
+      "20": "Name: 1.1.",
+      "50": "Name:",
+      "100": "Software: Boomco Bauer"
+    },
+    "[NO_SVRS]": {
+      "3": "I am looking for a host",
+      "5": "Our host is delighted",
+      "20": "Follow the host.",
+      "50": "I am looking for an employee.",
+      "100": "I'm looking for something I don't know"
+    },
+    "[NO_PLRS]": {
+      "3": "Looking for players",
+      "5": "Some players in the morning",
+      "20": "Follow the players.",
+      "50": "Watch the game",
+      "100": "I was in a meeting"
+    },
+    "[NO_NAME]": {
+      "3": "That",
+      "5": "There is no name",
+      "20": "No name.",
+      "50": "i will not fly",
+      "100": "He doesn’t have a name."
+    },
+    "[NOWIFI1]": {
+      "3": "To play multiplayer games, you need to open WLAN first",
+      "5": "To play multiplayer games, you must first turn on the WLAN switch",
+      "20": "To play multiple games, you need to enable Wifi Switch.",
+      "50": "Do you like multiplayer games? First, you need to set a WiFi password.",
+      "100": "Most games require Wi-Fi to be turned off"
+    },
+    "[FEMP_SG]": {
+      "3": "Start game",
+      "5": "Start the game",
+      "20": "The game begins",
+      "50": "The game has begun.",
+      "100": "I'm talking about home."
+    },
+    "[FEMP_S]": {
+      "3": "Introduction",
+      "5": "get started",
+      "20": "start",
+      "50": "Let's get down to business.",
+      "100": "Many times like this"
+    },
+    "[FEMP_WS]": {
+      "3": "Waiting for the game to start on the console...",
+      "5": "Wait for the host to start playing...",
+      "20": "Waiting for the main game to start...",
+      "50": "Wait for the bass to start playing.",
+      "100": "We are waiting for the start of the presidential elections."
+    },
+    "[FEMP_SQ]": {
+      "3": "Are you sure you want to start a multiplayer game?",
+      "5": "Are you sure you want to start a multiplayer game?",
+      "20": "Want to start playing multiplayer games?",
+      "50": "Love multiplayer games?",
+      "100": "Do you want to start the game?"
+    },
+    "[FEMP_HN]": {
+      "3": "New console games",
+      "5": "Find a new sport",
+      "20": "play a new game",
+      "50": "Download the new game here.",
+      "100": "New game coming out soon."
+    },
+    "[SVRLOST]": {
+      "3": "Communication with the host has been lost.",
+      "5": "Lost connection with host.",
+      "20": "The connection to the server has been lost.",
+      "50": "Baro laban ni dunan wy.",
+      "100": "and he married her"
+    },
+    "[NOSVRS]": {
+      "3": "Host device not found.",
+      "5": "Host could not be found.",
+      "20": "This is not the case on the server.",
+      "50": "Mobili has sɔrɔ abada.",
+      "100": "It's not a problem. No problem."
+    },
+    "[MP_WARN]": {
+      "3": "When you start a multiplayer game, all progress from your last save game will be lost.",
+      "5": "When starting a multiplayer game, your progress since the last save will be lost.",
+      "20": "In multiplayer games, all progress from the last saved game is carried over.",
+      "50": "If you start multiple games, you'll need to track your progress since your last save.",
+      "100": "When you start the game Your recordings will be deleted."
+    },
+    "[GS_G1]": {
+      "3": "The city councilman survived.",
+      "5": "survive vice town",
+      "20": "Vice City survived",
+      "50": "Family life ended.",
+      "100": "environmental problems"
+    },
+    "[GS_G2]": {
+      "3": "street rage",
+      "5": "road rage",
+      "20": "There are problems on the roads",
+      "50": "This method is always used.",
+      "100": "Bad beer"
+    },
+    "[GS_G3]": {
+      "3": "Defense missile",
+      "5": "Racket safety",
+      "20": "Rocket",
+      "50": "They wear protective gear.",
+      "100": "I love the safety of the gun!"
+    },
+    "[GS_G5]": {
+      "3": "STORAGE TANKS",
+      "5": "Recreational pools",
+      "20": "Plan an action",
+      "50": "This is a new gift.",
+      "100": "Video by Assam Youth Council"
+    },
+    "[GS_G6]": {
+      "3": "LIST OF SUCCESSES",
+      "5": "Click on the list.",
+      "20": "List your favorites",
+      "50": "on the table",
+      "100": "Dance from Varanasi"
+    },
+    "[GS_G7]": {
+      "3": "GRAND THEFT OF A CAR",
+      "5": "Car theft",
+      "20": "It is a leading car manufacturing company.",
+      "50": "Support vehicle.",
+      "100": "Right click on it"
+    },
+    "[GS_G11]": {
+      "3": "COLLECT GOLD",
+      "5": "The loss of gold",
+      "20": "Get out of my place",
+      "50": "All properties.",
+      "100": "Best Bhojpuri Songs"
+    },
+    "[GS_G12]": {
+      "3": "Policies and regulations",
+      "5": "police and robbers",
+      "20": "Police and thieves",
+      "50": "And the wrong people",
+      "100": "normative"
+    },
+    "[GS_D1]": {
+      "3": "Welcome to Classic Design! Urban Darwinism.",
+      "5": "There is free play! The darkness is back.",
+      "20": "Custom Games! Rethinking urban Darwinism",
+      "50": "It's an old story. And the dark city",
+      "100": "everything is good for you Social Darwinism"
+    },
+    "[GS_D2]": {
+      "3": "Who benefits (or benefits)?",
+      "5": "Who complained (or cheated) the most?",
+      "20": "Who is the best driver? (or more)?",
+      "50": "Who drives better? (or worse)?",
+      "100": "What country?"
+    },
+    "[GS_D3]": {
+      "3": "Protect your vehicle from dirt and vandals.",
+      "5": "Protect your car from damage.",
+      "20": "Protects the vehicle from overload and damage.",
+      "50": "Kill the whole world",
+      "100": "Protect your car from thieves."
+    },
+    "[GS_D4]": {
+      "3": "Your evil gang is stealing a car. And you are away from them.",
+      "5": "Steal an enemy team vehicle. Laugh at them.",
+      "20": "It's a group vehicle. You have to laugh",
+      "50": "A bank robbery gone wrong.",
+      "100": "His boss stole a lot of cars*"
+    },
+    "[GS_D5]": {
+      "3": "Who really needs this tank?",
+      "5": "Who really needs this tank?",
+      "20": "Who needs this set?",
+      "50": "Who needs the test?",
+      "100": "leave me alone"
+    },
+    "[GS_D6]": {
+      "3": "Kill the marked person.",
+      "5": "Target killing.",
+      "20": "kill a friend",
+      "50": "It's killing me.",
+      "100": "other things"
+    },
+    "[GS_D7]": {
+      "3": "Stealing cars for money.",
+      "5": "Vehicle theft and MISCONDUCT.",
+      "20": "Stealing cars to get money",
+      "50": "After receiving the money, the car was stolen.",
+      "100": "If someone steals your car."
+    },
+    "[GS_D11]": {
+      "3": "Collect Gold Description",
+      "5": "Amount of gold Description",
+      "20": "Collect gold",
+      "50": "Collect gold coins.",
+      "100": "Call for help"
+    },
+    "[GS_D12]": {
+      "3": "Definition of police and criminals",
+      "5": "VÖNM description and parts",
+      "20": "Behavior of police and robbers",
+      "50": "Police and robbery reports",
+      "100": "A story about a cop and a thief."
+    },
+    "[GS_STYL]": {
+      "3": "WALL TYPE:",
+      "5": "Game Sales:",
+      "20": "FA Requirements:",
+      "50": "But you have to play.",
+      "100": "Rules of the game"
+    },
+    "[GS_FFAL]": {
+      "3": "FOR THE PEOPLE",
+      "5": "everyone is free",
+      "20": "Everything is free.",
+      "50": "Everything is free.",
+      "100": "They are all married."
+    },
+    "[GS_LOC]": {
+      "3": "AREA OF THE SHIRT:",
+      "5": "Location:",
+      "20": "Work location:",
+      "50": "These types include:",
+      "100": "Game time"
+    },
+    "[GS_LOC2]": {
+      "3": "LOCATION:",
+      "5": "Location:",
+      "20": "Location:",
+      "50": "These types include:",
+      "100": "Occurrence: Worldwide"
+    },
+    "[GS_SLMT]": {
+      "3": "SCHOOL:",
+      "5": "Score Range:",
+      "20": "Description:",
+      "50": "In its depths",
+      "100": "God the Father: Poetry and Music"
+    },
+    "[GS_KLMT]": {
+      "3": "Kill limit:",
+      "5": "Kill limit:",
+      "20": "Movement limits: 1.1.",
+      "50": "Workplace:",
+      "100": "Results: 1.1."
+    },
+    "[GS_TLMT]": {
+      "3": "deadline:",
+      "5": "Deadline:",
+      "20": "Date: 1.1.",
+      "50": "Conclusion:",
+      "100": "Appendix: 1.1."
+    },
+    "[GS_ULMT]": {
+      "3": "without limits",
+      "5": "unlimited",
+      "20": "There are no restrictions.",
+      "50": "This is not the end.",
+      "100": "Which is not a sin."
+    },
+    "[GS_PRUP]": {
+      "3": "power:",
+      "5": "Strengths:",
+      "20": "Source: 1.1.",
+      "50": "You can:",
+      "100": "Results: 1.1."
+    },
+    "[GS_RACE]": {
+      "3": "nation:",
+      "5": "Race:",
+      "20": "Case Studies: 1.1.",
+      "50": "In the competition:",
+      "100": "work:"
+    },
+    "[GS_LAPS]": {
+      "3": "LAPS:",
+      "5": "Circle:",
+      "20": "Data",
+      "50": "Age: 100 years old",
+      "100": "Contact:"
+    },
+    "[GS_OK]": {
+      "3": "That is true",
+      "5": "it's okay",
+      "20": "Repeatedly",
+      "50": "That's not true.",
+      "100": "OCP is coming this summer"
+    },
+    "[GS_SCAR]": {
+      "3": "Car:",
+      "5": "Vehicles:",
+      "20": "I understand",
+      "50": "With this device:",
+      "100": "The student of the"
+    },
+    "[GS_MIN]": {
+      "3": "One minute",
+      "5": "minutes",
+      "20": "1 minute",
+      "50": "One more minute",
+      "100": "If you are a Manager"
+    },
+    "[GS_MINS]": {
+      "3": "minutes",
+      "5": "minutes",
+      "20": "1 minute",
+      "50": "One more minute",
+      "100": "If you are a Manager"
+    },
+    "[GS_SCUT]": {
+      "3": "Play scene:",
+      "5": "Play the demo:",
+      "20": "Play the clip.",
+      "50": "Click to start watching",
+      "100": "See the table for more details. 1. ."
+    },
+    "[GS_TTGT]": {
+      "3": "Target time:",
+      "5": "Time goals:",
+      "20": "Temporary value:",
+      "50": "Created by CIBL",
+      "100": "But now the time has come."
+    },
+    "[MPSSCT]": {
+      "3": "Financial goal:",
+      "5": "MAIN OBJECTIVES:",
+      "20": "Target Fund:",
+      "50": "financial results;",
+      "100": "i cried"
+    },
+    "[MPWLGOC]": {
+      "3": "Get out of the car.",
+      "5": "Get out of the car.",
+      "20": "Get out of the car.",
+      "50": "Get out of the car",
+      "100": "he got out of the car"
+    },
+    "[MPWLLTC]": {
+      "3": "Leave the box.",
+      "5": "Leave the box.",
+      "20": "Full payment",
+      "50": "Store in a box.",
+      "100": "in the bag"
+    },
+    "[MPWLDTC]": {
+      "3": "Deliver the car.",
+      "5": "Pass the car over.",
+      "20": "We got out of the car.",
+      "50": "Give me the car",
+      "100": "Get in the car."
+    },
+    "[MPWLCD]": {
+      "3": "Dear delivered.",
+      "5": "A car is repaired.",
+      "20": "The car is insured.",
+      "50": "Young people have phones",
+      "100": "switching from one device to another."
+    },
+    "[MPWLNGC]": {
+      "3": "Now take the cars.",
+      "5": "Now grab these cars.",
+      "20": "Let's get in the car.",
+      "50": "Bring the car now",
+      "100": "Then select your vehicle."
+    },
+    "[MPAUTO]": {
+      "3": "Play it once",
+      "5": "Let's play a game",
+      "20": "He was playing the game",
+      "50": "There is only one way to play",
+      "100": "The game must be played."
+    },
+    "[MRACEGO]": {
+      "3": "Come on",
+      "5": "Go ahead",
+      "20": "I beg you",
+      "50": "Continue to the next step",
+      "100": "to go to."
+    },
+    "[MRACE04]": {
+      "3": "You are the instructor",
+      "5": "You are the winner",
+      "20": "you must win",
+      "50": "You are a hero",
+      "100": "I can't do it"
+    },
+    "[MRACEWI]": {
+      "3": "He won the race.",
+      "5": "It's definitely competitive.",
+      "20": "won the game",
+      "50": "He won the match",
+      "100": "Rules and regulations"
+    },
+    "[MRCPU01]": {
+      "3": "Preparation with heart",
+      "5": "Immediate treatment",
+      "20": "House inspection",
+      "50": "Answer quickly",
+      "100": "We have to wait"
+    },
+    "[DTB01]": {
+      "3": "protect vehicles",
+      "5": "Protect the car",
+      "20": "Waiting for the bus",
+      "50": "Resource Management",
+      "100": "Except for this car"
+    },
+    "[DTB02]": {
+      "3": "Destroy those cars.",
+      "5": "Destroy the car",
+      "20": "the vehicle broke down",
+      "50": "The car has been repaired",
+      "100": "Communication problems"
+    },
+    "[DTB03]": {
+      "3": "Your car is lost",
+      "5": "Your car is gone",
+      "20": "He lost his car",
+      "50": "He lost his car",
+      "100": "I got down from the car."
+    },
+    "[DTB04]": {
+      "3": "You broke the car",
+      "5": "You wrecked your car",
+      "20": "Hit by a car.",
+      "50": "Driver:",
+      "100": "I got down from the car."
+    },
+    "[MPWIN]": {
+      "3": "win",
+      "5": "is succeeding",
+      "20": "He made money.",
+      "50": "You didn't win.",
+      "100": "It is a resource."
+    },
+    "[MPKSELF]": {
+      "3": "killed",
+      "5": "He was killed",
+      "20": "They were killed.",
+      "50": "In this case, only one died.",
+      "100": "Who will kill him?"
+    },
+    "[MPMORE]": {
+      "3": "Kill more",
+      "5": "It kills more",
+      "20": "More kills",
+      "50": "Most of them are murderers.",
+      "100": "Killing innocent people"
+    },
+    "[MP1MORE]": {
+      "3": "Kill more",
+      "5": "killing many people",
+      "20": "There will be no more killing",
+      "50": "take a look",
+      "100": "The whole word"
+    },
+    "[MPSTRT]": {
+      "3": "It has started",
+      "5": "Start",
+      "20": "started",
+      "50": "It can be removed.",
+      "100": "This is the first time."
+    },
+    "[MPTANK]": {
+      "3": "There is a deposit",
+      "5": "It’s a box",
+      "20": "and opinions",
+      "50": "He has a car.",
+      "100": "I live in the room."
+    },
+    "[MPONE]": {
+      "3": "He only has one car to take",
+      "5": "Buy only one vehicle",
+      "20": "They will only buy one car.",
+      "50": "I bought a new car.",
+      "100": "He needs blood."
+    },
+    "[MPDEL]": {
+      "3": "He delivered the car",
+      "5": "Give me the car",
+      "20": "He started the car",
+      "50": "He drives a car.",
+      "100": "we will be there"
+    },
+    "[MPGOCAR]": {
+      "3": "Go find a car",
+      "5": "Go find a car",
+      "20": "Find a car",
+      "50": "From the author.",
+      "100": "He approached the table"
+    },
+    "[MPGOGAR]": {
+      "3": "Hand over the car",
+      "5": "Send the car",
+      "20": "Get out of the car.",
+      "50": "Challenges",
+      "100": "He will do it for you."
+    },
+    "[MPDEST]": {
+      "3": "Target vehicle destroyed",
+      "5": "The target vehicle was destroyed",
+      "20": "You can use the car.",
+      "50": "The goal is self-destruction.",
+      "100": "I don't have a weapon."
+    },
+    "[MPLEFT]": {
+      "3": "լքել է խաղը",
+      "5": "Leave the game alone",
+      "20": "Playing on the left.",
+      "50": "to remember",
+      "100": "The game is over."
+    },
+    "[MPHPGO2]": {
+      "3": "Are you on the Deathwatch list?",
+      "5": "You are on death row.",
+      "20": "Edi be dead.",
+      "50": "I am on the dead list",
+      "100": "He will die."
+    },
+    "[MPHPKI]": {
+      "3": "You killed a murderer.",
+      "5": "You killed the killer",
+      "20": "Kill the murderer.",
+      "50": "One person died.",
+      "100": "They killed him."
+    },
+    "[MPNAME]": {
+      "3": "The name",
+      "5": "letter",
+      "20": "Is that your name?",
+      "50": "These risks are minimal.",
+      "100": "I was with you too."
+    },
+    "[MPSCORE]": {
+      "3": "Score",
+      "5": "score",
+      "20": "Behavioral analysis",
+      "50": "I think it is",
+      "100": "They can write sentences"
+    },
+    "[MPTOTAL]": {
+      "3": "total time",
+      "5": "Total time",
+      "20": "At any time of the day",
+      "50": "That’s right.",
+      "100": "there is something"
+    },
+    "[MPBONUS]": {
+      "3": "Bonus",
+      "5": "Bonus",
+      "20": "Speaking buttons",
+      "50": "There are other versions.",
+      "100": "The design is beautiful"
+    },
+    "[LOCKON]": {
+      "3": "Sign in",
+      "5": "near",
+      "20": "The problems with this",
+      "50": "Exercise in the gym",
+      "100": "I live in Nusra"
+    },
+    "[MPHPGO]": {
+      "3": "Remove the check mark.",
+      "5": "Remove the mark.",
+      "20": "Remove the label",
+      "50": "I remember this",
+      "100": "Enter your first and last name"
+    },
+    "[MPTNK]": {
+      "3": "Get a tank",
+      "5": "Get funding.",
+      "20": "Round and round",
+      "50": "in the tank",
+      "100": "You have to find the box"
+    },
+    "[MRCPU06]": {
+      "3": "Sticky ball",
+      "5": "Tire",
+      "20": "Sewing belts",
+      "50": "Children are free",
+      "100": "This is very interesting."
+    },
+    "[WINNER]": {
+      "3": "The winner",
+      "5": "Winner",
+      "20": "It was a very nice experience",
+      "50": "stranger",
+      "100": "Everything is normal"
+    },
+    "[MPDRAW]": {
+      "3": "COMBINED SYSTEM",
+      "5": "friends",
+      "20": "Darren Elk",
+      "50": "For example:",
+      "100": "He looked around"
+    },
+    "[MPDADDY]": {
+      "3": "YOU ARE A FATHER.",
+      "5": "You are now a father.",
+      "20": "Now he is an old man.",
+      "50": "You are a father now.",
+      "100": "I'm your father."
+    },
+    "[MPRUN]": {
+      "3": "DO SIA NOW.",
+      "5": "This city government now",
+      "20": "Now open this city.",
+      "50": "Burqa in the city",
+      "100": "So they moved to the city."
+    },
+    "[MPBITCH]": {
+      "3": "WHO IS YOUR FATHER NOW, PICH?",
+      "5": "Who's your dad now, Buster?",
+      "20": "Who is your father now?",
+      "50": "Who are your parents now?",
+      "100": "Thank you again. Ananke is a human being."
+    },
+    "[FEMP_SM]": {
+      "3": "Don't talk to your friends or strangers standing next to you, play Grand Autoplay with them.",
+      "5": "Don't talk to friends or strangers nearby. Play Grand Theft Auto with them.",
+      "20": "Don't talk to friends or strangers. Play Grand Theft Auto with them.",
+      "50": "Don’t talk to friends or strangers, play Grand Thief Auto with them.",
+      "100": "Don't tell your friends or even strangers. This game is Grand Theft Auto."
+    },
+    "[MPYL]": {
+      "3": "You are a loser!",
+      "5": "You are a loser!",
+      "20": "Do you have allergies?",
+      "50": "This is awesome!",
+      "100": "They are ready!"
+    },
+    "[MPTMWIN]": {
+      "3": "is the top dog",
+      "5": "top dog",
+      "20": "hello",
+      "50": "From a good dog",
+      "100": "Told the people"
+    },
+    "[MPTNKGA]": {
+      "3": "You have a tank, tough guy.",
+      "5": "You have a tank, tough guy.",
+      "20": "I have a tank, man.",
+      "50": "She is smart and beautiful.",
+      "100": "Do not abandon your child"
+    },
+    "[MPTNKGB]": {
+      "3": "Install it now.",
+      "5": "Book now.",
+      "20": "To be completed.",
+      "50": "Hello ladies and gentlemen of the internet.",
+      "100": "Partially closed"
+    },
+    "[GS_TYPE]": {
+      "3": "Events:",
+      "5": "Indicates:",
+      "20": "on the earth",
+      "50": "Summary: February 1",
+      "100": "Checklist: 1.1."
+    },
+    "[CLILOST]": {
+      "3": "Communication with other players is lost.",
+      "5": "Contact other missing players.",
+      "20": "You have lost contact with other players.",
+      "50": "Some steps are missing",
+      "100": "These are rare things."
+    },
+    "[SVRMBRS]": {
+      "3": "List of players:",
+      "5": "Player List:",
+      "20": "List of players:",
+      "50": "the content of.",
+      "100": "thank you so much."
+    },
+    "[TR_00]": {
+      "3": "Competition is one",
+      "5": "The first round",
+      "20": "This is a test",
+      "50": "The first attempt was made",
+      "100": "First question"
+    },
+    "[TR_01]": {
+      "3": "Contest two",
+      "5": "second generation",
+      "20": "second position",
+      "50": "There are two types of power",
+      "100": "This is a completely different story."
+    },
+    "[TR_02]": {
+      "3": "Competition three",
+      "5": "The third generation",
+      "20": "Third generation",
+      "50": "During the test",
+      "100": "There is a third way."
+    },
+    "[TR_03]": {
+      "3": "Fourth Successor",
+      "5": "The fourth race",
+      "20": "The fourth property",
+      "50": "World Health Organization;",
+      "100": "His voice spoke."
+    },
+    "[MP_RSS]": {
+      "3": "Hosting a game (click to cancel)",
+      "5": "Hosting Game (click to cancel)",
+      "20": "Game server (click to download).",
+      "50": "Save the game (click to exit the game).",
+      "100": "increase (open)."
+    },
+    "[MP_RSC]": {
+      "3": "Linking to original lobby (click to remove)",
+      "5": "Link to previous lobby (click to cancel)",
+      "20": "Join us next time (click to download)",
+      "50": "View Previous Hostels (Click Here)",
+      "100": "Then put it in the oven (press the button)."
+    },
+    "[MPTEAM]": {
+      "3": "Gang of criminals",
+      "5": "gang",
+      "20": "This is a group",
+      "50": "A group of players",
+      "100": "everything"
+    },
+    "[MPTIME]": {
+      "3": "times",
+      "5": "the weather",
+      "20": "A period of time",
+      "50": "It's his time",
+      "100": "Now is the time."
+    },
+    "[MPQUIT]": {
+      "3": "stop it",
+      "5": "Leave it to him",
+      "20": "come to your place",
+      "50": "The victim was killed.",
+      "100": "I gave it to him."
+    },
+    "[MPCONT]": {
+      "3": "To continue",
+      "5": "Let's keep going",
+      "20": "the other is",
+      "50": "Keep doing this",
+      "100": "Please return to the door."
+    },
+    "[MPHELP]": {
+      "3": "Help",
+      "5": "Apua",
+      "20": "help me out",
+      "50": "Thank you for your support",
+      "100": "Please help me."
+    },
+    "[MPQG]": {
+      "3": "Quit the game?",
+      "5": "horse horse?",
+      "20": "Should I quit the game?",
+      "50": "Is there something wrong with this game?",
+      "100": "It makes me happy"
+    },
+    "[MPK]": {
+      "3": "Killed",
+      "5": "Carpet",
+      "20": "There is blood",
+      "50": "He died in this attack.",
+      "100": "He died in the attack."
+    },
+    "[MPKHEAD]": {
+      "3": "and the head!",
+      "5": "Use your head!",
+      "20": "Leave your head!",
+      "50": "Mac I'm sorry",
+      "100": "Be patient with yourself."
+    },
+    "[MPFAIL]": {
+      "3": "THANK YOU",
+      "5": "fail",
+      "20": "It doesn't work.",
+      "50": "In other words:",
+      "100": "This is a revelation."
+    },
+    "[MRACELA]": {
+      "3": "The Tower",
+      "5": "pi",
+      "20": "surgery",
+      "50": "before and after",
+      "100": "C.J.S."
+    },
+    "[RACEP1]": {
+      "3": "1 st",
+      "5": "1 piece",
+      "20": "1.1.19.09.2012 at 10:00:00.",
+      "50": "This will be the first service in Israel.",
+      "100": "I did this in August."
+    },
+    "[RACEP2]": {
+      "3": "2nd",
+      "5": "Second",
+      "20": "2. 2. 2. For example.",
+      "50": "There are two sites.",
+      "100": "2 grams of eggs."
+    },
+    "[RACEP3]": {
+      "3": "Third",
+      "5": "3.3",
+      "20": "There is a third",
+      "50": "Three",
+      "100": "Version 3.3.3.3.3 is available"
+    },
+    "[RACEP4]": {
+      "3": "Fourth",
+      "5": "4.4",
+      "20": "4. 4. .",
+      "50": "4 This is a box.",
+      "100": "4.4.4.4.4 You are human"
+    },
+    "[RACEP5]": {
+      "3": "5 pa",
+      "5": "5",
+      "20": "5. 5. .",
+      "50": "Step 5:",
+      "100": "5.5.5.5.5.5.5.5.5.5.5.5."
+    },
+    "[RACEP6]": {
+      "3": "Sixth",
+      "5": "6.6",
+      "20": "6. 6. Some examples.",
+      "50": "At 6 a.m.",
+      "100": "6.6.6.6.6."
+    },
+    "[RACEP7]": {
+      "3": "7 pa",
+      "5": "7",
+      "20": "7. 7. Some examples.",
+      "50": "7. Everything is fine.",
+      "100": "For 7.7.7.7;"
+    },
+    "[RACEP8]": {
+      "3": "8 days",
+      "5": "the eighth",
+      "20": "seven",
+      "50": "The 8.8G.",
+      "100": "I have 8/8."
+    },
+    "[DTBSWPA]": {
+      "3": "You have blocked the enemy",
+      "5": "You are trapped by the enemy",
+      "20": "He stopped his enemies",
+      "50": "To defeat the enemy.",
+      "100": "Nora said with a smile."
+    },
+    "[DTBSWPB]": {
+      "3": "Now throw away the slower cars.",
+      "5": "They waste their car in no time.",
+      "20": "And they drove until a little time.",
+      "50": "I don’t know what’s going on here.",
+      "100": "Everything came out."
+    },
+    "[DTBSWPC]": {
+      "3": "You trash enemy vehicles",
+      "5": "You trash enemy vehicles",
+      "20": "Destroy enemy vehicles",
+      "50": "He was hit by an enemy vehicle.",
+      "100": "Increases enemy weapons."
+    },
+    "[DTBSWPD]": {
+      "3": "Keep your cars safe for longer now.",
+      "5": "Now protect your vehicle for a long time.",
+      "20": "Trust your work to get more today.",
+      "50": "So make sure you have a safe car.",
+      "100": "Green nails"
+    },
+    "[HA_STRT]": {
+      "3": "Enter the Hunter",
+      "5": "Go to the Hunter.",
+      "20": "The thief entered.",
+      "50": "to catch fish",
+      "100": "in life"
+    },
+    "[HA_DSRY]": {
+      "3": "The Destruction Hunter",
+      "5": "Destroy the hunter.",
+      "20": "was destroyed",
+      "50": "bad food",
+      "100": "I like"
+    },
+    "[HA_GOTH]": {
+      "3": "Hunter said that",
+      "5": "Hunter is here.",
+      "20": "The farmer left.",
+      "50": "in the corner",
+      "100": "I like"
+    },
+    "[HA_KILL]": {
+      "3": "Kill other players",
+      "5": "Kill the other players.",
+      "20": "Kill other players.",
+      "50": "kill other players",
+      "100": "killing other players, etc."
+    },
+    "[HA_HNTK]": {
+      "3": "the Huntsman closed the door",
+      "5": "The hunter exploded.",
+      "20": "The thief beat him.",
+      "50": "پاکی اگن ججالیی دلل.",
+      "100": "Register now"
+    },
+    "[MPEMPTY]": {
+      "3": "It is not paid",
+      "5": "Empty",
+      "20": "It's empty",
+      "50": "Believe it or not",
+      "100": "Location is another option."
+    },
+    "[MPTNKDM]": {
+      "3": "Damage",
+      "5": "See more",
+      "20": "It is very sad",
+      "50": "You left that behind",
+      "100": "Ship rules."
+    },
+    "[MPLOC0]": {
+      "3": "The concept of Vice",
+      "5": "More information",
+      "20": "what he said",
+      "50": "The place is small.",
+      "100": "Not a good name."
+    },
+    "[MPLOC1]": {
+      "3": "Washington Beach",
+      "5": "Washington Beach",
+      "20": "Washington Beach",
+      "50": "She lives in Washington Beach.",
+      "100": "Yes, it's America. So it's an NDA"
+    },
+    "[MPLOC2]": {
+      "3": "Sea beach",
+      "5": "Contact details",
+      "20": "The sea is warm for people",
+      "50": "in the middle of the American River",
+      "100": "And to the sea"
+    },
+    "[MPLOC3]": {
+      "3": "Shrimp Island",
+      "5": "A broken boat",
+      "20": "fish island",
+      "50": "Coon Island",
+      "100": "go home"
+    },
+    "[MPLOC4]": {
+      "3": "Page connections",
+      "5": "Lawyer Folha",
+      "20": "Link to this page",
+      "50": "Internet is available",
+      "100": "and the global network"
+    },
+    "[MPLOC5]": {
+      "3": "Island of stars",
+      "5": "Estrella do Mar Island",
+      "20": "The name is Star Island.",
+      "50": "It's the island of stars",
+      "100": "Star Wars Island is a good example."
+    },
+    "[MPLOC6]": {
+      "3": "In the center",
+      "5": "the city",
+      "20": "at the American Embassy",
+      "50": "It's in the middle of the mountain",
+      "100": "He lives on a hill above the city."
+    },
+    "[MPLOC7]": {
+      "3": "Little Haiti",
+      "5": "Little Haiti",
+      "20": "Little Haiti",
+      "50": "A new study has been carried out",
+      "100": "I don't want to take you to Haiti."
+    },
+    "[MPLOC8]": {
+      "3": "Little Havana.",
+      "5": "the great havana",
+      "20": "Little Havana No.",
+      "50": "Go to the railway station",
+      "100": "I want a small one"
+    },
+    "[MPLOC9]": {
+      "3": "Auxiliary port",
+      "5": "The Viceport",
+      "20": "Please help.",
+      "50": "A car on the bridge",
+      "100": "Teacher Brooke Beth."
+    },
+    "[MPLOC10]": {
+      "3": "Escobar International Airport",
+      "5": "Broom Int. the airport",
+      "20": "at Escobar International Airport.",
+      "50": "It is a world famous airport",
+      "100": "Escobar Airport has a history."
+    },
+    "[MPLOC11]": {
+      "3": "Fort Baxter Air Force Base",
+      "5": "Fort Baxter Airport",
+      "20": "at Fort Baxter Air Force Base",
+      "50": "Fort Baxter Air Force Base, USA",
+      "100": "Fort Baxter Airport is the largest airport in the United States."
+    },
+    "[MPC_000]": {
+      "3": "Corporal Vance",
+      "5": "Commander Vance",
+      "20": "Elder Vance and Mrs",
+      "50": "Wayne is here",
+      "100": "I cut the cake"
+    },
+    "[FEM_LOD]": {
+      "3": "load statistics",
+      "5": "Load statistics",
+      "20": "Here are the stats.",
+      "50": "in the code",
+      "100": "The food has changed."
+    },
+    "[FEM_SAV]": {
+      "3": "keep statistics",
+      "5": "Save statistics",
+      "20": "Take the numbers.",
+      "50": "He wrote about people.",
+      "100": "Basic research"
+    },
+    "[FEM_DEL]": {
+      "3": "Delete statistics",
+      "5": "Delete statistics",
+      "20": "Number of counts.",
+      "50": "Please read carefully.",
+      "100": "Apply for a loan"
+    },
+    "[FEM_BCK]": {
+      "3": "back",
+      "5": "Back",
+      "20": "Go back to the top.",
+      "50": "It's very simple",
+      "100": "Now about me"
+    },
+    "[FEM_STP]": {
+      "3": "statistics page",
+      "5": "Statistics page",
+      "20": "How many pages",
+      "50": "It is stored in the warehouse.",
+      "100": "A new page will appear."
+    },
+    "[FEMP_ST]": {
+      "3": "GAME START (each group needs 1 or more players)",
+      "5": "Start the game (requires one or more players per team) .",
+      "20": "Start the game (each team needs 1 or more players).",
+      "50": "The game starts (the team must have one or more players).",
+      "100": "Start the game (one player required)."
+    },
+    "[FEMP_SN]": {
+      "3": "START GAME (requires 2 or more players)",
+      "5": "Start the game (requires 2 or more players) .",
+      "20": "Start a game (requires 2 or more games).",
+      "50": "Start the game (two or more players).",
+      "100": "Start a game (2 or more players)."
+    },
+    "[FEMP_NC]": {
+      "3": "Set up network connections... Wait a minute",
+      "5": "The network connection is being prepared... Please wait.",
+      "20": "Loading link... Please wait.",
+      "50": "Internet connection... waiting",
+      "100": "The driver is ready... to go to work."
+    },
+    "[FEM_STL]": {
+      "3": "Multiplayer statistics",
+      "5": "Multiplayer mode.",
+      "20": "Population statistics",
+      "50": "There are many ways.",
+      "100": "There are many things to consider."
+    },
+    "[FEM_KLS]": {
+      "3": "It kills",
+      "5": "kill",
+      "20": "pillar of support",
+      "50": "It was murder.",
+      "100": "simultaneously"
+    },
+    "[FEM_DTH]": {
+      "3": "death",
+      "5": "death",
+      "20": "It hurts.",
+      "50": "I will die.",
+      "100": "he is dead"
+    },
+    "[FEM_FCP]": {
+      "3": "Pick up the flag",
+      "5": "Pictures of flags",
+      "20": "Remove the flag.",
+      "50": "Raise the flag",
+      "100": "i went to school"
+    },
+    "[FEM_FRT]": {
+      "3": "The flag is coming back",
+      "5": "The flag returns",
+      "20": "Graduating Students",
+      "50": "A place to store data",
+      "100": "Manong"
+    },
+    "[FEM_HDS]": {
+      "3": "Head shot",
+      "5": "weapon head",
+      "20": "He shook his head",
+      "50": "Headphones are easy",
+      "100": "Title of the story"
+    },
+    "[FEM_RCW]": {
+      "3": "Won the race",
+      "5": "The competition was won",
+      "20": "Be a player.",
+      "50": "We won.",
+      "100": "He won the competition"
+    },
+    "[FEM_RCF]": {
+      "3": "The race is over",
+      "5": "The competition is over",
+      "20": "The soldier refused.",
+      "50": "Game over.",
+      "100": "Game over."
+    },
+    "[FEM_RTP]": {
+      "3": "The race has begun",
+      "5": "The competition has begun.",
+      "20": "The competition began.",
+      "50": "The game begins.",
+      "100": "It's about competition."
+    },
+    "[FEM_ALR]": {
+      "3": "Estimation of the multiplier",
+      "5": "Writing for the masses",
+      "20": "Multiplayer reactions.",
+      "50": "The numbers are huge.",
+      "100": "A great experience for participants."
+    },
+    "[FEM_AL0]": {
+      "3": "Punk's like",
+      "5": "Punk called out",
+      "20": "It's called punk.",
+      "50": "Her name is Roseva.",
+      "100": "There are others."
+    },
+    "[FEM_AL1]": {
+      "3": "Fluffer of the same",
+      "5": "The shooting involved",
+      "20": "This is a failure.",
+      "50": "This is called appearance.",
+      "100": "Where should I live?"
+    },
+    "[FEM_AL2]": {
+      "3": "Gimp.",
+      "5": "Gimp",
+      "20": "The name of the jeep",
+      "50": "His name is Gimp.",
+      "100": "He is a religious person"
+    },
+    "[FEM_AL3]": {
+      "3": "Cut it.",
+      "5": "A cruel man",
+      "20": "father",
+      "50": "equipment etc.",
+      "100": "take the card"
+    },
+    "[FEM_AL4]": {
+      "3": "Davg",
+      "5": "Doug",
+      "20": "Doug did that",
+      "50": "it is morning.",
+      "100": "We are Jai Gurudev"
+    },
+    "[FEM_AL5]": {
+      "3": "Mr.",
+      "5": "My friend",
+      "20": "Your manager",
+      "50": "It's about friendship.",
+      "100": "Not a snowman"
+    },
+    "[FEM_AL6]": {
+      "3": "Psycho",
+      "5": "Psycho",
+      "20": "in a spiritual sense",
+      "50": "Intellectual research",
+      "100": "I recommend it to you"
+    },
+    "[FEM_AL7]": {
+      "3": "The cleaner",
+      "5": "Clean",
+      "20": "This is blood.",
+      "50": "they said",
+      "100": "from the sky"
+    },
+    "[FEM_AL8]": {
+      "3": "The snowflake",
+      "5": "Snowman",
+      "20": "Iceman is one of them.",
+      "50": "Ekman did it.",
+      "100": "It is a very good story."
+    },
+    "[FEM_AL9]": {
+      "3": "father",
+      "5": "A teacher",
+      "20": "By teacher H.S",
+      "50": "Christian angels",
+      "100": "i am a teacher"
+    },
+    "[MP_SUS]": {
+      "3": "A network error occurred. The power/suspension key has been activated",
+      "5": "An Internet error has occurred. The POWER/HOLD button is off",
+      "20": "There is a network error. Switching does not work",
+      "50": "This is cybercrime.",
+      "100": "No need to store / store documents online."
+    },
+    "[MP_TUB]": {
+      "3": "Ghader all the players of the competitors of the game.",
+      "5": "All opposing players leave the game.",
+      "20": "All contestants are out of the game.",
+      "50": "All enemies will be removed from the game.",
+      "100": "All enemies are removed from the game."
+    },
+    "[MRACE12]": {
+      "3": "You have it",
+      "5": "You have them close",
+      "20": "that’s what I’m doing",
+      "50": "Do you know what it is?",
+      "100": "It's over"
+    },
+    "[MPHPMAR]": {
+      "3": "it is a brand",
+      "5": "That's a sign",
+      "20": "It’s a sign of the times",
+      "50": "I have a goal.",
+      "100": "It was a beautiful day."
+    },
+    "[MPHP05]": {
+      "3": "5. It is very important",
+      "5": "5. 5",
+      "20": "5. He’s a really nice person",
+      "50": "5.5.5.5",
+      "100": "5. Adjust the volume."
+    },
+    "[MPHP04]": {
+      "3": "4. It is very important",
+      "5": "4. The",
+      "20": "4. 4 and | |",
+      "50": "4.4.4",
+      "100": "Press the \"OK\" button."
+    },
+    "[MPHP03]": {
+      "3": "3. It is very important",
+      "5": "3. 3",
+      "20": "3. Press button 3.",
+      "50": "3.3.3 inches",
+      "100": "3. I didn't know what to do."
+    },
+    "[MPHP02]": {
+      "3": "2",
+      "5": "2:1",
+      "20": "2. 2. Mr.",
+      "50": "2.2 A poem",
+      "100": "The soldiers gave it to him"
+    },
+    "[MPHP01]": {
+      "3": "1",
+      "5": "1:1",
+      "20": "1. This type of letter",
+      "50": "1. Start the music",
+      "100": "It is a human resource."
+    },
+    "[GNG8]": {
+      "3": "BIKER",
+      "5": "The driver of the bicycle",
+      "20": "Foreign countries",
+      "50": "He is a teacher.",
+      "100": "This part will continue."
+    },
+    "[GNG9]": {
+      "3": "ANIMALS",
+      "5": "It’s a giant shark",
+      "20": "Whale",
+      "50": "give it to me",
+      "100": "Prepare the results."
+    },
+    "[MPPOS]": {
+      "3": "the car has left",
+      "5": "No mode of the car",
+      "20": "Bag of the car",
+      "50": "International trains",
+      "100": "There are no blankets on the bed."
     }
   }
 }
