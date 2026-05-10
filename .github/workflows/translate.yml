@@ -43,7 +43,8 @@ jobs:
           python hypertrans_workers.py translate source/ENGLISH.TXT --output candidates/batch5.json \
             --batch 5 \
             --resume \
-            --workers 3
+            --workers 3 \
+            --timeout 350
 
       - name: Commit updated candidates
         run: |
