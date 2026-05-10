@@ -44,7 +44,7 @@ jobs:
             --batch 5 \
             --resume \
             --workers 3 \
-            --timeout 350
+            --timeout 330
 
       - name: Commit updated candidates
         run: |
