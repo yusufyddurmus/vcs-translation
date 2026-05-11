@@ -6,6 +6,8 @@ import time
 import json
 import random
 import re
+import signal
+import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from supabase import create_client
@@ -23,6 +25,9 @@ TARGET_BATCHES = [1, 3, 5, 7, 10]
 ITERATION_COUNTS = [3, 5, 20, 50, 100]
 
 SEPARATOR = "\n"
+
+_active_tasks = []
+_active_batch = None
 
 supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
 
@@ -179,13 +184,51 @@ ddef process_task_group(tasks):
     return [(t["id"], results[t["key"]]) for t in tasks]
 
 # ─────────────────────────────────────────────
+# GRACEFUL SHUTDOWN
+# ─────────────────────────────────────────────
 
-def worker_loop():
+def release_tasks():
+    """Reset in-progress tasks back to pending so another worker can pick them up."""
+    global _active_tasks, _active_batch
+    if not _active_tasks or _active_batch is None:
+        return
+        
+    table = get_table(_active_batch)
+    ids = [t["id"] for t in _active_tasks]
+    
+    print(f"\n🛑 Ctrl+C detected! Releasing {len(ids)} stuck task(s) back to pending...")
+    try:
+        supabase.table(table).update({
+            "status": "pending"
+            # If your database has 'claimed_by' or 'claimed_at' columns, 
+            # you can set them to None here as well:
+            # "claimed_by": None,
+            # "claimed_at": None,
+        }).in_("id", ids).execute()
+        print("✅ Tasks successfully released. Safe to shut down.")
+    except Exception as e:
+        print(f"❌ Could not release tasks: {e}")
+
+def _handle_sigint(signum, frame):
+    release_tasks()
+    sys.exit(0)
+
+# ─────────────────────────────────────────────
+
+def worker_loop(batch_size):
+    global _active_tasks, _active_batch
+    
+    # --- Intercept Ctrl+C ---
+    signal.signal(signal.SIGINT, _handle_sigint)
+    signal.signal(signal.SIGTERM, _handle_sigint)
+
     print(f"🚀 Multi-Batch Worker {WORKER_ID} Started")
     print(f"   Target Queue: Batches {TARGET_BATCHES}")
+    print(f"   (Ctrl+C will safely release in-progress tasks)\n")
     
-    # --- UPGRADE: Loop through each hardcoded batch ---
     for batch in TARGET_BATCHES:
+        _active_batch = batch  # Remember which batch we are on for Ctrl+C
+        
         print("\n" + "="*60)
         print(f"🔄 SWITCHING TO BATCH {batch}")
         print("="*60)
@@ -206,17 +249,19 @@ def worker_loop():
         pbar = tqdm(total=total_tasks, initial=completed, desc=f"Batch {batch} Progress", unit="line")
 
         while True:
-            tasks = claim_tasks(batch, batch)
+            tasks = claim_tasks(batch, batch_size)
 
             if not tasks:
                 pbar.write(f"\n🎉 Batch {batch} is complete! No pending tasks left in this table.")
                 pbar.close()
-                break # Break inner loop to move to the next batch in the queue
+                break 
 
+            # --- Remember these tasks in case we get killed ---
+            _active_tasks = tasks
+            
             pbar.write(f"\n📦 Claimed {len(tasks)} task(s), translating as one batch...")
 
             task_results = process_task_group(tasks)
-
             task_dict = {t["id"]: t for t in tasks}
 
             for task_id, result in task_results:
@@ -237,6 +282,9 @@ def worker_loop():
                 
                 pbar.update(1)
 
+            # --- Clear the memory, we finished them safely! ---
+            _active_tasks = []
+
             try:
                 done_res = supabase.table(table).select("id", count="exact").eq("status", "done").execute()
                 actual_completed = done_res.count if done_res.count else pbar.n
@@ -249,7 +297,6 @@ def worker_loop():
             except Exception as e:
                 pbar.write(f"  ⚠️ Could not sync final batch count with database: {e}")
 
-    # --- UPGRADE: Grand finale message once all batches are done ---
     print("\n" + "🏆"*20)
     print(f" ALL TARGET BATCHES {TARGET_BATCHES} ARE FULLY TRANSLATED!")
     print(" Shutting down worker gracefully. Goodbye!")
