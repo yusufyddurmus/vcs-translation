@@ -215,7 +215,7 @@ def _handle_sigint(signum, frame):
 
 # ─────────────────────────────────────────────
 
-def worker_loop(batch_size):
+def worker_loop():
     global _active_tasks, _active_batch
     
     # --- Intercept Ctrl+C ---
@@ -249,7 +249,7 @@ def worker_loop(batch_size):
         pbar = tqdm(total=total_tasks, initial=completed, desc=f"Batch {batch} Progress", unit="line")
 
         while True:
-            tasks = claim_tasks(batch, batch_size)
+            tasks = claim_tasks(batch, batch)
 
             if not tasks:
                 pbar.write(f"\n🎉 Batch {batch} is complete! No pending tasks left in this table.")
