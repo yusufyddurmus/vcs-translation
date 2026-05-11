@@ -151,7 +151,7 @@ def complete_task(task_id, result, batch):
 
 # ─────────────────────────────────────────────
 
-ddef process_task_group(tasks):
+def process_task_group(tasks):
     keys = [t["key"] for t in tasks]
     texts = [t["original_text"] for t in tasks]
 
