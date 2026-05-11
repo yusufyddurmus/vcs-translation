@@ -46490,59 +46490,1145 @@
       "100": "Within minutes I was back in the car."
     },
     "[GYRO_61:GYRO_VC]": {
-      "3": "You didn't break the course record! Your time:",
-      "5": "He failed to break the course record! Your time:.",
-      "20": "We leave no class records! Your time:",
-      "50": "It's not like writing a story. it's your turn"
+      "3": "You failed to break the course record! Your time:",
+      "5": "You didn't break the course record! Your time ::",
+      "20": "You don’t want to slow down. Your time:",
+      "50": "He destroyed the history of science! How to spend your time:",
+      "100": "Thank you for your time."
     },
     "[GYRO_62:GYRO_VC]": {
-      "3": "You didn't break the course record! Your time: 0.",
-      "5": "He failed to break the course record! Your time:",
-      "20": "We leave no class records! Your time:",
-      "50": "It's not like writing a story. Duration: ."
+      "3": "You failed to break the course record! Your time:",
+      "5": "You didn't break the course record! Your time: 0",
+      "20": "You don’t want to slow down. 0 at that time.",
+      "50": "He destroyed the history of science! How to spend your time:",
+      "100": "Thank you for your time."
     },
     "[GYRO_60:GYRO_VC]": {
-      "3": "Destroy the drone target!",
-      "5": "Destroy the target drone!",
-      "20": "Destroy the target drone!",
-      "50": "The drone destroys the target."
+      "3": "Destroy drone targets!",
+      "5": "Destroy the drone targets!",
+      "20": "Destroy the target drone.",
+      "50": "The drone has been destroyed!",
+      "100": "Building trains"
     },
     "[GYRO_35:GYRO_VC]": {
-      "3": "Appointment cancelled!",
-      "5": "The time trial is cancelled!",
-      "20": "The deadline has passed!",
-      "50": "The incident has been resolved."
+      "3": "The time trial has been cancelled!",
+      "5": "The time trial is over!",
+      "20": "The project was defeated.",
+      "50": "Stay calm!",
+      "100": "Now is the time to fight!"
     },
     "[GYRO_70:GYRO_VC]": {
-      "3": "Haiti's gubernatorial race has been canceled!",
-      "5": "Cross race in Haiti cancelled!",
-      "20": "Haiti swimming challenge cancelled!",
-      "50": "This sport began in Haiti."
+      "3": "The hover race in Haiti has been cancelled!",
+      "5": "Hover race in Haiti canceled!",
+      "20": "His official visit to Haiti was cancelled.",
+      "50": "Don't fight!",
+      "100": "Go to Haiti."
     },
     "[GYRO_71:GYRO_VC]": {
-      "3": "The Port Hover contest is closed!",
+      "3": "Stop the Hoover Harbor Run!",
       "5": "The Harbor Hover Race has been cancelled!",
-      "20": "Beach Run Canceled Forgery!"
+      "20": "The Haver Harbor Race is cancelled!",
+      "50": "The Hover Harbor race has been cancelled.",
+      "100": "Full port update"
     },
     "[GYRO_72:GYRO_VC]": {
-      "3": "The evil in dogs is gone!",
-      "5": "Cream on Wings cancelled!",
-      "20": "Low price for wings!"
+      "3": "Stop crime with wings!",
+      "5": "Crims On Wings is cancelled!",
+      "20": "The security system will be removed!",
+      "50": "Cover the nail without clipping it.",
+      "100": "It can't be wrong"
     },
     "[GYRO_73:GYRO_VC]": {
-      "3": "Sirius stopped working!",
-      "5": "Skywolf is cancelled!",
-      "20": "Skywolf is going!"
+      "3": "Skywolf has been canceled!",
+      "5": "Skywolf cancelled!",
+      "20": "The skywall has been erased!",
+      "50": "Rejected by Sirius",
+      "100": "Sirius entered"
     },
     "[GYRO_74:GYRO_VC]": {
-      "3": "Wind energy is wasted on land, sea and air!",
-      "5": "Day, read and stop Air Ace!",
-      "20": "Earth, sea and sky open!"
+      "3": "The earth, the sea, and the air are empty!",
+      "5": "Land, sea and air are destroyed!",
+      "20": "Destroy the earth, the sea, the sky!",
+      "50": "Land, sea and air routes are closed.",
+      "100": "Mary is the soul of the world"
     },
     "[GYRO_99:GYRO_VC]": {
-      "3": "Waterwing's crime is over!",
-      "5": "Cancel cream on water wings!",
-      "20": "The cream entered the water!"
+      "3": "Eliminate crime with feathers!",
+      "5": "Undo the Waterwing's crime!",
+      "20": "Bad water will fix it!",
+      "50": "Keep the bad guys under water",
+      "100": "Remove the back cover"
+    },
+    "[GYRO199:GYRO_VC]": {
+      "3": "Hyman Memorial O.D.T. Cancelled!",
+      "5": "Hyman Memorial O.D.T. Removed!",
+      "20": "Hyman Memorial O.D.T. To stop!",
+      "50": "Stop playing with the Hyman ODT.",
+      "100": "1. Hyman et al. don't break it"
+    },
+    "[PCJ_1:PCJTXT]": {
+      "3": "You need PCJ to complete this mission!",
+      "5": "You need PCJ to attempt this mission!",
+      "20": "You need PCJ to complete this task!",
+      "50": "PCJ must finish the job!",
+      "100": "PCJ: Experiment."
+    },
+    "[PCJ_2:PCJTXT]": {
+      "3": "You have seconds to return to PCJ!",
+      "5": "You have seconds to get back to PCJ!",
+      "20": "Back to PCJ again!",
+      "50": "Bring on the PCG!",
+      "100": "See PCJ section."
+    },
+    "[PCJ_3:PCJTXT]": {
+      "3": "You have a second to go back to PCJ!",
+      "5": "You have one second to return to PCJ!",
+      "20": "Back to PCJ again!",
+      "50": "PCJ leaders!",
+      "100": "PCJ VS. Balik S. Panid"
+    },
+    "[PCJ_4:PCJTXT]": {
+      "3": "Collect all checkpoints before time runs out!",
+      "5": "Collect all checkpoints before time runs out!",
+      "20": "Complete all checkpoints before time runs out!",
+      "50": "All information is provided in advance.",
+      "100": "Collect all the information before the time runs out."
+    },
+    "[PCJ_5:PCJTXT]": {
+      "3": "Collect all checkpoints within this time.",
+      "5": "Collect all checkpoints within the time limit.",
+      "20": "All positions must be filled within the deadline.",
+      "50": "View all documents at once",
+      "100": "Try to do everything on time."
+    },
+    "[PCJ_6:PCJTXT]": {
+      "3": "The timer starts when you collect the first checkpoint.",
+      "5": "When you collect the first number, the timer starts.",
+      "20": "When the first point is reached, the clock starts.",
+      "50": "Small scares can add up quickly",
+      "100": "Then he started writing his first book."
+    },
+    "[PCJ_20:PCJTXT]": {
+      "3": "remaining time",
+      "5": "rest of time",
+      "20": "It's just a matter of time",
+      "50": "It's still early",
+      "100": "language"
+    },
+    "[PCJ_22:PCJTXT]": {
+      "3": "Hour LVAR",
+      "5": "LVAR length",
+      "20": "Left ventricular rotation",
+      "50": "Another LVAR",
+      "100": "He was about to give up."
+    },
+    "[PCJ_50:PCJTXT]": {
+      "3": "Failed value",
+      "5": "Failed to get value",
+      "20": "iFault response",
+      "50": "Purchase price",
+      "100": "We are all beautiful."
+    },
+    "[PCJ_60:PCJTXT]": {
+      "3": "Unusual job cancelled.",
+      "5": "Strange obstacles at work",
+      "20": "This case was not dismissed as a mistrial.",
+      "50": "This service has been discontinued.",
+      "100": "Sometimes"
+    },
+    "[PCJ_98:PCJTXT]": {
+      "3": "A REDUCED",
+      "5": "fail",
+      "20": "It's not very good.",
+      "50": "He was wrong.",
+      "100": "i'm afraid"
+    },
+    "[PCJ_99:PCJTXT]": {
+      "3": "Too much",
+      "5": "They have succeeded in this",
+      "20": "on stage",
+      "50": "Zoom in and see.",
+      "100": "That depends on you"
+    },
+    "[PCJ_30:PCJTXT]": {
+      "3": "New record course! : 1.",
+      "5": "New training record! : 1.",
+      "20": "A new educational record! : 1.",
+      "50": "Register for new courses. :::::::::.",
+      "100": "Join other groups Everyone is beautiful"
+    },
+    "[PCJ_31:PCJTXT]": {
+      "3": "New record course! :0",
+      "5": "New training record! :0",
+      "20": "A new educational record! : 0. is present",
+      "50": "Register for new courses. : I love you.",
+      "100": "Join other groups: 0 Sure"
+    },
+    "[PCJ_34:PCJTXT]": {
+      "3": "Current course schedule: :",
+      "5": "Current Course Registration::",
+      "20": "What's happening now ::",
+      "50": "Join now ::.",
+      "100": "There is a difference."
+    },
+    "[PCJ_35:PCJTXT]": {
+      "3": "Current course schedule: :0",
+      "5": "Current Course Enrollment: : 0",
+      "20": "Current Academic Record: :0",
+      "50": "No.",
+      "100": "I understand that"
+    },
+    "[PCJ_36:PCJTXT]": {
+      "3": "Current course schedule: 00:",
+      "5": "Speed record: 00:",
+      "20": "After changing the following values: 00:",
+      "50": "Current news: 00:00:.",
+      "100": "Working hours: 00:00"
+    },
+    "[PCJ_37:PCJTXT]": {
+      "3": "Current course schedule: 00:0",
+      "5": "Current track record: 00:0",
+      "20": "Current School Information: 00:0",
+      "50": "This time the score was 0-0.",
+      "100": "Registration time: 00:00"
+    },
+    "[PCJ_38:PCJTXT]": {
+      "3": "You set a new class schedule!",
+      "5": "You set a new record!",
+      "20": "You set a new course!",
+      "50": "You have a new episode.",
+      "100": "New album coming out."
+    },
+    "[PCJ_39:PCJTXT]": {
+      "3": "You didn't break the course record!",
+      "5": "You couldn't follow the class schedule!",
+      "20": "You have not paid for any recorded instruction.",
+      "50": "This team still has a track record!",
+      "100": "Learning opportunities should not be missed."
+    },
+    "[PCJ_70:PCJTXT]": {
+      "3": "You didn't get back on your bike in time!",
+      "5": "You didn't get back on your bike in time!",
+      "20": "delay",
+      "50": "This is not the time!",
+      "100": "The bus did not arrive on time."
+    },
+    "[PCJ_71:PCJTXT]": {
+      "3": "PCJ has been destroyed!",
+      "5": "PCJ is broken!",
+      "20": "PCJ was destroyed.",
+      "50": "PCJ is broken!",
+      "100": "PCJ is not working."
+    },
+    "[PCJ_72:PCJTXT]": {
+      "3": "Your time is up!",
+      "5": "You're out of time!",
+      "20": "Time is running out.",
+      "50": "When!",
+      "100": "Try to remove it."
+    },
+    "[PCJ_80:PCJTXT]": {
+      "3": "Go through every checkpoint! Try to beat the record time:.",
+      "5": "Pass every checkpoint! Try registration time:.",
+      "20": "Defeat all the guards. Ingredients:",
+      "50": "Follow all our adventures! Try to cross the border.",
+      "100": "Popular dates of visit;"
+    },
+    "[PCJ_81:PCJTXT]": {
+      "3": "Pass all the checkpoints! Let's try to break the time record :0.",
+      "5": "Pass all checkpoints! Try to beat the record time:",
+      "20": "Go through all the checkpoints! :0 Want to break a time record?",
+      "50": "All animals are yellow! Installation time:",
+      "100": "time to write"
+    },
+    "[PCJ_73:PCJTXT]": {
+      "3": "You quit your regular job!",
+      "5": "You did a great job!",
+      "20": "He will change your stupidity!",
+      "50": "This is stupid!",
+      "100": "Because then you have nothing to worry about."
+    },
+    "[PCJ_82:PCJTXT]": {
+      "3": "New records!",
+      "5": "A new article!",
+      "20": "New post!",
+      "50": "New news!",
+      "100": "This is something new."
+    },
+    "[PCJ_21:PCJTXT]": {
+      "3": "control points",
+      "5": "control point",
+      "20": "the control area",
+      "50": "Everyone wants it.",
+      "100": "I see water"
+    },
+    "[PCJ_32:PCJTXT]": {
+      "3": "Duration of the course:",
+      "5": "Your semester:",
+      "20": "Study time:",
+      "50": "Lesson learned:",
+      "100": "This is one of them."
+    },
+    "[PCJ_33:PCJTXT]": {
+      "3": "Your course time :0",
+      "5": "Duration of your course: 0",
+      "20": "your number:",
+      "50": "Others",
+      "100": "the Huns lay down"
+    },
+    "[PCJ_78:PCJTXT]": {
+      "3": "Sports Area Canceled!",
+      "5": "The playground in the city has been cancelled!",
+      "20": "The municipal theater is suspended!",
+      "50": "The city theater was closed.",
+      "100": "Cut a tree."
+    },
+    "[PCJ_79:PCJTXT]": {
+      "3": "Playground on the Point has been cancelled!",
+      "5": "The playing field at the point is destroyed!",
+      "20": "Game sent!",
+      "50": "My grandfather paid for it!",
+      "100": "They do it at home"
+    },
+    "[PCJ_7:PCJTXT]": {
+      "3": "Collect the checkpoint to start the timer!",
+      "5": "Select a checkpoint to start the timer!",
+      "20": "Fear and collect points!",
+      "50": "This device prevents the car from running too fast.",
+      "100": "That's what he told her."
+    },
+    "[PCJ198:PCJTXT]": {
+      "3": "Playground at the port cancelled!",
+      "5": "The beach playground is cancelled!",
+      "20": "Open the borders!",
+      "50": "My grandfather paid for it!",
+      "100": "The duck farm was closed."
+    },
+    "[PCJ199:PCJTXT]": {
+      "3": "Playground Sur the Park has been cancelled!",
+      "5": "The playground in the park has been cancelled!",
+      "20": "Park playgrounds are canceled!",
+      "50": "The garden is not open to the public.",
+      "100": "The theater was closed."
+    },
+    "[CR01_01:CRED01]": {
+      "3": "Two rock stars",
+      "5": "ROCKSTAR NORTH",
+      "20": "Rockstar's Answer",
+      "50": "eastern star",
+      "100": "The polar bear"
+    },
+    "[CR01_02:CRED01]": {
+      "3": "Produced by Leslie Benzis",
+      "5": "Producer: Leslie Benzis",
+      "20": "Artist Leslie Benz",
+      "50": "Designed by Leslie Benzie.",
+      "100": "Leslie was shocked."
+    },
+    "[CR01_03:CRED01]": {
+      "3": "Artist Aaron Garbutt",
+      "5": "Aaron Garbot is the cinematographer",
+      "20": "Aaron Garbutt is the director of photography.",
+      "50": "Photo: Aaron Garbutt",
+      "100": "Aaron is a great teacher."
+    },
+    "[CR01_04:CRED01]": {
+      "3": "Technical Directors Obey Vermij, Adam Fowler, Alexander Roger",
+      "5": "Editors: Ob Vermeij, Adam Fowler, Alexander Roger",
+      "20": "Led by Ob Vermey, Adam Fowler, and Alexander Rodger.",
+      "50": "He will report to Chief Technology Officer Adam Fowler and Alexander Rogers.",
+      "100": "Executive Director: Dharmendra; King Alexander was the brother of Adam the bird."
+    },
+    "[CR01_05:CRED01]": {
+      "3": "Publishers Andrzej Madajczyk, Derek Payne, Graeme Williamson",
+      "5": "Programmers: Andrzej Madajczyk, Derek Payne, Graham Williamson",
+      "20": "Programmer Andre Madarchic. Derek Payne Graham Williamson.",
+      "50": "Andy Medicine, Derek Payne, Graham Wilson",
+      "100": "Manager: Andrew Jaddy; Derek Payne"
+    },
+    "[CR01_06:CRED01]": {
+      "3": "Greg Smith, Lead Tool Developer",
+      "5": "Lead device developer Greg Smith",
+      "20": "Furniture Designer - Greg Smith.",
+      "50": "Greg Smith, Software Manager",
+      "100": "Greg Smith is a real estate agent."
+    },
+    "[CR01_07:CRED01]": {
+      "3": "Luke Openshaw Programming Tools",
+      "5": "Programming tool by Luke Openshaw",
+      "20": "Lucas is open source software.",
+      "50": "Lucas is open source software",
+      "100": "Open the Import Permissions wizard"
+    },
+    "[CR01_08:CRED01]": {
+      "3": "Sound engineer and owner Craig Conner",
+      "5": "Sound producer and master Craig Conner",
+      "20": "Sound production and arrangements are by Craig Connor.",
+      "50": "The film was written by Craig Connor",
+      "100": "Craig Conner is a producer, writer and screenwriter"
+    },
+    "[CR01_09:CRED01]": {
+      "3": "Planners C-J Dick, Nik Taylor, Adam Cochrane Wayland Standing, Alisdair Wood, Andrew Soosay, Steve Mulholland, Gary McAdam",
+      "5": "Photographers C-J Dick, Nik Taylor, Adam Cochrane Wayland Standing, Alisdair Wood, Andrew Soosay, Steve Mulholland, Gary McAdam",
+      "20": "By C. J. Dick. Nick Taylor Adam Cochran Wayland. Alice Dowd, Andrew Susie, Steve Mulholland, Gary McAdam.",
+      "50": "Directed by CJ, Adam Cochrane, Wayland and Nick Taylor. The film stars Alastair Wood, Andrew Chas, Steve Mulholland and Gary McAdam.",
+      "100": "Men: J. Dick, Nick Taylor, Adam Cochrane, Wyland, Alisdale Wood, Andrew Joshi, Steve Mulholland, Gary McAdam."
+    },
+    "[CR01_10:CRED01]": {
+      "3": "Car Painters Alan Duncan, Jolyon Orme",
+      "5": "Auto Artists Alan Duncan, Jolyon Oram",
+      "20": "Dance: Alan Duncan, Julie Orma",
+      "50": "Alan Duncan guitarist Julian Oram.",
+      "100": "Engineer Alan Duncan is one of the two mentioned above."
+    },
+    "[CR01_11:CRED01]": {
+      "3": "Main Character Artist Ian McQue",
+      "5": "Best Ian McCue",
+      "20": "The main character is Ian McIver",
+      "50": "Produced by Ian McCue.",
+      "100": "So Ian Machida, he is Ian Machida."
+    },
+    "[CR01_12:CRED01]": {
+      "3": "Character Artist Toks Solarin",
+      "5": "Artist Tox Solaren",
+      "20": "Tok Is the Officer",
+      "50": "Artist: Tok Solarina.",
+      "100": "Designer: Tokas Solarn. Tucaserin collagen."
+    },
+    "[CR01_13:CRED01]": {
+      "3": "Manipulative character Rick Stirling, Erik Brear, Alan Nolan",
+      "5": "Rick Sterling, Eric Breyer, Alan Nolan are rogues in human form",
+      "20": "Production: Rick Sterling, Eric Bell, Alan Nolan",
+      "50": "Smith's students include Rick Sterling; With Eric Breyer and Alan Nolan.",
+      "100": "Rick Sterling, Eric Barr, Alan Nolan."
+    },
+    "[CR01_14:CRED01]": {
+      "3": "Lead Cut scene Animated Slave",
+      "5": "Original animated minion Mondo deleted scenes",
+      "20": "The highlight is Mondo Golam.",
+      "50": "There was an accident with photographer Shiwood Guru.",
+      "100": "The world is beautiful today."
+    },
+    "[CR01_15:CRED01]": {
+      "3": "Cutscene animators Dermot Bailey, Philippe Busquets, Peter Saumur",
+      "5": "Cutscene Animators: Dermot Bailey, Philippe Busquets, Peter Samor",
+      "20": "Cast: Dermot Bailey, Philip Biscott, Peter Somor",
+      "50": "Dermot Bailey; Photo by Philip Pesca and Peter Somer.",
+      "100": "Photo: Dermot Bailey; Filippo Peter cookies"
+    },
+    "[CR01_16:CRED01]": {
+      "3": "Gus Braid in game animation",
+      "5": "Goose Braids in Action Games",
+      "20": "goose blood animation game",
+      "50": "frog play",
+      "100": "said the salmon"
+    },
+    "[CR01_17:CRED01]": {
+      "3": "Basic level design by William Mills",
+      "5": "William Mills Lead Surface Design",
+      "20": "Landscaping: William Mills",
+      "50": "See William Mills.",
+      "100": "He graduated from William Mills High School."
+    },
+    "[CR01_18:CRED01]": {
+      "3": "Level Design Neil Meikle Steve Taylor",
+      "5": "Neil Mikel level design by Steve Taylor",
+      "20": "Scenography: Neil McSteve Taylor",
+      "50": "Original photo by Neil Michael Steven Taylor.",
+      "100": "Producer: Neil Michaels, Steve Taylor."
+    },
+    "[CR01_19:CRED01]": {
+      "3": "Lead New Media Designer Stuart Petrie",
+      "5": "New Media Designer Stuart Petrie",
+      "20": "La Nova is led by project manager Stuart Peters.",
+      "50": "Stuart Petrie Professional Website",
+      "100": "Stewart Petrie."
+    },
+    "[CR01_20:CRED01]": {
+      "3": "New media designer Steve Walsh",
+      "5": "New Media Designer Steve Walsh",
+      "20": "New writer Steve Walsh.",
+      "50": "Steve Wall is Director of Communications",
+      "100": "Steve Wall is a British journalist."
+    },
+    "[CR01_21:CRED01]": {
+      "3": "New Media Designer Jill Minzie",
+      "5": "Junior New Media Designer Jill Menzies",
+      "20": "New writer Jill Menzies.",
+      "50": "Author of New Yale Man.",
+      "100": "Another example is Jill Menzies."
+    },
+    "[CR01_22:CRED01]": {
+      "3": "QA Manager Craig Arbuthnott",
+      "5": "QA Manager Craig Arbuthnot",
+      "20": "SC manager Craig Arbuthnot.",
+      "50": "Director: Craig Arbuthnot",
+      "100": "Craig Abant, executive director."
+    },
+    "[CR01_23:CRED01]": {
+      "3": "Principal Analyst Neil Corbett",
+      "5": "senior analyst Neil Corbett",
+      "20": "President Neil Corbett.",
+      "50": "Chief Inspector Neil Corbett",
+      "100": "Trained by Neil Corbett."
+    },
+    "[CR01_24:CRED01]": {
+      "3": "Principal Analyst David Murdoch Alex Bazlinton",
+      "5": "David Murdoch lead analyst Alex Buzzlington",
+      "20": "David Murdoch and senior analyst Alex Bushlinton.",
+      "50": "The main experts are David Murdoch and Alex Baslington.",
+      "100": "Chief scientist David Murdoch was born Alex Baslington."
+    },
+    "[CR01_25:CRED01]": {
+      "3": "Design Engineer Neil Walker",
+      "5": "Civil Engineer Neil Walker",
+      "20": "Engineer Neil Walker",
+      "50": "travel poetry neil",
+      "100": "Neil Walker is Neil Walker."
+    },
+    "[CR01_26:CRED01]": {
+      "3": "Testers Brian Kelly, Thomas Phillips, Oliver Elliott, Bobby Wright, Surian Christopher Sousay, Louis Dinan, Ivor Williams, Ben Barkley, Lindsay Robertson, Ian Smith",
+      "5": "Testers Brian Kelly, Thomas Phillips, Oliver Elliott, Bobby Wright, Surin Christopher Souzy, Louis Dinan, Ivor Williams, Ben Barclay, Lindsey Robertson, Ian Smith",
+      "20": "Brian Kelly, Thomas Phillips, Oliver Elliott, Bobby Wright, Surin Christopher Sos, Louis Dinan, Ivor Williams, Ben Barclay, Lindsay Robertson, Ian Smith Test",
+      "50": "The witnesses were Brian Kelly, Thomas Phillips, Oliver Elliott, Bobby Wright, Surian Christopher Sass, Lewis Dinan, Ivor Williams, Ben Barclay, Lindsay Robertson and Ian Smith.",
+      "100": "Brian Kelly, Tom Phillips, Oliver Elliott, Bobby Wright, Severin Christopher Ceci, Louise Dinan, Eva Williams, Ben Buckley, Robertson Lindsay, Anthony Smith."
+    },
+    "[CR01_27:CRED01]": {
+      "3": "Test Tool Programming James Whitcroft, Alex Carter",
+      "5": "Test Tool Programming James Whitcraft, Alex Carter",
+      "20": "Inspectors James Wheatcroft and Alex Carter",
+      "50": "The drivers were James Wheatloft and Alex Carter.",
+      "100": "Jacob Wheatcroft and Alex Carter."
+    },
+    "[CR01_28:CRED01]": {
+      "3": "Lorraine Roy IT Manager",
+      "5": "Lorraine Roy IT Manager",
+      "20": "Lorraine Roy, Director of Information Technology",
+      "50": "Lauren Roy, IT Manager",
+      "100": "Lauren Rowe, Senior Communications Officer"
+    },
+    "[CR01_29:CRED01]": {
+      "3": "IT Support Christine Chalmers, Dave Bruce, Ross Mowbray",
+      "5": "IT Support Christine Chalmers, Dave Bruce, Ross Mowbray",
+      "20": "IT support is Christine Chalmers, Dave Bruce and Ross Mowbray",
+      "50": "IT support provided by Christine Chalmers, Dave Bruce, and Ross Mowbray",
+      "100": "IT Business Analysis Christian Chalmers, Dave Bruce, Ross Mowbray |"
+    },
+    "[CR01_30:CRED01]": {
+      "3": "studio director Andrew Semple",
+      "5": "Studio Director Andrew Sample",
+      "20": "Studio Director Andrew Semple",
+      "50": "Directed by Andrew Semple",
+      "100": "Research Director Andrew Semp"
+    },
+    "[CR01_31:CRED01]": {
+      "3": "Kim Gurney Office Management",
+      "5": "Kim Gurney Administrative Office",
+      "20": "Office Manager Kim Gurney",
+      "50": "Portrait of President Kim Gurney",
+      "100": "Director John King."
+    },
+    "[CR01_32:CRED01]": {
+      "3": "Administrative support by Aoife O'Connell",
+      "5": "Administrative Support Aoife O'Connell",
+      "20": "Administrative assistance was provided by Aoife O'Connell",
+      "50": "By Aoife O'Connell",
+      "100": "Screenplay: Aoife O'Connell"
+    },
+    "[CR02_01:CRED01]": {
+      "3": "Rock star",
+      "5": "Rockstar Leeds",
+      "20": "the stars",
+      "50": "This is a sign of cancer.",
+      "100": "Produced by Liz Racalski."
+    },
+    "[CR02_02:CRED01]": {
+      "3": "Studio president Gordon Hall",
+      "5": "Head of Studio Gordon Hall",
+      "20": "Gordon Hall is the head of the studio.",
+      "50": "Studio Gordon Cook",
+      "100": "Education Minister Gordon Hall"
+    },
+    "[CR02_03:CRED01]": {
+      "3": "Head of Development David Box",
+      "5": "Development Manager David Box",
+      "20": "Development Manager David Box",
+      "50": "Development Director David Box",
+      "100": "David Buck, director."
+    },
+    "[CR02_04:CRED01]": {
+      "3": "Art Director Ian Bowden",
+      "5": "Art Director Ian Bowden",
+      "20": "Art director Ian Bowden",
+      "50": "Photographer: Ian Bowden",
+      "100": "Designer: Ian Bowden."
+    },
+    "[CR02_05:CRED01]": {
+      "3": "Chief Technical Officer Al Dukes",
+      "5": "Technical Director Al Dukes",
+      "20": "Al Dukes is the technical director",
+      "50": "The head coach is Al Dukes.",
+      "100": "Al Dukes, director of research."
+    },
+    "[CR02_06:CRED01]": {
+      "3": "The lead programmer is Andrew Greensmith",
+      "5": "Program Director Andrew Greensmith",
+      "20": "Andrew Greensmith",
+      "50": "CEO Andrew Greensmith.",
+      "100": "President Andrew Greensmith."
+    },
+    "[CR02_07:CRED01]": {
+      "3": "Console Programming Rick Frankish, Stuart Roskell",
+      "5": "Console Programming Rick Frankish, Stuart Roskell",
+      "20": "Program Work by Rick Francis and Stuart Roskel",
+      "50": "The console software was developed by Rick Francis and Stuart Roskill.",
+      "100": "Executive Director Rick Francis Stuart Roski."
+    },
+    "[CR02_08:CRED01]": {
+      "3": "Produced by Neil Dodwell, Damian Furlong, David Hebner, Brett Leaming, Robin Mangham, Jason McGinn, Stephen McGreal, Warren Merfield, Matt Shipcar, Ross Childs, Jon Bellamy, Kevin Boland",
+      "5": "Starring Neil Dodwell, Damian Furlong, David Huebner, Brett Laming, Robin Mangham, Jason McGann, Stephen McGreal, Warren Merrifield, Matt Shepkar, Ross Childs, John Bellamy, Kevin Boland",
+      "20": "Producers: Neil Dodwell, Damian Furlong, David Hebner, Brett Laming, Robin Mangham, Jason McGann, Steven McGrail, Warren Merfield, Matt Shipek, Ruth Childs, John Bellamy, Kevin Boland.",
+      "50": "Neil Dodwell and Damian Furlong scored twice. David Honore, Brett Lemming, Robin Manham, Jason McCann, Stephen McGreal, and others. Warren Merrifield, Associate Professor. The Rat Boy from Shipka / John Bellamy / Kevin Plant",
+      "100": "Speakers: Neil Dowell; Damien Furlong; David Hubner, Brett Leming, Robin Megam, Jason Megam, Steve Magler, Warren Moorefield. Matt Cooper Rothschild, John Bellamy, Kevin Brandt."
+    },
+    "[CR02_09:CRED01]": {
+      "3": "Sound Editing Finlay Munro, Charles Waddington",
+      "5": "Soundtrack Finlay Munro, Charles Waddington",
+      "20": "Music: Finlay Munro, Charles Waddington.",
+      "50": "Introduction by Finlay Munro and Charles Waddington",
+      "100": "Finley Monroe and Charles Worthington."
+    },
+    "[CR02_10:CRED01]": {
+      "3": "Art director David Bland",
+      "5": "Project Director David Bland",
+      "20": "David Bland is the design director.",
+      "50": "Project manager David Planta",
+      "100": "David Blunt, Marketing Director"
+    },
+    "[CR02_11:CRED01]": {
+      "3": "Design by Master John Lee",
+      "5": "Leadership Standards Project by John Lee",
+      "20": "John Lee designed the cover.",
+      "50": "Produced by John Lee.",
+      "100": "John Lee is the creative director."
+    },
+    "[CR02_12:CRED01]": {
+      "3": "Senior Designers Martin Bramall, Tony Gowland, Stephen Robertson",
+      "5": "Lead designers Martin Bramall, Tony Gowland, Stephen Robertson",
+      "20": "Original designer: Martin Vermel; Tony Gould Stephen Robertson.",
+      "50": "Production: Martin Bramall; Tony Howland and Stephen Robertson",
+      "100": "Tony Martin Barmel; Written by Tony Holland and Steve Robertson."
+    },
+    "[CR02_13:CRED01]": {
+      "3": "Level Design Kevin Edwards, Sean Fitzpatrick, Aaron Ganda, Sam Hackett, Jimmy Ng Wing Keng, Tom Kingsley, Andrew Mingella, Rob Taylor, Mark McGinley",
+      "5": "Level Design Kevin Edwards, Sean Fitzpatrick, Aaron Ganda, Sam Hackett, Jimmy Ng Wing Keng, Tom Kingsley, Andrew Mingella, Rob Taylor, Mark McGinley",
+      "20": "Producers: Kevin Edwards, Sean Fitzpatrick, Aaron Janda, Sam Hackett, Jimmy Ann Kung Kang, Tom Kinsley, Andrew Minghella, Rob Taylor, Mark McGinley",
+      "50": "Kevin Edwards, stage director. Shawn Fitzpatrick as Aaron Kantor; Sam Hackett, Jamie The Light, Tom Kingsley Minghill Rob Taylor Mark McKinley |",
+      "100": "Source: Kevin Edwards; Sean Fitzpatrick, Aaron Kind, Sam Hackett, and Jamie-Ann Hong in Undercover; Tom Kingsley, Andrew Mangala, Robbie Taylor"
+    },
+    "[CR02_14:CRED01]": {
+      "3": "Art Department Director Chris Smart",
+      "5": "Art director is Chris Smart",
+      "20": "Art director Chris Smart",
+      "50": "Artistic Director Chris Smart",
+      "100": "Christmas pictures"
+    },
+    "[CR02_15:CRED01]": {
+      "3": "The main character artist is Paul Smith",
+      "5": "The main artist is Paul Smith",
+      "20": "Lead singer: Paul Smith",
+      "50": "Me and Paul Smith",
+      "100": "Paul Smith is an actor and writer."
+    },
+    "[CR02_16:CRED01]": {
+      "3": "Character artist Chris Ellison",
+      "5": "character artist Chris Ellison;",
+      "20": "Artist Chris Ellison",
+      "50": "Photographer: Chris Allison",
+      "100": "Photo: Chris Ellison"
+    },
+    "[CR02_17:CRED01]": {
+      "3": "Chief City Artist Dan Roberts",
+      "5": "The city's leading artist is Dan Roberts",
+      "20": "Dan Roberts is an amazing musician.",
+      "50": "Dan Roberts, architect of the Capitol building",
+      "100": "then robertsland"
+    },
+    "[CR02_18:CRED01]": {
+      "3": "City actors Neil Corbett, Gunnar Droge, Mark Edwards, James McHale, Paul McKee",
+      "5": "Urban artists Neal Corbett, Gunnar Droege, Mark Edwards, James McHale, Paul McKee",
+      "20": "Hometown artists Neil Corbett, Gunnar Droft, Mark Edwards, James McHale and Paul McKee",
+      "50": "Local acts include Neil Corbett, Dodds Dodds, Mark Edwards, James McCall and Paul McKay.",
+      "100": "Author: Neil Corbett; Mark Edward James Muckle, second assault; Paul McKay Paul McKay"
+    },
+    "[CR02_19:CRED01]": {
+      "3": "Izzy Stewart in a cutscene",
+      "5": "Inside Izzy Stewart's picture",
+      "20": "Izzy Stewart is online",
+      "50": "So for Izzy Stewart.",
+      "100": "Simple plot. What about Stewart?"
+    },
+    "[CR02_20:CRED01]": {
+      "3": "Auto mechanic Sue Joan Lee",
+      "5": "Automotive artist Siu Jone Lee",
+      "20": "Auto Paint CO. Jones Lee",
+      "50": "He met singer John Lee.",
+      "100": "International number. John Lee, Jr. \"Poetry and Verse.\""
+    },
+    "[CR02_21:CRED01]": {
+      "3": "Concept artist John Wigley",
+      "5": "Conceptual artist John Wigley",
+      "20": "singer John Wigley",
+      "50": "Contributed by John Wigley.",
+      "100": "Artist John Wigley"
+    },
+    "[CR02_22:CRED01]": {
+      "3": "Animation by Alan Bowker",
+      "5": "Animation by Alan Bowker",
+      "20": "Alan Booker lived",
+      "50": "Alan Booker.",
+      "100": "The Life of Alan Booker"
+    },
+    "[CR02_23:CRED01]": {
+      "3": "Additional art by Eric Dow",
+      "5": "Additional photos by Eric Dow",
+      "20": "He gave more examples than Eric",
+      "50": "More from Eric David",
+      "100": "Eric Davey, actor"
+    },
+    "[CR02_24:CRED01]": {
+      "3": "QA Manager Paul Collis",
+      "5": "Head of Quality Assurance, Paul Coles",
+      "20": "Quality Manager Paul Coles",
+      "50": "Paolo Coles, Art",
+      "100": "Paul Cole testified."
+    },
+    "[CR02_25:CRED01]": {
+      "3": "QA Nick Roby, Aaron Mason",
+      "5": "QA Nick Roby, Aaron Mason",
+      "20": "QA Nick Roby, Aaron Mason",
+      "50": "Nick Robb, Quality Control; Aaron Mason officiated",
+      "100": "Nick interviewed Aaron Mason on Wednesday."
+    },
+    "[CR02_26:CRED01]": {
+      "3": "IT Manager Chris Waring",
+      "5": "Chris Waring, IT Manager",
+      "20": "IT Manager Chris Waring",
+      "50": "Chris Waring, IT Manager",
+      "100": "Chris Waring is an IT representative."
+    },
+    "[CR02_27:CRED01]": {
+      "3": "Management Team Naomi Martin, Jody Mason",
+      "5": "Management team Naomi Martin, Jodie Mason",
+      "20": "Directed by Naomi Martin and Jodie Mason.",
+      "50": "Seniors: Naomi Martin; Judy Mason is like that",
+      "100": "Photo: Naomi Martin and Judy Mason."
+    },
+    "[CR03_01:CRED01]": {
+      "3": "ROCKSTAR NYC",
+      "5": "Rockstar in NYC",
+      "20": "New York rock star",
+      "50": "Rock star in New York City",
+      "100": "Petros is an artist from New York."
+    },
+    "[CR03_02:CRED01]": {
+      "3": "Editor-in-Chief Sam Balay",
+      "5": "Managing Director Sam Houser",
+      "20": "Illustrated by Sam Houser",
+      "50": "CEO Sam Houser",
+      "100": "Sam Houser, CEO"
+    },
+    "[CR03_03:CRED01]": {
+      "3": "Creative Dan House VP",
+      "5": "VP of Creative Dan Houser",
+      "20": "Creative Director Dan Houser",
+      "50": "Vice President Dan Houser",
+      "100": "Hacker Dean, Product Manager"
+    },
+    "[CR03_04:CRED01]": {
+      "3": "Art director Alex Horton",
+      "5": "Art Director Alex Horton",
+      "20": "Artist Alex Horton",
+      "50": "Goalkeeper: Alex Horton",
+      "100": "It was sung by Alec Houghton."
+    },
+    "[CR03_05:CRED01]": {
+      "3": "Visual director Steven Olds",
+      "5": "Steven Olds is Director of Shows",
+      "20": "The film is directed by Stephen Olds",
+      "50": "Stephen Olds, City Clerk",
+      "100": "Author: Stephen Olds"
+    },
+    "[CR03_06:CRED01]": {
+      "3": "Associate Producer Rich Rosado",
+      "5": "Associate Publisher Rich Rosado",
+      "20": "With Richie Rosado",
+      "50": "Amir is Roza's friend.",
+      "100": "Sador Rosado continues to play football."
+    },
+    "[CR03_07:CRED01]": {
+      "3": "Director of Quality Assurance Jeff Rosa",
+      "5": "Jeff Rose Director of Quality Assurance",
+      "20": "Jeff Ross is the Quality Manager",
+      "50": "Editor: Jeff Rose",
+      "100": "Jeff Ross is editor-in-chief."
+    },
+    "[CR03_08:CRED01]": {
+      "3": "Senior Principal Analyst Lance Williams",
+      "5": "Lance Williams is the CEO",
+      "20": "Principal Investigator Lance Williams",
+      "50": "Researcher Lance Williams.",
+      "100": "Select Officer Lance Williams"
+    },
+    "[CR03_09:CRED01]": {
+      "3": "Leading analyst Dzemiels Vega",
+      "5": "Lead author is Jameel Vega",
+      "20": "Principal Investigator Jameel Vega",
+      "50": "Managing Director Jamil Vega",
+      "100": "Director of Research Camila Vega"
+    },
+    "[CR03_10:CRED01]": {
+      "3": "Rockstar Test Team Mark Rodriguez, Christopher Plummer, Sean Flaherty, Christopher Mansfield, William Romph, Adam Tecloff, Tamara Carrion, Jay Capozello, Adam Stennett, Devin Smithers, Mike Hon, Mike Nathan.",
+      "5": "Rockstar Test Team Mark Rodriguez, Christopher Plummer, Sean Flaherty, Christopher Mansfield, William Rompf, Adam Tetzloff, Tamara Carrion, Jay Capocello, Adam Stennett, Devin Smither, Mike Hong, Mike Nathan.",
+      "20": "The Rock Star Trial by Mark Rodriguez; Christopher Plummer, partner; Sean Flaherty, Christopher Mansfield; William Rumpf, Adam Turkloff, Tamara Carrion; Captain Jay Capozzo; Players Adam Stein, Devin Smither, Mike Hong, Mike Nathan.",
+      "50": "Cast: Mark Rodriguez, Christopher Plummer, Sean Flaherty, Christopher Mansfield, William Lamp, Adam Turklove, Tamara Craven, Jay Capuzzo, Adam Stout, Devin Milkis, Mike Hahn, Mike Nathan",
+      "100": "Mark Rodriguez Christopher Plummer; Sean Flaherty Christopher Mansfield; William Rapp, Adam Treklow; Tamara Kern Jay Capicello; Adam St. Devon smiles; Mike Horn and Mike Nathan Rock"
+    },
+    "[CR03_11:CRED01]": {
+      "3": "Director of Business Development Sean Macaluso",
+      "5": "Sean Macaluso, Director of Business Development",
+      "20": "Sean McCullough, Director of Professional Development",
+      "50": "Sean McClosso Business Development Director",
+      "100": "McConnell McCauley is director of business development."
+    },
+    "[CR03_12:CRED01]": {
+      "3": "Soundtrack Directed by Ivan Pavlovich Andrew Hanley",
+      "5": "Music Management Ivan Pavlovich Andrew Henley",
+      "20": "Host: Ivan Pavlovich Andrew Henry",
+      "50": "Sound Engineer Ivan Pavlovich Andrew Henley",
+      "100": "Screenplay: Ivan Pavlovich; Andrew Henley"
+    },
+    "[CR03_13:CRED01]": {
+      "3": "Production Team Rod Edge, Eli Weissman, John Zurhellen, Franceska Clemens, Kerry Shaw, Peter Adler, Anthony Carvalho, Jaesun Celebre, Phil Poli, Caleb Oglesby, Robert Karol Anthony Litton, Jon Young, Ian Stynes, Brian Scibinico, Jonathan Endicott",
+      "5": "Producers: Rod Edge, Eli Weissman, John Jurlen, Francesca Clemens, Kerry Shaw, Peter Adler, Anthony Carvalho, Jason Selbury, Phil Polley, Caleb Oglesby, Robert Carroll, Anthony Lytton, John Young, Ian Stines, Brian Sibeniko, Jonathan Endicott",
+      "20": "Producers: Rod Edge, Eli Weisman, John Zulen, Francesca Clemens, Kelly Shaw, Peter Adler, Anthony Carvalho, Jason Celebre, Phil Bole, Caleb Oglesby, Robert Carroll, Anthony Layton, John Young, Ian Sittings, Brian Sibinico and Jonathan Endicott.",
+      "50": "The film stars Road Edge, Ali Wiseman, John Serlan, Francesca Clemens, Carrie Shaw, Peter Adler, Anthony Carvalho, Jason Selber, Phil Foley, Caleb Oglesby, Robert Carroll, Anthony Layton, John Young, Ian Stan, Brian Spanicott and Jonathan Anticott.",
+      "100": "Starring: Eli Weissman John Celine, Francesca Clemens; Carrie Shaw Peter Adler Anthony Cavala; Jason Salva Phil Paul Caleb Oglesby; Robert Carroll; Anthony Layton John Young, Ian Staines Brian Chapincott Endicott."
+    },
+    "[CR03_14:CRED01]": {
+      "3": "Motion Graphics by Maryam Parwana",
+      "5": "Maryam Parwana's movie",
+      "20": "Portrait of Mariam Parwan",
+      "50": "Delivery map by Marie Parvin.",
+      "100": "Photo: Miriam Parbana"
+    },
+    "[CR03_15:CRED01]": {
+      "3": "Voice director for Nicholas Montgomery",
+      "5": "Featured Sound Editor Nicholas Montgomery",
+      "20": "Managing Director: Nicholas Montgomery",
+      "50": "The film is directed by actor Nicholas Montgomery.",
+      "100": "As Nicholas Montgomery said."
+    },
+    "[CR03_16:CRED01]": {
+      "3": "Shooting Motion Capture at Perspective Studios",
+      "5": "Animation shot at Perspective Studio",
+      "20": "Please see the gallery.",
+      "50": "Look at the picture.",
+      "100": "Strong but weak."
+    },
+    "[CR03_17:CRED01]": {
+      "3": "Motion Capture and Dialogue directed by Rod Edge",
+      "5": "Motion capture and dialogue directed by Rod Edge.",
+      "20": "Written and produced by Rod Edge.",
+      "50": "This is a wide range of products.",
+      "100": "Sponsor: Strada."
+    },
+    "[CR04_01:CRED01]": {
+      "3": "ROCKSTAR NYC PUBLISHING TEAM Terry Donovan, Jennifer Kolbe, Devin Winterbottom, Adam Tedman, Daniel Einzig, Paul Yates, Devin Bennett, Hosey Simon, Bill Woods, Dave Kim, Gauri Hindaria, Marlene Yamaguchi, Brian Serjeant Brun, Stan Dugan, Maria Tabia",
+      "5": "Rockstar NYC Publishing Team Terri Donovan, Jennifer Kolbe, Devin Winterbottom, Adam Dedman, Daniel Ainczyk, Paul Yates, Devin Bennett, Hosie Simon, Bill Woods, Dave Kim, Gauri Hindaria, Marilyn Yamaguchi, Saint, Brian Margiant Giovanetti, Tab Bruce Bruce",
+      "20": "Rockstar NIC Writing Staff Terry Donovan, Jennifer Kolbe, Devin Winterbottom, Adam Dedman, Daniel Incitch, Paul Yates, Devin Bennett, Hosea Simon, Bill Woods, Dave Kim, Gauri Hindria, Marilyn Yamaguchi, Jay Noto, Morton, Senator.",
+      "50": "Rockstar New York Publishing Group: Terry Donovan, Jennifer Colby, Devin Winterbottom, Adam Tiedemann, Daniel Einzig, Paul Atesatz, Devin Bennett, Joseph Simon, Bill Woods, Dave Kim, Yuri Hendrea, Marilyn Amamaguchi, Brian Noto, Heap No Search, Jane, Brian.",
+      "100": "Terry Donovan, New York Rockstar Magazine; Jennifer Colby; Devin Winterbottom; Adam Dedman Dillian Staff; Paul Steady Dave Bennett; Josh Simon, Bill Wood Dave Kim Gore Hendry Marilyn Imakuchi; Brian Noto; Jack, Joe Stanton Jack |"
+    },
+    "[CR04_02:CRED01]": {
+      "3": "Lionel Tolemache, Lenny Grossi, Andrea Borzuku, Mayumi Kobayashi, Anthony Carvalho, Mike Torok, Alyssa Chuang, Greg Lau, Angus Wong, Daisuke Taoko, Jerry Luna, Ivan Pavlovic, Andrew Hanley, Jesse Saland, Jared Mon Raya, Filkin Say, Elido Weiss Lewi Jeans Henretta, Ronnie K Hadja Horn",
+      "5": "Lionel Tolemache, Lenny Croci, Andrea Borzuku, Mayumi Kobayashi, Anthony Carvalho, Mike Torok, Alice Chuang, Greg Lau, Angus Wong, Daisuke Tako, Jerry Luna, Ivan Pavlovich, Andrew Hanley, Jesse Saland, Jared Raya. Wiseman, Bill McKenzie, Jean-Bette McKenzie, Jasne Shima, Russell Lewis, Megan Henrietta, Kath Horton, Steve Nisevic, Rowan Haj",
+      "20": "Lionel Tolmer, Lenny Cross, Andrea Bogyuko, Mayumi Kobayashi, Anthony Carvalho, Mike Tulloch, Alice Chuang, Greg Liu, Angus Wang, Daisuke Tusk, Jerry Luna, Evan Pa Fritsch, Andrew Henry, Jesse Salander, Russell S. McClelland.",
+      "50": "Lionel Tolemac, Lenny Grossi, Andre Burzko, Mayumi Kobayashi, Anthony Carlzio, Mike Turk, Alicia Chung, Greg Lowe, Angus Wong, Daisuke Taku, Jerry Luna, Ivan Pavlovic, Andrew Henley, Jesse Selland, Jared Raya, Lowell |",
+      "100": "Lionel Dolmaz Renee Grace Andrea Bursocco Mayumi Kobayashi Anthony Carvalho; Michael Turk Elias Chuan Grace Roy Angus Wang Daisuke Toko Jerry Luna Ivan Pavlovich Andrew Hennell Jared West Helen; Jared West Helen"
+    },
+    "[CR04_03:CRED01]": {
+      "3": "Cover by Stephen Bliss, Anthony McBain",
+      "5": "Cover by Stephen Bliss, Anthony McBain.",
+      "20": "Goals: Stephen Bliss, Anthony McBain.",
+      "50": "Credits: Stephen Bliss, Anthony McBain.",
+      "100": "Stephen Bliss and Anthony McBain."
+    },
+    "[CR05_01:CRED01]": {
+      "3": "ROCKSTAR LINCOLN",
+      "5": "Rockstar Lincoln",
+      "20": "Lincoln Battery",
+      "50": "Stock list",
+      "100": "Lincoln was a star."
+    },
+    "[CR05_02:CRED01]": {
+      "3": "QA Manager Mark Lloyd",
+      "5": "Quality Assurance Manager Mark Lloyd",
+      "20": "Mark Lloyd, great editor",
+      "50": "President Mark Lloyd",
+      "100": "Mark Lloyd, has an addiction."
+    },
+    "[CR05_03:CRED01]": {
+      "3": "CA Deputy Administrator Tim Bates",
+      "5": "Bates, vice president of the quality assurance team",
+      "20": "Bates is a quality assistant to the team",
+      "50": "Tim Bates, Vice President of Quality Assurance",
+      "100": "Tim Bates, Vice President of Operations."
+    },
+    "[CR05_04:CRED01]": {
+      "3": "QA Officer Kevin Hobson",
+      "5": "Quality Control Manager Kevin Hobson",
+      "20": "Kevin Hobson, Executive Director",
+      "50": "Kevin Hobson, Quality Control Manager",
+      "100": "Published by Kevin Hobson."
+    },
+    "[CR05_05:CRED01]": {
+      "3": "Lee Johnson, Building Examiner",
+      "5": "Chief Inspector Lee Johnson",
+      "20": "Probation Officer Lee Johnson",
+      "50": "This was informed by his agent Lee Johnson",
+      "100": "Defender: Lee Johnson."
+    },
+    "[CR05_06:CRED01]": {
+      "3": "Second lead examiner Dave Fahey",
+      "5": "Second host Dave Fahy",
+      "20": "The lead level 2 investigator was Dave Fahey.",
+      "50": "Superintendent Dave Fay",
+      "100": "Another question for Davey."
+    },
+    "[CR05_07:CRED01]": {
+      "3": "Testers Andy Webster, Matt Hewitt, Craig Reeve, Mike Bennett, Eddie Gibson, Joby Lockett, Jason Trundle, Steve McGug, Keith Brown, Carl Young, Pat Broughton, Andre Mountain, Nathan Buchanan, Jim Curry, Mike Blackburn, Jonathan Stones, Matt Ravenso, Charles",
+      "5": "Andy Webster, Matt Hewitt, Craig Reeve, Mike Bennett, Eddie Gibson, Joby Luckett, Jason Trindall, Steve McGagh, Kit Brown, Carl Young, Pete Broughton, André Mountain, Nathan Buchanan, Jim Cree, Mike Blackburn, Jonathan Stones, Charlie Kinloch, Matt Rugio",
+      "20": "Andy Webster, Matt Hewitt, Craig Reeve, Mike Bennett, Eddie Gibson, Joby Luckett, Jason Trindle, Steve McGirr, Keith Brown, Carl Young, Pete Bratton, Andre Maven, Nathan Buchanan, Jim Carrey, Charlie Blackburn, Mike Frinton, Sergio Luckett",
+      "50": "Andrew Webster, Matt Hewitt, Craig Reeves, Mike Bennett, Eddie Gibson, Joby Lockett, Jason Trendle, Steve McGuire, Keith Brown, Carl Jung, Pat Broughton, 2T, Nathan Buchan, Jim Currie, Mike Blackburn.",
+      "100": "Andrew West: And you? Matt Hewitt Craig McBent; Eddie Gibson Kobe Jason what hat do you have? Steve Maguire and Keith Brown; Carl Young, Pat Patton, Andrew Diggle, Nathan Buchanan, Jim Carrey, Mike Blackburn. On Matt Cannon"
+    },
+    "[CR05_08:CRED01]": {
+      "3": "Local manager Chris Welsh",
+      "5": "Chris Welsh local manager",
+      "20": "Chris Welch, Area Manager",
+      "50": "Director: Chris Wells",
+      "100": "Photographer: Christopher Wells"
+    },
+    "[CR05_09:CRED01]": {
+      "3": "Local examiners Dominic Garcia, Francois-Xavier Fuchs, Jesus Perez Rosales, Naomi Long, Paolo Cicotti, Gianpiro Ferraro, Katia Müller, Christopher M. Banger, Gabriel Benzobas Morza, Domhnall Campbell",
+      "5": "Local auditors Dominic Garcia, François-Xavier Fouchet, Jesús Pérez Rosales, Naomi Long, Paolo Ceccotti, Gianpiero Ferraro, Katja Müller, Christopher M Bengner, Gabriel Bienzobas Mauraza, Domhnall Campbell",
+      "20": "Researchers Dominic Garcia, Francis Xavier Faucher, Jesus Perez Rosales, Naomi Long, Paolo Ceccotti, Gianfiro Ferraro, Katia Muller, Christopher M. Bengner, Gabriel Binsopas Moraza and Tumble Campbell",
+      "50": "Dominique García, Francois Xavier Sorrow, Jesus Perez Rosales, Naomi Longa, Paolo Cicotti, Giampiro Ferrero, Katia Miller, Christopher M. Creative researchers.",
+      "100": "Finca Domenico Garcia; Naomi Longa, Paolo Cicotti, Giampiro Ferraro, Katia Gaydan, Christopher M. Schiff, Gabriel Benzo Mirza, and Donald Campbell."
+    },
+    "[CR05_10:CRED01]": {
+      "3": "IT Supports Nick McVeigh",
+      "5": "IT supports Nick McVey",
+      "20": "This accepts Nick McVeigh",
+      "50": "Confirmed by Nick McPhee",
+      "100": "Director: Nick McPhee."
+    },
+    "[CR06_01:CRED01]": {
+      "3": "ROCK WORSHIP LONDON",
+      "5": "Rockstar in London",
+      "20": "Rock star in London",
+      "50": "The London Star.",
+      "100": "A rock band in London"
+    },
+    "[CR06_02:CRED01]": {
+      "3": "Neil Stevens, Nijiko Walker, Lucien King, Andrew Forrest, Hugh Michaels, David Manley, Nick Walker, Hamish Brown, Amy Curtin, PJ Sim, CJ Gibson, Chris Madgwick, Mike Kohler, Sheena Hori, Laura Batistucci, Heloise Williams, Marie Bailey, Richard Barnes,",
+      "5": "Neil Stevens, Nijiko Walker, Lucien King, Andrew Forrest, Hugh Michael, David Manley, Nick Walker, Hamish Brown, Amy Curtin, PJ Sims, CG Gibson, Chris Madgwick, McKay Koehler, Shino Hori, Laura Battistuzzi, Heloise Williams, Mary Bailey, Richard Barnes.",
+      "20": "Neil Stephens, Nijiko Walker, Lucien King, Andrew Forrest, Hugh Michaels, David Manley, Nick Walker, Hamish Brown, Amy Curtin, PJ Sim, CJ Gibson, Chris Medwick, Mike Keller, Shino Hori, Laura Bailey",
+      "50": "Neil Stephens, Nico Walker, Lucian King, Andrew Forrest, Hugh Michaels, David Manley, Nick Walker, Hamish Brown, Amy Curtin, P.S. J. Shim, C.S. S.J., and S.J.",
+      "100": "Neil Stevens, Nico Walker, Lucia King, Andrew Forrest, Hugh Michael, David Manley, Nick Walker, Hamish Brown, Amy Curtin, B.S."
+    },
+    "[CR06_03:CRED01]": {
+      "3": "James Crocker, Hal Udell, Jordan Fisher, Ben Sutcliffe, Tuuka Taipalvessi, Jurgen Moll, Graham Ainslie, David McCarthy, Chris Wood, Alan Jack, Melanie Clarke, Paul Nicholls",
+      "5": "James Crocker, Hal Udell, Jordan Fisher, Ben Sutcliffe, Tuuka Taipalvessi, Jurgen Mol, Graham Ainsley, David McCarthy, Chris Wood, Alan Jack, Melanie Clarke, Paul Nicholls |",
+      "20": "James Crocker, Hal Udell, Jordan Fisher, Ben Shortcliffe, Tuka Tippalwesi, Wilgen Moll, Graham Ainslie, David McCarthy, Chris Wood, Alan Jack, Melanie Clarke, Paul Nicholls",
+      "50": "James Crocker, Hal Woodell, Jordan Fisher, Ben Sutcliffe, Tucker Tipplevesi, Eugene Mole, Graham Ainslie, David McCarthy, Chris Wood, Alan Jack, Melanie Clarke and Paul Nicholls.",
+      "100": "The cast includes James Crocker, Hal Odell, Jordan Fisher, Ben Sutcliffe, Tocco DeCurby, John Moore, Graham Ainslie, David McCarthy, Chris Wood, Alan Cusack, Melanie Clarke and Paul Nicholls."
+    },
+    "[CR07_01:CRED01]": {
+      "3": "WHAT HAPPENED TO SPEECH",
+      "5": "Minimizing events and conversations",
+      "20": "Ideas and designs",
+      "50": "Includes illustrations and story.",
+      "100": "Choose the one you like and think about it"
+    },
+    "[CR07_02:CRED01]": {
+      "3": "Narrated by Vic Vance: Darian Missick Lance Vance: Philip Michael Thomas Janet Vance: Linda Ash Jerry Martinez: Felix Solis Phil Cassidy: Gary Busey Marty Williams: Jim Burke Louise Cassidy-Williams: Chelsea Reeves Mary-Jo Cassidy: Kathy Trien",
+      "5": "Leo Vic Vance: Dorian Missick Lance Vance: Philip Michael Thomas Janet Vance: Linda Ash Jerry Martinez: Felix Solis Phil Cassidy: Gary Busey Marty Williams: Jim Burke Lewis Cassidy-Williams: Chelsea Reeves Mary Jo Cassidy: Kathy Tryon",
+      "20": "Song of the Great Vance: Dorian America Lance Vance: Philip Michael Thomas Janet Vance: Linda Ash Jerry Martinez: Felix Solis Phil Cassidy: Gary Bush Matt William: Jim Burke Lewis Cassidy-Williams: Chelsea Reeb.",
+      "50": "Vic Vance Sound: Music Dorian Lance Vance: Phillip Michael Thomas Janet Vance: Linda S. Jerry Martinez: Felix Solis Phil Cassidy: Gary Bucky Marty Williams: Jim Burke Lewis Cassidy-Williams: Chelsea Marie-Jo Cassidy:.",
+      "100": "Vic Vance: The Story of Dorian by Philip Michael Thomas, Gene Vance, Linda C. McClelland."
+    },
+    "[CR07_03:CRED01]": {
+      "3": "Umberto Robina: Danny Trejo Ricardo Diaz: Luis Guzman Renee Vasulmaier: Barbara Rosenblatt Frankie: Garth Kravit Barry Mickelthwaite: Timothy Spall Phil Collins: Phil Collins Armando Mendez: Jules Vasquez Diego Mendez: Ruben Trujillo Ore Brian Forbes",
+      "5": "Umberto Robina: Danny Trejo Ricardo Diaz: Luis Guzman Renee Wasselmeier: Barbara Rosenblatt Frankie: Garth Kravitz Barry Mickelthwaite: Timothy Spall Phil Collins: Phil Collins Armando Mendez: Yul Vasquez F Trubior Mendez:",
+      "20": "Umberto Rubina: Dani Trejo Ricardo Diaz: Luis Guzman René Vasolmaier: Barbara Rosenblatt Frankie: Garrett Kravitz Barry McClithwaite: Timothy Spell Phil Collins: Phil Collins Armand Mendez: Yul Vasquez Diego Mendez: Ruben Trujillo Farrin",
+      "50": "Humberto Robina: Danny Trejo, Ricardo Diaz: Luis Guzman, Renee Passolmire: Barbara Rosenblatt: Frankie: Gareth Crass: Barry McClathwaite: Timothy Spall, Phil Collins: Phil Collins.",
+      "100": "Humberto Rubina, Danny Trejo, Ricardo Diaz, Luis Guzmán, Rene Parselmeyer, Barbara Rosenblatt, Frank Garrett Kravitz, Barry McElthwaite, Timothy Fidel, Bill Collins, Armand Mendez and Ruco Mendez from Monster Prison."
+    },
+    "[CR07_04:CRED01]": {
+      "3": "Welfare Women: Nicole Orta-Palovincini Cuban 1: Deroy Peraza Cuban 2: Omar Conosa Cuban 3: Joaquin Simo Diaz Assistant and Xavier: Gregory Johnson Hank: Jonathan Hanst",
+      "5": "Welfare Women: Nicole Ort-Palovinci Cuba 1: Deroy Peraza Cuba 2: Omar Konosa Cuba 3: Joaquim Simo Diaz Assistant & Javier: Gregory Johnson Hank: Jonathan Hance",
+      "20": "Wife: Nicole Ors-Palovini Cuba 1: Drew Peraza Cuba 2: Omar Canosa Cuba 3: Joaquin Samo Diaz Asst & Xavier: Gregory Johnson Hank: Jonathan Henst",
+      "50": "Social Worker: Nicole Huerta Barboncini Child 1: Drew Pirza Child 2: Omar Mineral Child 3: Joaquin Simo Diaz Javier Assistant: Gregorius Johnson Hank: Jonathan Namas",
+      "100": "Son: Nicola Orca Fulvini. W1, True Persa. W2, Omar Konosa. W3, Javier Gregor Johnson Diaz, Joaquin Shima Diaz, Jonathan Hines"
+    },
+    "[CR07_05:CRED01]": {
+      "3": "Pedestrian Dialogue Dan Hauser, Lezlow, John Jurhelen, Rod Edge, Ayanna Osada, Gregory Johnson, Sanford Santacroce",
+      "5": "Pedestrian Intervention Dan Husser, Laszlo, John Sorelen, Rod Edge, Ayana Osada, Gregory Johnson, Sanford Santa Cruz",
+      "20": "Mary Walk Don Houser, Laszlo, John Jorlin, Rod Rudd, Grace Osada, Gregory Johnson, Sanford Holy Cross",
+      "50": "Bergverhalen: Danhauser Laszlo, John Celine, Rod, Aina Usada, Gregory Johnson. Sanford - Holy Cross Moff, Mt.",
+      "100": "Includes interviews with Dan Hauser, Laszlo, John Charlin, John Ossad Saint, Gregory Johnson and Sanford Sandro."
+    },
+    "[CR07_06:CRED01]": {
+      "3": "Vice City People Danny Capozello, Matthew Monroe, Chris Reed, James Thomas, Oscar Avila, Edwin Berroa, Carolina Rodriguez, Greg Schweitzer, Scott Smith, John Weir, Eddie Perez, Michelle Orman, Carlota Guracciar, Natalie Wilson, Tom Vergove, Ryan Cheeks",
+      "5": "City Deputy Danny Capocello, Matthew Monroe, Chris Reed, Jaime Thomas, Oscar Avila, Edwin Beroa, Carolyn Rodriguez, Greg Schweitzer, Scott Smith, John Weir, Eddie Perez, Michelle Forrest, Carlotta Gueracier, Natalia G. Verla and Natalia G. Verla.",
+      "20": "Councilors Danny Hood, Matthew Monroe, Chris Reed, Jim Thomas, Oscar Avila, Edwin Brua, Carolyn Rodriguez, Greg Schweitzer, Scott Smith, John Ware, Eddie Perez, Michelle Orman, Carlotta Grasser, Natalia Wilson, Tom Verlogo,",
+      "50": "Danny Capusro. Matthew Monroe, Chris Reed, James Thomas, Oscar Avila, Edwin Jarrett, Carolyn Rodriguez and others. Greg Switzer, Scott Smith, John Ware, Eddie Press, Michelle Forrest, Carlotta Joris, Natalie Wilson. Ryan Gallo Cotton Girls",
+      "100": "Danny Kaslow, Danny Kaslow; Local people are friendly and kind. Minister Grace Schweizer; People are very friendly, calm and relaxed. What wings are available."
+    },
+    "[CR07_07:CRED01]": {
+      "3": "John Walker, Christian Roro, George Pupo, Jeremy Parish, Anthony Gittens, Mark Shaver, Jade Brecherman, Stephanie Seidel, Nick Patakas, Greg ‘Opie’ Hughes, Steve Covino, Jimmy Adams, Melanie Brickman, Joanne Baker, Nathan Bennett, Armando Ree",
+      "5": "John Walker, Christian Roro, George Popo, Jeremy Paris, Anthony Gittens, Mark Shavers, Zed Brecherman, Stephanie Seidel, Nick Patakas, Greg \"Opp\" Hughes, Steve Covino, Jimmy Adams, Melanie Brickman, Joan Baker, Nathan Bennett, Armando Rinsko,",
+      "20": "John Walker, Christian Rorrow, George Popo, Jeremy Pierce, Anthony Gates, Mark Shores, Jed Bircherman, Stephanie Siddle, Nick Patak, Greg \"AP\" Hughes, Steve Covino, Jamie Adams, Melanie Berkman, John Baker, Nathan Bennett, Armando Risco,",
+      "50": "John Walker, Christian Rollo, George Babo, Jeremy Parrish, Anthony Guttens, Mark Sawyer, Jade Brahmanan; Dr. Stephanie Siddle. Nick Butkus, Greg, P. Hughes. Steve Covino, Jamie Adams, Melanie Berkman. John Baker, Nathan Bennett. Age of nuts",
+      "100": "John Walker, Mochrist Rollo, George Papo, Jeremy Pearce, Anthony Gittins, Mark Shaver, Jed Berchman, Stephanie Seidel Le Bar Bangui Nick Pettick, Greg Obi Hughes, Mogra Steve Quinn, Melanie Tillis, Jamie Adams."
+    },
+    "[CR07_08:CRED01]": {
+      "3": "Benny Mouthon, Daniel Trinidad, Maurizio Bermedez, Morgan Inman, Marko Strihic, Dave Isaacs, Steve Carlesi, Danny Ross, Vanessa Grullón, Derek Blair, James V. Bilodeau, Travis Tefft, Jauretsi, Austin Lee Watts III, Nicole Patullo, Kaseem Ryan, Danni",
+      "5": "Benny Mouton, Daniel Trinidad, Maurizio Bermides, Morgan Inman, Mark Strycheck, Dave Isaacs, Steve Carlisi, Danny Ross, Vanessa Grolen, Derek Blair, James V. Beld, Travis Tift, Giolezzi, Austin Lee Watts III, Nicole Eleni Petruk, Kyle Elliot, AJ Kyle Orr, Elliot",
+      "20": "Penny Mouton Daniel Trinity; Maurice Bermage; Morgan Inman, Mark Stryczyk, Dave Isaacs, Steve Carlisi, Danny Rose, Vanessa Grolan; Derek Blair James W. Bulldo; Travis Taft; Jaresi, Austin Lee Ryanick; Ryanick in the game; of IIItsrop.",
+      "50": "Bernie Mawson, Daniel Trinidad, Maurizio Bermides, Morgan Inman, Mark Stryker, Dave Isaacs, Steve Carlisle, Danny Rose, Vanessa Grolin, Derek Blair, James W. Mock, Travis Taft, Sarah Austin, Nascott III.",
+      "100": "Benny Mouton, Daniel Cutlow-Burt, Maurice Burmaids, Morgan Yeoman, Mark Stritch, Dave Isaacs, Steve Kelsey, Danny Rose, Vanessa Grolin, Derek Blair, James W Bird, Travis Taft, George, Nikon, Nikon."
+    },
+    "[CR07_09:CRED01]": {
+      "3": "Brian Cullen, Michael Bower, Vanessa Lawrence, Ron Goldman, Deanna Jimenez, Nazim Garcia, Jesse Hayes, Joe Rodriguez, Nathaniel Bryan, Kwazi, Kurt Fliert, Jose L. Urena, Chuck Doug, Richie Valentino, Jay Wright, Madena Parvana, Debranda Chaney Giles",
+      "5": "http://dx.doi.org/10.1037/0021-9010.81.2.202 , Google Scholar Crossref , CAS",
+      "20": "Brian Cullen Michael Bauer Vanessa Lawrence; Ronald Goldman; Diana Jimenez; Mediator Garcia Jesse Hayes; Joe Rodriguez Nathaniel Bryan; Court Case Jose L. Urena; Chuck Doc Richie Valentino; C Valentino J. Weigal",
+      "50": "Brian Klein, Michael Ball, Vanessa Lawrence, Ron Goldman, Diana Jimenez, Nazem Garcia, Jesse Hayes, Joe Rodriguez, Nathaniel Bryan, Tambia, Kurt Felt, Joseph L. Orina, Chuck Doug, Richie Valentino, J. Ver Green.",
+      "100": "Authors: Brian Kline, Michael Ball, Vanessa Lawrence, Ronald Goldman, Dina Jimenez, Nazim Garcia, Jesse Hayes, Joe Rodriguez, Nathaniel Bryan, Kathy and Kurt Felton, Jose Alberner, Chuck Duggar, Rico Valentino, Jalen C. McCarthy. Vila, Jaylen C."
+    },
+    "[CR07_10:CRED01]": {
+      "3": "LaDawn James, Mark Saulsbury, Brian Apple, Steve McFadden, Kelly Sebastian, Khaled Elshai, Deirdre Yvonne, Valerie Ross, Christine Ferrell, Amy Shearn, W. Thomas, John Thomas, Kevin Nicholson, Andres Calvache, Max Ose, Jess Sanchez,",
+      "5": "Roddon James, Mark Salisbury, Brian Apple, Steve McFadden, Kelly Sebastian, Khalid Al-Shaai, Deirdre Yvonne, Valerie Ross, Christian Farrell, Amy Sheeran, W Thomas, John Thomas, Kevin Nicholson, Andrew Culwash, Max Ossie",
+      "20": "Layton James Mark Salisbury Brian Apple Steve McFadden Kelly Sebastian; Khaled Al-Siqai Deirdre Youn; Valerie Russ; Christine Farrell; Amy Shane W. Thomas, John Thomas, Kevin Nicholson; Andrew Clovis, Max Os, Jesse Sanchez",
+      "50": "Leighton James / Mark Salisbury / Brian Able / Steve McFadden / Kelly Sebastian / Khalid Els / Derry Yun / Valerie Ross / Christian Farrow / Andrew Sheeran / W Thomas / John Thomas / Andrew Nicocchi Thomas Sanchez",
+      "100": "Lydian James, Mark Salisbury, Brian Alma, Steve McFadden, Kelly Sebastian, Khalid Elski, Yvonne Nast, Valerie Rush, Christian Farrell, Amy Shane, W. Thomas, John Thomas, Kevin Nicholson, Andrew Krebs, Maximilian Jesse."
+    },
+    "[CR07_11:CRED01]": {
+      "3": "Sam Owens, Don Juan (aka Hollywood), Juan A. Aller, Amber McKinnon, Poison Pen, Scott Pitek, Laura Stiles, Adaora Ugokwe, Laura Haywood, Ben Sparks, Sandra Millan, Edwin Perez, Frankie Capellan, Anthony Silvey, Rosamond Fife, Tony Botts, Carrie Rosson",
+      "5": "Sam Owens, Don Jon (aka Hollywood), Joan Allaire, Amber McKinnon, Zohar Feather, Scott Patek, Laura Stiles, Edra Ugko, Laura Haywood, Ben Sparks, Sandra Milan, Edwin Perez, Frankie Caplan, Anthony Silvey, Rosamund T. Canfee, Booth T. Canfee, Raoul Todd Canfee, Bohanel Todd Canfee",
+      "20": "Sam Owens Don Juan (Hollywood name); Juan A",
+      "50": "Sam Owens, Don Juan (Hollywood name), Joan E. Owens.",
+      "100": "Credits: Sam Evans, Don John (Hollywood V), John A."
+    },
+    "[CR07_12:CRED01]": {
+      "3": "Adrian \"AD\" Rodriguez, Wayne Oliver, Club Soda Kenny, Jessica Miangularra, Bill Dorman, Barbara Shaw, Lance Williams, Mark Rodriguez, Kerry Shaw, Francesca Clemens, John Zorrellen, Lenny Grossi, Ayana Osada, Adam Tetzlof, Robert Carroll, Caleb Park, Levi.",
+      "5": "Adrian \"Eddie\" Rodriguez, Wayne Oliver, Club Soda Kenny, Jessica Mingura, Next Door, Barbara Shaw, Lance Williams, Mark Rodriguez, Kelly Shaw, Francesca Clemens, John Zorin, Lenny Grossi, Ayana Osada, Adam Tezlov, Matt Carroll, Libby Kubis Vincent, Libby Kubis, Libby Kubis. Nonoyama, 1999.",
+      "20": "Adrian \"Eddie\" Rodriguez; Wayne Oliver; Club Soda Kenny Jessica Miangularo; Bill Dorman Barbara Shaw; Lance Williams; Mark Rodriguez Gary Shaw Francesca Clemens; John Gerhelen, Lenny Grossi, Caleb Usada, Adamda Caleb",
+      "50": "Adrian \"Eddie\" Rodriguez, Wayne Oliver, Sod Club Kenny, Jessica Sproul, Bill Gianito, Barbara Shaw, Lance Williams, Mark Rodriguez, Carrie Shaw, Francesca Clemens, John Green, Lenny Gross, Ayana Ohta, Robert Sada",
+      "100": "Adrian \"Eddie\" Rodriguez, Wayne Oliver, Kenya Sod Crab, Jessica Maglara, Bill Dorman, Barbara Shaw, Lance Williams, Mark Rodriguez, Carrie Shaw, Francesca Clements, John Zolini, Lenny's Wedding, Yanzada, Lenny's Wedding."
+    },
+    "[CR07_13:CRED01]": {
+      "3": "Sonia Perez, Megan Henrietta, Joan Young, Anthony McBain, Sanford Santacroce, Elizabeth Satterwhite, Ethan Abels, Jay Capozzello, William Devizia, Jordan Chew, Mike Nathan, Maria Tabia, Nicholas Montgomery, Mankada Shima, Peter Adgomery, Physell Shima, Russell Christops, Pierrel Shima, Russell Christops, Mansfield,",
+      "5": "Sonia Perez, Megan Henretta, John Young, Anthony McBain, Sanford Santacroce, Elizabeth Satterwhite, Ethan Abels, Jay Capozello, William DeVizia, Jordan Chew, Mike Nathan, Maria Tabia, Nicholas Montgomery, Peenecada, Peenecada, Penecada Lewis Mandel",
+      "20": "Sonia Perez, Megan Henrietta, John Young, Anthony McBain, Sanford Santa Cruz, Elizabeth Satavit, Ethan Herbels, Jay Capucillo, William Diocia, Jordan Zhu, Mike Nathan, Maria Tabia, Nicholas Montgomery, Peter Montfield, Peter Montgomery.",
+      "50": "Sonia Perez, Megan Hannett, Juan Young, Anthony McBain, Sanford Santa Cruz, Elizabeth A. Setter, Ethan Ables, Jay Capozero, William Postman, Jordan Zhu, Mike Nathan, Mary Tabia, Nicholas Montgomery, Peter Za, Peter Za, Peter Edka, Capozero Dash, Home | It was very stressful.",
+      "100": "Sonia Perez, Megan Henrietta; John Young, Anthony McBain, Sanford Holy Cross; Elizabeth Citra Biala, gymnastics; Ethan Abel (Bishop) Jay Capello, Rev. William Davisia, Bishop Jordan Howe, Michael Nathan, Mary Theo, Nicholas Montgomery, Bishop. Peter Seymour, Peter Adler, Jane Moorgate, two privates."
+    },
+    "[CR07_14:CRED01]": {
+      "3": "Brian Sibinico, Jamil Vega",
+      "5": "Brian Skibinico and Jamil Vega",
+      "20": "Brian Sibeniko, Jamil Vega",
+      "50": "Brian Siebenkoff and Jamel Vega.",
+      "100": "Brian Savisa and Jameel Vega."
+    },
+    "[CR07_15:CRED01]": {
+      "3": "All radio stations, commercials, DJ talk and visuals created by Vice City Radio Craig Connor and produced by Lazlo Stations writer Dan Houser.",
+      "5": "Vice City Radio All Radio Stations, Commercials, DJ Interviews and Photos Written by Dan Houser and Lazlo, Produced by Lazlo, Station Created by Craig Conner",
+      "20": "All radio, gospel, DJ mixes and articles written by Dean House and Lazlo are produced by Craig Corner and Lazlo's Vice City Radio Station.",
+      "50": "Dan Hauser and Lazlo City Voice Show, Radio, Talk Show, DJ. Laszlo Center Directed by Craig Conner.",
+      "100": "A.S. Photo Public Radio Director DJ: Dan Hoser, Lazlo Producer: Craig Korner Lazlo Center."
+    },
+    "[CR07_16:CRED01]": {
+      "3": "Commercial Voices Radio Commercials: A.J. Allen, Adam Tetzlaff, Ayana Osada, Alex Anthony, Anthony Cumiya, Anthony Silve, Chris Ferrante, Club Soda Kenny, Crystal Bachmay, Kurt Flirt, Dana Hersey, Danny Danny Ross, David Deblinger, Doug Clemen, Francie Perezman, Edwin Perezlante, Jack Illante Jason Clemens, Jay",
+      "5": "Commercial Voice Radio Ad: A.J. Allen, Adam Tetzloff, Ayana Osada, Alex Anthony, Anthony Cumia, Anthony Silvey, Chris Ferrante, Club Soda Kenny, Crystal Bahame, Kurt Flirt, Dana Hersey, Danny Danny Ross, David Deblinger, Doug Feders, Frankie Perezswell, Frankie Perezwell, Edwin Perezwell Jacen Schwellen, Jacen Schwellen Clemens, James Bilodeau, James Ferrante, Jay Capozello,",
+      "20": "Vote for Radio Operators: A.J. Ellain was doing it",
+      "50": "Poslovni Poslovni Radio Pay: A.J. Allen, Adam Teklaf, Anna Osada, Alex Anthony, Anthony Kamiya, Anthony Sylvie, Chris Frant, Sod Kenny, Crystal Bahama, Kurt Flatt, Dana Hussein, Danny Rose, David Deblinger, Doug Feder, Edwin Perezka Hart, Hoss, Sue Stearns",
+      "100": "Author: A.J. Allen, Adam D. Meet Adam. David Debinger Doug Federer Edwin Perez Francesca Clemens Jacob Sheila Clemens Jacob Ferdinand J."
+    },
+    "[CR07_17:CRED01]": {
+      "3": "Jay Wright, Gene Sweeney, Jesse Hayes, John Thomas, Jonathan Hunst, Cal Elsebai, Kasim Ryan, Kelly M. Sebastian, Kerry Shaw, John Jurhellen, John Young, Anthony Litton, Ayana Osada, Koji Nonoyama, Kwazi Hewlett, Ladadri May, Ladavner, Inv.",
+      "5": "Jay Wright, Jane Sweeney, Jesse Hayes, John Thomas, Jonathan Henst, Kal Elsebai, Kassim Ryan, Kelly M. Sebastian, Kerry Shaw, John Zurhallen, John Young, Anthony Leighton, Ayana Osada, Koji Nonoyama, Kwazi Hewlett, Maragy James, Maragy Hawood, Maragy James Parvana, Megan Henretta,",
+      "20": "Students: Jay Wright, Jane Sweeney, Jesse Hayes, John Thomas, Jonathan Haynes, Kyle LJB, Kasim Ryan, Kelly M. McCarthy.",
+      "50": "19.09.2013 |",
+      "100": "Jay Wright, Jenny Little, Jessie Hayes; John Thomas Jonathan Hans Carl Elsby Ph.D. Kerry Shaw (Editor) John Allyn, John Young, Anthony Leighton, Antonio Osada, Cody Noyama, Ms. Hewlett, Lawton James, Ms. Ostner, Mark Rygram Ostner."
+    },
+    "[CR07_18:CRED01]": {
+      "3": "Michael Bauer, Natalie Underwood, Nathaniel Bryan, Nicole Patullo, Peter Silvestro, Philip Anthony Rodriguez, Randy Perlstein, Ron Goodman, Ron Reeve, Sanford Santacroce, Scott Pitek, Steve Carlesi, Vanessa Grulon",
+      "5": "Michael Bauer, Natalie Underwood, Nathaniel Bryan, Nicole Patullo, Peter Silvestro, Philip Anthony Rodriguez, Randy Pearlstein, Ron Goodman Ron Reeve, Sanford Santacroce, Scott Pitek, Steve Carlesi, Vanessa Grullen",
+      "20": "Michael Bauer, Natalie Underwood, Nathaniel Bryan, Nicole Petula, Peter Silvestro, Philip Anthony Rodriguez, Randy Pearlstein, Ron Goodman, Ron Reeve, Sanford Santacroce, Scott Patek, Steve Carlisle, Vanessa Grulan.",
+      "50": "Cast: Michael Power, Natalie Underwood, Nathaniel Bryan, Nicole Pitolo, Peter Silvestro, Philip Anthony Rodriguez, Randy Perlstein, Ron Goodman, Ron Reeve, Sanford Santa Cruz, Scott Patek, Steve Kalish, Vanessa Garlin",
+      "100": "Cast: Michael Ball / Natalie Underwood / Nathaniel Bryan / Nicole Powell / Pedro Silvestro / Philip Antonio Rodriguez / Randy Pearlston / Assistant Ron Goodman / Ron Reeves / Sanford Lord / Scott Bodak / Steve Cahill / Vanessa Crown"
+    },
+    "[CR08_01:CRED01]": {
+      "3": "Thank you",
+      "5": "thanks,",
+      "20": "Thank you",
+      "50": "Thank you very much",
+      "100": "Thanks for the reply"
+    },
+    "[CR08_02:CRED01]": {
+      "3": "Deborah Mannis-Gardner and Mark Schwartz, Martha Adler, Fran Amitin, Stanley Banks, Gregg Barron, David Berkuson, Rebecca Boulton, Mikel Burgeri, Dale Bozzio, Terry Bozzio, Aurelie Brambilla-Cotugno, Susan Burger, Elena Byngton, Corcullon Corcullon, Chris De Corcullon, David Byng-Corcullon, Elena Foster, Tom De Corcullon, David Byng, Joe De Corcullon Gardiner, Gregg Giffria, Jerry Gold, Sheldon Goldberg, Brett Green, Nick Guarino, Lauren Haber,",
+      "5": "Deborah Manis-Gardner, Mark Schwartz, Martha Adler, Fran Amitin, Stanley Banks, Greg Barron, David Berkson, Rebecca Bolton, Michelle Burgeri, Dale Bozio, Terry Bozio, Aurelie Brambilla-Cotunno, Susan Burger, Elena Byington, Jim Callanon, Delinar, Granero, David Burgeri. Joel Feinberg, David Fish, Tom Foster, Pete Gardiner, Greg Gifria, Jerry Gold, Sheldon Goldberg, Brett Green, Nick Guarino, Lauren Haber and many others.",
+      "20": "Deborah Manes-Gardner, Mark Schwartz, Martha Adler, Fran Amity, Stanley Banks, Greg Barron, David Berkuson, Rebecca Bolton, Michelle Borgheri, Dale Boggio, Terry Boggio, Ariel Brembilo Cutugo, Susan Berger, Elena Byington, Jim Cullen, Kevin Carson. Glenn Easley, Joel Feinberg, David Fish, Tom Foster, Pete Gardiner, Greg Giuffria, Jerry Gold, Sheldon Goldberg, Brett Green, Nick Guarino, Lauren Haber.",
+      "50": "Debra Mann Gardner, Mark Schwartz, Martha Adler, Fran Amitin, Stanley Shore, Greg Baron, David Berkuson, Rebecca Bolton, Michelle Berger, Dale Bosio, Terry Bosio, Orly Brambilla Caetano, Susan Berger, Elena David Benning",
+      "100": "Deborah Sweet Gardner, Mark Schwartz, Martha Adler, Frank Stark, Stanley Banks, Greg Barron, David Ferguson, Rebecca Bolton, Michael Berger, Dale Bergaga, Terry Bergaga, Holly Flinbella Cote and Julian S. Garina of Fort Lorain."
+    },
+    "[CR08_03:CRED01]": {
+      "3": "Elizabeth Herndon, Chad Jensen, Natasha Johnson, Chris Jones, Bob Knight, Stephen Kopitko, Rod Kotler, Ken Krasner, Diana La Pointe, Michael Lau, Nick Lawson, Cinde Levine, Joan Lieberman, Julie Lipsius, Maria Lozano, David Lucchesi, Johnsa Linco, David Lucchesi, Johnsa MonGraw, Johnsa MonGraw, John.",
+      "5": "There are several ways to do this.",
+      "20": "Elizabeth Herndon, Chad Jensen, Natasha Johnson, Chris Jones, Bob Knight, Steven Kepetka, Rod Kotler, Ken Krasner, Deanna La Pointe, Michael Lowe, Nick Lawson, Cindy Levine, Joan Lieberman, Julie Lipsius, Maria Lozano, David Lucci, Steve Lynch.",
+      "50": "Isabel Herndon, Chad Jensen, Natasha Johnson, Chris Jones, Bob Chevalier, Steven Kopko, Rod Kotler, Ken Krasner, Diana LaPonte, Michael Rowe, Nick Lawson, Cindy Levin, Joan Lieberman, Julie Lipsis, Maria Lozano, Lacey Riley,",
+      "100": "Elizabeth Harden, Chad Jensen, Natasha Johnson, Chris Jones, Bob Knight, Steve Capetka, Rod Cutler, Ken Krasner, Diana Lippint, Michael Rowe, Nick Lawson, Cindy Lyon, John Lieberman, Julia Lipsis, and Mary Lucina"
+    },
+    "[CR08_04:CRED01]": {
+      "3": "Rodney J. Moore, Steve Morgan, Suzanne Moss, Melissa Munana, Opie and Anthony, Mandy Oates, Kenny Ochoa, Dave Pettigrew, Toby Pieniek, Jason Quillan, Craig Roseberry, Greg Schweizer, Jennifer Showalter, Peter Shukat, Gemma Skidmort, Demma Skidmort. Smith, Anna Spano, Mark Spear, Nancy Stern, Joan Terrell,",
+      "5": "Rodney G. Moore, Steve Morgan, Suzanne Moss, Melissa Love, Opie & Anthony, Mandy Oates, Kenny Ochoa, Dave Pettigrew, Toby Piniak, Jason Quillen, Craig Roseberry, Greg Schweizer, Jennifer Showalter, Peter Shukat, Gemma Skidmort, Skidmore, Craig Roseberry, Smith from the time of Anna to Naana, S. Mark Spear. John Terrell was appointed in 1999.",
+      "20": "So was Rodney. Mrs. Joan Tyrrell.",
+      "50": "Rodney J. Moore, Steve Morgan, Susan Moss, Melissa Mom, Opie Van Anthony, Mindy Oates, Kenny Oshawa, Dave Pettigrew, Toby Funk, Jason Quillen, Craig Roseberry, Greg Schweitzer, Jennifer Showalter, Peter Shuget.",
+      "100": "Producers: Rodney Moore, Steve Morgan, Susan Moss, Melissa Monaghan Opie, Anthony Mundy Oates, Toby Brink, Kenny Ojo and Dave Pettigrew. Jason Quillin, Craig Rosebery; Greg Schwartz wrote Jennifer Showalter wrote:"
+    },
+    "[CR08_05:CRED01]": {
+      "3": "Actors: Jim Thomas, Jillian Tribble, Laura Webb, Nathan Whitehouse, Christine Wiseman, Jay Wright, Maureen Woods, Helen Yu",
+      "5": "James Thomas, Gillian Tribble, Laura Webb, Nathan Whitehouse, Christian Wiseman, Jay Wright, Maureen Woods, Helen Yu",
+      "20": "Jamie Thomas / Gillian Grace / Laura Webber / Nathan Whitehouse / Christian Wise Mann / Jay Wright / Maureen Woods / Helen Yu",
+      "50": "James Thomas Gillian Trimble; Laura Weber; Nathan Whitehouse; Christine Wise; Jay Wright Maureen Woods; Helen Yu.",
+      "100": "Jamie Thomas-Heron, Julianna Laura Webber-Long, Kristen Wiseright, Nathan Whitehouse and Maureen Woods"
+    },
+    "[CR09_01:CRED01]": {
+      "3": "special thanks,",
+      "5": "Special thanks,",
+      "20": "thank you very much",
+      "50": "Your confidence is very important.",
+      "100": "thank you for everything"
+    },
+    "[CR09_02:CRED01]": {
+      "3": "James and Joe Bow, Mikey Eddy, Rosado (Step of God); Lisa; price Tracy and Caleb Bucks; Vicki and Ethan; Toshiko; Sally Brown; Suzy P; Emma; Teri Negrete; Bernie, Freya, Gabrielle and Bliss, Dr. Mark Easthope; F7C; Genie Christine, Matthew, Amy and Judith Robertson; Blake McHale; Will Fox; Fredster, Narnes, Alan, The Rucks, Pig, Bigfoot, Rita Liberator, Elliott Torres",
+      "5": "James and Joe Bow, McKee Eddy, Rosado (Godson) Lisa; I am; Tracy and Caleb Box; Vicki and Ethan Toshiko Sally Brown; Susie P.; known as Emma; Terre Negrete; Bernie, Freya, Gabriel and Blaise; Mark Estop F7C; known as Jenny; Christine, Matthew, Amy and Judith Robertson Blake McHale; Will Fox is famous; Fredster, Narnis, Allen, Rox, Red, Bigfoot, Rita Liberator, Elliot Torres",
+      "20": "James & Joe Bove, Mookie Eddie & Pink (God Step) Sweet Traci & Caleb Bok; Sally Brown by Vicki and Ethan Toshik; Camillo P et al.; However; Black Day Bernie, Frey, Gabriel, Bryce, Marcus Pasteurhove; and F7C; Jenny Christine, Matthew, Amy and Judith Robertson Blake McHale; Fox Lake Priest, Nas, Allen, Luke Family, Red, Big Shoes, Rita Liberator, Elliott Towers",
+      "50": "James, Joe Bow, Fake Eddie Pink (South) Beau Tracy; details; Caleb Money Vicki and Ethan Bu Tokyo City. Sally Brown, Sally Brown Susie P. and MS Her name is Emma S. and she has MS. Terry Negrete; Secretary Barney; Freya, Gabriel and Brice Mark Estop and Dr. Mark Estop discuss Mark Estop Language 7c. Jean Christian, Matthew, Amy and Judith Robertson; friend Blake McHale; Will Fox and M.S. SS Forest, Sarah, Ellen, Locke, Ed. Bigfoot Rita Liberatore Elliott Torres.",
+      "100": "Joe Beau James Lisa and Caleb Gate Fun with Mickey Eddie Lazzato (Hudson) Book Review Vicki Ethan Toshiko Sally Brown Suzy Dee Sudopas Reen Barney, Frey, Gabriel, Joey, Mark Stipe; Jeanne Christian, Matthew, Amy, Judith Robertson and Blake McCall Fox Forrest, some others."
     }
   }
 }
