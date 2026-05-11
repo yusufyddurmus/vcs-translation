@@ -6,7 +6,7 @@ import time
 import json
 import random
 import re
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from supabase import create_client
 from deep_translator import GoogleTranslator
@@ -146,13 +146,14 @@ def complete_task(task_id, result, batch):
 
 # ─────────────────────────────────────────────
 
-def process_task_group(tasks):
+ddef process_task_group(tasks):
     keys = [t["key"] for t in tasks]
     texts = [t["original_text"] for t in tasks]
 
     results = {k: {} for k in keys}
 
-    for it in ITERATION_COUNTS:
+    # The actual job we will hand to the parallel workers
+    def _do_iteration(it):
         try:
             joined = SEPARATOR.join(texts)
             translated = translate_text(joined, it)
@@ -161,14 +162,19 @@ def process_task_group(tasks):
             if len(parts) < len(texts):
                 parts += [""] * (len(texts) - len(parts))
 
-            parts = parts[:len(texts)]
-
-            for k, t in zip(keys, parts):
-                results[k][str(it)] = t.strip()
-
+            return str(it), parts[:len(texts)]
         except Exception as e:
-            for k in keys:
-                results[k][str(it)] = f"[Error: {e}]"
+            return str(it), [f"[Error: {e}]"] * len(texts)
+
+    # Hand the different iterations (3, 5, 20, 50, 100) to the workers simultaneously
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        future_to_it = {executor.submit(_do_iteration, it): it for it in ITERATION_COUNTS}
+        
+        # As each thread finishes its specific hop count, save the results
+        for future in as_completed(future_to_it):
+            it_str, parts = future.result()
+            for k, t in zip(keys, parts):
+                results[k][it_str] = t.strip()
 
     return [(t["id"], results[t["key"]]) for t in tasks]
 
@@ -209,9 +215,7 @@ def worker_loop():
 
             pbar.write(f"\n📦 Claimed {len(tasks)} task(s), translating as one batch...")
 
-            with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-                future = executor.submit(process_task_group, tasks)
-                task_results = future.result()
+            task_results = process_task_group(tasks)
 
             task_dict = {t["id"]: t for t in tasks}
 
