@@ -3,10 +3,9 @@ name: Run Translation Worker
 # This allows you to trigger the script manually from the GitHub Actions tab
 on:
   workflow_dispatch:
-  
-# (Optional) Uncomment the lines below to make it run automatically every night at midnight UTC
-#   schedule:
-#     - cron: '0 0 * * *'
+
+  schedule:
+    - cron: "0 */6 * * *"
 
 jobs:
   translate:
